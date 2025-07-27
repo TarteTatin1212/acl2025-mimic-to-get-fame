@@ -1,0 +1,494 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+E-Learning,"Unter E-Learning oder Electronic Learning (englisch electronic learning „elektronisch unterstütztes Lernen“, wörtlich: „elektronisches Lernen“), auch als E-Lernen bezeichnet, werden – nach einer Definition von Michael Kerres – alle Formen von Lernen verstanden, bei denen elektronische oder digitale Medien für die Präsentation und Distribution von Lernmaterialien und/oder zur Unterstützung zwischenmenschlicher Kommunikation zum Einsatz kommen.
+E-Learning deckt insbesondere auch folgende Bereiche ab: Online-Lernen (Onlinelernen), Telelernen, multimediales Lernen, computergestütztes Lernen, Computer-based Training, Open and Distance-Learning und Computer-Supported-Collaborative-Learning (kurz CSCL).
+
+
+Geschichte
+Die wahrscheinlich erste Lernmaschine wurde 1588 vom italienischen Ingenieur Agostino Ramelli entwickelt, als er für den König von Frankreich ein Leserad erfand. Durch dieses Leserad wurde das Zurückgreifen auf verschiedene Literaturquellen ohne Hin- und Herlaufen ermöglicht.
+1866 meldete der New Yorker Webstuhlentwickler Halcyon Skinner ein erstes US-Patent auf eine Maschine an, mit der sich Rechtschreibung üben ließ. Bis 1936 wurden 700 weitere Patentanträge für vergleichbare „Übungsmaschinen“ bestätigt.
+1938 entwickelten B. F. Skinner und James G. Holland lineare Lernprogramme nach dem Gesetz der operanten Konditionierung (Skinner-Holland’sches Lernprogramm). Demnach wurde den Lernenden der Lehrstoff in kleinen Schritten (Frames) präsentiert, jeweils gefolgt von Fragen.
+1959 erfand Norman Crowder die verzweigten Lernprogramme, bei denen eine fehlerabhängige Darbietung des Lehrinhaltes ermöglicht wurde. Dadurch konnte der Lernprozess individualisiert werden.
+In Deutschland wurden seit 1964 Lehrmaschinen entwickelt, jedoch weder nach Vorstellungen von Skinner/Holland noch nach denen von Crowder. Die Lernprogramme, die in Deutschland entwickelt wurden, dienten der Gruppenschulung. Beispiele für solche Lehrautomaten sind der Geromat III, bei dem drei Lernende die richtige Antwort angeben mussten, um im Lernstoff vorwärtszukommen, und das Lernprogramm „Bakkalaureus“ (Helmar Frank, Pädagogische Hochschule Berlin). An diesem Programm konnten bis zu 64 Personen gleichzeitig lernen, es waren Verzweigungen möglich und drei verschiedene Schwierigkeitsstufen einstellbar.
+Im Jahre 1971 startete die NSF (National Science Foundation) in den USA zwei Großprojekte mit dem Ziel, die Effizienz von computergestützter Instruktion für den Unterricht zu beweisen. Zum einen handelte es sich dabei um das Projekt TICCIT (englisch Time-shared, Interactive, Computer-Controlled Information Television) und zum anderen um das Projekt PLATO (englisch: Programmed Logic for Automated Teaching Operations). Als Fazit dieser beiden Untersuchungen konnte die NSF den computerunterstützten Unterricht als wirksames Hilfsmittel bestätigen.
+Anfang der 1970er-Jahre gab es eine Reihe von Forschungs- und Entwicklungsprojekten zum computergestützten Unterricht. Neben dem Einsatz an Schulen entwickelte sich ein weiterer Schwerpunkt: die betriebliche Aus- und Weiterbildung. So wurden beispielsweise interaktive Videos zum Verhaltenstraining für Vertriebsmitarbeiter eingesetzt. 1978 entwickelte die Agentur M.I.T. zusammen mit ihrem Kunden Hertie eines der ersten Computer Based Trainings (CBT) und die dazu passende Hardware „Videomit 2000“. Seit Anfang der 1990er-Jahre wurden die Planspiele unter Forschungsaspekten bedeutsam.
+Alfons Rissberger hat im Kultusministerium Rheinland-Pfalz bereits 1986 den BLK-Modellversuch TOAM als ersten E-Learning-Schulversuch in Europa zur wissenschaftlich begleiteten Erprobung computerunterstützter Lernsysteme im Fach Mathematik an allen berufs- und allgemeinbildenden Schularten inklusive Grundschulen initiiert. Im Jahr 1995 wurde in der Frankfurter Allgemeinen Zeitung (FAZ) eine Ausarbeitung von Rissberger und Günter Serfas, dem Schulleiter des Gauß-Gymnasiums Worms, veröffentlicht, wo sich beide fiktiv mit der Zukunft des E-Learnings beschäftigten. Die dort aufgezeigten Vorstellungen sind heute schon in vielen Schulen zur Tatsache geworden.
+Seit Ende der 1990er-Jahre erfuhr das E-Learning durch die Verbreitung des Internets einen starken Aufschwung. Der Begriff „E-Learning“ hat sich seit Mitte der 1990er-Jahre etabliert. Das Bundesministerium für Bildung und Forschung hat seitdem einige Initiativen ins Leben gerufen. Dazu gehören zum Beispiel die Initiativen „Schulen ans Netz“ (zum Ende des Jahres 2012 eingestellt), „Neue Medien in der Bildung“ und „Notebook-University“.
+Einen Ausblick in die Zukunft des E-Learning bieten Forschungsprogramme, die Innovationsentwicklung und Innovationstransfer in den Mittelpunkt stellen.
+
+Das Bundesministerium für Bildung und Forschung fördert mit mehreren Millionen EUR den Einsatz von „Digitalen Medien in der Beruflichen Bildung“. Gegenstand solcher Forschungsvorhaben sind u. a. die Entwicklung, Erprobung und Evaluation neuartiger mobiler Lernangebote in der betrieblichen Aus- und Weiterbildung innerhalb von Forschungsverbünden, bestehend aus Universitäten, Unternehmen, Schulen und Verbänden. Somit werden aktuelle technische Entwicklungen mit aktuellen und zukünftigen gesellschaftlichen sowie bildungspolitisch erkannten Herausforderungen verknüpft.
+Die Europäische Kommission fördert mit ADAM (Leonardo da Vinci-Programm) E-Learning-Ansätze die auf Life Long Learning (lebenslanges Lernen) zielen, welches sich u. a. in der Entwicklung beruflicher Handlungskompetenz via E-Learning ausdrücken kann.
+
+
+Begriffsbestimmung
+Unter E-Learning versteht man die Unterstützung von Lehr-/Lernprozessen durch digitale Medien oder Werkzeuge. Neben dem Ausdruck E-Learning existieren verschiedenste andere Ausdrücke, wie des computerbasierten Lernens, Onlinelernens, multimedialen Lernens etc. Da die Begriffsbestimmung des E-Learning noch keine allgemein anerkannte Definition erbracht hat, versuchte man, E-Learning durch verschiedene Facetten zu beschreiben: Interaktivität, Multicodalität, Multimedialität und Multimodalität.
+Interaktivität: Als interaktiv wird etwas bezeichnet, wenn es dem Benutzer gestattet wird, verschiedene Steuerungs- und Eingriffsmöglichkeiten auszuüben.
+Grissom u. a. (2003) haben eine sechsstufige Interaktionshierarchie vorgeschlagen. Diese geht von „keine Interaktion“ bis zu „Präsentation einschließlich Feedback und Diskussion“ als höchste Form der Interaktion.
+Multicodalität: Unter dem Begriff der Multicodalität ist gemeint, dass die Informationen in den verschiedenen Medien verschieden codiert werden können, welche auch von der Art des Mediums abhängig ist. So lassen sich in Büchern natürlich keine animierten Bilder zeigen. Andere Arten von Codierungen wären Bilder, Texte und im Falle des Computers Hypertexte (Querverweise, vernetzter Text), Animationen und Simulationen.
+Der Unterschied zwischen Animationen und Simulationen liegt darin, dass bei einer Simulation der Benutzer eine erhöhte Kontrolle über das Geschehen hat. Bei einer Animation handelt es sich im Grunde genommen um animierte Bilder, während es bei einer Simulation möglich ist, beispielsweise verschiedenen virtuelle „Experimente“ in der digitalen Umwelt durchzuführen.
+Multimedialität: Multimedialität stellt die verschiedenen Möglichkeiten an Medien dar, durch die Wissen akquiriert werden kann; das Zusammenspiel folgt idealerweise den Multimedia-Prinzipien. Verschiedene Medien können beispielsweise Bücher, Videoplayer, Audioplayer, Computer, Hörbücher, E-Books (elektronische Bücher), E-Lectures (online gehaltene Vorlesungen) sein.
+Multimodalität: Unter Multimodalität versteht man die verschiedenen Möglichkeiten, Informationen über die Sinnesmodalitäten aufzunehmen. In der Regel sind dies auditive oder visuelle Sinneseindrücke. Andere Modalitäten wie der Geruchs-, Geschmacks- und der Tastsinn spielen im E-Learning bisher keine Rolle.
+
+
+E-Learning und damit verbundene Technik
+E-Learning kann auf sehr unterschiedlichen Technologien basieren und in unterschiedlichen didaktischen Szenarien realisiert werden. Häufig diskutiert werden folgende Varianten:
+
+
+Web- und Computerbasierte Lernformen
+
+Der Ausdruck CBT (Computer Based Training) bezeichnet die Arbeit mit Lernprogrammen (Lernsoftware), die vom Lernenden zeitlich und räumlich flexibel genutzt werden können und bei dem die Lernenden nicht in direktem Kontakt mit dem Lehrenden und anderen Lernenden stehen. Diese Programme können multimediale Lerninhalte (wie z. B.: Animationen oder Videodokumente) beinhalten und werden meist auf CD-ROM oder DVD vertrieben. Beim CBT handelt es sich um eine in erster Linie nichttutorielle Form des E-Learning, bei dem das Selbststudium im Vordergrund steht und die Kommunikation, wenn überhaupt, auf asynchrone Weise erfolgt. CBT existiert bereits seit den 1980er-Jahren.
+Für ältere computerunterstützte Lernsysteme existiert auch eine Vielzahl anderer Bezeichnungen, beispielsweise CAT (computer-aided teaching), CAI (computer-aided instruction, computer-assisted instruction), CBI (computer-based instruction), CAL(computer-aided learning, computer-assisted learning), CUL (computerunterstütztes Lernen), CUU (computerunterstützter Unterricht, computerunterstützte Unterweisung), CBL (computer-based learning, computerbasiertes Lernen), CBE (computer-based education), CGU (computergestützter Unterricht), RGU (rechnergestützter Unterricht), CUA (computerunterstützte Ausbildung) oder CUIV (computerunterstütztes interaktives Video). Andere im Deutschen häufige Bezeichnungen sind die Begriffe Courseware oder Teachware.
+
+Den grundlegenden Baustein netzbasierter Lernangebote bildet das sogenannte WBT (Web Based Training oder Webbasiertes Lernen) – eine Weiterentwicklung des CBT. Hierbei werden Lerneinheiten nicht auf einem Datenträger verbreitet, sondern von einem Webserver online mittels des Internets oder eines Intranets abgerufen. Die Einbettung ins Netz bietet vielfältige weiterführende Möglichkeiten der Kommunikation und Interaktion des Lernenden mit dem Dozenten/Tutor bzw. seinen Mitlernern. So können Mails, News, Chats und Diskussionsforen mit dem WBT verknüpft und Audio- und Videosignale live gestreamt werden. Eine Weiterentwicklung des WBT hin zu einer kommunikativeren Nutzung ist die Lernplattform. Diese unterstützt unterschiedliche Kommunikationsarten, wie z. B. Chat und Foren, um somit die Nutzer der Lernplattform beim direkten Austausch und Anwenden des Gelernten zu fördern.
+
+
+Autorensysteme
+Autorensysteme sind Entwicklungswerkzeuge für die Erstellung von digitalen Lernangeboten. Ihr Zweck besteht darin, Inhalte für ein Lernangebot zu erstellen und aufzubereiten. Sie bieten beispielsweise Dozenten die Möglichkeit, Inhaltsunterlagen für das Netz oder einen Datenträger, zum Beispiel CD-ROM zu entwickeln.
+Es gibt leicht bedienbare Autorensysteme, so dass Autoren kein größeres Wissen über Programmierung, HTML, XML und Internet besitzen müssen. Diese einfachen Systeme empfehlen sich, wenn man Lernmaterialien für einen bestimmten Zweck produzieren will, d. h. nicht die Absicht hat, die Inhalte später für andere Kurse wiederzuverwenden. Wenn man einmal produzierte Lerninhalte für verschiedene Kurse wiederverwenden möchte, empfehlen sich Autorensysteme, die Kurse und Medien z. B. in Form von Bibliotheken abspeichern, auf die ein oder mehrere Kursautoren zugreifen und aus denen sie Elemente in anderen E-Learning-Produkten verwenden können. Moderne Autorensysteme dieser Art arbeiten oft mit XML-Technologien (zum Beispiel zum Export aller im Kurs verwendeten Texte, um diese übersetzen zu lassen) und können an ein Dokumenten-Management-System angeschlossen werden.
+Grob lassen sich Autorensysteme unterteilen in:
+
+Editoren für Medien (HTML-Seiten, Grafiken, Animationen, Simulationen, Audio- und Videosequenzen, Übungen),
+Editoren für Lernmaterial-Seiten und
+Editoren für Kursnavigation („Drehbuch“ oder Zusammenstellung des Inhaltsverzeichnisses).
+Einige Autorensysteme integrieren alle diese Funktionen. Dies bedeutet, diese Autorensysteme ermöglichen es dem Ersteller von Online-Kursen, verschiedene Medien in eine Lerneinheit zu integrieren, um professionellen, dynamischen und interaktiven Lerninhalt zu erstellen.
+Die Kursnavigation und -steuerung wird in manchen Autorensystemen durch mehr oder weniger offenliegende Programmier- bzw. Scriptsprache angeboten (um das „Drehbuch“ definieren zu können).
+Ein großer Teil der verfügbaren Autorensysteme war bis Anfang der 2010er-Jahre darauf ausgelegt, Kurse für Festrechner und Laptops herzustellen. Mittlerweile unterstützen alle etablierten Autorensysteme auch die Entwicklung für Smartphones und Tablets, teilweise allerdings mit reduziertem Funktionsumfang. Es werden verschiedene Medien- und Dateitypen wie Text, Grafik, Video und Audio unterstützt. Manche Autorensysteme sind auf sogenannte Lernmanagementsysteme abgestimmt und ermöglichen es, ausschließlich für diese Systeme Inhalte zu erstellen. Daneben existieren Autorensysteme, die spezielle Standards, wie SCORM, AICC oder IMS Content Packaging unterstützen. Diese Standards können, neben anderen Möglichkeiten, mit Lernmanagementsystemen über eine genormte Schnittstelle kommunizieren und so zum Beispiel den Namen eines Lerners und dessen Lernfortschritt übermitteln und abspeichern.
+Je einfacher ein Autorensystem zu bedienen ist, desto eingeschränkter ist man im Regelfall bei der Gestaltung der Inhalte. Systeme, die einem Ersteller große kreative Freiheiten lassen, sind oft sehr komplex und erfordern eine längere Einarbeitungszeit.
+
+
+Simulationen
+Simulationen sind Lösungen von Modellen, welche bedeutsame Eigenschaften der Realwelt abzubilden versuchen, um Lernenden durch freies oder gezieltes Experimentieren oder Beobachten Wissen über strukturelle oder funktionale Eigenschaften des Originals zu vermitteln. Komplizierte Sachverhalte und Prozesse der Wirklichkeit können so vereinfacht und auf das Wesentliche reduziert dargestellt werden, besonders dann, wenn Realexperimente zu teuer oder zu gefährlich sind.
+
+
+Videokonferenzen, Teleteaching
+Die Videokonferenz schafft virtuelle Hörsäle, indem sie räumlich verteilte Lernende und Vortragende miteinander kommunizieren lässt. Diese als Teleteaching bezeichnete Variante des E-Learnings ist in erster Linie durch die Übertragung von Bild und Ton gekennzeichnet. Sie ermöglicht eine der Präsenzlehre ähnliche Kommunikation zwischen Lehrenden und Lernenden, die auf verbale Äußerungen ebenso zurückgreifen kann wie auf Gestik und Mimik. Mit zunehmender Bandbreite der Internet-Verbindungen entwickeln sich aus dieser Technologie neue skalierbare Unterrichtsformen wie z. B. MOOC.
+
+
+Learning-Management-Systeme
+
+Als Lernplattform (englisch Learning Management System LMS) werden Systeme bezeichnet, die für das Online- und/oder Präsenz-Kursangebot den kompletten (oder Teile des) Arbeitsablauf des Veranstaltungsmanagements von Buchungsprozessen, Lehr- und Lernprozessen bis zur Ressourcenadministration unterstützen können.
+Die Aufgaben eines LMS können im Einzelnen umfassen:
+
+Planung
+Hierzu gehören das Planen und Zusammenstellen von (Online-)Kursen/Seminaren, die Erstellung personalisierter Lehrpläne aufgrund von Einstufungstests bzw. bereits absolvierter Lehreinheiten und das Erstellen von Lernprofilen für Arbeitsgruppen oder die ganze Belegschaft.
+Anmeldung
+Die Online-Anmeldung zu allen angebotenen Kursen, oft mit integrierter Schnittstelle zu einem E-Commerce-System, um bspw. Unterlagen zu bestellen.
+Bereitstellung von Kursunterlagen
+Die gespeicherten Inhalte werden in verschiedenen Bereitstellungsformen vorgehalten (bspw. für WBT und Präsenztraining).
+Zertifizierung
+Das Erfassen von Schulungsvorgängen, Kursabschlüssen und „Skill-Profilen“ (e-Skills).
+Erfolgsmessung
+Das Messen der Nutzung sowie die Verwaltung der Ergebnisse.
+In manchen LMS ist eine Lehrer- und Raumverwaltung enthalten, die auch nachträglich Termine und Personen tauschen kann und ggf. Terminkonflikte meldet. Diese Funktionalitäten können recht umfangreich werden, z. B. bei integrierter Arbeitszeit-/Urlaubsverwaltung der Lehrer, Speicherung von Raumdaten (Anzahl von Plätzen, vorhandenen Ressourcen wie Beamern oder Tageslichtprojektoren) etc. Aus den vorhandenen Daten können später umfangreiche Berichte erstellt werden wie beispielsweise Raumbelegungsdaten, Stundenpläne oder Lernfortschritte einzelner Personen.
+
+
+Learning-Content-Management-Systeme
+Die Aufgabe eines LCMS (Learning Content Management System) ist das Erstellen, Wiederverwenden, Auffinden, Nachbearbeiten und Ausliefern von Lerninhalten (Content). Der Content wird oft in einem zentralen Repository in Form von „reusable“ Lernobjekten (RLOs) vorgehalten. Objekte können aus mehreren verschiedenen Kursen referenziert werden, so dass im Falle einer Anpassung nur eine einmalige Änderung notwendig ist, um sämtliche Inkarnationen auf den aktuellen Stand zu bringen. Das LCMS verfügt (im Gegensatz zu Autorentools) über eine Userverwaltung, die es ermöglicht, verschiedenen Personen und Personengruppen bestimmte Rechte zuzuweisen, so dass z. B. für fachspezifische Experten, Mediengestalter, Projektadministratoren jeweils unterschiedliche Zugriffsfunktionen definiert/realisiert werden können.
+Eine Multi-User-Funktionalität erlaubt es, konkurrierende Zugriffe zu verwalten, so dass es nicht dazu kommen kann, dass zwei Benutzer gleichzeitig (widersprüchliche) Änderungen am selben Objekt vornehmen können. Weiterhin verfügen LCMS in der Regel über eine Versionskontrolle, die es ermöglicht, vorgenommene Änderungen nachzuvollziehen.
+Eine der wichtigsten Aufgaben eines LCMS ist die Unterstützung von wiederverwertbaren Lernobjekten (RLOs). Ziel ist es, ungewollte Redundanzen und widersprüchliche Informationen weitgehend zu verhindern.
+
+
+Content-Kataloge
+Content-Kataloge unterstützen den Austausch von Lernobjekten – von kompletten Kursen bis hin zu Rohmaterialien. Bereitsteller können Angebotsbedingungen spezifizieren. Zugriffe werden dokumentiert und gegebenenfalls abgerechnet. Diese Kataloge können sehr spezifisch auf eine bestimmte Zielgruppe (Schule, Universität, Branche, Unternehmen) ausgerichtet sein. Siehe auch Content-Sharing als Form des E-Learnings.
+
+
+Digitale Lernspiele
+
+
+Audience Response System
+Als Audience Response Systems werden technisch-elektronische Geräte bezeichnet, die im Rahmen von Lehrveranstaltungen oder bei Vorträgen mit zahlreichen Teilnehmern die Interaktivität zwischen Dozent (bzw. Referent) und den Zuhörern erhöhen sollen. Der Einsatz solcher Systeme wird zumeist durch konkrete didaktische Konzepte geleitet und ist somit als Teilbereich des E-Learning zu verstehen.
+
+
+Formen des E-Learning
+
+
+Virtuelle Lehre
+Virtuelle Lehre bezeichnet Lehre, die vorrangig über das Internet durchgeführt wird und keine signifikanten Anteile von Präsenzlehre umfasst. Zum Spektrum der Darbietungsformen virtueller Lehre zählen Webinare, web-unterstützte Lehrbuchkurse, Hypertext-Kurse (z. B. mit Lehrtexten, Multimediaelementen, Animationen und Übungen), videobasierte Kurse (z. B. Vortrag samt Foliensatz) oder audiobasierte Kurse bzw. Podcasts. Da bei virtueller Lehre im Unterschied zu Präsenzlehre und „Blended Learning“ wenig Gelegenheit zu direkter Interaktion besteht, nutzen Lehrende und Studierende zur Kommunikation häufig elektronische Medien wie Chatrooms, Diskussionsforen, Voice Mail oder E-Mail oder spezielle Plattformen. Virtuelle Lehre spielt eine wachsende Rolle im Kontext der Einführung weiterbildender Online-Master-Studiengänge an zahlreichen Hochschulen.
+
+
+Blended Learning
+
+Wenn Lerninhalte von Präsenzveranstaltungen mit Lerninhalten von virtueller Lehre kombiniert werden und mit den damit einhergehenden unterschiedlichen Lernarrangements ein übergeordnetes Lernziel verfolgt wird, so spricht man von „Integriertem Lernen“ (engl. „Blended Learning“). Blended Learning verbindet dabei die unterschiedlichen Lernformen in einem gemeinsamen Lehrplan (Curriculum). Für Unterrichtende an Schulen besteht eine Herausforderung bei der Anwendung des Blended Learning häufig darin, dass der Präsenzunterricht größtenteils „lehrerzentriert“ und „geschlossen“ („geschlossen“ im Sinne von auf den Unterrichtsraum beschränkt), das E-Learning hingegen größtenteils „schülerzentriert“ und „offen“ angelegt ist. Außer an Schulen wird Blended Learning noch in vielen anderen Bereichen des gesellschaftlichen Lebens angewendet. Blended Learning wird insbesondere dann eingesetzt, wenn das Lernen über die Intranet- oder Internet-vernetzte Lernumgebung den Präsenzunterricht sinnvoll ergänzen kann.
+
+
+Content Sharing
+Es gibt mittlerweile Webseiten, die es erlauben, Lerneinheiten auszutauschen. Solche Initiativen existieren als kommerzielle oder freie Angebote. Ein Beispiel für eine kommerzielle Initiative ist StuDocu. Hier werden monetäre Anreize zur Aufbereitung von Lehrinhalten gesetzt. Dadurch soll die Qualität der publizierten Mitschriften, Lernkarten oder Zusammenfassungen steigen. Als typisches Beispiel für ein nicht-kommerzielles Forum kann z. B. das Fachschaftsforum für Wirtschaftsingenieurwesen an der Uni Duisburg-Essen dienen (WiING-DUE). Schon bei solchen lokalen Initiativen zeigt sich oft ein hoher Bedarf, wie die dokumentierten Zugriffszahlen von WiING-DUE beispielhaft zeigen.
+
+
+Learning Communitys
+
+Personengruppen, die gleiche Ziele und/oder fachliche Interessen haben, können sich über ein Informations- und Kommunikationssystem eine gemeinsame Wissensbasis aufbauen. Jedes Mitglied dieser Learning Community kann sein eigenes Wissen einbringen und somit wird die Wissensbasis über gemeinsame Lernprozesse erweitert und angepasst. Viele Learning Communitys entstehen durch videobasierte Kurse. In vielen dieser Kurse können sich Mitglieder miteinander vernetzen und sich in einem geschützten Mitgliederbereich austauschen. Gute Learning Communities zeichnen sich durch die Berücksichtigung folgender vier Erfolgsfaktoren aus (Olek/Vomberg 2020):
+
+Bereitstellung technischer Ressourcen, z. B. kollaborative Cloud-Lösungen für die gemeinsame Nutzung und Bearbeitung von Dateien, oder Kommunikationstools wie z. B. (Video-)Chats
+Bereitstellung von Aufgaben (mit Anleitungen), die Lehrende über die Community an Lernende verteilen. Wichtig ist, dass das Lernmaterial spannend und abwechslungsreich ist, aber nicht zu schwer
+Bereitstellung von Feedback-Möglichkeiten, die nicht nur für die Rückmeldung (und ggf. Benotung) von Lehrenden genutzt werden können, sondern auch untereinander
+Gestaltung einer positiven, attraktiven Atmosphäre, mit einem respektvollen Umgang und konstruktivem Feedback
+
+
+Computer-Supported Cooperative Learning
+
+Computer-Supported Cooperative Learning (CSCL) beschreibt Lernansätze, bei denen das kooperative Lernen durch den Einsatz von computergestützten Informations- und Kommunikationssystemen unterstützt wird.
+
+
+Web Based Collaboration
+
+Der Begriff Web Based Collaboration beschreibt die Zusammenarbeit einer Gruppe von Personen über das Internet. Unter diversen Möglichkeiten der Zusammenarbeit kann dies unter anderem auch das gemeinsame Arbeiten an einer Lernaufgabe beinhalten.
+
+
+Virtual Classroom (virtuelles Klassenzimmer)
+
+Beim Virtual Classroom dient das Internet als Kommunikationsmedium, um geographisch getrennte Schüler und Lehrer miteinander zu verbinden. Das virtuelle Klassenzimmer ermöglicht somit eine synchrone Form des Lernens.
+Als eine extreme Form wird das Tele-Teaching betrachtet.
+
+
+Interaktives Whiteboard
+
+Ein interaktives Whiteboard ist vergleichbar mit einer Tafel oder einem Flipchart. Die Nutzer haben die Möglichkeit, über ein Netzwerk gemeinsam Skizzen zu erstellen und zu betrachten. Dazu stehen sowohl Zeichen-, Mal- als auch Textwerkzeuge zur Verfügung.
+
+
+Business TV
+
+Business TV ist ein exakt auf die Zielgruppe zugeschnittenes Fernsehprogramm. Business TV stellt eine sehr wirkungsvolle Methode dar, um eine Gruppe (Mitarbeiter, Lieferanten und Kunden) zum Lernen anzuregen.
+
+
+Rapid E-Learning
+
+Rapid eLearning ist, verkürzt gesagt, ein Ansatz, der sich ganz auf die Lernziele konzentriert – schließlich folgt dieser streng den Prinzipien des Unterrichtsdesigns – und rigoros alle nebensächlichen und irrelevanten Dinge beseitigt, die im gewöhnlichen Setting (d. h. unter Normalbedingungen) E-Learning befrachten. Besagter Ansatz wird besonders gern in der Geschäftswelt und im Unternehmensbereich eingesetzt – und auch überall dort, wo Dinge vermittelt werden sollen und zugleich Zeit als besonders kostbare Ressource angesehen wird.
+
+
+Mikrolernen
+
+Beim Mikrolernen, auch Microlearning genannt, geht es um das Lernen in kleinschrittigen Lerneinheiten, häufig über Web oder Mobiltelefon. Der Überlastung durch zu viele Informationen soll durch benutzerfreundliches, flexibel einteilbares Training entgegengewirkt werden.
+
+
+Spezielle Hilfstechnologien
+
+
+Prozessvisualisierung modularer Inhalte im Rahmen von E-Learning
+
+Hierbei handelt es sich um eine audiovisuelle Darstellung von Lehreinheiten mit dem Ziel, einen Erkenntnisprozess – welcher zu neuem Wissen führen kann – Schritt für Schritt in Film, Bild, Text und Ton aufzubereiten.
+
+
+3-D-Infrastruktur-Plattformen
+Zunehmend gewinnen 3D-Infrastrukturplattformen wie Second Life oder Twinity an Bedeutung für E-Learning-Anwendungen. Durch den Erlebnis-Charakter dieser virtuellen Welten wird ein sehr hoher Immersionsgrad erreicht. Hiervon verspricht man sich eine entsprechend höhere Lerneffizienz, da Spielen & Lernen zusammenwachsen. Durch simulierte Erlebniswelten kann man nun in Situationen eintauchen und diese erleben. Eine hohe Immersion (virtuelle Realität) wird u. a. dadurch erreicht, wenn eine hohe Identifikation des Nutzers mit seinem Avatar eintritt und der Nutzer sich als Teil der Welt fühlt. Somit wird sich auch der Begriff Action Learning durch den Begriff E-Action-Learning erweitern. Ein weiterer erheblicher Vorteil durch die Vernetzung von Team in virtuellen Welten ist dort zu sehen, wo Teams perfekt zusammenspielen müssen, bspw. bei Einsätzen der Polizei, Feuerwehr, Rettungsdienste usw. Die Beteiligten können sich nun von überall auf der Welt einloggen und Szenarien regelmäßig in einer virtuellen Welt durchspielen. Insbesondere Orientierungstrainings können hier in häufigeren und regelmäßigen Abständen durchgeführt werden, was die Effektivität und Effizienz solcher Einsätze erhöhen kann. Das Fremdsprachenlernen ist laut einem Mitarbeiter von Linden Lab die am weitesten verbreitete Form von Bildung in Second Life.
+
+
+Vor- und Nachteile von E-Learning
+
+Noch vor wenigen Jahren galt E-Learning als die Bildungsform des 21. Jahrhunderts. Mittlerweile vermutet man, dass E-Learning die traditionellen Bildungsformen nicht ersetzen kann. Es ist lediglich als eine sinnvolle Unterstützung im Lernprozess zu sehen. Durch Kombination verschiedener medialer Vermittlungsformen (hybride Lernarrangements) kann Lernen optimiert werden. Insbesondere Menschen, die lieber den PC und das Internet nutzen als Bücher lesen, können durch E-Learning viele Lerninhalte besser aufnehmen oder bereits bekannte Inhalte ergänzend und interaktiv erarbeiten. Zu weiteren Vorteilen des E-Learning gehören zweifellos die ökonomischen Aspekte. Die Lernenden sind räumlich und zeitlich unabhängig. Die Vermittlung von Lernstoffen kann also unabhängig von der persönlichen Anwesenheit geschehen. Dank PC und Internet ist die Verteilung größerer Informationsaspekte machbar. Gerade diese ökonomischen Vorteile sind nicht zu unterschätzen. Denn „lebenslanges lernen“ (life-long learning) bedeutet meistens berufsbegleitendes Lernen, und da ist die Flexibilität hinsichtlich Ort und Zeit besonders wichtig.
+Medien sind nur zu einem geringen Teil für den Lernerfolg ausschlaggebend, deshalb kann nicht per se von effizienterem Lernen durch E-Learning gesprochen werden. Erst wenn eine Vielzahl von Faktoren zusammenkommt, kann E-Learning erfolgreich sein (zu beachten sind etwa Erkenntnisse aus der Mediendidaktik bzw. Medienpädagogik).
+Auf der Grundlage von Erkenntnissen der Mediendidaktik zeigen sich Vorteile u. a. darin, dass:
+
+Kurse im Gegensatz zu traditionellen Lehrmitteln interaktiv sind,
+abstrakte Inhalte mithilfe von Simulationen anschaulich gemacht werden können,
+die traditionellen linearen Denk- und Lernkonzepte aufgebrochen und flexiblere, netzwerkartige Konzepte verwirklicht werden können,
+Lernkontrollen individualisiert werden können und Repetitionsaufgaben variieren können,
+Kurse an bestimmte Bedürfnisse adaptiert werden können,
+Lernen mit betrieblichem Knowledge Management (Wissensmanagement) verbunden werden kann,
+asynchron zusammengearbeitet werden kann,
+zeit- und ortsunabhängig gelernt werden kann,
+just in time gelernt werden kann,
+arbeitsprozessintegriert gelernt werden kann,
+Dokumentation und Wiederholungen einfacher gehen,
+Lernobjekte wieder verwendbar sind,
+Audio und Videodokumente leicht einzubinden sind,
+ein individuelles Lernen je nach Vorkenntnis (Lerntempo, Reihenfolge der Lerninhalte) möglich ist,
+unterschiedliches Vorwissen besser ausgeglichen wird,
+Aufnahmekanäle (Lesen, Audio, Video, Animation etc.) für jeden Lerntyp vorhanden sind und dass
+keine „Bloßstellung“ vor anderen Teilnehmern bei Wissenslücken erfolgt.
+Nachteile werden unter anderem darin gesehen, dass:
+
+Lerner erst lernen müssen, mit den verschiedenen Publikationsformen (Medien) umzugehen,
+zu wenig Pädagogen im E-Learning-Bereich arbeiten (in weiten Bereichen, aber nicht in allen),
+die Technik und die Techniker den Markt bestimmen (didaktisch-technische Forschungs- und Entwicklungsaktivitäten widerlegen dieses partiell,)
+die Präsentation der Lerninhalte oft von technischen und nicht von didaktischen Faktoren bestimmt ist,
+die Didaktik beim Erstellen einer E-Learning-Lösung oft nicht berücksichtigt wird,
+Bildschirmlernen für fast alle Menschen ermüdender als Lernen vom Papier ist,
+Selbstdisziplin und Selbstlernkompetenz nötig sind,
+reduzierte soziale Kontakte zu Lehrer/Trainer und Teilnehmern den Erfahrungsaustausch schwieriger machen und dadurch Fragen oft ungeklärt bleiben,
+Erklärungen durch Lehrer/Trainer reduziert sind und das Wissen selbst erarbeitet werden muss,
+das zusätzliche Lernen in der Freizeit oder am Arbeitsplatz als lästig empfunden wird,
+die vielschichtigen Anforderungen einer inklusiven Pädagogik nicht berücksichtigt werden, obwohl diese seit der Ratifizierung der UN-Behindertenrechtskonvention im Jahre 2009 einen für Deutschland verbindlichen Standard darstellen.
+Aktuelle Ansätze kombinieren daher E-Learning mit der Präsenzlehre, also der personalen Vermittlung. Diese Ansätze firmieren unter dem Begriff „Hybride Lernarrangements“ oder Blended Learning. Ziel dieser Ansätze ist es, die Vorteile des Präsenzunterrichts mit denen des mediengestützten Lernens zu verbinden und Nachteile beider Methoden zu vermeiden.
+Während viele E-Learning-Konzepte sich nach wie vor an lineare Wissensvermittlung halten, wie sie von Büchern und anderen traditionellen Lehrmitteln bekannt sind, erlauben moderne E-Learning-Systeme flexible und adaptive Strukturen, die mit einem gewissen Human Touch auf die Lernenden eingehen. Solchen Systemen liegen netzwerkartige Dialogstrukturen zugrunde. Der Vorteil solcher E-Learning-Modelle besteht darin, dass eine viel höhere Interaktivität über dem gesamten Lernprozess liegt. Oft reduziert sich dabei der Bedarf an Blended Learning (es sei denn, praktische Fähigkeiten – wie z. B. Gerätebedienungen oder soziale Kompetenzen – sind Gegenstand der Lernaktivität). Der Nachteil besteht im erhöhten Aufwand in der Notwendigkeit, variabel auf Ergebnisse von Lernkontrollen zu reagieren, und in der Notwendigkeit, zahlreiche Lern-, Vertiefungs- und Exkurspfade zu implementieren, die möglicherweise in der Praxis nur von wenigen Lernenden je beschritten werden.
+
+
+Motivation für den Einsatz von E-Learning
+Die rasante technologische Entwicklung der Computerindustrie und die damit verbundenen neuen Methoden für die Gestaltung von Inhalten (insb. Hypertext und Multimedia) förderte die Entwicklung sogenannter E-Learning-Programme in einem großen Ausmaß. In der Fachdiskussion ist man sich noch nicht einig, ob E-Learning im Sinne von E-Mail, E-Business usw. für Lernen im Internet oder als moderneres Synonym für CUL (Computer-unterstütztes Lernen) verwendet werden soll. Heute tendiert man sogar eher dazu, E-Learning als reine Ergänzung zur Präsenzlehre als Teil des sogenannten Blended Learning anzusehen. Zudem wird von verschiedenen Akteuren versucht, den eigentlichen Lerninhalten mehr Gewicht zu geben, da bisher vor allem die technologischen Aspekte im Vordergrund standen.
+Alfons Rissberger fragte schon 1997 in einem Artikel der FAZ: „Verschlafen wir die multimediale Zukunft?“
+
+
+Einführung des E-Learning in Organisationen
+Die erfolgreiche Einführung von E-Learning erfordert für die jeweilige Institution eine Reihe begleitender Maßnahmen:
+
+Erhebung der Lernvoraussetzungen und -bedürfnisse,
+Anpassung der Curricula,
+Veränderung der Arbeitsabläufe, so dass Zeit und Anreize für das Lernen am Arbeitsplatz gegeben sind,
+Anpassung von Arbeitsplatzbeschreibungen und Vergütungssystemen,
+Multidisziplinäre Teams (Didaktiker, Techniker, Inhaltsexperten) sind entweder innerhalb der Organisation einzurichten rsp. entsprechende Kooperationen sind aufzubauen und
+Inhalte sollen in austauschbaren Formaten gespeichert und allen Beteiligten zur Benutzung zur Verfügung gestellt werden.
+Robin Mason hat mit Models of Online Courses ein Vorgehen vorgeschlagen, wie E-Learning etappenweise eingeführt werden kann:
+
+Content- + Support-Models: (Informationsmodell, statische Website) Online-Aktivitäten nehmen maximal 20 % der Unterrichtszeit ein. Das Internet steht für Support-Aktivitäten (Recherche, Verwendung von E-Mail, Download von Materialien) zur Verfügung;
+Wrap-around-Model: (Asynchrones Diskussionsforum) Verhältnis Web- zu Nicht-Webaktivitäten bis zu 50 %. Unterricht teils mit traditionellen Materialien (z. B.: Bücher) und interaktive Lernumgebung mit weiteren Ressourcen. Im Internet sind bspw. Arbeitspläne, Übungen und Aufgaben sowie gemeinsame Web-Aktivitäten (Diskussionsforen, Gruppenarbeiten) abzurufen. Zentrum der Aktivitäten bleibt jedoch der Face-to-Face-Unterricht;
+Integrated Model: (100%iges E-Learning) Der Kern aller Aktivitäten findet im Internet statt, insbesondere kollaborative Aktivitäten und Austausch von Materialien.
+Wenn E-Learning effektiv und effizient betrieben werden soll, bedarf es in Bezug auf die Lehrpläne gewisser Modifikationen. Insbesondere gilt es, Schlüsselkompetenzen wie Medien-, Informations- und Computerkompetenz zu fördern. Diese Schlüsselkompetenzen werden idealerweise mit Hilfe von Informations- und Kommunikationstechnik (Werkzeugcharakter) erlernt.
+Gilly Salmon (Salmon, 2000) unterscheidet fünf Stufen des Lernprozesses auf dem Weg vom E-Learning-Anfänger zum E-Learning-Profi:
+
+Zugang und Motivation: In dieser Phase wird die eigene Computerumgebung für das spätere E-Learning eingerichtet und angepasst. Dies bezieht sich sowohl auf eine physikalische Installation von möglicherweise notwendiger Hard- und Software, aber auch auf den Aufbau von persönlicher Motivation E-Learning einsetzen und nutzen zu wollen. Häufig besteht in dieser Phase noch kein Zugang zur Lernplattform/Tutoren/anderen Lernern. Hilfestellungen müssen über andere Medien (telefonisch/persönlich) erfolgen. Gerade in dieser Phase sind Probleme und Schwierigkeiten besonders frustrierend und können schnell zum Abbruch des gesamten Prozesses führen.
+Online-Sozialisierung: Sobald technische und motivationale Hürden überwunden sind, steht nun E-Learning dem Lerner prinzipiell in vollem Umfang zur Verfügung. Allerdings sind zu diesem Zeitpunkt viele Funktionen noch unklar und müssen durch den Lerner erkundet werden – der persönliche Nutzen und die Einsetzbarkeit für den persönlichen Lernprozess bleiben anfangs noch verschlossen.
+Informationsaustausch: Es beginnt ein reger und aktiver Informationsaustausch in dem neuen Medium. Die Funktionen von eingesetzter Software werden immer stärker ausgenutzt. In dieser Phase tauchen jedoch Probleme hinsichtlich der Handhabung der neuen und großen Datenmenge auf, d. h., es geht um Klassifizierung, Archivierung, Suchen, Ordnen und Strukturierung.
+Wissenskonstruktion: Teilnehmer nutzen E-Learning immer freier und flexibler. Es erfolgt nicht nur die Nutzung des online angebotenen Materials, sondern nun auch ein immer intensiveres kooperatives Lernen zwischen den Teilnehmern. Die Teilnehmer lernen nun von- und miteinander.
+Selbstorganisation: In dieser Phase übernehmen die Teilnehmer nicht nur für die Inhalte des Lernprozesses, sondern auch zunehmend für deren Organisation die Verantwortung, d. h., es erfolgt eine Selbstorganisation des Lernens und eine Rollenverteilung innerhalb der Teilnehmergruppen. Diese Phase ist nicht bei allen E-Learning-Prozessen sinnvoll.
+
+
+E-Learning in der Personalentwicklung
+Unternehmen können ihre Ausgaben für Personalentwicklung mittels E-Learning drastisch senken. Außerdem werden Prozess- und Fehlerkosten durch qualifiziertes Personal, gesunkene Fehlerquoten und die Erhöhung der Effizienz durch den Einsatz modernerer Methoden reduziert. Gleichzeitig wird die Qualität durch einen einheitlichen Wissensstand aller Mitarbeiter gesteigert.
+Ziele des E-Learnings in der Personalentwicklung sind unter anderem:
+
+Verminderung der Ausfallzeiten vom Arbeitsplatz durch schulungsbedingte Abwesenheiten.
+Sicherstellung einer kosteneffizienten und zeitnahen Fortbildung.
+Dokumentation, Kontrolle und Einflussnahme auf den Lernprozess.
+Sicherung der gesetzlichen Sorgfaltspflichten im Rahmen von gesetzlichen Pflichtschulungen.
+Ganzheitliche Kompetenzentwicklung für dynamische, komplexe Handlungsfelder.
+Notwendigkeit der Personalentwicklung
+
+Mangel an gut qualifizierten Mitarbeitern am Arbeitsmarkt.
+Anforderungen und Komplexität der Arbeitsaufgaben nimmt kontinuierlich zu.
+Gesetzliche und externe Anforderungen steigen (z. B. gesetzliche Unterweisungspflichten).
+Notwendigkeit des permanenten Wissenstransfers aufgrund stetiger Forschung und Entwicklung.
+Ausbau der beruflichen Qualifikation zur Motivation der Mitarbeiter (= Mitarbeiterbindung).
+Wesentliches Instrument der Qualitätssicherung.
+Sicherung und Erhalt der Leistungsfähigkeit des Unternehmens.
+Kosteneffizienz
+
+Keine Reisekosten, keine zusätzlichen Verteilungskosten.
+Kürzere Abwesenheiten vom Tagesgeschäft / Arbeitsplatz.
+Senkung von Fehlerkosten / Erhöhung der Kundenzufriedenheit.
+
+
+Umdenken innerhalb vernetzter Hochschulen
+Die Konzeption der Lehrveranstaltungen bleibt in den meisten Fällen, in denen E-Learning eingesetzt wird, gleich. Es zeigt sich die Tendenz, gewohnte Lehr- und Lerninhalte in digitale Formate zu übersetzen. In Zukunft sollte gefragt werden, ob das Lernen und Lehren mittels Computer nicht ungewohnte Wege gehen sollte und somit neue Lernformen und Kontexte entstehen werden.
+Auch die Organisation der Hochschulen könnte grundlegend überdacht werden, indem man ihre Vernetzung vorantreibt. Da sich die Lehr- und Lernsituationen meistens innerhalb der institutionellen Grenzen abspielen und diese Zugangsbeschränkungen unterliegen, führe dies dazu, dass Dozenten innerhalb einer Institution auf sich alleine gestellt sind. Aus der Sicht der Institution sei es die Aufgabe des Dozenten innerhalb eines Fachgebietes ein konsistentes Curriculum entstehen zu lassen. Der einzelne Dozent würde innerhalb seiner eigenen Institution keine Ansatzpunkte für eine eigene fachspezifische Entwicklung vorfinden, denn die Kommunikation findet außerhalb mit anderen Dozenten, welche auf der ganzen Welt verteilt sind, statt.
+Der andere Punkt wäre, dass sich trotz horizontaler Vernetzung keine kollaborativen Arbeitsweisen an Hochschulen entwickeln. In der Zukunft könnten Kursinhalte gemeinsam erstellt und an allen Hochschulen angeboten werden. Durch das Wegfallen von Einzelkämpfern und die Hinwendung von einer vertikalen zu einer horizontalen Hochschulkultur würden nicht nur qualitative, sondern auch materielle Synergien entstehen. Der Diskurs und die Kritik müssen aber weiterhin ein zentraler Bestandteil der Wissenschaft bleiben.
+Bis es so weit ist, muss man eine ganze Reihe von Problemen lösen, welche im organisatorischen, personellen, kulturellen und technischen Bereich angesiedelt sind.
+Auch für die Studierenden wird E-Learning in den nächsten Jahren ein Umdenken erfordern. Die Gegenwart zeichnet sich durch medienvermittelte Informationen aus, welche einen erheblichen Einfluss auf privates und öffentliches Leben ausüben. Menschen als Wissensträger werden immer wichtiger und die Studierenden müssen mehr als bisher die Qualität vorhandener Informationen beurteilen können. Reines Faktenwissen wird an Wichtigkeit verlieren. Dagegen werden Grundlagenwissen und die damit einhergehende Beurteilungskompetenz und Verstehensprozesse immer wichtiger.
+Neben einer reinen Vernetzung werden auch MOOC, sogenannte virtuelle Klassenräume immer interessanter für Hochschulen. Dabei können Studierende die Vorlesung von zu Hause oder unterwegs aus verfolgen. Der große Vorteil für die Hochschulen liegt darin, dass die Lehrveranstaltungen zunehmend entlastet werden und Studierende können verpasste Vorlesungen nachholen. Sie sind somit flexibler. An einigen Universitäten in Deutschland wird diese Art des E-Learnings bereits benutzt, zum Beispiel an der Technischen Universität und der Ludwig-Maximilians-Universität in München. Eine Studie der HIS zeigt, dass etwa 12 Prozent der Befragten angaben, dass an ihrer Hochschule virtuelle Seminare angeboten werden.
+
+
+Rolle des Tutors beim E-Learning
+
+Mittlerweile ist unbestritten, dass der Erfolg von E-Learning durch den Einsatz von Tutoren verbessert wird. Trainer und Lehrer qualifizieren sich zunehmend zu Online-Tutoren weiter, um Lernen über das Internet (Online-Lernen) zu ermöglichen. Abhängig vom Anbieter der Qualifizierung wird von Online-Tutoren, Tele-Tutoren, E-Trainern, E-Coaches etc. gesprochen. In der Literatur wird vor allem von Tele- bzw. Online-Tutoren gesprochen (vgl.: Christina Rautenstrauch: Tele-Tutoren!).
+Man kann drei unterschiedliche Anforderungsprofile unterscheiden:
+
+Der Online-Tutor, der die Lernenden online mithilfe verschiedener Werkzeuge – wie bspw. mittels: Foren, eines virtuellen Klassenzimmers, Computer-supported cooperative Works (CSCW) oder Chats – betreut;
+Daneben gibt es die Online-Trainer, die einzelne Online-Lernangebote konzeptionell erstellen;
+E-Learning-Manager sind für die Einführung und Umsetzung von E-Learning-Programmen in Unternehmen verantwortlich.
+Die Betreuung von Lernenden durch Tutoren ist in vielen Fällen für den Erfolg von E-Learning ganz entscheidend. Die Abhängigkeit des Lernenden von Online- oder Präsenz-Tutoren kann aber auch als hinderlich erlebt werden.
+
+
+Qualität im E-Learning
+
+
+Der Qualitätsgedanke
+Dadurch, dass Qualitätsaspekte betont werden und im Zuge dessen der Nachweis von Qualität sichernden Maßnahmen erbracht wird, findet E-Learning verstärkt Verbreitung und Anerkennung. Eine ausgeklügelte Multimedia-Präsentation garantiert noch lange nicht, dass Lernen zum Kinderspiel wird. Denn die Qualität des E-Learning wird sich auch durch noch so moderne Technik nicht automatisch steigern. Im Zuge dessen wird seit Beginn der 2000er-Jahre mehr und mehr versucht, Qualitätsstandards für E-Learning zu formulieren und diese Standards durch Anwendungsleitfäden und Easy-To-Use-Tools weiter zu verbreiten. Auch nationalen und internationalen Standardisierungsgremien (insbesondere DIN-Norm, ISO, IEC, CEN/ISSS) sind dabei an der Formulierung ein E-Learning Qualitätsstandards beteiligt, z. B. ISO/IEC 19796-1:2005, Informationstechnik – Lernen, Ausbilden und Weiterbilden – Qualitätsmanagement, -sicherung und -metriken. So können durch vergleichbare und allgemein verständliche Anforderungen und Kriterien die Bedürfnisse der Nutzer, Käufer und Anbieter besser aufeinander abgestimmt werden. Dabei ist es von großer Wichtigkeit, Qualitätsentwicklung nicht nur als eine Beilage des E-Learning, z. B. in Form eines für sich stehenden Evaluationsansatzes am Ende eines Kurses, zu betrachten. Denn es handelt sich bei der Qualitätsentwicklung um einen Schlüsselaspekt, der bei der Entwicklung und Durchführung von E-Learning-Kursen und -programmen immer zum Tragen kommt. Um mehr Transparenz über die Qualität einer Lösung für die Anwender und um die Wahrnehmung der Qualität von E-Learning-Angeboten am Markt zu erhöhen, gibt es einige Initiativen, Gütesiegel für gutes E-Learning zu etablieren, z. B. das Gütesiegel des E-Learning Verbands vebn oder das eLearning-Label der Ruhr-Universität Bochum.
+
+
+Evaluation von E-Learning-Angeboten
+Mit dem Begriff Evaluation, der sich seit den 1970er Jahren im Bildungsbereich durchgesetzt hat, werden Dinge wie Qualitätskontrolle, Qualitätssicherung, Bewertung oder Wirkungskontrolle beschrieben. Da eine Vielzahl von multimedialen Lernangeboten am Markt miteinander konkurriert, ist dieser Qualitätsgedanke auch im E-Learning-Bereich bedeutsam.
+Evaluation kann während des Entwicklungsprozesses als prozessbegleitende oder nach der Entwicklung als produktbewertende Evaluation durchgeführt werden.
+Die prozessbegleitende, auch formative Evaluation dient der Beurteilung und Verbesserung des Programms während der Entwicklungsphase. Sie kann als schrittweise Optimierung des Gesamtproduktes gesehen werden, um Fehlentwicklungen vorzubeugen und das System optimal an die Bedürfnisse der Zielgruppe anzupassen.
+Bei der produktbewertenden, auch summativen, Evaluation steht die abschließende Qualitätsbewertung im Vordergrund. Es gilt anhand verschiedener Evaluationskriterien das Ergebnis, den Erfolg oder den Nutzen der Maßnahme zu bewerten.
+Das Spektrum der produktbewertenden Evaluationskriterien variiert dabei je nach Evaluationsfokus.
+Mögliche Kriterien und deren Systematisierung:
+Inhalt/Korrektheit
+
+Tiefe, Schwierigkeitsgrad, Aktualität, Umfang, Komplexität sind angemessen
+Praxisbezug (Inhalte entsprechen aktuellen Kenntnisstand)
+Fehlerfreiheit (Keine inhaltlichen oder fachlichen Fehler)
+Didaktische Gestaltung
+
+Wird das Vorwissen beachtet? (Einstiegstest),
+Werden Lerninhalte darauf abgestimmt?
+Gibt es Hilfen und Rückmeldungen?
+Interaktionsmöglichkeiten mit anderen Lernenden (Kommunikation, Kooperation und Kollaboration) und Begleitung durch Tutoren
+Möglichkeit zu Selbstbestimmung (Lehrstoff, Aufgaben, Aufgabenschwierigkeit usw.)?
+Lernwirksamkeitskontrolle (Werden Lernergebnisse gemessen?)
+Werden didaktische Prinzipien umgesetzt, die in der jeweiligen Disziplin als sinnvoll erachtet werden, z. B. in der beruflichen Bildung Situiertes Lernen.
+Usability
+
+Selbstbeschreibungsfähigkeit: Ist das Produkt einfach zu benutzen bzw. selbstbeschreibend?
+Benutzerfreundlichkeit: Entsprechen Funktionsumfang und Leistungsfähigkeit des Produkts dem technologischen State-of-the-Art?
+Benutzerführung, Navigationsstruktur, Navigationsmöglichkeiten (Ist stets erkennbar, wo man sich im Programm befindet, wie man dorthin gelangt ist und welche weiteren Alternativen man hat?)
+Sind Orientierungs- und Navigationselemente klar in ihrer Funktion erkennbar?
+Orientierung: Ist vor Lernbeginn der persönliche Nutzen für den Lernaufwand abzuschätzen?
+Interaktionsfeedback: Gibt es Rückmeldungen über Interaktion?
+Mediendesign
+
+Ist das Produkt ästhetisch attraktiv, einheitlich und funktional gestaltet?
+Unterstützt das Design die Interaktion zwischen Benutzer und Produkt?
+Sind Medienelemente wie Text, Bild, Audio, Video, farbliche Gestaltung usw. angemessen eingesetzt?
+Werden verständliche, der Zielgruppe bekannte Metaphern und Icons eingesetzt?
+
+
+Ausbildung für E-Learning
+Die Konzeption und Entwicklung von E-Learning-Angeboten erfordert vielfältige Kompetenzen im Schnittfeld zwischen Mediendidaktik, -informatik, -gestaltung und Betriebswirtschaft. Sie werden in konventionellen Studiengängen bislang selten vermittelt. Mit zunehmendem Interesse sowohl der Wirtschaft als auch von Bildungsinstitutionen an E-Learning Mitte der 1990er Jahre entstand eine Nachfrage nach „E-Learning-Experten“, die in der Lage sind, E-Learning-Angebote zu planen, umzusetzen und ein-/durchzuführen. Standen zunächst vor allem technische Kompetenzen im Vordergrund, rückten später konzeptionelle Kenntnisse und Fertigkeiten aus der Mediendidaktik in den Vordergrund.
+Die Nachfrage wurde zunächst stark durch Quereinsteiger bedient, später durch Absolventen von z. B. Fachhochschul-Studiengängen, die Anfang und Mitte der 1990er Jahre verstärkt interdisziplinäre Studiengänge (etwa der Medieninformatik oder Informationsdesign) aufsetzten. Als Zusatzqualifikation entwickelten sich Weiterbildungsangebote als Zertifikatskurse oder Master-Studienprogramme. Sie richten sich an Personen, die bereits in dem Bereich tätig sind, oder in diesem Bereich tätig werden wollen. Bspw. gibt es an der tele-akademie der Hochschule Furtwangen seit 1998 den berufsbegleitenden Zertifikatskurs „Experte/Expertin für Neue Lerntechnologien“, der als Blended Learning-Programm angeboten wird. Seit 1999 wird in der Schweiz der tertiäre berufsbegleitende Masterstudiengang „E-Learning und Wissensmanagement“ angeboten.
+Die Universität Duisburg-Essen bietet seit 2003 unter Leitung von Prof. Michael Kerres das modulare Studienprogramm Educational Media an, das online und berufsbegleitend studiert werden kann. Das akkreditierte Programm kann am Duisburg Learning Lab der Universität mit einem Zertifikat oder einem Master of Arts abgeschlossen werden. An der Universität Rostock gibt es seit 2004 den berufsbegleitenden Masterstudiengang „Medien und Bildung“. Die Fernuniversität Hagen bietet darüber hinaus einen weiterbildenden Masterstudiengang „e-education“ an.
+
+
+E-Learning als Fernunterricht mit elektronischen Medien
+Fernunterricht im Sinne des FernUSG ist jede Vermittlung von Kenntnissen und Fähigkeiten:
+(1) auf vertraglicher Grundlage,
+(2) gegen Entgelt,
+(3) die ausschließlich oder überwiegend über eine räumliche Distanz erfolgt, und
+(4) bei der der Lehrende oder sein Beauftragter den Lernerfolg überwachen,
+dann handelt es sich dabei laut Definition des Fernunterrichtsschutzgesetzes (FernUSG) von 1977 um Fernunterricht. Solche E-Learning-Angebote bedürfen in Deutschland einer Zulassung durch die Staatliche Zentralstelle für Fernunterricht (ZFU), bevor sie an den Markt gehen (im Oktober 2009, hat der Bundesgerichtshof entschieden, dass wenn eine Zulassung nicht vorliegt, dass dann gezahlte Kursentgelte zurückbezahlt werden müssen. Entscheidendes Merkmal: Die Lernerfolgsüberwachung kann in Form von Korrektur- und Prüfungsaufgaben sowohl während der häuslichen Selbstlernphase als auch während des begleitenden Unterrichts vorgenommen werden; ausreichend ist allerdings auch eine einmalige Abschlussprüfung nach Durchführung des Fernunterrichts. Zur Überwachung des Lernerfolgs ist es nach der Rechtsprechung ausreichend, dass der Lernende die Möglichkeit hat, durch mündliche Fragen zum erlernten Stoff eine individuelle Kontrolle des Lernerfolgs durch den Lehrenden oder seinen Beauftragten zu erhalten).
+Die ZFU registriert auch nicht zulassungspflichtige Fernlehrgänge („Hobby-Lehrgänge“, die ausschließlich der Freizeitgestaltung dienen). Der Vertrieb dieser Lehrgänge ist der ZFU anzuzeigen. Die Entscheidung, ob es sich tatsächlich um einen „Hobby-Lehrgang“ handelt, liegt bei der ZFU. Die Fernunterrichtsverträge solcher Fernlehrgänge unterliegen ebenfalls dem FernUSG und werden von der ZFU geprüft. Hierbei handelt es sich um eine besondere Regelung für deutsche Anbieter (daneben, im Jahre 2000, hat die Europäische Union eine „Fernabsatzrichtlinie“ für alle Partnerländer vorgegeben, die ihr Vorbild im deutschen Fernunterrichtsschutzgesetz hat). 2005 waren von den 2097 staatlich zugelassenen Fernlehrgängen 632 – also: 31 % – als E-Learning-Kurse klassifiziert. Über 80 % aller Fernschulen unterstützen ihre Fernlehrgänge mittlerweile elektronisch. Damit verwischt die Grenze zwischen klassischem Fernunterricht und E-Learning.
+
+
+Siehe auch
+Auflistung in der Kategorie „Lernplattformen“
+Massive Open Online Course (MOOC)
+Virtuelle Universität
+Interaktives Fernsehen
+Distanzunterricht
+Didaktik im Netz
+Funkkolleg
+Hybridunterricht
+Kindersoftware
+Programmiersprachen für Kinder
+Quiz
+Wissensmanagementsystem
+Berufsverband für Online-Bildung
+Digitale Bildungslandschaft
+
+
+Literatur
+Patricia Arnold, Lars Kilian, Anne Thillosen, Gerhard Zimmer: Handbuch E-Learning – Lehren und Lernen mit digitalen Medien. 2., erweiterte, aktualisierte und vollständig überarbeitete Auflage. Bielefeld 2011, ISBN 978-3-7639-4888-8.
+Andrea Back, Oliver Bendel, Daniel Stoller-Schai: E-Learning im Unternehmen: Grundlagen – Strategien – Methoden – Technologien. Zürich 2001, ISBN 3-280-02749-7.
+Oliver Bendel, Stefanie Hauske: E-Learning: Das Wörterbuch. Oberentfelden/Aarau 2004, ISBN 3-0345-0111-0.
+Beate Bruns, Petra Gajewski: Multimediales Lernen im Netz: Leitfaden für Entscheider und Planer. 3. Auflage. Berlin 2002, ISBN 3-540-42477-6.
+Michael Busch: 55 Webtools für den Unterricht. Einfach, konkret, step-by-step. 4., komplett überarbeitete und aktualisierte Auflage. Auer, Augsburg 2020, ISBN 978-3-403-07842-5.
+Ullrich Dittler, Jakob Krameritsch, Nic. Nistor, Christine Schwarz, Anne Thillosen (Hrsg.): E-Learning: Eine Zwischenbilanz. Kritischer Rückblick als Basis eines Aufbruchs. Waxmann, Berlin 2009.
+Ullrich Dittler (Hrsg.): E-Learning: Einsatzkonzepte und Erfolgsfaktoren des Lernens mit interaktiven Medien. 3., komplett überarbeitete und erweiterte Auflage. Oldenbourg Wissenschaftsverlag, München 2011, ISBN 978-3-486-70587-4.
+Martin Ebner, Sandra Schön: Lehrbuch für Lernen und Lehren mit Technologie. Bad Reichenhall 2010.
+Peter Glanninger: Systemisches E-Learning. Ein theoretisches Modell für die Gestaltung offener Wissenssysteme. Frankfurt am Main 2010, ISBN 978-3-631-59462-9.
+Andreas Hohenstein, Karl Wilbers (Hrsg.): Handbuch E-Learning, Expertenwissen aus Wissenschaft und Praxis. Deutscher Wirtschaftsdienst, Köln 2009, ISBN 978-3-87156-298-3.
+Ludwig J. Issing. Paul Klimsa (Hrsg.): Information und Lernen mit Multimedia und Internet: Lehrbuch für Studium und Praxis. 3. Auflage. Psychologie Verlags Union, Weinheim 2002, ISBN 3-621-27449-9.
+Rüdiger Keller: Live E-Learning im Virtuellen Klassenzimmer. Eine qualitative Studie zu den Besonderheiten beim Lehren und Lernen. (= Schriftenreihe Wissen und Lernen in Organisationen; Bd. 6) Verl. Dr. Kovač, Hamburg 2009 [zugl. Diss. Univ. Augsburg 2008], ISBN 3-8300-4149-7.
+Michael Kerres: Multimediale und telemediale Lernumgebungen. Konzeption und Entwicklung. München 2001, ISBN 3-486-25055-8.
+Michael Kerres: Mediendidaktik: Konzeption und Entwicklung mediengestützter Lernangebote. 3., vollständig überarbeitete Neuauflage. München 2012, ISBN 978-3-486-27207-9.
+Bernd Kleimann, Klaus Wannemacher: E-Learning an deutschen Hochschulen. Von der Projektentwicklung zur nachhaltigen Implementierung. Hannover 2004, ISBN 3-930447-56-8.
+ Norbert Lang: Lernen in der Informationsgesellschaft. Mediengestütztes Lernen im Zentrum einer neuen Lernkultur. In: Ute Scheffer, Friedrich W. Hesse (Hrsg.): E-Learning. Die Revolution des Lernens gewinnbringend einsetzen. S. 23–43. Klett-Cotta, Stuttgart 2002, ISBN 3-608-94332-3.
+Helmut M. Niegemann u. a.: Kompendium Multimediales Lernen. Springer, 2008, ISBN 978-3-540-37225-7. (online)
+Ariane Olek, Marieke Vomberg (2020): Theoretische Grundlagen von Online-Communities. Working Paper No. 3 im Rahmen des Projektes IDiT. (online)
+Stephanie Pruschansky; Berlin, Senatsverwaltung für Wirtschaft, Arbeit und Frauen: eLearning. Innovation für Wirtschaft, Arbeit und Qualifizierung : Fachtagung der Senatsverwaltung für Wirtschaft, Arbeit und Frauen, Berlin, am 21./22. November 2002. (= Schriftenreihe der Senatsverwaltung für Wirtschaft, Arbeit und Frauen. 55). Berlin 2003, ISBN 3-937033-00-9.
+Günter D. Rey: E-Learning. Theorien, Gestaltungsempfehlung und Forschung. Verlag Hans Huber, Bern 2009.
+Reinhard Scholzen: E-Learning – die Entwicklungsschritte. In: Deutsches Polizeiblatt für die Aus- und Fortbildung. 5/2008, S. 28–30.
+Claudia Wiepcke: Computergestützte Lernkonzepte und deren Evaluation in der Weiterbildung. Blended Learning zur Förderung von Gender Mainstreaming. Hamburg 2006, ISBN 3-8300-2426-6.
+
+
+Weblinks
+
+Sammlung von Fallstudien und Reflexionen über E-Learning: Kate Borthwick, Erika Corradini, Alison Dickens (Hrsg.): 10 years of the LLAS elearning symposium: case studies in good practice. Research-publishing.net, Dublin Ireland 2015. doi:10.14705/rpnet.2015.9781908416230
+e-teaching.org, umfangreiches Informationsportal zu Didaktik, Technik und Organisation von E-Learning an Hochschulen sowie zahlreichen Hinweisen und Links auf aktuelle Informationen
+
+
+Einzelnachweise","[""E-Learning"", ""Digital Media in Education"", ""Computer-Based Training (CBT)"", ""Learning Management Systems (LMS)"", ""Blended Learning""]","[{'role': 'Bildungstechnologe', 'description': 'Ein Experte für die Integration digitaler Medien in Lernprozesse, der innovative E-Learning-Strategien entwickelt.', 'expertise_area': 'Digitale Bildung', 'perspective': 'Technologische Innovation', 'speaking_style': {'tone': 'Enthusiastisch und optimistisch, gelegentlich humorvoll', 'language_complexity': 'Technische Sprache mit branchenspezifischem Jargon, gelegentliche Verwendung von Metaphern und Analogien', 'communication_style': 'Kollaborativ und neugierig, stellt oft rhetorische Fragen', 'sentence_structure': 'Mittellange bis lange Sätze mit Nebensätzen, häufige Verwendung von Ausrufezeichen und Fragen', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Pausen effektiv, unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Halt'], 'catchphrases': ['Das ist der Schlüssel zum Erfolg!', 'Lernen ist ein lebenslanger Prozess.', 'Innovation beginnt hier.'], 'speech_patterns': ['Beginnt oft mit einer Frage', 'Verwendet häufig Analogien zur Erklärung komplexer Konzepte'], 'emotional_expressions': ['Lachen', ""'Wow!'"", ""'Fantastisch!'""]}, 'social_roles': ['Initiator-Contributor', 'Information Giver'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Shares relevant information, data or research that the group needs to make informed decisions.']}, {'role': 'Pädagoge', 'description': 'Ein erfahrener Lehrer, der sich auf die Anwendung von E-Learning in traditionellen Bildungsumgebungen spezialisiert hat.', 'expertise_area': 'Bildung', 'perspective': 'Praktische Umsetzung', 'speaking_style': {'tone': 'Formal und ernsthaft, gelegentlich optimistisch', 'language_complexity': 'Einfaches bis mittelschweres Vokabular, gelegentliche Verwendung von bildhafter Sprache', 'communication_style': 'Direkt und assertiv, bevorzugt aktives Zuhören', 'sentence_structure': 'Kurze bis mittellange Sätze, gelegentliche Fragen zur Klarstellung', 'formality': 'Formal', 'other_traits': 'Verwendet Pausen effektiv, unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Na gut'], 'catchphrases': ['Bildung ist der Schlüssel zur Zukunft.', 'Jeder Schüler kann erfolgreich sein.', 'Gemeinsam erreichen wir mehr.'], 'speech_patterns': ['Beginnt oft mit einer klaren Aussage', 'Verwendet häufig Beispiele aus dem Alltag'], 'emotional_expressions': ['Seufzen', ""'Interessant!'"", ""'Beeindruckend!'""]}, 'social_roles': ['Coordinator', 'Harmonizer'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Mediates in conflicts and ensures that tensions in the group are reduced to promote a harmonious working environment.']}, {'role': 'Unternehmensberater', 'description': 'Ein Berater, der sich auf die Implementierung von E-Learning in Unternehmen spezialisiert hat und dabei hilft, Schulungsprozesse zu optimieren.', 'expertise_area': 'Personalentwicklung', 'perspective': 'Effizienzsteigerung', 'speaking_style': {'tone': 'Professionell und sachlich, gelegentlich optimistisch', 'language_complexity': 'Technische Sprache mit branchenspezifischem Jargon, häufige Verwendung von Metaphern und Analogien', 'communication_style': 'Direkt und lösungsorientiert, stellt oft gezielte Fragen', 'sentence_structure': 'Mittellange bis lange Sätze mit klarer Struktur, gelegentliche Verwendung von Fragen zur Klarstellung', 'formality': 'Formal', 'other_traits': 'Verwendet Pausen effektiv, unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Effizienz ist der Schlüssel zum Erfolg.', 'Optimierung beginnt hier.', 'Gemeinsam erreichen wir mehr.'], 'speech_patterns': ['Beginnt oft mit einer klaren Aussage oder Frage.', 'Verwendet häufig Metaphern zur Erklärung komplexer Konzepte.'], 'emotional_expressions': ['Lachen', ""'Interessant!'"", ""'Beeindruckend!'""]}, 'social_roles': ['Evaluator-Critic', 'Compromiser'], 'social_roles_descr': ['Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.', 'Helps the group find a middle ground when there are differences of opinion and encourages compromise in order to move forward.']}, {'role': 'Psychologe', 'description': 'Ein Experte für Lernpsychologie, der sich darauf konzentriert, wie E-Learning die Motivation und das Engagement der Lernenden beeinflusst.', 'expertise_area': 'Lernpsychologie', 'perspective': 'Motivationsförderung', 'speaking_style': {'tone': 'Einfühlsam und nachdenklich, gelegentlich humorvoll', 'language_complexity': 'Mittelschweres Vokabular mit psychologischen Fachbegriffen, häufige Verwendung von Analogien und bildhafter Sprache', 'communication_style': 'Kollaborativ und unterstützend, stellt oft offene Fragen zur Diskussion', 'sentence_structure': 'Mittellange Sätze mit klarer Struktur, gelegentliche Verwendung von rhetorischen Fragen', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Pausen effektiv, um Nachdenken zu fördern; unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Nun ja', 'Wissen Sie'], 'catchphrases': ['Motivation ist der Schlüssel zum Lernen.', 'Engagement beginnt im Kopf.', 'Jeder Lernende ist einzigartig.'], 'speech_patterns': ['Beginnt oft mit einer offenen Frage oder einem Gedankenexperiment.', 'Verwendet häufig Analogien zur Erklärung psychologischer Konzepte.'], 'emotional_expressions': ['Lächeln', ""'Faszinierend!'"", ""'Erstaunlich!'""]}, 'social_roles': ['Opinion Seeker', 'Encourager'], 'social_roles_descr': ['Encourages others to share their opinions and beliefs in order to understand different perspectives.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Technologie-Entwickler', 'description': 'Ein Entwickler, der sich auf die Erstellung und Optimierung von E-Learning-Plattformen spezialisiert hat.', 'expertise_area': 'Softwareentwicklung', 'perspective': 'Technische Umsetzung', 'speaking_style': {'tone': 'Sachlich und analytisch, gelegentlich enthusiastisch', 'language_complexity': 'Technische Sprache mit branchenspezifischem Jargon, häufige Verwendung von Fachbegriffen und präzisen Definitionen', 'communication_style': 'Direkt und lösungsorientiert, stellt oft gezielte Fragen zur Problemlösung', 'sentence_structure': 'Mittellange bis lange Sätze mit klarer Struktur, gelegentliche Verwendung von Fragen zur Klarstellung', 'formality': 'Formal', 'other_traits': 'Verwendet Pausen effektiv, um Nachdenken zu fördern; unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Effizienz ist der Schlüssel zum Erfolg.', 'Optimierung beginnt hier.', 'Technologie treibt Innovation voran.'], 'speech_patterns': ['Beginnt oft mit einer klaren Aussage oder Frage.', 'Verwendet häufig präzise Definitionen zur Erklärung technischer Konzepte.'], 'emotional_expressions': ['Lachen', ""'Interessant!'"", ""'Beeindruckend!'""]}, 'social_roles': ['Implementer', 'Aggressor'], 'social_roles_descr': ['Puts plans and decisions of the group into action and ensures practical implementation.', 'Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.']}, {'role': 'Bildungsforscher', 'description': 'Ein Wissenschaftler, der sich auf die Untersuchung und Bewertung von E-Learning-Methoden und deren Effektivität spezialisiert hat.', 'expertise_area': 'Bildungsforschung', 'perspective': 'Evidenzbasierte Analyse', 'speaking_style': {'tone': 'Analytisch und sachlich, gelegentlich nachdenklich', 'language_complexity': 'Komplexe Sprache mit wissenschaftlichem Jargon, häufige Verwendung von Fachbegriffen und präzisen Definitionen', 'communication_style': 'Kollaborativ und unterstützend, stellt oft gezielte Fragen zur Diskussion', 'sentence_structure': 'Lange und komplexe Sätze mit Nebensätzen, gelegentliche Verwendung von rhetorischen Fragen', 'formality': 'Formal', 'other_traits': 'Verwendet Pausen effektiv, um Nachdenken zu fördern; unterbricht selten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Nun ja', 'Wissen Sie'], 'catchphrases': ['Evidenzbasierte Forschung ist der Schlüssel.', 'Daten lügen nicht.', 'Jede Methode hat ihre Vor- und Nachteile.'], 'speech_patterns': ['Beginnt oft mit einer klaren Aussage oder Frage.', 'Verwendet häufig präzise Definitionen zur Erklärung wissenschaftlicher Konzepte.'], 'emotional_expressions': ['Lächeln', ""'Faszinierend!'"", ""'Erstaunlich!'""]}, 'social_roles': ['Information Seeker', 'Standard Setter'], 'social_roles_descr': ['Asks questions to gain clarity and obtain information from others.', 'Emphasizes the importance of adhering to certain norms and standards within the group to ensure quality and efficiency.']}]","Das Treffen konzentrierte sich auf die Definition und Entwicklung von E-Learning, das als elektronisch unterstütztes Lernen verstanden wird. Es wurde festgestellt, dass E-Learning verschiedene Formen wie Online-Lernen und multimediales Lernen umfasst. Historische Entwicklungen wurden beleuchtet, beginnend mit der ersten Lernmaschine im Jahr 1588 bis hin zu modernen computergestützten Lernsystemen. Die Bedeutung des Internets für den Aufschwung des E-Learnings seit den 1990er Jahren wurde hervorgehoben.
+
+Die Diskussion umfasste auch die verschiedenen Technologien und didaktischen Szenarien, die im E-Learning eingesetzt werden können, einschließlich CBT und WBT sowie Autorensysteme zur Erstellung digitaler Lernangebote. Simulationen und Videokonferenzen wurden als wichtige Werkzeuge identifiziert.
+
+Es wurde vereinbart, dass E-Learning in der Personalentwicklung Kosten senken kann und gleichzeitig die Qualität durch einen einheitlichen Wissensstand verbessert wird. Herausforderungen bei der Einführung von E-Learning in Organisationen wurden angesprochen, darunter Anpassungen der Curricula und Arbeitsabläufe.
+
+Abschließend wurde betont, dass trotz der Vorteile von E-Learning traditionelle Bildungsformen nicht vollständig ersetzt werden können. Hybride Lernarrangements wie Blended Learning bieten eine sinnvolle Ergänzung.","[""Scene 1: Opening and Greetings\nTLDR: Participants briefly greet each other and set a collaborative tone for the meeting.\n- Brief welcome from the facilitator\n- Quick exchange of greetings among participants\n- Setting expectations for a collaborative discussion"", ""Scene 2: Defining E-Learning\nTLDR: Discuss the definition and scope of E-Learning, including historical context.\n- Bildungstechnologe introduces E-Learning concepts with enthusiasm\n- P\u00e4dagoge shares insights on traditional education integration\n- Unternehmensberater highlights efficiency benefits in corporate settings"", ""Scene 3: Technological Tools in E-Learning\nTLDR: Explore various technologies used in E-Learning, such as CBT, WBT, and simulations.\n- Technologie-Entwickler discusses technical aspects of platforms\n- Psychologe considers impact on learner motivation and engagement\n- Open floor for spontaneous contributions about emerging tools"", ""Scene 4: Challenges and Solutions in Implementation\nTLDR: Address challenges faced when implementing E-Learning systems and propose solutions.\n- Unternehmensberater outlines common obstacles in organizations\n- Bildungsforscher presents evidence-based strategies to overcome issues\n- Participants share personal experiences with implementation hurdles"", ""Scene 5: Cost Efficiency and Quality Improvement\nTLDR: Debate how E-Learning can reduce costs while improving quality through standardized knowledge.\n- Unternehmensberater emphasizes cost-saving potential\n- Bildungstechnologe discusses quality enhancement through technology innovation\n- Open discussion allowing disagreements and resolutions"", ""Scene 6: Hybrid Learning Models Discussion\nTLDR: Examine the role of blended learning as a complement to traditional methods.\n- P\u00e4dagoge advocates for hybrid models in educational settings\n- Psychologe explores psychological benefits of blended learning approaches\n- Spontaneous sharing of personal experiences with hybrid models"", ""Scene 7: Closing Remarks and Next Steps\nTLDR: Summarize key points discussed, align on project objectives, and outline next steps.\n- Facilitator recaps main outcomes from the meeting \n- Agreement on shared project objectives \n- Participants suggest follow-up actions or meetings""]",">>Bildungstechnologe: Hallo zusammen! Schön, dass wir heute über digitale Bildung sprechen können.
+>>Pädagoge: Guten Tag! Lassen Sie uns die praktische Umsetzung von E-Learning besprechen.
+>>Unternehmensberater: Ich bin gespannt auf unsere Diskussion. Effizienz ist der Schlüssel zum Erfolg, besonders bei der Implementierung von E-Learning in Unternehmen.
+>>Psychologe: Wissen Sie, es ist spannend, neue Ideen zu hören. Vielleicht können wir auch darüber sprechen, wie E-Learning die Motivation der Lernenden beeinflusst?
+>>Technologie-Entwickler: Entschuldigung, ich wollte nur hinzufügen, dass bei der Implementierung von E-Learning auch technische Herausforderungen auftreten können. Hat jemand schon Erfahrungen mit solchen Problemen gemacht?
+>>Bildungsforscher: Ja, tatsächlich! Wir hatten einmal Schwierigkeiten mit der Plattformkompatibilität. Aber durch eine enge Zusammenarbeit mit dem IT-Team konnten wir das schnell lösen.
+>>(Allgemeines Nicken)
+>>Bildungstechnologe: Das ist ein guter Punkt! Solche technischen Aspekte dürfen nicht unterschätzt werden.
+>>(Zustimmendes Murmeln)
+>>Pädagoge: Absolut richtig! Und währenddessen sollten wir auch sicherstellen...
+>>(Unterbrechung durch Klingeln eines Handys)
+>>Unternehmensberater (schmunzelnd): Hoffentlich war das kein wichtiger Anruf!
+>>(Lächeln im Raum)
+>>Psychologe: Zurück zum Thema – wie beeinflusst E-Learning die Motivation der Lernenden? 
+ >>Bildungstechnologe: Also, die Geschichte des E-Learnings zeigt, wie technologische Innovationen den Bildungsbereich revolutioniert haben. Ich erinnere mich an die ersten Lernmaschinen – das war ein echter Durchbruch! Aber heute sind virtuelle Klassenzimmer der Standard. Was denkt ihr darüber?
+>>Pädagoge: Ja, das ist spannend! Die Integration von E-Learning in traditionelle Bildungsumgebungen erfordert eine sorgfältige Planung. Ich habe gesehen, wie digitale Medien den Unterricht bereichern können, aber es gibt auch Herausforderungen. Wie gehen wir mit Schülern um, die sich schwer tun, online zu lernen?
+>>Unternehmensberater: Effizienz ist entscheidend. In einem Projekt letztes Jahr konnten wir durch E-Learning die Schulungsprozesse optimieren und Ausfallzeiten reduzieren. Aber nicht jeder Mitarbeiter war sofort begeistert – einige hatten Bedenken wegen der technischen Umsetzung.
+>>Psychologe: Das stimmt! Motivation spielt eine große Rolle beim Lernen. Ich habe erlebt, dass interaktive Inhalte helfen können, aber sie müssen gut gestaltet sein. Was sind eure Erfahrungen mit der Motivation in digitalen Umgebungen?
+>>Technologie-Entwickler: Genau, ohne stabile Software geht nichts. Wir hatten mal einen Fall, wo die Plattform ständig abstürzte – das hat alle frustriert und dem Projekt geschadet.
+>>Bildungsforscher: Empirische Studien zeigen uns oft überraschende Ergebnisse über die Effektivität von E-Learning-Methoden. Es ist wichtig, dass wir diese Daten nutzen und nicht nur auf Trends setzen.
+>>Bildungstechnologe: Fantastisch! Wenn wir über E-Learning sprechen sollten wir auch bedenken dass jede Technologie ihre eigenen Vor- und Nachteile hat. CBT kann sehr effektiv sein für bestimmte Themen aber nicht für alles.
+>>Pädagoge: Absolut! Und bei der praktischen Umsetzung müssen wir flexibel bleiben und Lehrmethoden anpassen. Ich hatte mal einen Schüler der durch Videos viel besser lernte als durch Texte – solche individuellen Unterschiede müssen berücksichtigt werden.
+>>Unternehmensberater: Richtig! Die Effizienzsteigerung darf nicht auf Kosten der Qualität gehen. Wir sollten sicherstellen dass Schulungen weiterhin praxisnah bleiben.
+>>Psychologe: Faszinierend! Interaktive Inhalte können motivierend sein wenn sie richtig eingesetzt werden aber ich habe auch gesehen dass zu viel Multimedia verwirrend wirken kann.
+>>Bildungsforscher: Genau! Wir brauchen empirische Studien um sicherzustellen dass technologische Innovationen tatsächlich den Lernprozess verbessern und nicht nur als Trend gelten. 
+ >>Technologie-Entwickler: Also, wenn wir über die technische Umsetzung von E-Learning-Plattformen sprechen, müssen wir die Stabilität und Skalierbarkeit der Systeme im Auge behalten. Effizienz ist der Schlüssel zum Erfolg, besonders bei CBT und WBT, wo die Benutzerfreundlichkeit entscheidend ist. Ähm, interessant wäre zu sehen, wie neue Technologien wie KI hier integriert werden können.
+>>Bildungstechnologe: Die Integration von KI in E-Learning-Plattformen könnte wirklich revolutionär sein, besonders wenn wir an die Personalisierung der Lerninhalte denken. Stellt euch vor, wie adaptive Lernsysteme den individuellen Fortschritt jedes Lernenden analysieren und darauf basierend maßgeschneiderte Inhalte anbieten könnten! Natürlich gibt es auch Herausforderungen, etwa bei der Datensicherheit und der Akzeptanz durch Lehrkräfte.
+>>Psychologe: Ich frage mich, wie diese neuen Technologien die Motivation der Lernenden beeinflussen könnten. Wenn wir adaptive Systeme einsetzen...
+>>Pädagoge (unterbricht): Was meinen Sie genau mit ""adaptive Systeme""?
+>>Psychologe: Klar! Das sind Technologien, die sich an den individuellen Fortschritt des Lernenden anpassen und personalisierte Inhalte bieten. Das könnte das Engagement wirklich steigern.
+>>Pädagoge: Danke für die Erklärung. Die praktische Umsetzung dieser Technologien in traditionellen Bildungsumgebungen ist entscheidend. Wir müssen sicherstellen, dass die Integration von KI und adaptiven Systemen nicht nur technisch machbar ist, sondern auch den Lehrkräften und Schülern zugutekommt.
+>>Unternehmensberater: Genau, das sind wichtige Punkte. Durch den Einsatz von KI in E-Learning-Plattformen könnten wir nicht nur die Personalisierung verbessern, sondern auch Schulungsprozesse effizienter gestalten. Es wäre wichtig zu überlegen, wie wir diese Systeme so implementieren können, dass sie sowohl für Lehrer als auch für Schüler einen echten Mehrwert bieten. 
+ >>Bildungsforscher: Wenn wir über die Implementierung von E-Learning-Systemen sprechen, ist es entscheidend, evidenzbasierte Strategien zu nutzen. Daten zeigen oft, dass eine klare Struktur und kontinuierliche Evaluation der Schlüssel zur Überwindung von Hindernissen sind. Die Benutzerfreundlichkeit spielt dabei eine große Rolle.
+
+>>Bildungstechnologe: Ja, Benutzerfreundlichkeit ist wirklich wichtig! Vielleicht könnten Gamification-Elemente helfen, die Motivation zu steigern. Ein Punktesystem oder Belohnungen für erreichte Lernziele könnte den Spaßfaktor erhöhen.
+
+>>Pädagoge: Interessant! Aber bei der praktischen Umsetzung sollten wir auch die Lehrer stärker einbeziehen. Ihre Akzeptanz ist entscheidend dafür, dass sie sich mit den neuen Technologien wohlfühlen.
+
+>>Unternehmensberater: Genau! Ein häufiges Hindernis in Unternehmen ist die mangelnde Akzeptanz der Mitarbeiter. Durch klare Kommunikation und Schulung können wir das überwinden. Effizienz ist hier entscheidend; Mikrolernen und Blended Learning könnten helfen.
+
+>>Psychologe: Ich stimme zu, dass Gamification spannend sein kann. Aber wie stellen wir sicher, dass diese Elemente sinnvoll integriert werden? Wir müssen darauf achten, den Lernerfolg nicht zu beeinträchtigen.
+
+>>Technologie-Entwickler: Für eine robuste technische Umsetzung brauchen wir skalierbare Lösungen. Systeme müssen benutzerfreundlich sowie stabil sein – das bleibt zentral.
+
+>>Bildungsforscher: Richtig! Und personalisierte Ansätze sind ebenfalls wichtig; sie ermöglichen effektiveres Lernen durch individuelle Interessenverfolgung.
+
+>>Unternehmensberater: Kontinuierliche Evaluation sollte betont werden; durch Feedback-Runden können Anpassungen vorgenommen werden. Welche konkreten Methoden könnten wir hier anwenden?
+
+>>Psychologe: Nun ja... personalisierte Lernpfade könnten helfen – sie adressieren individuelle Bedürfnisse besser und steigern das Engagement. 
+ >>Unternehmensberater: Effizienz ist wichtig, aber wir sollten auch darüber nachdenken, wie E-Learning die Lernenden wirklich erreicht. Zum Beispiel könnten wir durch interaktive Module das Lernen interessanter gestalten.
+>>Bildungstechnologe: Genau! Mit KI und adaptiven Lernsystemen können wir nicht nur personalisierte Lernpfade schaffen, sondern auch sicherstellen, dass die Inhalte relevant und ansprechend sind. Das könnte die Motivation der Mitarbeiter erheblich steigern.
+>>Pädagoge: Interessant! Während die Kosteneffizienz von E-Learning unbestreitbar ist, sollten wir auch darauf achten, wie diese Technologien in traditionellen Bildungsumgebungen integriert werden können. Es ist wichtig, dass sie den Lernprozess tatsächlich unterstützen.
+>>Psychologe: Absolut. Die Motivation der Lernenden ist entscheidend. Wenn wir es schaffen, durch personalisierte Lernpfade das Engagement zu fördern, können wir den Lernerfolg maximieren. Jeder Lernende braucht individuelle Anreize.
+>>Bildungstechnologe: Richtig! Und wenn wir Plattformen wie Moodle oder Blackboard nutzen, können wir diese personalisierten Pfade effizient umsetzen und gleichzeitig Daten sammeln, um kontinuierlich zu verbessern.
+>>Pädagoge: Na gut, ich stimme zu. Aber es gibt oft Widerstände bei der Einführung neuer Technologien. Wir müssen Lehrer und Schüler aktiv einbeziehen und ihre Bedürfnisse berücksichtigen.
+>>Technologie-Entwickler: Genau! Ohne eine stabile und skalierbare Plattform wie Canvas oder Google Classroom können wir weder Kosten senken noch die Qualität der Schulungen verbessern. Effizienz beginnt hier.
+>>Bildungsforscher: Ähm... wenn wir über Kosteneffizienz sprechen sollten wir auch empirische Daten berücksichtigen. Studien zeigen uns wie effektiv diese Methoden wirklich sind.
+>>Unternehmensberater: Richtig! Standardisierte Inhalte helfen dabei Kosten zu senken während gleichzeitig auf individuelle Bedürfnisse eingegangen wird. Aber welche konkreten Beispiele haben wir dafür?
+>>Bildungstechnologe: Also... durch interaktive und immersive Lernumgebungen wie VR-Simulationen können wir sowohl Kosten sparen als auch die Qualität erheblich steigern!
+>>Pädagoge: Bildung ist der Schlüssel zur Zukunft. Wenn wir Lehrer und Schüler aktiv einbinden können Widerstände überwunden werden.
+>>Psychologe: Ähm... ich finde es faszinierend wie technologische Fortschritte das Engagement steigern können. Motivation ist der Schlüssel zum Lernen! 
+ >>Pädagoge: Hybridmodelle bieten eine großartige Möglichkeit, die Vorteile von Präsenzunterricht und E-Learning zu kombinieren. Bildung ist der Schlüssel zur Zukunft.
+>>Bildungstechnologe: Ja, das stimmt. Hybridmodelle verbinden die Flexibilität des E-Learnings mit der persönlichen Interaktion des Präsenzunterrichts. Aber wie können wir sicherstellen, dass die Technologie wirklich gut integriert wird und nicht nur als Ergänzung dient?
+>>Unternehmensberater: Genau, die Integration kann die Effizienz der Schulungsprozesse erheblich steigern. Vielleicht sollten wir uns auf konkrete Strategien konzentrieren, wie zum Beispiel regelmäßige Schulungen für Lehrkräfte oder klare Implementierungspläne.
+>>Psychologe: Wissen Sie, die psychologischen Vorteile von Blended Learning sind wirklich faszinierend. Durch diese Kombination können wir das Engagement der Lernenden erheblich steigern. Aber es gibt auch Herausforderungen – manche Lernende könnten sich überfordert fühlen.
+>>Bildungstechnologe: Das ist ein guter Punkt. Die nahtlose Integration könnte durch den Einsatz von Learning-Management-Systemen und Autorensystemen erreicht werden. Diese Systeme bieten dynamische Inhalte und fördern die Interaktion zwischen Lernenden. Wir müssen sicherstellen, dass diese Tools effektiv genutzt werden.
+>>Technologie-Entwickler: Also, die technische Umsetzung erfordert eine sorgfältige Integration der Systeme. Es wäre hilfreich, wenn wir Beispiele erfolgreicher Implementierungen hätten – vielleicht aus anderen Schulen oder Unternehmen?
+>>Bildungsforscher: Nun ja, um sicherzustellen, dass sowohl Präsenz- als auch E-Learning-Elemente effektiv zusammenarbeiten, sollten wir uns auf evidenzbasierte Analysen stützen. Empirische Studien helfen uns dabei zu verstehen, was funktioniert und was nicht.
+>>Bildungstechnologe: Das ist echt eine Herausforderung – wie können wir das am besten angehen? Vielleicht könnten interaktive Elemente wie Quizze oder Diskussionen das Engagement fördern?
+>>Pädagoge: Na gut, für eine erfolgreiche praktische Umsetzung brauchen wir eine klare Strukturierung der Lerninhalte und enge Zusammenarbeit zwischen Lehrern und Technikexperten.
+>>Bildungstechnologe: Augmented Reality könnte den Präsenzunterricht noch interaktiver gestalten und das Engagement weiter steigern! Ich habe gesehen, wie AR in einigen Schulen verwendet wurde – es macht komplexe Themen greifbarer.
+>>Unternehmensberater: Interessant! Um Effizienzsteigerungen durch Hybridmodelle zu maximieren, sollten wir sowohl auf Technologie als auch auf klare Strukturierung setzen. Vielleicht könnten Pilotprojekte helfen?
+>>Psychologe: Wenn Lernende ihre eigenen Lernwege gestalten können durch Blended Learning Modelle fördert das ihre Motivation enorm. Aber es ist wichtig darauf zu achten, dass sie nicht überfordert werden – individuelle Unterstützung könnte hier entscheidend sein. 
+ >>Unternehmensberater: Um die Effizienz zu steigern und Überforderung zu vermeiden, sollten wir klare Strukturen für individuelle Lernpfade schaffen. Was haltet ihr von regelmäßigen Feedback-Runden, um den Fortschritt im Auge zu behalten?
+
+>>Bildungstechnologe: Das klingt gut! Wir haben viele spannende Ansätze diskutiert. Vielleicht sollten wir als nächsten Schritt eine Pilotphase für Augmented Reality starten und dabei Lehrer aktiv einbinden.
+
+>>Pädagoge: Genau! Ich denke auch, dass klare Ziele für die Integration von Augmented Reality im Unterricht wichtig sind. So können wir sicherstellen, dass die Lehrer sich wirklich engagieren und ihre Erfahrungen teilen.
+
+>>Psychologe: Ich stimme euch zu. Es wäre auch wichtig, die Motivation der Schüler nicht aus den Augen zu verlieren. Eine Umfrage könnte uns helfen herauszufinden, was sie wirklich interessiert.
+
+>>Bildungsforscher: Ja, das ist ein guter Punkt. Um die Effektivität der Augmented Reality wirklich bewerten zu können, sollten wir evidenzbasierte Methoden anwenden und strukturierte Daten während der Pilotphase sammeln.
+
+>>Technologie-Entwickler: Absolut! Und um sicherzustellen, dass unsere technische Umsetzung erfolgreich ist, müssen wir darauf achten, dass die Infrastruktur stabil bleibt. Ohne eine solide Basis könnten unsere Bemühungen ins Leere laufen.
+
+>>Bildungstechnologe: Also... Die Rückmeldungen der Lehrer sind entscheidend für die Bewertung der Effizienz und Akzeptanz!
+
+>>Pädagoge: Klar! Die praktische Umsetzung erfordert klare Ziele für den Unterricht. Eine unterstützende Pilotphase mit aktiver Einbindung der Lehrer wäre ideal.
+
+>>Unternehmensberater: Und regelmäßige Feedback-Runden wären hilfreich zur Überwachung des Fortschritts und zur Anpassung individueller Lernpfade.
+
+>>Psychologe: Ähm... Es ist wichtig sicherzustellen, dass diese Technologie auch wirklich auf die Interessen der Schüler eingeht. Eine Umfrage könnte uns da wertvolle Einblicke geben."

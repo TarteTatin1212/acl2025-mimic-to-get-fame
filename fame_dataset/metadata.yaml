@@ -1,0 +1,41 @@
+# metadata.yaml
+title: "You need to MIMIC to get FAME: Solving Meeting Transcript Scarcity with Multi-Agent Conversations"
+description: "Synthetic meeting transcripts in English and German generated using multi-agent conversations"
+version: "0.9"
+release_date: "2025-07-28"
+doi: "10.5281/zenodo.XXXXXX"
+paper_doi: "TBD (ACL 2025)"
+license: "MIT"
+languages: ["en", "de"]
+domains: ["meeting summarization", "synthetic data", "NLP"]
+size: "800 meetings (500 EN, 300 DE)"
+formats: ["CSV"]
+keywords: 
+  - meeting transcripts
+  - synthetic data
+  - multi-agent systems
+  - natural language processing
+  - meeting summarization
+contact: "kirstein@gipplab.org"
+dataset:
+  coverage:
+    temporal: "Generated 2025"
+    geographical: "Global (Wikipedia sources)"
+    topical: "28 domains from Wikipedia"
+  
+  methodology:
+    generation_framework: "MIMIC (Multi-agent IMItation of Conversations)"
+    stages: 7
+    agents: "Psychology-based LLM agents"
+    validation: "Human annotation for authenticity"
+  
+  
+  related_work:
+    extends: ["AMI Corpus", "ICSI Corpus", "QMSum"]
+    improves_upon: "Limited scenario coverage, non-English scarcity"
+    
+  technical_specs:
+    file_formats: ["CSV"]
+    encoding: "UTF-8"
+    schema_version: "1.0"
+    total_size: "~XXX MB"

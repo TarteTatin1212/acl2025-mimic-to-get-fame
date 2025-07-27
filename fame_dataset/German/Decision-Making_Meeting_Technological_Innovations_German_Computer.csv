@@ -1,0 +1,328 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Computer,"Ein Computer (englisch; deutsche Aussprache [kɔmˈpjuːtɐ]) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet. Dementsprechend werden vereinzelt auch die abstrahierenden beziehungsweise veralteten, synonym gebrauchten Begriffe Rechenanlage, Datenverarbeitungsanlage oder elektronische Datenverarbeitungsanlage sowie Elektronengehirn verwendet.
+Charles Babbage und Ada Lovelace (geborene Byron) gelten durch die von Babbage 1837 entworfene Rechenmaschine Analytical Engine als Vordenker des modernen universell programmierbaren Computers. Konrad Zuse (Z3, 1941 und Z4, 1945) in Berlin, John Presper Eckert und John William Mauchly (ENIAC, 1946) bauten die ersten funktionstüchtigen Geräte dieser Art. Bei der Klassifizierung eines Geräts als universell programmierbarer Computer spielt die Turing-Vollständigkeit eine wesentliche Rolle. Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingeführt hatte.
+Die frühen Computer wurden auch (Groß-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zunächst auf Zahlen beschränkt. Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und Tönen. Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.
+Mit zunehmender Leistungsfähigkeit eröffneten sich neue Einsatzbereiche. Computer sind heute in allen Bereichen des täglichen Lebens vorzufinden, meistens in spezialisierten Varianten, die auf einen vorliegenden Anwendungszweck zugeschnitten sind. So dienen integrierte Kleinstcomputer (eingebettetes System) zur Steuerung von Alltagsgeräten wie Waschmaschinen und Videorekordern oder zur Münzprüfung in Warenautomaten; in modernen Automobilen dienen sie beispielsweise zur Anzeige von Fahrdaten und steuern in „Fahrassistenten“ diverse Manöver selbst.
+Universelle Computer finden sich in Smartphones und Spielkonsolen. Personal Computer (engl. für persönliche Computer, als Gegensatz zu von vielen genutzten Großrechnern) dienen der Informationsverarbeitung in Wirtschaft und Behörden sowie bei Privatpersonen; Supercomputer werden eingesetzt, um komplexe Vorgänge zu simulieren, z. B. in der Klimaforschung oder für medizinische Berechnungen.
+
+
+Begriffsgeschichte
+
+
+Rechner
+Der deutsche Begriff Rechner ist abgeleitet vom Verb rechnen. Zur Etymologie siehe Rechnen#Etymologie.
+
+
+Computer
+Das englische Substantiv computer ist abgeleitet von dem englischen Verb to compute. Jenes ist abgeleitet von dem lateinischen Verb computare, was zusammenrechnen bedeutet.
+Der englische Begriff computer war ursprünglich eine Berufsbezeichnung für Hilfskräfte, die immer wiederkehrende Berechnungen (z. B. für die Astronomie, für die Geodäsie oder für die Ballistik) im Auftrag von Mathematikern ausführten und damit Tabellen wie z. B. eine Logarithmentafel füllten. Dieser Beruf wurde vorwiegend von Frauen ausgeübt.
+In der frühen Kirchengeschichte erfolgte eine Ablösung des jüdischen Kalenders durch den Julianischen Kalender. Die hieraus resultierenden Berechnungsschwierigkeiten des Osterdatums dauerten bis zum Mittelalter an und waren Gegenstand zahlreicher Publikationen, häufig betitelt mit Computus Ecclesiasticus. Doch finden sich noch weitere Titel, z. B. von Sigismund Suevus 1574, die sich mit arithmetischen Fragestellungen auseinandersetzen. Der früheste Text, in dem das Wort Computer isoliert verwendet wird, stammt von 1613. Der englische Autor Richard Brathwaite schrieb:
+
+Die Bedeutung und der Kontext des Textes sind nicht eindeutig und lassen mehrere Interpretationen zu. Mit computer ist wohl ein sehr intelligenter Mann gemeint, allerdings kann im Mittelalter nur Gott die Lebenszeit des Menschen beeinflussen, so dass im zweiten Teil des Zitats auch Gott handeln könnte. The daies of Man are threescore and ten ist ein Zitat aus Psalm 90,10 , der in der Einheitsübersetzung mit „Der ewige Gott – der vergängliche Mensch“ überschrieben ist.
+In der Zeitung The New York Times tauchte das Wort erstmals am 2. Mai 1892 in einer Kleinanzeige der United States Navy mit dem Titel A Computer Wanted  ‚Ein Rechner gesucht‘ auf, in der Kenntnisse in Algebra, Geometrie, Trigonometrie und Astronomie vorausgesetzt worden sind.
+An der University of Pennsylvania in Philadelphia wurden im Auftrag der United States Army ballistische Tabellen berechnet. Das Ergebnis waren Bücher für die Artillerie, die für unterschiedliche Geschütze Flugbahnen unterschiedlicher Geschosse vorhersagten. Diese Berechnungen erfolgten größtenteils von Hand. Die einzige Hilfe war eine Tabelliermaschine, die zu multiplizieren und zu dividieren vermochte. Die Angestellten, die dort rechneten, wurden „computer“ (im Sinne eines menschlichen Computers) genannt. Erstmals wurde der Begriff 1946 bei der dort entwickelten elektronischen Rechenanlage Electronic Numerical Integrator and Computer (ENIAC) für ein technisches Gerät verwendet. Seit 1962 ist der Begriff in Deutschland belegt.
+
+
+Grundlagen
+Grundsätzlich unterscheiden sich zwei Bauweisen: Ein Rechner ist ein Digitalrechner, wenn er mit digitalen Geräteeinheiten digitale Daten verarbeitet (also Zahlen und Textzeichen); er ist ein Analogrechner, wenn er mit analogen Geräteeinheiten analoge Daten verarbeitet (also kontinuierlich verlaufende elektrische Messgrößen wie Spannung oder Strom).
+Heute werden fast ausschließlich Digitalrechner eingesetzt. Diese folgen gemeinsamen Grundprinzipien, mit denen ihre freie Programmierung ermöglicht wird. Bei einem Digitalrechner werden dabei zwei grundsätzliche Bestandteile unterschieden: Die Hardware, die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, die die Programmierung des Computers beschreibt.
+Ein Digitalrechner besteht zunächst nur aus Hardware. Die Hardware stellt erstens einen Speicher bereit, in dem Daten portionsweise wie auf den nummerierten Seiten eines Buches gespeichert und jederzeit zur Verarbeitung oder Ausgabe abgerufen werden können. Zweitens verfügt das Rechenwerk der Hardware über grundlegende Bausteine für eine freie Programmierung, mit denen jede beliebige Verarbeitungslogik für Daten dargestellt werden kann: Diese Bausteine sind im Prinzip die Berechnung, der Vergleich und der bedingte Sprung. Ein Digitalrechner kann beispielsweise zwei Zahlen addieren, das Ergebnis mit einer dritten Zahl vergleichen und dann abhängig vom Ergebnis entweder an der einen oder der anderen Stelle des Programms fortfahren. In der Informatik wird dieses Modell theoretisch durch die eingangs erwähnte Turing-Maschine abgebildet; die Turing-Maschine stellt die grundsätzlichen Überlegungen zur Berechenbarkeit dar.
+Erst durch eine Software wird der Digitalcomputer jedoch nützlich. Jede Software ist im Prinzip eine definierte, funktionale Anordnung der oben geschilderten Bausteine Berechnung, Vergleich und bedingter Sprung, wobei die Bausteine beliebig oft verwendet werden können. Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt. Von dort kann sie von der Hardware ausgelesen und abgearbeitet werden. Dieses Funktionsprinzip der Digitalcomputer hat sich seit seinen Ursprüngen in der Mitte des 20. Jahrhunderts nicht wesentlich verändert, wenngleich die Details der Technologie erheblich verbessert wurden.
+Analogrechner funktionieren nach einem anderen Prinzip. Bei ihnen ersetzen analoge Bauelemente (Verstärker, Kondensatoren) die Logikprogrammierung. Analogrechner wurden früher häufiger zur Simulation von Regelvorgängen eingesetzt (siehe: Regelungstechnik), sind heute aber fast vollständig von Digitalcomputern abgelöst worden. In einer Übergangszeit gab es auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
+Mögliche Einsatzmöglichkeiten für Computer sind:
+
+Mediengestaltung (Bild- und Textverarbeitung)
+Verwaltungs- und Archivierungsanwendungen
+Steuerung von Maschinen und Abläufen (Drucker, Produktion in der Industrie durch z. B. Roboter, eingebettete Systeme)
+Berechnungen und Simulationen (z. B. BOINC)
+Medienwiedergabe (Internet, Fernsehen, Videos, Unterhaltungsanwendungen wie Computerspiele, Lernsoftware)
+Kommunikation (Chat, E-Mail, soziale Netzwerke)
+Softwareentwicklung
+
+
+Hardwarearchitektur
+Das heute allgemein angewandte Prinzip, das nach seiner Beschreibung durch John von Neumann von 1946 als Von-Neumann-Architektur bezeichnet wird, definiert für einen Computer fünf Hauptkomponenten:
+
+das Rechenwerk (im Wesentlichen die arithmetisch-logische Einheit (ALU)),
+das Steuerwerk,
+die Buseinheit,
+das Speicherwerk sowie
+die Eingabe-/Ausgabewerk(e).
+In den heutigen Computern sind die ALU und die Steuereinheit meistens zu einem Baustein verschmolzen, der so genannten CPU (Central Processing Unit, zentraler Prozessor).
+Der Speicher ist eine Anzahl von durchnummerierten, adressierbaren „Zellen“; jede von ihnen kann ein einzelnes Stück Information aufnehmen. Diese Information wird als Binärzahl, also eine Abfolge von ja/nein-Informationen im Sinne von Einsen und Nullen, in der Speicherzelle abgelegt.
+Bezüglich des Speicherwerks ist eine wesentliche Designentscheidung der Von-Neumann-Architektur, dass sich Programm und Daten einen Speicherbereich teilen (dabei belegen die Daten in aller Regel den unteren und die Programme den oberen Speicherbereich). Demgegenüber stehen in der Harvard-Architektur Daten und Programmen eigene (physikalisch getrennte) Speicherbereiche zur Verfügung. Der Zugriff auf die Speicherbereiche kann parallel realisiert werden, was zu Geschwindigkeitsvorteilen führt. Aus diesem Grund werden digitale Signalprozessoren häufig in Harvard-Architektur ausgeführt. Weiterhin können Daten-Schreiboperationen in der Harvard-Architektur keine Programme überschreiben (Informationssicherheit).
+In der Von-Neumann-Architektur ist das Steuerwerk für die Speicherverwaltung in Form von Lese- und Schreibzugriffen zuständig.
+Die ALU hat die Aufgabe, Werte aus Speicherzellen zu kombinieren. Sie bekommt die Werte von der Steuereinheit geliefert, verrechnet sie (addiert beispielsweise zwei Zahlen) und gibt den Wert an die Steuereinheit zurück, die den Wert dann für einen Vergleich verwenden oder in eine andere Speicherzelle schreiben kann.
+Die Ein-/Ausgabeeinheiten schließlich sind dafür zuständig, die initialen Programme in die Speicherzellen einzugeben und dem Benutzer die Ergebnisse der Berechnung anzuzeigen.
+
+
+Softwarearchitektur
+Die Von-Neumann-Architektur ist gewissermaßen die unterste Ebene des Funktionsprinzips eines Computers oberhalb der elektrophysikalischen Vorgänge in den Leiterbahnen. Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb. Um diesen Aufwand zu reduzieren, wurden Programmiersprachen entwickelt. Diese generieren die Zahlen innerhalb der Speicherzellen, die der Computer letztlich als Programm abarbeitet, aus Textbefehlen heraus automatisch, die auch für den Programmierer einen semantisch verständlichen Inhalt darstellen (z. B. GOTO für den „unbedingten Sprung“).
+Später wurden bestimmte sich wiederholende Prozeduren in so genannten Bibliotheken zusammengefasst, um nicht jedes Mal das Rad neu erfinden zu müssen, z. B.: das Interpretieren einer gedrückten Tastaturtaste als Buchstabe „A“ und damit als Zahl „65“ (im ASCII-Code). Die Bibliotheken wurden in übergeordneten Bibliotheken gebündelt, welche Unterfunktionen zu komplexen Operationen verknüpfen (Beispiel: die Anzeige eines Buchstabens „A“, bestehend aus 20 einzelnen schwarzen und 50 einzelnen weißen Punkten auf dem Bildschirm, nachdem der Benutzer die Taste „A“ gedrückt hat).
+In einem modernen Computer arbeiten sehr viele dieser Programmebenen über- bzw. untereinander. Komplexere Aufgaben werden in Unteraufgaben zerlegt, die von anderen Programmierern bereits bearbeitet wurden, die wiederum auf die Vorarbeit weiterer Programmierer aufbauen, deren Bibliotheken sie verwenden. Auf der untersten Ebene findet sich aber immer der so genannte Maschinencode – jene Abfolge von Zahlen, mit der der Computer auch tatsächlich gesteuert wird.
+
+
+Computersystem
+Als Computersystem bezeichnet man:
+
+ein Netzwerk oder einen Verbund aus mehreren Computern, die individuell gesteuert werden und auf gemeinsam genutzte Daten und Geräte zugreifen können;
+die einen einzelnen voll funktionstüchtigen Rechner in ihrem Zusammenspiel bedingende Gesamtheit von externen und internen Komponenten, d. h. Hardware, Software wie auch angeschlossenen Peripheriegeräten;
+ein System von Programmen zur Steuerung und Überwachung von Computern.
+
+
+Geschichte
+
+
+Arten
+
+
+Basierend auf Arbeitsweise des Computers
+Analogrechner
+Digitalrechner
+Hybridrechner
+
+
+Basierend auf der Größe
+Smartphone
+Personal Digital Assistant oder PDA, waren die Vorläufer der Smartphones.
+Tabletcomputer
+Eingebettetes System, z. B. im Auto, Fernseher, Waschmaschine usw.
+Einplatinencomputer, z. B. Raspberry Pi, billigste, sehr kleine Computer. Werden meist als eingebettetes System verwendet.
+Personal computer oder PC, hier als Desktop-Computer oder auch Arbeitsplatzrechner verstanden.
+Hostrechner oder auch Server, eingebunden in einem Rechnernetz, meist ohne eigenen Display, Tastatur usw.
+Thin Client sind Rechner, die nur in Zusammenarbeit mit einem größeren Rechner, meist Server, richtig funktionieren.
+Heimcomputer (veraltet), der Vorläufer des PC.
+Spielkonsole
+Smart-TV
+Netbook, ein kleines Notebook.
+Laptop oder Notebook
+Minicomputer (veraltet)
+Superminicomputer (veraltet)
+Mikrocomputer (veraltet)
+Mainframe computer oder Großrechner.
+Supercomputer, die schnellsten Rechner ihrer Zeit, benötigen den Platz einer Turnhalle, die Energie einer Kleinstadt und sind sehr teuer.
+
+
+Zukunftsperspektiven
+
+Zukünftige Entwicklungen bestehen voraussichtlich aus der möglichen Nutzung biologischer Systeme (Biocomputer), weiteren Verknüpfungen zwischen biologischer und technischer Informationsverarbeitung, optischer Signalverarbeitung und neuen physikalischen Modellen (Quantencomputer).
+Ein Megatrend ist derzeit (2017) die Entwicklung künstlicher Intelligenz. Hier simuliert man die Vorgänge im menschlichen Gehirn und erschafft so selbstlernende Computer, die nicht mehr wie bislang programmiert werden, sondern mit Daten trainiert werden ähnlich einem Gehirn. Den Zeitpunkt, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft, nennt man technologische Singularität. Künstliche Intelligenz wird heute (2017) bereits in vielen Anwendungen, auch alltäglichen, eingesetzt (s. Anwendungen der künstlichen Intelligenz). Hans Moravec bezifferte die Rechenleistung des Gehirns auf 100 Teraflops, Raymond Kurzweil auf 10.000 Teraflops. Diese Rechenleistung haben Supercomputer bereits deutlich überschritten. Zum Vergleich liegt eine Grafikkarte für 800 Euro (5/2016) bei einer Leistung von 10 Teraflops.  Vier Jahre später (Dezember 2020) besitzen bereits Videospielkonsolen für ca. 500 € vergleichbare Leistung.
+Für weitere Entwicklungen und Trends, von denen viele noch den Charakter von Schlagwörtern bzw. Hypes haben, siehe Autonomic Computing (= Rechnerautonomie), Grid Computing, Cloud Computing, Pervasive Computing, ubiquitäres Computing (= Rechnerallgegenwart) und Wearable Computing.
+Die weltweite Websuche nach dem Begriff „Computer“ nimmt seit Beginn der Statistik 2004 stetig ab. In den zehn Jahren bis 2014 war diese Zugriffszahl auf ein Drittel gefallen.
+
+
+Zeitleiste
+
+
+Weltweite Marktanteile der Computerhersteller
+
+Verkaufszahlen und Marktanteile der Computerhersteller nach Angaben des Marktforschungsunternehmens Gartner Inc., basierend auf Verkaufszahlen von Desktop-Computer, Notebooks, Netbooks, aber ohne Tabletcomputer, an Endkonsumenten:
+
+
+Bekannte Computerhersteller
+
+
+Aktuelle Hersteller
+Taiwan Acer (mit Gateway, Packard Bell, eMachines)
+Vereinigte Staaten Apple
+Taiwan ASRock
+Taiwan Asus
+Taiwan BenQ
+Deutschland Bluechip Computer
+Taiwan Compal
+Vereinigte Staaten Cray
+Vereinigte Staaten Dell
+Japan Fujitsu
+Taiwan Gigabyte
+China Volksrepublik Hasee
+Indien HCL
+Vereinigte Staaten HP Inc.
+Vereinigte Staaten IBM
+China Volksrepublik Lenovo
+Kanada MDG Computers
+Deutschland Medion
+Taiwan MSI
+Japan NEC Corporation
+Italien Olivetti
+Japan Panasonic
+Brasilien Positivo
+Taiwan Quanta Computer
+Russland Rover Computers
+Korea Sud Samsung
+Japan Sony
+Japan Toshiba
+Vereinigte Staaten Unisys
+Turkei Vestel
+Vereinigte Staaten ViewSonic
+Deutschland Wortmann
+
+
+Bekannte ehemalige Computerhersteller
+Vereinigtes Konigreich Acorn
+Vereinigte Staaten Amdahl Corporation
+Vereinigtes Konigreich Amstrad
+Vereinigte Staaten Atari
+Vereinigte Staaten Commodore International
+Vereinigte Staaten Compaq
+Vereinigte Staaten Control Data Corporation
+Vereinigte Staaten Digital Equipment Corporation (DEC)
+Polen ELWRO
+Deutschland Diehl-Daten-Systeme
+Deutschland Dietz-Computer-Systeme
+Deutschland Escom
+Japan/Deutschland Fujitsu Siemens Computers
+Osterreich Gericom
+Vereinigte Staaten Kaypro
+Deutschland Maxdata
+Vereinigte Staaten Mohawk Data Siences Corporation (MDS)
+Vereinigte Staaten NeXT
+Norwegen Norsk Data
+Deutschland Nixdorf Computer
+Deutschland Schneider Computer Division
+Vereinigtes Konigreich Sinclair Research
+Deutschland Waibel
+Deutschland Zuse KG
+Deutschland Robotron
+
+
+Literatur
+Konrad Zuse: Der Computer – Mein Lebenswerk. Springer, Berlin 1993, ISBN 3-540-56292-3. 
+Ron White: So funktionieren Computer. Ein visueller Streifzug durch den Computer & alles, was dazu gehört. Markt+Technik, München 2004, ISBN 3-8272-6714-5. 
+Charles Petzold: Code: Wie Computer funktionieren - Die Sprache von Hardware und Software verstehen. Mitp, Frechen 2023, ISBN 3-7475-0628-3. 
+Geschichte:
+
+Edmund Callis Berkeley: Giant Brains or Machines That Think. 7. Auflage. John Wiley & Sons 1949, New York 1963 (die erste populäre Darstellung der EDV, trotz des für moderne Ohren seltsam klingenden Titels sehr seriös und fundiert – relativ einfach antiquarisch und in fast allen Bibliotheken zu finden). 
+B. V. Bowden (Hrsg.): Faster Than Thought. Pitman, New York 1953 (Nachdruck 1963, ISBN 0-273-31580-3) – eine frühe populäre Darstellung der EDV, gibt den Stand seiner Zeit verständlich und ausführlich wieder; nur mehr antiquarisch und in Bibliotheken zu finden
+Michael Friedewald: Der Computer als Werkzeug und Medium. Die geistigen und technischen Wurzeln des Personalcomputers. GNT-Verlag, 2000, ISBN 3-928186-47-7. 
+Simon Head: The New Ruthless Economy. Work and Power in the Digital Age. Oxford UP 2005, ISBN 0-19-517983-8 (der Einsatz des Computers in der Tradition des Taylorismus). 
+Ute Hoffmann: Computerfrauen. Welchen Anteil hatten Frauen an der Computergeschichte und -arbeit? München 1987, ISBN 3-924346-30-5
+Loading History. Computergeschichte(n) aus der Schweiz. Museum für Kommunikation, Bern 2001, ISBN 3-0340-0540-7, Ausstellungskatalog zu einer Sonderausstellung mit Schweizer Schwerpunkt, aber für sich alleine lesbar
+Michael Homberg: Digitale Unabhängigkeit: Indiens Weg ins Computerzeitalter – Eine internationale Geschichte (Geschichte der Gegenwart), Wallstein, Göttingen 2022
+HNF Heinz Nixdorf Forum Museumsführer. Paderborn 2000, ISBN 3-9805757-2-1 – Museumsführer des nach eigener Darstellung weltgrößten Computermuseums
+Karl Weinhart: Informatik und Automatik. Führer durch die Ausstellungen. Deutsches Museum, München 1990, ISBN 3-924183-14-7 – Katalog zu den permanenten Ausstellungen des Deutschen Museums zum Thema; vor allem als ergänzende Literatur zum Ausstellungsbesuch empfohlen
+H. R. Wieland: Computergeschichte(n) – nicht nur für Geeks: Von Antikythera zur Cloud. Galileo Computing, 2010, ISBN 978-3-8362-1527-5
+Christian Wurster: Computers. Eine illustrierte Geschichte. Taschen, 2002, ISBN 3-8228-5729-7 (eine vom Text her leider nicht sehr exakte Geschichte der EDV mit einzelnen Fehlern, die aber durch die Gastbeiträge einzelner Persönlichkeiten der Computergeschichte und durch die zahlreichen Fotos ihren Wert hat). 
+Anfre Reifenrath: Geschichte der Simulation, Humboldt-Universität, Dissertation, Berlin 2000. Geschichte des Computers von den Anfängen bis zur Gegenwart unter besonderer Berücksichtigung des Themas der Visualisierung und Simulation durch den Computer.
+Claude E. Shannon: A Symbolic Analysis of Relay and Switching Circuits. In: Transactions of the American Institute of Electrical Engineers. Vol. 57, 1938, S. 713–723. 
+
+
+Weblinks
+
+Literatur über Computer im Katalog der Deutschen Nationalbibliothek
+Verzeichnis nahezu aller je gebauten Computertypen
+Liste der 500 leistungsstärksten Computer (englisch)
+The modern history of computing. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.Vorlage:SEP/Wartung/Parameter 1 und Parameter 2 und nicht Parameter 3
+Computergeschichte.de
+CRE193 Old School Computing Podcast über die Computertechnik der 1970er Jahre vor der Erfindung des Mikrocomputers
+Zeitungsreportage (auf Seite 2): Geschichte von Konrad Zuse und seinem ersten Computer in Berlin-Kreuzberg im Berliner Abendblatt im Oktober 2010
+Computermuseen
+
+Oldenburger Computer-Museum
+8-Bit-Museum
+Homecomputermuseum.de
+technikum29: Museum für Rechnertechnik und Computer mit funktionsfähigen Exponaten
+Reich illustriertes und kommentiertes Computermuseum (englisch)
+
+
+Einzelnachweise","[""Computer history"", ""Digital computing"", ""Von Neumann architecture"", ""Turing completeness"", ""Embedded systems""]","[{'role': 'Computer Scientist', 'description': 'An expert in computer science with a deep understanding of the history and architecture of computers.', 'expertise_area': 'Computer Science', 'perspective': 'Technical Insight', 'speaking_style': {'tone': 'formal and reserved, occasionally serious with a touch of sarcasm', 'language_complexity': 'technical language with industry jargon, frequent use of metaphors and analogies related to computer science', 'communication_style': 'direct and assertive, prefers active listening but uses rhetorical questions to challenge ideas', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of exclamations or questions to emphasize points', 'formality': 'formal', 'other_traits': 'uses pauses effectively to allow for reflection, occasionally interrupts to correct inaccuracies'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Halt'], 'catchphrases': ['Das ist der springende Punkt!', 'Im Grunde genommen...', '...und so weiter und so fort'], 'speech_patterns': ['varies sentence starters with technical terms', ""poses questions like 'Was denken Sie darüber?'""], 'emotional_expressions': ['Lachen', ""'Wow!'"", ""'Unglaublich!'""]}, 'social_roles': ['Information Giver', 'Evaluator-Critic'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Historian', 'description': 'A scholar specializing in the history of technology, with a focus on the evolution and impact of computers.', 'expertise_area': 'History of Technology', 'perspective': 'Historical Context', 'speaking_style': {'tone': 'casual and enthusiastic, often optimistic with a touch of humor', 'language_complexity': 'simple language with common terms, occasional use of storytelling to illustrate historical events', 'communication_style': 'collaborative and inquisitive, encourages dialogue and uses rhetorical questions to engage others', 'sentence_structure': 'varied sentence lengths, often short and concise but occasionally long for storytelling; frequent use of questions to provoke thought', 'formality': 'semi-formal', 'other_traits': 'uses pauses effectively for dramatic effect, rarely interrupts but interjects with historical anecdotes'}, 'personalized_vocabulary': {'filler_words': ['Na ja', 'Ehrlich gesagt', 'Wissen Sie'], 'catchphrases': ['Das erinnert mich an...', '...wie damals bei...', '...und das war der Anfang von...'], 'speech_patterns': ['begins sentences with historical context', ""'Was können wir daraus lernen?' as a question starter""], 'emotional_expressions': ['Lächeln', ""'Erstaunlich!'"", ""'Interessant!'""]}, 'social_roles': ['Opinion Giver', 'Group Observer'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Monitors the dynamics of the group and provides feedback on how the group is functioning as a whole and what improvements can be made.']}, {'role': 'Software Engineer', 'description': 'A professional with expertise in software development and practical applications of computer systems.', 'expertise_area': 'Software Development', 'perspective': 'Practical Application', 'speaking_style': {'tone': 'semi-formal and confident, occasionally enthusiastic with a touch of humor', 'language_complexity': 'technical language with industry jargon, occasional use of analogies related to software development', 'communication_style': 'collaborative and inquisitive, prefers active listening but uses rhetorical questions to engage others', 'sentence_structure': 'varied sentence lengths, often short and concise but occasionally long for detailed explanations; frequent use of questions to clarify points', 'formality': 'semi-formal', 'other_traits': 'uses pauses effectively for emphasis, rarely interrupts but interjects with practical examples'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Das ist der Knackpunkt!', '...und das führt uns zu...', '...wie bei der letzten Implementierung...'], 'speech_patterns': ['begins sentences with technical context', ""'Was denken Sie über diese Lösung?' as a question starter""], 'emotional_expressions': ['Lächeln', ""'Fantastisch!'"", ""'Interessant!'""]}, 'social_roles': ['Implementer', 'Blocker'], 'social_roles_descr': ['Puts plans and decisions of the group into action and ensures practical implementation.', ""Frequently opposes ideas and suggestions without offering constructive alternatives and delays the group's progress.""]}, {'role': 'Ethicist', 'description': 'A specialist in ethics focusing on the societal implications and ethical considerations of computer technology.', 'expertise_area': 'Ethics', 'perspective': 'Societal Impact', 'speaking_style': {'tone': 'thoughtful and reflective, often serious with a touch of empathy', 'language_complexity': 'balanced language with ethical terminology, frequent use of analogies related to moral philosophy', 'communication_style': 'collaborative and probing, encourages dialogue and uses rhetorical questions to explore ethical dilemmas', 'sentence_structure': 'long and complex sentences with subordinate clauses for detailed ethical analysis; occasional short sentences for emphasis', 'formality': 'formal', 'other_traits': 'uses pauses effectively to allow contemplation; rarely interrupts but interjects with ethical considerations'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Nun', 'Ehrlich gesagt'], 'catchphrases': ['Das wirft eine wichtige Frage auf...', '...und das bringt uns zu einem ethischen Dilemma...', '...im Einklang mit unseren Werten...'], 'speech_patterns': ['begins sentences with ethical context', ""'Wie können wir das moralisch rechtfertigen?' as a question starter""], 'emotional_expressions': ['Seufzen', ""'Beeindruckend!'"", ""'Nachdenklich!'""]}, 'social_roles': ['Harmonizer', 'Standard Setter'], 'social_roles_descr': ['Mediates in conflicts and ensures that tensions in the group are reduced to promote a harmonious working environment.', 'Emphasizes the importance of adhering to certain norms and standards within the group to ensure quality and efficiency.']}]","Das Treffen konzentrierte sich auf die Entwicklung und Nutzung von Computern, beginnend mit den frühen Konzepten von Charles Babbage und Ada Lovelace bis hin zu modernen Anwendungen. Die Bedeutung der Turing-Vollständigkeit für universell programmierbare Computer wurde hervorgehoben. Es wurde festgestellt, dass frühe Computer hauptsächlich numerische Daten verarbeiteten, während moderne Geräte auch Buchstaben und Töne umwandeln können. Die Von-Neumann-Architektur definiert die Hauptkomponenten eines Computers, darunter das Rechenwerk und die CPU. Die Softwarearchitektur ermöglicht durch Programmiersprachen eine vereinfachte Programmierung. Zukünftige Entwicklungen könnten biologische Systeme und Quantencomputer umfassen, wobei künstliche Intelligenz als Megatrend identifiziert wurde. Der Rückgang der Websuche nach dem Begriff „Computer“ seit 2004 wurde ebenfalls diskutiert. Abschließend wurden bekannte Hersteller wie Apple und Lenovo sowie ehemalige Unternehmen wie Commodore erwähnt.","[""Scene 1: Opening and Greetings\nTLDR: Participants briefly greet each other and set the tone for the meeting.\n- Brief welcome from the host\n- Quick acknowledgment of participants' expertise\n- Setting expectations for a collaborative discussion"", ""Scene 2: Historical Context of Computers\nTLDR: Discuss the evolution of computers from early concepts to modern applications.\n- Historian shares insights on Charles Babbage and Ada Lovelace\n- Computer Scientist highlights Turing completeness and Von Neumann architecture\n- Open floor for anecdotes or personal experiences related to computer history"", ""Scene 3: Modern Applications and Challenges\nTLDR: Explore current uses of computers, including embedded systems and AI trends.\n- Software Engineer discusses practical applications in software development\n- Ethicist raises ethical considerations around AI as a megatrend\n- Spontaneous contributions on challenges faced in modern computing"", ""Scene 4: Future Developments in Computing\nTLDR: Delve into potential future technologies like quantum computing and biological systems.\n- Computer Scientist introduces emerging technologies with technical insights\n- Historian provides historical parallels to past technological shifts\n- Open discussion on implications for society and industry"", ""Scene 5: Decline in Web Searches for 'Computer'\nTLDR: Analyze the significance of reduced interest in traditional computing terms.\n- Ethicist questions societal impact of shifting focus away from traditional computing\n- Software Engineer offers perspective on evolving industry terminology\n- Participants share thoughts on how this trend affects their fields"", ""Scene 6: Decision-Making Process\nTLDR: Evaluate options, weigh pros and cons, reach consensus or make a decision.\n- Facilitated discussion to summarize key points from previous scenes\n- Participants propose action items based on discussions \n- Assign responsibilities for follow-up tasks"", ""Scene 7: Closing Remarks and Next Steps\nTLDR: Wrap up the meeting with final thoughts and outline next steps.\n- Host summarizes decisions made during the meeting \n- Participants express any final reflections or concerns \n- Agree on timeline for action items""]",">>Computer Scientist: Guten Tag zusammen! Ich freue mich, dass wir heute hier sind, um unsere Expertise zu teilen und gemeinsam an spannenden Themen zu arbeiten. Es ist faszinierend, wie sich die Computertechnologie entwickelt hat und welche Rolle sie in unserem täglichen Leben spielt.
+>>Historian: Ja, die Geschichte der Computer ist wirklich faszinierend. Das erinnert mich an die Zeit, als Konrad Zuse den ersten funktionsfähigen Computer in Berlin baute.
+>>Software Engineer: Die praktische Anwendung von Softwareentwicklung ist entscheidend für die Effizienz und Funktionalität moderner Computer. Was denken Sie über die Herausforderungen bei der Implementierung neuer Technologien?
+>>Ethicist: Ich freue mich besonders darauf, die gesellschaftlichen Auswirkungen der Computertechnologie zu diskutieren. Wie können wir sicherstellen, dass diese Entwicklungen im Einklang mit unseren Werten stehen?
+
+>>Computer Scientist: Also, ich denke, es ist wichtig, dass wir die technische Entwicklung der Computer im Kontext ihrer gesellschaftlichen Auswirkungen betrachten. Zum Beispiel spielt die Turing-Vollständigkeit eine entscheidende Rolle – das bedeutet im Grunde genommen, dass ein System jede berechenbare Aufgabe lösen kann. Was denken Sie darüber?
+>>Historian: Ehrlich gesagt, die Entwicklung von Computern ist erstaunlich! Wissen Sie noch, als Konrad Zuse den Z3 baute? Das war ein Wendepunkt in der Geschichte der Technologie. Aber was ich besonders interessant finde, ist wie diese frühen Entwicklungen den Weg für moderne Innovationen geebnet haben.
+>>Software Engineer: Genau! Besonders spannend finde ich die Implementierung von eingebetteten Systemen in Haushaltsgeräten. Da gibt es immer Herausforderungen. Zum Beispiel müssen wir oft Kompromisse eingehen zwischen Innovation und Praktikabilität.
+>>Ethicist: Beeindruckend! Wenn wir über die gesellschaftlichen Auswirkungen sprechen – sind wir bereit für diese Verantwortung? Ein konkretes Beispiel wäre etwa der Einsatz von KI in der Medizin – wie stellen wir sicher, dass ethische Standards eingehalten werden?
+>>Computer Scientist: Ja genau. Wir sollten auch bedenken, wie universell programmierbare Systeme unsere Welt verändert haben. Diese Systeme ermöglichen uns eine Flexibilität und Anpassungsfähigkeit in vielen Bereichen des Lebens.
+>>Historian: Interessant! Na ja... Die Geschichte zeigt uns oft unerwartete Wendungen. Der ENIAC war so ein Beispiel – plötzlich waren komplexe Berechnungen möglich! Und jetzt sehen wir ähnliche Sprünge mit Quantencomputern.
+>>Software Engineer: Genau! Bei neuen Technologien müssen wir oft Kompromisse eingehen zwischen Innovation und Praktikabilität. Haben Sie Beispiele dafür gesehen?
+>>Ethicist: Nun... Wenn wir über ethische Konsequenzen sprechen – sind wir bereit für diese Verantwortung? Denken Sie an autonome Fahrzeuge – wer trägt die Verantwortung bei einem Unfall? Solche Fragen müssen geklärt werden. 
+ >>Historian: Um ehrlich zu sein, wenn wir über die frühen Tage der Computerentwicklung sprechen, denke ich an Charles Babbage und Ada Lovelace. Ihre Arbeit im 19. Jahrhundert war wirklich bahnbrechend. Es ist erstaunlich, wie weit wir seitdem gekommen sind!
+
+>>Computer Scientist: Absolut! Die Turing-Vollständigkeit und die Von-Neumann-Architektur sind fundamentale Konzepte, die den modernen Computer erst möglich gemacht haben. Ohne diese Prinzipien wären komplexe Berechnungen und Anwendungen heute nicht denkbar.
+
+>>Software Engineer: Genau! Wenn wir über praktische Anwendungen dieser historischen Konzepte sprechen, fallen mir eingebettete Systeme ein. Diese kleinen Computer in Alltagsgeräten wie Waschmaschinen oder Autos sind direkte Ergebnisse dieser Evolution von Babbage bis zur Von-Neumann-Architektur.
+
+>>Ethicist: Das bringt uns zu einer wichtigen Frage: Wie rechtfertigen wir moralisch die tiefgreifende Integration von Computern in unser tägliches Leben? Die gesellschaftlichen Auswirkungen sind enorm und erfordern eine sorgfältige Betrachtung unserer ethischen Standards.
+
+>>Computer Scientist: Interessanter Punkt! Die Integration von Computern in unser tägliches Leben ist wirklich bemerkenswert. Wenn wir die Von-Neumann-Architektur betrachten, sehen wir ihre Rolle als Grundlage für diese allgegenwärtige Präsenz. Was denken Sie darüber?
+
+>>Historian: Das erinnert mich an Konrad Zuse und seinen Z3. Damals war es revolutionär und heute stehen wir vor ähnlichen ethischen Fragen. Was können wir aus diesen historischen Entwicklungen lernen?
+
+>>Ethicist: Wir müssen bedenken, wie diese Technologien unsere sozialen Strukturen beeinflussen können. Es ist wichtig sicherzustellen, dass technologische Fortschritte nicht zu Entfremdung oder Ungleichheit führen.
+
+>>Software Engineer: Bei der Implementierung von Software in eingebetteten Systemen geht es nicht nur um Effizienz; Sicherheit und Zuverlässigkeit spielen ebenfalls eine große Rolle. Das ist der Knackpunkt!
+
+>>Computer Scientist: Im Grunde genommen bietet die Von-Neumann-Architektur eine Blaupause für die Integration von Computern in unser tägliches Leben. Aber wie stellen wir sicher, dass diese Technologie verantwortungsvoll genutzt wird?
+
+>>Historian: Ehrlich gesagt erinnert mich das an den Wendepunkt mit dem Personal Computer – viele waren skeptisch damals! Diese Skepsis hat sich in Abhängigkeit verwandelt und markierte den Beginn einer neuen technologischen Ära.
+
+>>Ethicist: Seufzen... Wir müssen sicherstellen, dass technologische Fortschritte im Einklang mit unseren ethischen Werten stehen und keine sozialen Ungleichheiten verstärken. 
+ >>Software Engineer: Also, wenn wir über die praktischen Anwendungen von Softwareentwicklung sprechen, denke ich an eingebettete Systeme. Diese sind überall um uns herum und machen unser Leben einfacher, wie bei der letzten Implementierung in Haushaltsgeräten. Interessant ist auch, wie sie in der Automobilindustrie eingesetzt werden, um Fahrdaten zu verarbeiten und Manöver zu steuern. Was denken Sie darüber?
+
+>>Computer Scientist: Ja, genau! Eingebettete Systeme sind tatsächlich faszinierend, weil sie die Brücke zwischen Hardware und Software schlagen. Sie sind wie die unsichtbaren Hände, die unsere Geräte steuern und optimieren. Aber das ist der springende Punkt! Die Herausforderung liegt darin, diese Systeme sicher und effizient zu gestalten. Haben Sie Beispiele für aktuelle Herausforderungen?
+
+>>Historian: Na ja, eingebettete Systeme haben eine lange Geschichte. Das erinnert mich an Konrad Zuse und seine Z3 – ein echter Meilenstein! Wissen Sie, diese Technologie hat sich enorm weiterentwickelt und ist jetzt in fast jedem Gerät zu finden. Zum Beispiel in modernen Smartphones oder medizinischen Geräten.
+
+>>Ethicist: Nun... das wirft eine wichtige Frage auf. Wie können wir das moralisch rechtfertigen? Wenn eingebettete Systeme versagen – besonders in kritischen Bereichen –, wer trägt dann die Verantwortung? Es geht nicht nur um technische Standards; es betrifft uns alle. Denken Sie an autonome Fahrzeuge – was passiert bei einem Unfall?
+
+>>Computer Scientist: Genau! Die ethischen Fragen sind entscheidend. Wir müssen Sicherheitsprotokolle berücksichtigen – im Grunde genommen wie bei einem komplexen Algorithmus: Ein kleiner Fehler kann große Auswirkungen haben. Und was meinen Sie zur Skalierbarkeit dieser Systeme? Können sie mit den wachsenden Anforderungen Schritt halten?
+
+>>Historian: Ehrlich gesagt erinnert mich das an die Zeit, als Computer noch riesige Maschinen waren mit wenigen Anwendungen. Heute sind sie überall und haben unser Leben revolutioniert! Aber was können wir daraus lernen? Technologische Fortschritte bringen immer neue Herausforderungen mit sich.
+
+>>Software Engineer: Genau! Und diese Herausforderungen betreffen auch praktische Anwendungen – denken Sie an Haushaltsgeräte oder Autos. Fantastisch! Aber welche neuen Technologien könnten hier helfen?
+
+>>Ethicist: Ehrlich gesagt müssen wir sicherstellen, dass solche Technologien nicht nur den Zugang zu Informationen verbessern... sondern auch soziale Ungleichheiten verringern. Wie können wir das moralisch rechtfertigen? Vielleicht durch gezielte Regulierung und faire Zugangsbedingungen.
+
+>>Computer Scientist: Ähm... Skalierbarkeit ist ebenfalls wichtig! Diese Systeme wachsen ständig und müssen flexibel genug sein für zukünftige Anforderungen. Zum Beispiel könnte Cloud-Computing hier eine Lösung bieten.
+
+>>Historian: Na ja... jede technologische Revolution bringt neue Herausforderungen mit sich – von den frühen Rechenmaschinen bis heute. Interessant! Wir sollten immer auch die ethischen Auswirkungen im Blick behalten. 
+ >>Computer Scientist: Also, wir stehen wirklich vor einer neuen Ära der Computertechnologie. Quantum Computing und biologische Systeme könnten die Art und Weise, wie wir Daten verarbeiten, grundlegend verändern! Was denken Sie darüber?
+>>Software Engineer: Das ist interessant! Wenn wir über die praktische Anwendung von Quantum Computing sprechen, denke ich an die enormen Möglichkeiten in der Datenverarbeitung und Optimierung. Es gibt so viele Chancen, aber auch Herausforderungen. Wie sehen Sie das?
+>>Historian: Na ja, wenn wir uns die Geschichte der Computertechnologie ansehen, erinnert mich das an die Einführung der ersten programmierbaren Rechner wie Zuses Z3 und ENIAC. Diese waren damals revolutionär und haben unsere Welt nachhaltig verändert. Aber könnte Quantum Computing nicht auch neue Probleme schaffen? Was können wir daraus lernen?
+>>Ethicist: Nun, das bringt uns zu einer wichtigen Frage: Wie können wir sicherstellen, dass diese Technologien nicht soziale Ungleichheiten verstärken? Denken Sie an den Zugang zu digitaler Bildung oder Gesundheitsversorgung – hier gibt es bereits große Unterschiede.
+>>Computer Scientist: Halt! Die ethischen Implikationen sind tatsächlich tiefgreifend. Aber lassen Sie uns nicht vergessen—
+>>Historian (unterbricht): Darf ich kurz einhaken? Gibt es schon konkrete Beispiele dafür? Ich meine für den Einsatz von Quantum Computing zur Verringerung sozialer Ungleichheiten?
+>>Computer Scientist: Gute Frage! Denken Sie an Projekte wie Quantenalgorithmen zur Verbesserung des Zugangs zu Bildung oder Gesundheitsversorgung in unterversorgten Gebieten. Das ist der springende Punkt!
+>>Historian: Ehrlich gesagt, die Vorstellung von Quantum Computing erinnert mich an...
+>>Software Engineer (überlappt): Genau! Und das führt uns zu der Frage... (lacht) Wissen Sie noch bei unserem letzten Projekt mit dem alten System? Da hatten wir ähnliche Diskussionen!
+>>(beide lachen kurz)
+>>Software Engineer: ...wie wir diese Technologien in bestehende Systeme integrieren können. Die Herausforderung liegt darin—zum Beispiel bei der Kompatibilität mit vorhandener Infrastruktur oder den Schulungsanforderungen für Mitarbeiter.
+>>(Gespräch geht weiter) 
+ >>Software Engineer: Ähm, die abnehmende Websuche nach 'Computer' könnte darauf hinweisen, dass sich die Terminologie und das Interesse der Nutzer verändert haben. Wir sehen eine Verschiebung hin zu spezifischeren Begriffen wie 'Smartphone', 'Cloud Computing' oder 'KI'. Das zeigt, wie sich die Technologie weiterentwickelt und spezialisierter wird.
+
+>>Historian: Na ja, das erinnert mich an die Zeit, als der Begriff 'Computer' noch für Menschen verwendet wurde, die Berechnungen durchführten. Wissen Sie, diese Verschiebung in der Terminologie zeigt auch, wie sich unsere Nutzung und unser Verständnis von Technologie weiterentwickelt haben. Was können wir daraus lernen?
+
+>>Ethicist: Welche Auswirkungen hat diese Verschiebung auf unsere Gesellschaft und wie können wir sicherstellen, dass alle davon profitieren? Diese Veränderungen könnten tiefgreifende Folgen für verschiedene Bereiche haben...
+
+>>Computer Scientist (unterbricht): Entschuldigung, ich wollte nur kurz einwerfen - könnten wir vielleicht auch über den Einfluss dieser Spezialisierung auf die Arbeitswelt sprechen? Ich denke da an Automatisierung und neue Berufsfelder. Diese Veränderung zeigt auch, wie sich die Anforderungen an Fachkräfte ändern und welche neuen Kompetenzen gefragt sind.
+
+>>Ethicist: Gute Idee! Diese Entwicklung könnte tatsächlich neue Chancen schaffen oder bestehende Strukturen herausfordern. Ähm... insbesondere in Bezug auf den Zugang zu Bildung und Arbeitsplätzen.
+
+>>Historian (schmunzelt): Das zeigt wirklich, wie schnell sich alles ändert – von Großrechnern zu Smartphones! Welche historischen Parallelen sehen wir hier?
+
+>>Ethicist: Ja genau! Wir müssen sicherstellen, dass bei diesen schnellen Veränderungen niemand zurückgelassen wird – sei es durch Bildung oder Zugang zu Technologie. 
+ >>Software Engineer: Also, um die nächsten Schritte zu klären: Wer übernimmt die Implementierung der neuen Sicherheitsprotokolle? Das ist wichtig!
+>>Computer Scientist: Bevor wir uns auf die Implementierung stürzen, sollten wir die verschiedenen Optionen evaluieren. Welche Protokolle sind am sichersten und gleichzeitig effizient? Was denken Sie darüber?
+>>Historian: Wenn wir über Sicherheitsprotokolle sprechen, sollten wir auch aus jüngeren Ereignissen lernen. Zum Beispiel haben große Datenlecks in den letzten Jahren gezeigt, wie wichtig robuste Sicherheitsmaßnahmen sind. Was können wir daraus lernen?
+>>Ethicist: Bei der Implementierung müssen wir auch gesellschaftliche Auswirkungen bedenken. Wie stellen wir sicher, dass diese Protokolle im Einklang mit unseren Werten stehen und keine sozialen Ungleichheiten verstärken?
+>>Software Engineer: Genau! Um das voranzutreiben, sollten wir konkrete Aufgaben verteilen. Wer kann sich um die Evaluierung kümmern und wer übernimmt die Integration in unsere Systeme?
+>>Computer Scientist: Vielleicht könnte ich die Evaluierung übernehmen und du kümmerst dich um die Integration. Das ist wichtig!
+>>Historian: Klare Verantwortlichkeiten waren schon immer entscheidend. Vielleicht sollten wir aus dieser Erfahrung lernen und spezifische Aufgaben zuweisen.
+>>Ethicist: Eine wichtige Frage ist, wie können wir sicherstellen, dass unsere Maßnahmen nicht nur technisch effizient sind, sondern auch gesellschaftlich verantwortungsvoll? Wir könnten zunächst mögliche ethische Bedenken diskutieren.
+>>Software Engineer: Fantastisch! Um mit der Evaluierung zu beginnen, könnten wir eine Liste mit den wichtigsten Kriterien erstellen. Wer möchte diese Aufgabe übernehmen? 
+ >>Computer Scientist: Also, ich denke, wir sollten die Evaluierung der Sicherheitsprotokolle nicht nur auf technische Effizienz beschränken. Es ist wichtig, auch die gesellschaftlichen Auswirkungen zu berücksichtigen. Vielleicht könnten wir konkrete Kriterien entwickeln, um diese Aspekte besser zu bewerten.
+
+>>Ethicist: Genau! Wenn wir die gesellschaftlichen Auswirkungen betrachten, müssen wir sicherstellen, dass unsere Entscheidungen ethisch vertretbar sind. Wir könnten zum Beispiel regelmäßige Workshops einführen, um unsere ethischen Richtlinien zu überprüfen und anzupassen.
+
+>>Historian: Das erinnert mich an den Fall von Sony im Jahr 2014. Damals führte ein Mangel an sozialer Verantwortung zu einem massiven Datenleck. Wir sollten aus solchen Beispielen lernen und eine ausgewogene Herangehensweise entwickeln.
+
+>>Software Engineer: Ich stimme zu! Um das umzusetzen, brauchen wir klare Verantwortlichkeiten und einen realistischen Zeitplan. Vielleicht sollten wir nächste Woche mit der Definition unserer Aufgaben beginnen und dabei mögliche Herausforderungen identifizieren.
+
+>>Computer Scientist: Ja, das klingt gut! Lassen Sie uns sicherstellen, dass sowohl technische als auch gesellschaftliche Aspekte in unseren Plänen berücksichtigt werden. Ein realistischer Zeitplan wird entscheidend sein.
+
+>>Ethicist: Um sicherzustellen, dass unsere Sicherheitsprotokolle effizient und ethisch vertretbar sind... Eine Arbeitsgruppe könnte sich speziell mit diesen Fragen beschäftigen und konkrete Maßnahmen vorschlagen.
+
+>>Historian: Die Geschichte zeigt uns immer wieder die Folgen von Ignoranz gegenüber sozialen Aspekten bei technischen Entwicklungen. Der Sony-Fall ist ein gutes Beispiel dafür. Solche Lektionen sollten uns wirklich zum Nachdenken bringen!
+
+>>Software Engineer: Also gut! Lassen Sie uns klare Verantwortlichkeiten festlegen und einen realistischen Zeitplan erstellen. Jeder sollte bis nächste Woche seine Aufgaben definiert haben."

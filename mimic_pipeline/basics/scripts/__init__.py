@@ -1,0 +1,1 @@
+# Make sure to include the __init__.py file to treat the scripts folder as a package

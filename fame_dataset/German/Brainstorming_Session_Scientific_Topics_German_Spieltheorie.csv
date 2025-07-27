@@ -1,0 +1,279 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Spieltheorie,"Die Spieltheorie ist eine mathematische Theorie, in der Entscheidungssituationen modelliert werden, in denen mehrere Beteiligte miteinander interagieren. Sie versucht dabei unter anderem, das rationale Entscheidungsverhalten in sozialen Konfliktsituationen zu erfassen. Die Spieltheorie ist originär ein Teilgebiet der Mathematik. Sie bedient mannigfaltige Anwendungsfelder.
+In diesem Artikel wird die nicht-kooperative Spieltheorie behandelt, die von der kooperativen Spieltheorie zu unterscheiden ist. Unten finden sich einige Bemerkungen zu den Unterschieden.
+
+
+Begriff und Abgrenzung
+Ein Spiel im Sinne der Spieltheorie ist eine Entscheidungssituation mit mehreren Beteiligten, die sich mit ihren Entscheidungen gegenseitig beeinflussen. Im Unterschied zur klassischen Entscheidungstheorie modelliert diese Theorie also Situationen, in denen der Erfolg des Einzelnen nicht nur vom eigenen Handeln, sondern auch von dem anderer abhängt (interdependente Entscheidungssituation).
+Der Begriff Spieltheorie (engl. game theory) entstand aus zuvor von den Begründern verwendeten Begriffsumschreibungen wie Theorie der Gesellschaftsspiele (1928) bzw. theory of games (1944). Obwohl bereits in den Publikationen von 1928 und 1944 ökonomische Anwendungen als primäre Zielsetzung formuliert wurden, befinden sich dort mehrfache Hinweise auf Implikationen für Gesellschaftsspiele wie Schach, das Bluffen beim Poker, Baccara und das Signalisieren beim Bridge. Auch späteren Autoren dienten Gesellschaftsspiele als Beispiele, etwa für John Forbes Nash in seiner Dissertation von 1950, in der er im Anschluss an einen Existenzbeweis für das nachfolgend nach ihm benannte Gleichgewicht als einfaches Beispiel eine Berechnung für ein Drei-Personen-Poker durchführte. In späterer Zeit wurde im deutschen Sprachraum wiederholt der Begriff Interaktive Entscheidungstheorie für treffender als Spieltheorie befunden. Aufgrund der weiten Verbreitung des Begriffs Spieltheorie konnten sich solche Vorschläge aber nicht durchsetzen.
+Der Begriff Spieltheorie taucht wiederum auch in anderen Gebieten der theoretischen Behandlung von Spielen auf – siehe Spielwissenschaft, Spielpädagogik, Ludologie oder Homo ludens.
+
+
+Anwendung
+Die Spieltheorie ist weniger eine zusammenhängende Theorie als mehr ein Satz von Analyseinstrumenten. Anwendungen findet die Spieltheorie vor allem im Operations Research, in den Wirtschaftswissenschaften (sowohl Volkswirtschaftslehre als auch Betriebswirtschaftslehre), in der Ökonomischen Analyse des Rechts (law and economics) als Teilbereich der Rechtswissenschaften, in der Politikwissenschaft, in der Soziologie, in der Psychologie, in der Informatik, in der linguistischen Textanalyse und seit den 1980ern auch in der Biologie (insb. die evolutionäre Spieltheorie).
+
+
+Kooperative vs. nicht-kooperative Spieltheorie
+
+Generell wird die nicht-kooperative von der kooperativen Spieltheorie so unterschieden: Können die Spieler bindende Verträge abschließen, so spricht man von kooperativer Spieltheorie. Sind hingegen alle Verhaltensweisen (also auch eine mögliche Kooperation zwischen Spielern) self-enforcing, d. h., sie ergeben sich aus dem Eigeninteresse der Spieler, ohne dass bindende Verträge abgeschlossen werden können, so spricht man von nicht-kooperativer Spieltheorie.
+Kooperative Spieltheorie ist als axiomatische Theorie von Koalitionsfunktionen (charakteristischen Funktionen) aufzufassen und ist auszahlungsorientiert. Nicht-kooperative Spieltheorie ist dagegen aktions- bzw. strategieorientiert. Die nicht-kooperative Spieltheorie ist ein Teilgebiet der Mikroökonomik, während die kooperative Spieltheorie einen Theoriezweig eigener Art darstellt. Bekannte Konzepte der kooperativen Spieltheorie sind der Kern, die Shapley-Lösung und die Nash-Verhandlungslösung.
+Die nicht-kooperative Spieltheorie spielt in der universitären Lehre eine größere Rolle als die kooperative Spieltheorie. Es gibt viele Lehrbücher zur Spieltheorie und es gibt an Universitäten viele Veranstaltungen mit dem Titel Spieltheorie, in denen die kooperative Spieltheorie gar nicht oder nur am Rande behandelt wird. Obwohl die Alfred-Nobel-Gedächtnispreisträger Robert J. Aumann und John Forbes Nash Jr. beide entscheidende Beiträge zur kooperativen Spieltheorie geleistet haben, wurde der Preis vom Komitee ausdrücklich für ihre Beiträge zur nicht-kooperativen Spieltheorie vergeben.
+Dennoch wird in der aktuellen Forschung weiterhin die kooperative Spieltheorie untersucht, und ein Großteil neuer spieltheoretischer wissenschaftlicher Artikel sind der kooperativen Spieltheorie zuzuordnen. Die weiterhin große Bedeutung der kooperativen Spieltheorie in der Forschung ist auch daran abzulesen, dass in der wissenschaftlichen Diskussion sehr präsente Forschungsfelder wie die Verhandlungstheorie und die Matchingtheorie zu einem großen Teil mit den Mitteln der kooperativen Spieltheorie analysiert werden.
+
+
+Geschichte
+
+
+Ausgangspunkt
+Historischer Ausgangspunkt der Spieltheorie ist die Analyse des Homo oeconomicus, insbesondere durch Daniel Bernoulli, Joseph Bertrand, Antoine-Augustin Cournot (1838), Francis Ysidro Edgeworth (1881), Frederik Ludvig Bang von Zeuthen und Heinrich Freiherr von Stackelberg. Diese spieltheoretischen Analysen waren jedoch immer Antworten auf spezifische Fragestellungen, ohne dass eine allgemeinere Theorie zur Analyse strategischer Interaktion daraus entwickelt worden wäre. Die ersten allgemeinen Überlegungen stellte Émile Borel 1921 an.
+
+
+Grundlagen
+Erst die formalisierte Analyse von Gesellschaftsspielen und der Beweis des Min-Max-Theorems durch John von Neumann im Jahr 1928 legte die Grundlage der modernen Spieltheorie. Schnell erkannte John von Neumann die Anwendbarkeit des von ihm entwickelten Ansatzes zur Analyse wirtschaftlicher Fragestellungen, so dass 1944 in dem Buch „Spieltheorie und wirtschaftliches Verhalten“ (Theory of Games and Economic Behavior), das er zusammen mit Oskar Morgenstern verfasste, bereits eine Verquickung zwischen der mathematischen Theorie und der wirtschaftswissenschaftlichen Anwendung erfolgte. Dieses Buch gilt auch heute noch als wegweisender Meilenstein. Zunächst hatte man nur für Konstantsummenspiele eine Lösung.
+Eine allgemeine Lösungsmöglichkeit bot erst das Nashgleichgewicht ab 1950. Danach erst hat sich die Spieltheorie allmählich als anerkannte Methodik in den Wirtschaftswissenschaften sowie mehr und mehr auch in den sozialwissenschaftlichen Nachbardisziplinen durchgesetzt.
+
+
+Weitere Entwicklung
+Seit 1970 ist eine sehr stürmische Entwicklung der Spieltheorie und ein Ausufern in andere Disziplinen zu beobachten. In diesem Sinne entstanden seit damals die Kombinatorische und die Algorithmische Spieltheorie als sehr mathematisch orientierte Zweige sowie die Evolutionäre Spieltheorie, die am stärksten von der Annahme bewusster Entscheidungen abrückt.
+
+
+Würdigung
+Für spieltheoretische Arbeiten wurde bisher acht Mal der Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften vergeben, welche die große Bedeutung der Spieltheorie für die moderne Wirtschaftstheorie verdeutlichen: 1994 an John Forbes Nash Jr., John Harsanyi und Reinhard Selten, 1996 an William Vickrey, 2005 an Robert Aumann und Thomas Schelling und 2012 an Alvin Roth und Lloyd S. Shapley. Für ihre Erforschung begrenzter Rationalität erhielten Herbert A. Simon 1978 und Daniel Kahneman 2002 den Nobel-Gedächtnispreis. Auch die Preise an Leonid Hurwicz, Eric S. Maskin und Roger B. Myerson im Jahr 2007 für ihre Forschung auf dem Gebiet der Mechanismus-Design-Theorie stehen in engem Zusammenhang zu spieltheoretischen Fragestellungen.
+
+
+Methodik
+
+
+Interaktion als Spiel modellieren
+Die Spieltheorie modelliert die verschiedensten Situationen als ein Spiel. Dabei ist der Begriff „Spiel“ durchaus wörtlich zu nehmen: In der mathematisch-formalen Beschreibung wird festgelegt, welche Spieler es gibt, welchen sequenziellen Ablauf das Spiel hat und welche Handlungsoptionen (Züge) jedem Spieler in den einzelnen Stufen der Sequenz zur Verfügung stehen.
+Beispiele: Im Spiel Cournot-Duopol sind die Spieler die Firmen und ihre jeweilige Handlungsoption ist ihre Angebotsmenge. Im Bertrand-Duopol sind die Spieler wieder die Duopolisten, ihre Handlungsoptionen sind aber hier die Angebotspreise. Im Spiel Gefangenendilemma sind die Spieler die beiden Gefangenen und ihre Aktionsmengen sind aussagen und schweigen. In Anwendungen der Politikwissenschaft sind die Spieler oft Parteien oder Lobbyverbände, während in der Biologie die Spieler meistens Gene oder Spezies sind.
+Zur Beschreibung eines Spiels gehört zudem eine Auszahlungsfunktion: Diese Funktion ordnet jedem möglichen Spielausgang einen Auszahlungsvektor zu, d. h., durch diesen Vektor wird festgelegt, welchen Gewinn ein Spieler macht, wenn ein bestimmter Spielausgang eintritt. Bei Anwendungen in den Wirtschaftswissenschaften ist die Auszahlung meistens als monetäre Größe zu verstehen, bei politikwissenschaftlichen Anwendungen kann es sich hingegen um Wählerstimmen handeln, während bei biologischen Anwendungen meistens die Auszahlung aus Reproduktionsfähigkeit oder Überlebensfähigkeit besteht.
+Man kann in der Spieltheorie zwei bedeutende Aspekte erkennen:
+
+Formalisierung
+Ein bedeutender Schritt ist, ein Spiel im Sinne der Spieltheorie zu formalisieren. Die Spieltheorie hat hierfür eine reichhaltige Sprache entwickelt. Siehe unter: Spieldarstellung
+Lösung
+Abhängig vom Kontext kann man in einem weiteren Schritt eine Vorhersage des Spielausganges versuchen. Siehe hierfür: Lösungskonzepte.
+Eine wichtige Technik beim Finden von Gleichgewichten in der Spieltheorie ist das Betrachten von Fixpunkten.
+In der Informatik versucht man, mit Hilfe von Suchstrategien und Heuristiken (allgemein: Techniken der Kombinatorischen Optimierung und Künstlichen Intelligenz) bestimmte Spiele, wie Schach, SameGame, Mancala, Go zu lösen oder z. B. zu beweisen, dass derjenige, der anfängt, bei richtiger Strategie immer gewinnt (das ist z. B. der Fall für Vier gewinnt, Qubic und Fünf in eine Reihe) oder z. B. derjenige, der den zweiten Zug hat, immer wenigstens ein Unentschieden erzielen kann (Beispiel Mühle).
+Man spricht in diesem Zusammenhang vom first movers advantage bzw. second movers advantage.
+
+
+Informationsbegriff
+Entscheidend für Darstellung und Lösung ist der Informationsstand der Spieler. Unterschieden werden hierbei drei Begriffe: Vollständige, perfekte (bzw. vollkommene) Information und perfektes Erinnerungsvermögen, je nachdem, ob der Spieler über die Spielregeln, die Züge der anderen Spieler und die eigenen Informationen aus der Vergangenheit informiert ist. Standard ist das Spiel mit vollständiger Information sowie perfektem Erinnerungsvermögen. Perfekte Information gehört nicht zu den Standardannahmen, da sie hinderlich bei der Erklärung zahlreicher einfacher Konflikte wäre.
+Vollständige Information, die Kenntnis aller Spieler über die Spielregeln, ist eine Annahme, die man beim Spiel im klassischen Wortsinn (vgl. Spiel) gemeinhin als Voraussetzung für gemeinsames Spielen betrachten wird. Unstimmigkeiten über die Spielregeln, etwa, ob bei Mensch ärgere Dich nicht die Pflicht besteht, einen gegnerischen Kegel zu schlagen, wenn dies im betreffenden Zug möglich ist, oder ob bei Mau Mau eine gezogene Karte sofort gelegt werden darf, wenn sie passt, werden in der Regel als ernsthafte Störung betrachtet, wenn sie nicht vor dem Spiel geklärt wurden. Andererseits wird die Spieltheorie auf viele Situationen angewendet, für die dieses Informationserfordernis zu rigide wäre, da mit dem Vorhandensein gewisser Informationen nicht gerechnet werden kann (z. B. bei politischen Entscheidungen). Darum ist es sinnvoll, die klassische Spieltheorie, die mit vollständiger Information arbeitet, um die Möglichkeit unvollständiger Information zu erweitern. Andererseits ist dieses Feld dadurch begrenzt, weil sich für jedes Spiel mit unvollständiger Information ein Spiel mit vollständiger Information konstruieren lässt, das strategisch äquivalent ist.
+Perfekte Information, also die Kenntnis sämtlicher Spieler über sämtliche Züge sämtlicher Spieler, ist eine rigorose Forderung, die in vielen klassischen Spielen nicht erfüllt ist: Sie ist beispielsweise in den meisten Kartenspielen verletzt, weil zu Spielbeginn der Zug des Zufallsspielers und die Verteilung der Blätter unbekannt ist, da man jeweils nur die eigenen Karten einsehen kann. Darum wird in spieltheoretischen Modellen meist nicht von perfekter Information ausgegangen. Erfüllt ein Spiel das Kriterium perfekter Information, ist es in der Regel vom Prinzip her einfacher zu lösen; auch wenn sich in der Realität wie beim Schach aufgrund der Komplexität große Hürden ergeben.
+Perfektes Erinnerungsvermögen ist das Wissen jedes Spielers über sämtliche Informationen, die ihm bereits in der Vergangenheit zugänglich waren. Obwohl diese Annahme zumindest vom Prinzip her auf den ersten Blick immer erfüllt zu sein scheint, gibt es Gegenbeispiele: Handelt es sich bei einem Spiel um ein Team kooperierender Akteure wie beim Skat, kennt „der“ einzelne Spieler zum Zeitpunkt einer eigenen Entscheidung nicht mehr den Informationskontext vergangener Züge, die ein Partner aufgrund seiner Karten getroffen hat.
+
+
+Darstellungsformen
+
+Spiele werden meist entweder in strategischer (Normal-)Form oder in extensiver Form beschrieben. Weiterhin ist noch die Agentennormalform zu nennen. Da es Spiele gibt, denen keine dieser Formen gerecht wird, muss bisweilen auf allgemeinere mathematische oder sprachliche Beschreibungen zurückgegriffen werden.
+Die Extensivform
+
+Die Extensivform eines Spiels bezeichnet in der Spieltheorie eine Darstellungsform von Spielen, die sich auf die Baumdarstellung zur Veranschaulichung der zeitlichen Abfolge von Entscheidungen stützt.
+Die Normalform
+
+Die Normalform eines Spiels beschränkt sich im Wesentlichen auf die A-priori-Strategiemengen der einzelnen Spieler und eine Auszahlungsfunktion als Funktion der gewählten Strategiekombinationen. Gerecht wird diese Darstellungsform am ehesten solchen Spielen, bei denen alle Spieler ihre Strategien zeitgleich und ohne Kenntnis der Wahl der anderen Spieler festlegen. Zur Veranschaulichung verwendet man meist eine Bimatrixform.
+Die Agentennormalform
+
+Wer oder was ist eigentlich ein Spieler in einer gegebenen Situation? Die Agentennormalform beantwortet diese Frage so: Jeder Zug im Verlauf eines Spiels verlangt nach einem Spieler im Sinne eines unabhängigen Entscheiders, da die lokale Interessenlage einer Person oder Institution von Informationsbezirk zu Informationsbezirk divergieren kann. Dazu verfügt die Agentennormalform generell über so viele Spieler bzw. Agenten, wie es Informationsbezirke persönlicher Spieler gibt. Der „natürliche“ Spieler 1 wird hier beispielsweise zu den Agenten 1a und 1b abstrahiert.
+
+
+Lösungskonzepte
+
+Sobald ein Spiel definiert ist, kann man sodann das Analyseinstrumentarium der Spieltheorie anwenden, um beispielsweise zu ermitteln, welche die optimalen Strategien für alle Spieler sind und welches Ergebnis das Spiel haben wird, falls diese Strategien zur Anwendung kommen.
+Um Fragestellungen spieltheoretisch zu analysieren, werden sogenannte Lösungskonzepte verwendet.
+Gleichgewichte
+Das weitaus prominenteste Lösungskonzept, das Nash-Gleichgewicht, stammt von John Forbes Nash Jr. (1950). Die obige Fragestellung – welche möglichen Ausgänge ein Spiel hat, wenn sich alle Spieler individuell optimal verhalten – kann durch die Ermittlung der Nash-Gleichgewichte eines Spiels beantwortet werden: Die Menge der Nash-Gleichgewichte eines Spiels enthält per Definition diejenigen Strategieprofile, in denen sich ein einzelner Spieler durch Austausch seiner Strategie durch eine andere Strategie bei gegebenen Strategien der anderen Spieler nicht verbessern könnte.
+Weitere Gleichgewichte
+Für andere Fragestellungen gibt es andere Lösungskonzepte. Wichtige sind das Minimax-Gleichgewicht, das wiederholte Streichen dominierter Strategien sowie Teilspielperfektheit und in der kooperativen Spieltheorie der Kern, der Shapley-Wert, der Nucleolus, der Tijs-Wert, die Dutta-Ray-Lösung und die Verhandlungslösung.
+Gemischte vs. reine Strategien
+Während die reine Strategie eines Spielers eine Funktion ist, die jeder Spielstufe, in der die Aktionsmenge des Spielers nicht leer ist, eine Aktion zuordnet, ist eine gemischte Strategie eine Funktion, die jeder Spielstufe, in der die Aktionsmenge des Spielers nicht leer ist, eine Wahrscheinlichkeitsverteilung über der in dieser Spielstufe verfügbaren Aktionsmenge zuordnet. Damit ist eine reine Strategie der Spezialfall einer gemischten Strategie, in der immer dann, wenn die Aktionsmenge eines Spielers nicht leer ist, die gesamte Wahrscheinlichkeitsmasse auf eine einzige Aktion der Aktionsmenge gelegt wird. Man kann leicht zeigen, dass jedes Spiel, dessen Aktionsmengen endlich sind, ein Nash-Gleichgewicht in gemischten Strategien haben muss. In reinen Strategien ist die Existenz eines Nash-Gleichgewichtes hingegen für viele Spiele nicht gewährleistet.
+Die Analyse von Gleichgewichten in gemischten Strategien wurde wesentlich durch eine Reihe von Beiträgen John Harsanyis in den 70er und 80er Jahren vorangebracht.
+
+
+Einige besondere Probleme
+Im Folgenden sollen auf der Basis der beschriebenen Spielformen und deren Lösungskonzepte einige Probleme genannt werden, die sich in der spieltheoretischen Behandlung als besonders einflussreich erwiesen haben.
+Einmalige vs. wiederholte Spiele
+Ein Spiel, das nach einmaliger Durchführung nicht wiederholt wird, wird als sogenanntes One-Shot-Game bezeichnet. Wird ein One-Shot-Game mehrmals hintereinander durchgeführt, wobei sich im Allgemeinen die Gesamtauszahlung für jeden Spieler durch die (eventuell aufdiskontierten) Auszahlungen jedes einzelnen One-Shot-Games ergibt, so spricht man von einem wiederholten Spiel. Die gesamte Folge aller One-Shot-Games bezeichnet man als Superspiel. In der Spieltheorie unterscheidet man zudem zwischen endlich wiederholten und unendlich wiederholten Superspielen.
+Die Analyse wiederholter Spiele wurde wesentlich von Robert J. Aumann vorangebracht.
+Ein Lösungskonzept vieler endlich wiederholter Spiele ist die sogenannte Rückwärtsinduktion, indem zunächst die Lösung des letzten One-Shot-Games ermittelt und darauf basierend die Lösungen der vorangegangenen Spiele bis zum ersten Spiel bestimmt werden. Eine bekannte Anwendung der Backward-Induction ist das sogenannte Chainstore-Paradoxon.
+Unvollständige Information und Reputation
+Kennt ein Spieler selbst nur seinen eigenen Typ, während andere nur diesbezügliche probabilistische Erwartungen hegen, so spricht man von unvollständiger, speziell asymmetrischer Information. Reputationseffekte treten immer dann auf, wenn ein Spieler für andere als einem bestimmten Typ zugehörig identifiziert werden kann.
+Allgemein bekannte Spielregeln
+Die Spieltheorie unterstellt zunächst nicht nur jedem Spieler Rationalität, sondern auch, dass alle Spieler wissen, dass alle Spieler rational sind etc.
+Man unterstellt also allgemein bekannte Spielregeln, bzw. allgemein bekannte Rationalität. Im Unterschied zur „perfekten“ Rationalität werden zunehmend auch Spieltheorien mit eingeschränkter Rationalität formuliert, die ggf. auch Zweifel an der Rationalität von Spielern zulassen (u. a. auch in der evolutionären Spieltheorie).
+Evolutionäre Spieltheorie
+Von evolutionärer Spieltheorie spricht man meist dann, wenn das Verhalten der Spieler nicht durch rationale Entscheidungskalküle abgeleitet wird, sondern als Ergebnis von kulturellen oder genetischen Evolutionsprozessen begründet wird. Oft kann man die stabilen Ergebnisse durch statische Stabilitätskonzepte charakterisieren. Ein derartiges Konzept ist die evolutionär stabile Strategie, auch kurz „ESS“ genannt (Maynard Smith und Price, 1973). Evolutionstheoretisch besagt diese Spieltheorie, dass jeweils nur die am besten angepasste Strategie bzw. Mutante überleben kann.
+Spieltheorie und Mechanismus-Design
+Die Spieltheorie untersucht, wie rationale Spieler ein gegebenes Spiel spielen. In der Mechanismus-Designtheorie wird diese Fragestellung jedoch umgekehrt, und es wird versucht, zu einem gewollten Ergebnis ein entsprechendes Spiel zu entwerfen, um den Ausgang bestimmter regelbezogener Prozesse zu bestimmen oder festzulegen. Dies geschieht im Zuge der Lösungen für ein Mechanismus-Design-Problem. Dieses Vorgehen kann nicht nur für ""reine"" Spiele, sondern auch für das Verhalten von Gruppen in Wirtschaft und Gesellschaft genutzt werden.
+
+
+Rezeption
+Die Spieltheorie erlaubt es, soziale Konfliktsituationen, die strategische Spiele genannt werden, facettenreich abzubilden und mathematisch streng zu lösen. Aufgrund der unrealistischen Modellannahmen wird die empirische Erklärungskraft der Spieltheorie in der Regel in Abrede gestellt. Kein Mensch wird jemals so rational sein, wie es den Spielern durch die spieltheoretischen Lösungskonzepte unterstellt wird. Menschen unterliegen stets kognitiven Beschränkungen, die perfekt rationales Verhalten in komplexen Spielen ausschließen. Indes muss nach Auffassung des Bamberger Politikwissenschaftlers Reinhard Zintl zwischen dem Anwendungsfall als Verhaltenstheorie und demjenigen als Verfassungstheorie unterschieden werden; und es sei je nach Erklärungsproblem auch eine inkonsistente Verwendung einzelner Akteursmodelle durchaus gestattet und zweckmäßig.
+
+
+Beispiele
+
+
+Berühmte Probleme
+Gefangenendilemma
+Feiglingsspiel (englisch chicken game), auch Falke-Taube-Spiel
+Hirschjagd
+Kampf der Geschlechter
+Ultimatumspiel, Pirate game
+Eisverkäufer-am-Strand-Problem (Hotellings Gesetz)
+Beauty Contest
+Triell
+Braess-Paradoxon
+Teilungsproblem
+Vertrauensspiel
+Tragik der Allmende
+Dollarauktion
+Matching Pennies
+
+
+Berühmte Strategien
+Trigger-Strategien:
+
+Tit for Tat (Quid pro quo)
+Tit for Two Tats
+Grim
+
+
+Siehe auch
+Quanten-Spieltheorie
+Ehrenfeucht-Fraïssé-Spiele in der Modelltheorie
+game semantics/Dialogische Logik
+Reputation (Spieltheorie)
+Strategie (Spieltheorie)
+Unberechenbarkeit (Spieltheorie)
+Graphenspiele
+Pendelschlichtung
+
+
+Literatur
+Christian Rieck: Spieltheorie – eine Einführung. Rieck, Eschborn 2012, ISBN 978-3-924043-91-9. 
+Florian Bartholomae, Marcus Wiens: Spieltheorie - Ein anwendungsorientiertes Lehrbuch. Springer Gabler Verlag, Wiesbaden 2016, ISBN 978-3-8349-4419-1. 
+Michael Sauer: Operations Research kompakt. Oldenbourg Verlag, München 2009, ISBN 978-3-486-59082-1. 
+Jörg Bewersdorff: Glück, Logik und Bluff: Mathematik im Spiel – Methoden, Ergebnisse und Grenzen. 5. Auflage. Vieweg+Teubner Verlag, Wiesbaden 2010, ISBN 3-8348-0775-3, doi:10.1007/978-3-8348-9696-4 (behandelt Anwendungen auf Gesellschaftsspiele und die historische Entwicklung). 
+Andreas Diekmann: Spieltheorie: Einführung, Beispiele, Experimente. Rowohlts Enzyklopädie, Reinbek bei Hamburg 2009, ISBN 978-3-499-55701-9. 
+Steven N. Durlauf, Lawrence E. Blume: Game Theory. Palgrave Macmillan, 2010, ISBN 978-0-230-23890-9.
+Manfred Eigen, Ruthild Winkler: Das Spiel. Piper, München 1987, ISBN 3-492-02151-4 (Spieltheorie im naturwissenschaftlichen Umfeld, neu aufgelegt 2010: ISBN 978-3-924043-95-7). 
+Len Fisher: Schere, Stein, Papier. Spieltheorie im Alltag. aus dem Englischen von Andreas Held. Spektrum Akademischer Verlag, Heidelberg 2010, ISBN 978-3-8274-2467-9.
+Drew Fudenberg, Jean Tirole: Game Theory. MIT Press, Cambridge/MA 1991, ISBN 978-0-262-06141-4. 
+Robert Gibbons: A prime in game theory. Harvester Wheatsheaf, New York 1992, ISBN 0-7450-1159-4.
+Herbert Gintis: Game theory evolving. 2. Aufl. Princeton University Press, Princeton 2009, ISBN 978-0-691-14050-6.
+Manfred J. Holler, Gerhard Illing: Einführung in die Spieltheorie. 6. Auflage. Springer Verlag, Berlin 2005, ISBN 3-540-27880-X. 
+Alexander Mehlmann: Strategische Spiele für Einsteiger – Eine verspielt-formale Einführung in Methoden, Modelle und Anwendungen der Spieltheorie. (Reihe: Mathematik für Einsteiger). Vieweg + Teubner, 2007, ISBN 978-3-8348-0174-6.
+Roger B. Myerson: Game Theory. Analysis of Conflict. Harvard University Press 1991, ISBN 0-674-34115-5.
+John von Neumann, Oskar Morgenstern: Theory of Games and Economic Behavior. University Press, Princeton NJ 2004, ISBN 0-691-11993-7 (Erstveröffentlichung 1944, gilt als erste systematische Veröffentlichung zur Spieltheorie). 
+Wolfgang Ortmanns: Entscheidungs- und Spieltheorie: eine anwendungsbezogene Einführung. Verlag Wissenschaft & Praxis, Sternenfels 2008, ISBN 978-3-89673-489-1. 
+Martin J. Osborne, Ariel Rubinstein: Bargaining and Markets. Academic Press, San Diego 1990, ISBN 0-12-528631-7. 
+Martin J. Osborne, Ariel Rubinstein: A Course in Game Theory. MIT Press, 1994, ISBN 0-262-65040-1. 
+Guillermo Owen: Game Theory. Academic Press, San Diego 1995, ISBN 0-12-531151-6. 
+Burkhard Rauhut, Norbert Schmitz und Ernst-Wilhelm Zachow: Spieltheorie. Teubner, Stuttgart 1979. 
+Anna Karlin, Yuval Peres: Game theory, Alive, American Mathematical Society 2017, pdf
+Michael Maschler, Eilon Solan, Shmuel Zamir: Game Theory, 2nd Edition. Cambridge University Press, Cambridge 2020, ISBN 978-1-108-49345-1.
+
+
+Weblinks
+
+Literatur von und über Spieltheorie im Katalog der Deutschen Nationalbibliothek
+Don Ross: Game Theory. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.
+Till Grüne-Yanoff: Game Theory. In: James Fieser, Bradley Dowden (Hrsg.): Internet Encyclopedia of Philosophy.
+Vorlesungsskript Einführung in die Spieltheorie von Prof. Dr. Leininger (TU Dortmund)
+Open Yale Courses: ECON 159: Game Theory – Vorlesungen zum Download (24 × 75 Minuten) von der Yale University
+Games and AI Group des Fachbereichs Informatik der Universität Maastricht (englisch) – Computergestützte Strategien in Gesellschaftsspielen
+Gametheory.net (englisch)
+Gambit – Software zur Analyse von endlichen, strategischen und extensiven Spielen
+Professor Rieck's Spieltheorie-Seite – Einfache Beispiele und Erklärungen zur Spieltheorie
+
+
+Einzelnachweise","[""Game theory"", ""Non-cooperative game theory"", ""Cooperative game theory"", ""Economic applications"", ""Mathematical modeling""]","[{'role': 'Economist', 'description': 'A professional with extensive knowledge in economic applications of game theory.', 'expertise_area': 'Economics', 'perspective': 'Application in Economic Models', 'speaking_style': {'tone': 'formal and reserved, occasionally sarcastic', 'language_complexity': 'technical language with industry jargon, use of metaphors and analogies', 'communication_style': 'direct and assertive, prefers active listening', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of rhetorical questions', 'formality': 'formal', 'other_traits': 'uses pauses effectively, rhythmically structured speech'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Halt'], 'catchphrases': ['Das ist eine interessante Frage.', 'Um es klar zu sagen,', '...in der Theorie...'], 'speech_patterns': ['beginnt oft mit einer Zusammenfassung', '...was ich damit meine ist...', '...um das zu verdeutlichen...'], 'emotional_expressions': ['Lachen', ""'Wow!'"", ""'Unglaublich!'""]}, 'social_roles': ['Information Giver', 'Evaluator-Critic'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Mathematician', 'description': 'An expert in the mathematical foundations and modeling techniques of game theory.', 'expertise_area': 'Mathematics', 'perspective': 'Theoretical Framework and Formalization', 'speaking_style': {'tone': 'formal and reserved, occasionally optimistic', 'language_complexity': 'technical language with mathematical jargon, use of precise definitions and logical reasoning', 'communication_style': 'collaborative and inquisitive, prefers active listening and asking clarifying questions', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of conditional statements', 'formality': 'semi-formal to formal', 'other_traits': 'uses pauses effectively to emphasize points, structured speech with clear transitions'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Na ja'], 'catchphrases': ['Das ist eine interessante Überlegung.', '...in der Praxis...', '...um das zu beweisen...'], 'speech_patterns': ['beginnt oft mit einer Hypothese', '...was ich damit sagen möchte ist...', '...um das zu erklären...'], 'emotional_expressions': ['Lachen', ""'Erstaunlich!'"", ""'Faszinierend!'""]}, 'social_roles': ['Initiator-Contributor', 'Standard Setter'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Emphasizes the importance of adhering to certain norms and standards within the group to ensure quality and efficiency.']}, {'role': 'Psychologist', 'description': 'A specialist in understanding human behavior and decision-making processes.', 'expertise_area': 'Psychology', 'perspective': 'Behavioral Insights and Cognitive Factors', 'speaking_style': {'tone': 'casual and enthusiastic, occasionally humorous', 'language_complexity': 'simple language with common terms, use of storytelling and analogies', 'communication_style': 'collaborative and inquisitive, prefers active listening and empathetic responses', 'sentence_structure': 'varied sentence length, frequent use of questions and exclamations', 'formality': 'semi-formal to informal', 'other_traits': 'uses pauses effectively for emphasis, rhythmically structured speech with engaging anecdotes'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Weißt du'], 'catchphrases': ['Das ist wirklich spannend.', '...um das zu verdeutlichen...', '...was ich damit sagen möchte...'], 'speech_patterns': ['beginnt oft mit einer persönlichen Geschichte', '...was ich damit meine ist...', '...um das zu erklären...'], 'emotional_expressions': ['Lachen', ""'Fantastisch!'"", ""'Unglaublich!'""]}, 'social_roles': ['Opinion Giver', 'Encourager'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Political Scientist', 'description': 'An expert in the application of game theory to political strategies and decision-making.', 'expertise_area': 'Political Science', 'perspective': 'Strategic Interaction in Political Contexts', 'speaking_style': {'tone': 'formal and serious, occasionally optimistic', 'language_complexity': 'technical language with political jargon, use of metaphors and historical references', 'communication_style': 'direct and assertive, prefers active listening and asking probing questions', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of rhetorical questions and conditional statements', 'formality': 'formal to semi-formal', 'other_traits': 'uses pauses effectively for emphasis, structured speech with clear transitions'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun'], 'catchphrases': ['Das ist eine wichtige Überlegung.', '...in der Praxis...', '...um das zu verdeutlichen...'], 'speech_patterns': ['beginnt oft mit einer historischen Referenz', '...was ich damit sagen möchte ist...', '...um das zu erklären...'], 'emotional_expressions': ['Lachen', ""'Erstaunlich!'"", ""'Beeindruckend!'""]}, 'social_roles': ['Coordinator', 'Aggressor'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.']}]","Die Sitzung konzentrierte sich auf die Spieltheorie, eine mathematische Theorie zur Modellierung von Entscheidungssituationen mit mehreren Beteiligten. Es wurde zwischen kooperativer und nicht-kooperativer Spieltheorie unterschieden. Kooperative Spieltheorie ermöglicht bindende Verträge zwischen Spielern, während bei der nicht-kooperativen Spieltheorie alle Verhaltensweisen aus Eigeninteresse entstehen. Die nicht-kooperative Spieltheorie ist aktions- und strategieorientiert und spielt in der universitären Lehre eine größere Rolle. Historisch begann die moderne Spieltheorie mit John von Neumanns Min-Max-Theorem 1928 und dem Nash-Gleichgewicht 1950. Seit den 1970er Jahren hat sich die Theorie stark weiterentwickelt und findet Anwendung in verschiedenen Disziplinen wie Wirtschaftswissenschaften, Politikwissenschaft und Biologie. Wichtige Lösungskonzepte sind das Nash-Gleichgewicht, Minimax-Gleichgewicht und evolutionär stabile Strategien. Die Sitzung endete mit einer Diskussion über die Bedeutung der Spieltheorie für soziale Konfliktsituationen und ihre begrenzte empirische Erklärungskraft aufgrund unrealistischer Modellannahmen.","[""Scene 1: Brief Greeting and Setting the Stage\nTLDR: Participants greet each other briefly and set the stage for the brainstorming session.\n- Brief greeting among participants\n- Overview of meeting objectives\n- Encouragement for creative thinking and collaboration"", ""Scene 2: Introduction to Game Theory Concepts\nTLDR: Discuss basic concepts of game theory, including cooperative and non-cooperative game theory.\n- Definition of game theory\n- Difference between cooperative and non-cooperative game theory\n- Historical context (Min-Max Theorem, Nash Equilibrium)"", ""Scene 3: Economic Applications of Game Theory\nTLDR: Explore how game theory is applied in economic models.\n- Economist shares insights on economic applications\n- Discussion on practical examples in economics\n- Spontaneous contributions from other participants"", ""Scene 4: Mathematical Foundations and Modeling Techniques\nTLDR: Delve into the mathematical aspects of game theory.\n- Mathematician explains theoretical framework and formalization\n- Examples of mathematical modeling techniques used in game theory\n- Open floor for questions and clarifications"", ""Scene 5: Behavioral Insights and Cognitive Factors\nTLDR: Examine how human behavior influences decision-making in game theory.\n- Psychologist discusses behavioral insights related to game theory\n- Impact of cognitive factors on strategic decisions\n- Sharing personal experiences relevant to the topic"", ""Scene 6: Strategic Interaction in Political Contexts\nTLDR: Analyze the application of game theory in political strategies.\n- Political Scientist presents strategic interaction examples in politics\n- Historical references to political decision-making using game theory\n- Collaborative discussion on implications for current political scenarios"", ""Scene 7: Importance for Social Conflict Situations\nTLDR: Discuss the significance of game theory in resolving social conflicts.\n- Exploration of how game theory can address social conflicts\n- Limitations due to unrealistic model assumptions \n - Personal anecdotes related to conflict resolution"", ""Scene 8: Prioritizing Ideas for Further Exploration \n TLDR : Identify key ideas generated during the session and prioritize them. \n - List potential ideas discussed \n - Collaborative prioritization process \n - Agreement on next steps"", ""Scene 9 : Closing Remarks \\ n TLDR : Wrap up the session with final thoughts and acknowledgments .\\ n - Summary of key points discussed \\ n - Final thoughts from each participant \\ n - Acknowledgment of contributions""]",">>Psychologist: Hallo zusammen! Also, ich denke, es ist wichtig, dass wir heute offen und kreativ sind. Weißt ihr, manchmal hilft es, wenn wir einfach mal ein bisschen um die Ecke denken. Das ist wirklich spannend!
+>>Economist: Ja, das stimmt. Kreatives Denken kann uns wirklich weiterbringen. Vielleicht sollten wir auch überlegen, wie wir diese Ideen in wirtschaftliche Modelle integrieren können.
+>>Mathematician: Genau. Offenheit und Kreativität sind entscheidend. Ich frage mich, wie formale Modelle in der Praxis angewendet werden können, um strategische Interaktionen besser zu verstehen.
+>>Political Scientist: Interessant! Kreative Ansätze sind sicherlich hilfreich. Aber ich denke auch an die politischen Implikationen unserer Strategien. Wie können wir sicherstellen, dass unsere Lösungen politisch tragfähig sind?
+>>Economist: Moment mal, was genau meinst du mit ""um die Ecke denken""?
+>>Psychologist: Klar! Damit meine ich einfach mal neue Perspektiven einzunehmen und unkonventionelle Lösungen zu finden. Manchmal führt das zu den besten Ideen.
+>>Economist: Ah okay! Danke für die Erklärung. Das könnte tatsächlich helfen, besonders wenn man an innovative wirtschaftliche Modelle denkt. Zum Beispiel könnten wir überlegen... 
+ >>Mathematician: Das erinnert mich an ein interessantes Konzept aus der Spieltheorie. Um das zu erklären, möchte ich auf die Unterscheidung zwischen kooperativer und nicht-kooperativer Spieltheorie eingehen. Bei der kooperativen Spieltheorie können bindende Verträge abgeschlossen werden, während bei der nicht-kooperativen Spieltheorie alle Verhaltensweisen self-enforcing sind.
+>>Psychologist: Ja, genau! Die nicht-kooperative Spieltheorie ist besonders spannend, weil sie das Eigeninteresse der Spieler betont. Weißt du, das erinnert mich an das Gefangenendilemma – ein klassisches Beispiel dafür!
+>>Economist: Genau wie du gesagt hast, das Gefangenendilemma zeigt gut, wie individuelle Rationalität zu suboptimalen Ergebnissen führen kann. In wirtschaftlichen Modellen ist die nicht-kooperative Spieltheorie besonders relevant, da sie keine bindenden Verträge voraussetzt.
+>>Political Scientist: Absolut! Und wenn man darüber nachdenkt...in politischen Verhandlungen sehen wir ähnliche Dynamiken. Parteien oder Lobbygruppen müssen ihre Strategien oft ohne bindende Verträge koordinieren.
+>>Mathematician: Richtig! Das Nash-Gleichgewicht beschreibt eine Situation in der kein Spieler seine Strategie ändern kann ohne seinen eigenen Nutzen zu verringern – vorausgesetzt die anderen behalten ihre Strategien bei. Das hilft uns wirklich dabei interdependente Entscheidungssituationen besser zu analysieren.
+>>Psychologist: Weißt du...das Gefangenendilemma zeigt auch wie kognitive Verzerrungen Entscheidungen beeinflussen können. Manchmal handeln Menschen einfach irrational aufgrund ihrer Emotionen!
+>>Economist: Was ich noch hinzufügen möchte ist...die Anwendung der nicht-kooperativen Spieltheorie in wirtschaftlichen Modellen hilft uns dabei Marktverhalten und Wettbewerbsstrategien besser zu verstehen. Die Interdependenz der Entscheidungen spielt hier eine große Rolle.
+>>Political Scientist: Absolut! Und wenn man darüber nachdenkt...in politischen Verhandlungen sehen wir ähnliche Dynamiken. Parteien oder Lobbygruppen müssen ihre Strategien oft ohne bindende Verträge koordinieren. 
+ >>Economist: Also, die Anwendung der Spieltheorie ist echt spannend. Zum Beispiel beim Cournot-Duopol zeigt sich, wie Unternehmen ihre Produktionsmengen strategisch festlegen, um ihren Gewinn zu maximieren.
+>>Mathematician: Ja genau! Und beim Bertrand-Duopol geht's um Preise statt Mengen. Ich finde es faszinierend, wie diese Modelle unterschiedliche Aspekte der Marktstrategien beleuchten.
+>>Psychologist: Stimmt! Diese Modelle erinnern mich an das Gefangenendilemma und die Rolle kognitiver Verzerrungen. Es ist interessant zu sehen, wie Eigeninteresse oft zu suboptimalen Ergebnissen führt.
+>>Political Scientist: Genau! Solche strategischen Interaktionen sind auch in politischen Verhandlungen zu beobachten. Der Vertrag von Versailles ist ein gutes Beispiel dafür, wie Eigeninteresse und Machtverhältnisse die Ergebnisse beeinflussen können.
+>>Economist: Um es klarzustellen, die Spieltheorie bietet uns nicht nur Werkzeuge zur Analyse von Marktverhalten, sondern auch zur Vorhersage von strategischen Entscheidungen in komplexen wirtschaftlichen Szenarien. Besonders spannend finde ich das Stackelberg-Modell, bei dem ein Unternehmen als Führer agiert und die anderen folgen müssen.
+>>Mathematician: Mir gefällt am Stackelberg-Modell besonders gut, dass es die Rolle von Führerschaft und strategischer Interaktion in Märkten beleuchtet. Die formale Analyse solcher Modelle hilft uns zu verstehen, wie Unternehmen ihre Strategien anpassen können.
+>>Psychologist: Fantastisch! Das Stackelberg-Modell zeigt wirklich eindrucksvoll, wie Machtverhältnisse und Informationsasymmetrien den Markt beeinflussen können. Dabei dürfen wir nicht vergessen, dass auch kognitive Faktoren eine große Rolle spielen – zum Beispiel kann die Wahrnehmung von Führerschaft stark durch kognitive Verzerrungen beeinflusst werden.
+>>Political Scientist: Genau! Das Stackelberg-Modell ist auch im politischen Kontext relevant. Politische Akteure übernehmen oft ähnliche Führungsrollen und treffen ihre Entscheidungen basierend auf den Reaktionen anderer Parteien – ähnlich wie während des Kalten Krieges zwischen den USA und der Sowjetunion.
+>>Psychologist: Ja genau! Die kognitiven Verzerrungen und Eigeninteressen der Entscheidungsträger führen oft zu suboptimalen Ergebnissen – zum Beispiel kann die Wahrnehmung von Führerschaft stark durch den Halo-Effekt beeinflusst werden. 
+ >>Mathematician: Also, das ist eine interessante Überlegung. Um das zu verdeutlichen, möchte ich auf die evolutionäre Spieltheorie eingehen. Diese Theorie betrachtet nicht nur rationale Entscheidungen, sondern auch Strategien in komplexen Systemen. Besonders relevant ist dies für Anwendungen in der Informatik und künstlichen Intelligenz.
+>>Economist: Ja, genau! Die evolutionäre Spieltheorie bietet spannende Ansätze für die Modellierung von Marktverhalten. Ein Beispiel wäre die Anwendung der ESS, also der evolutionär stabilen Strategie, um zu verstehen, wie Unternehmen langfristig ihre Strategien anpassen können.
+>>Psychologist: Das erinnert mich an das Gefangenendilemma – hier sehen wir oft kognitive Verzerrungen wie den Halo-Effekt oder die Verlustaversion. Wie seht ihr das?
+>>Political Scientist: Interessant! Aber ich denke, wir sollten auch die kooperative Spieltheorie in politischen Verhandlungen betrachten. Das Konzept des Kerns und der Shapley-Wert bieten wertvolle Einblicke in die Machtverteilung und Koalitionsbildung.
+>>Economist: Absolut! Die kooperative Spieltheorie kann uns helfen zu verstehen, wie politische Akteure ihre Macht verteilen und Koalitionen bilden. Ein weiteres Modell hier könnte das Stackelberg-Modell sein.
+>>Mathematician: Genau! Und um das weiter auszuführen – möchte ich auf algorithmische Spieltheorie eingehen. Diese Theorie verwendet computergestützte Methoden zur Analyse komplexer strategischer Interaktionen und zur Findung optimaler Lösungen.
+>>Psychologist: Das klingt wirklich spannend! Wenn wir über algorithmische Spieltheorie sprechen sollten wir auch bedenken wie kognitive Verzerrungen Entscheidungsprozesse beeinflussen können.
+>>Political Scientist: Ja genau! Bei politischen Verhandlungen sind solche Verzerrungen ebenfalls relevant. Der Shapley-Wert hilft dabei zu verstehen wie Ressourcen fair verteilt werden können.
+>>Economist: Absolut richtig! Die algorithmische Spieltheorie bietet faszinierende Möglichkeiten für die Analyse von Marktverhalten durch Suchalgorithmen zur Optimierung von Preisstrategien im Bertrand-Duopol. 
+ >>Psychologist: Also, das ist wirklich spannend! Ähm, was ich damit meine ist, dass kognitive Verzerrungen wie der Halo-Effekt oder Verlustaversion oft unterschätzt werden. Diese Faktoren beeinflussen stark die Entscheidungen der Spieler und können zu unerwarteten Ergebnissen führen.
+>>Mathematician: Ja, das ist eine interessante Überlegung. Diese Verzerrungen können die strategischen Entscheidungen erheblich beeinflussen. Sie führen oft zu suboptimalen Ergebnissen, da sie das rationale Entscheidungsverhalten untergraben.
+>>Economist: Genau! Um es klar zu sagen, diese psychologischen Phänomene haben auch erhebliche wirtschaftliche Implikationen. Sie können die Marktentscheidungen der Akteure beeinflussen und somit die Effizienz von Märkten untergraben. Das Gefangenendilemma zeigt dies deutlich: Spieler handeln oft irrational aufgrund ihrer Wahrnehmung und emotionalen Reaktionen.
+>>Political Scientist: Diese Verzerrungen beeinflussen nicht nur individuelle Entscheidungen, sondern auch politische Interaktionen. Der Kalte Krieg zeigt deutlich, wie solche Faktoren Verhandlungen geprägt haben.
+>>Psychologist (unterbricht): Moment mal, ich wollte noch hinzufügen—dass diese Verzerrungen auch in sozialen Interaktionen eine Rolle spielen können. Zum Beispiel bei Verhandlungen zwischen Unternehmen oder sogar innerhalb von Teams.
+>>Economist: Ja genau! Die kognitiven Verzerrungen wie Verlustaversion und der Halo-Effekt können nicht nur individuelle Entscheidungen beeinflussen, sondern auch kollektive Marktverhalten. Diese Verzerrungen führen oft zu ineffizienten Marktergebnissen.
+>>Mathematician: Wenn wir diese psychologischen Faktoren in mathematische Modelle der Spieltheorie integrieren— 
+ >>Political Scientist: Also, wenn wir psychologische Faktoren in mathematische Modelle der Spieltheorie einbeziehen, könnten wir die Vorhersagekraft politischer Strategien wirklich verbessern. Denkt mal an den Kalten Krieg – da haben wir strategische Interaktionen und Machtverhältnisse durch nicht-kooperative Spieltheorie analysiert.
+
+>>Economist: Ja, genau! Die Spieltheorie zeigt uns auch in wirtschaftlichen Modellen, wie Unternehmen und Märkte interagieren. Zum Beispiel beim Cournot-Duopol legen Firmen ihre Produktionsmengen fest, um ihren Gewinn zu maximieren. Das Prinzip kann man auch auf politische Szenarien übertragen – Parteien passen ihre Strategien an, um Wählerstimmen zu gewinnen.
+
+>>Mathematician: Interessant! Wenn wir die nicht-kooperative Spieltheorie betrachten, sehen wir, wie politische Akteure ihre Strategien anpassen, um ihre Macht zu maximieren. Ein klassisches Beispiel ist das Gefangenendilemma – individuelle Rationalität führt oft zu suboptimalen Ergebnissen.
+
+>>Psychologist: Genau! Kognitive Verzerrungen wie der Halo-Effekt und Verlustaversion beeinflussen Entscheidungen von politischen Akteuren stark. Das Gefangenendilemma zeigt diese Dynamik schon gut. Wenn wir diese psychologischen Faktoren in die Spieltheorie integrieren könnten... vielleicht könnten wir bessere Vorhersagen über politische Strategien treffen!
+
+>>Political Scientist: Absolut! Im Kalten Krieg war das Nash-Gleichgewicht oft entscheidend für strategische Interaktionen. Politische Akteure nutzen ähnliche Prinzipien zur Maximierung ihrer Macht und ihres Einflusses.
+
+>>Economist: Moment mal! Das Nash-Gleichgewicht ist tatsächlich zentral bei strategischen Interaktionen. Politische Akteure sind ständig dabei, sich anzupassen und zu reagieren – ähnlich wie Unternehmen im Markt.
+
+>>Mathematician: Ja! Beeindruckend ist auch die Art und Weise, wie diese Prinzipien angewendet werden können. Politische Akteure könnten von diesen Modellen profitieren.
+
+>>Psychologist: Und wenn man bedenkt... dass kognitive Verzerrungen oft wie ein unsichtbarer Spieler agieren – sie beeinflussen subtil Entscheidungen und verschieben sogar das Nash-Gleichgewicht!
+
+>>Political Scientist: Genau! Diese Überlegungen zeigen wirklich den Wert der Integration psychologischer Faktoren in spieltheoretische Modelle für politische Strategien. 
+ >>Psychologist: Also, ich erinnere mich an eine Situation als Mediator... Da hatten wir zwei Parteien, die sich absolut nicht einigen konnten. Durch spieltheoretische Modelle und das Verständnis ihrer kognitiven Verzerrungen haben wir tatsächlich eine Lösung gefunden! Das war echt spannend.
+>>Economist: Ja klar, Spieltheorie kann wirklich hilfreich sein in solchen Situationen. Ich hatte mal eine Verhandlung zwischen zwei Unternehmen und durch die Simulation von strategischen Entscheidungen konnten wir besser einschätzen, wie die andere Partei reagieren würde.
+>>Mathematician: Das klingt spannend! Wir haben auch ähnliche Erfahrungen gemacht bei einem Projekt mit verschiedenen Interessengruppen. Die Spieltheorie bietet uns eine strukturierte Methode zur Analyse interdependenter Entscheidungen.
+>>Political Scientist: In politischen Verhandlungen zeigt sich die Stärke der Spieltheorie besonders deutlich. Ich erinnere mich an eine Verhandlung zwischen zwei rivalisierenden Parteien, wo wir ihre strategischen Optionen klarer verstehen konnten und letztlich eine Einigung erzielten.
+>>Economist: Interessant! Wie genau habt ihr die kognitiven Verzerrungen berücksichtigt?
+>>Psychologist: Nun, wir haben zunächst versucht zu verstehen, welche Vorurteile und Denkmuster jede Partei hatte. Dann haben wir diese Informationen genutzt, um ihre Entscheidungsprozesse zu modellieren und ihnen zu zeigen, wie sie ihre Strategien anpassen könnten.
+>>Mathematician: Bei unserem Projekt ging es darum, verschiedene Interessengruppen zusammenzubringen. Durch die Modellierung ihrer Entscheidungsprozesse konnten wir Konflikte lösen und gemeinsame Ziele definieren.
+>>Political Scientist: Genau! Es ist faszinierend zu sehen, wie diese Modelle in so unterschiedlichen Kontexten angewendet werden können – sei es in der Politik oder im Unternehmensbereich. 
+ >>Economist: Ich denke, die Anwendung der Spieltheorie in wirtschaftlichen Modellen bietet uns eine präzise Möglichkeit, strategische Interaktionen und Marktverhalten zu analysieren. Wir sollten daher Modelle priorisieren, die sowohl kooperative als auch nicht-kooperative Ansätze integrieren.
+>>Mathematician: Ja, das sehe ich auch so. Aber vielleicht sollten wir genauer darauf eingehen, wie diese Unterscheidung uns konkret weiterhelfen kann. Zum Beispiel könnten wir untersuchen, welche Modelle in der Vergangenheit erfolgreich waren.
+>>Psychologist: Genau! Und dabei dürfen wir nicht vergessen, kognitive Verzerrungen wie den Halo-Effekt und Verlustaversion zu berücksichtigen. Diese beeinflussen oft die Entscheidungsprozesse der Spieler und könnten uns helfen, die relevantesten Ansätze herauszufiltern.
+>>Political Scientist: Das ist ein guter Punkt. In politischen Verhandlungen spielen solche Verzerrungen ebenfalls eine große Rolle. Vielleicht sollten wir konkrete Beispiele aus aktuellen politischen Situationen betrachten?
+>>Economist: Absolut! Nehmen wir zum Beispiel Handelsabkommen zwischen Ländern. Die Spieltheorie könnte uns helfen zu verstehen, warum bestimmte Strategien gewählt werden und wie Machtverhältnisse sich entwickeln.
+>>Mathematician: Interessant! Und wenn wir dann noch die Unterschiede zwischen kooperativen und nicht-kooperativen Ansätzen klar herausarbeiten, können wir gezielt entscheiden, welche Modelle für unsere nächsten Schritte am besten geeignet sind.
+>>Psychologist: Ja genau! Wenn wir kognitive Verzerrungen als Filter verwenden könnten - wie den Halo-Effekt oder Verlustaversion - dann hätten wir eine klare Methode zur Priorisierung unserer Ideen.
+>>Political Scientist: Ich stimme dem zu. Aber was ist mit den praktischen Herausforderungen bei der Umsetzung dieser Modelle? Welche Hindernisse könnten auftreten?
+>>Economist: Gute Frage! Ein konkretes Modell könnte zum Beispiel Schwierigkeiten bei der Datenerhebung haben oder es könnte Widerstand von Stakeholdern geben. Wir müssen also auch überlegen, wie diese Herausforderungen überwunden werden können.
+>>Mathematician: Richtig! Vielleicht sollten wir auch darüber sprechen, welche mathematischen Methoden am besten geeignet sind, um diese Daten zu analysieren und die Modelle anzupassen.
+>>Psychologist: Und dabei immer im Hinterkopf behalten, dass menschliche Faktoren eine große Rolle spielen. Es wäre interessant zu sehen, wie verschiedene psychologische Theorien hier angewendet werden können.
+>>Political Scientist: Absolut! Besonders in komplexen Verhandlungssituationen kann das entscheidend sein. Vielleicht sollten wir ein paar Fallstudien durchgehen? 
+ >>Economist: Also, um es klar zu sagen, die Integration von Spieltheorie in wirtschaftliche Modelle hat uns gezeigt, wie strategische Interaktionen optimiert werden können. Besonders die Berücksichtigung kognitiver Verzerrungen wie dem Halo-Effekt und Verlustaversion ist entscheidend für realistische Modellierungen. Ich denke, wir haben hier einen wichtigen Schritt gemacht.
+
+>>Mathematician: Ja, das Nash-Gleichgewicht ist ein zentraler Punkt in der mathematischen Formalisierung der Spieltheorie. Es zeigt uns, wie interdependente Entscheidungen modelliert werden können. Die Integration kognitiver Verzerrungen macht diese Modelle noch realistischer und anwendbar in verschiedenen Kontexten.
+
+>>Psychologist: Weißt du, ich finde es wirklich spannend! Diese kognitiven Verzerrungen beeinflussen nicht nur wirtschaftliche Entscheidungen, sondern auch politische Verhandlungen. Es ist fantastisch zu sehen, wie wir diese Aspekte integriert haben und dadurch unsere Modelle bereichern.
+
+>>Political Scientist: Nun ja, die Anwendung der Spieltheorie in politischen Verhandlungen hat uns gezeigt, dass sowohl kooperative als auch nicht-kooperative Ansätze wichtig sind. Diese Integration hilft uns dabei, komplexe Verhandlungssituationen besser zu verstehen und strategische Interaktionen effektiver zu modellieren.
+
+>>Economist: Ähm... ich möchte allen Teilnehmern für ihre wertvollen Beiträge danken. Die Diskussion über die Integration von Spieltheorie in wirtschaftliche Modelle war äußerst aufschlussreich und wird sicherlich dazu beitragen, realistischere und effektivere Modelle zu entwickeln."

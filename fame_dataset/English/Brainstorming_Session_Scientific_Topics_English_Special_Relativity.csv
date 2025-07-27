@@ -1,0 +1,6064 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Special Relativity,"In physics, the special theory of relativity, or special relativity for short, is a scientific theory of the relationship between space and time. In Albert Einstein's 1905 paper, On the Electrodynamics of Moving Bodies, the theory is presented as being based on just two postulates:[p 1][1][2]
+
+The first postulate was first formulated by Galileo Galilei (see Galilean invariance).
+
+Special relativity was described by Albert Einstein in a paper published on 26 September 1905 titled ""On the Electrodynamics of Moving Bodies"".[p 1] Maxwell's equations of electromagnetism appeared to be incompatible with Newtonian mechanics, and the Michelson–Morley experiment failed to detect the Earth's motion against the hypothesized luminiferous aether. These led to the development of the Lorentz transformations, by Hendrik Lorentz, which adjust distances and times for moving objects. Special relativity corrects the hitherto laws of mechanics to handle situations involving all motions and especially those at a speed close to that of light (known as relativistic velocities). Today, special relativity is proven to be the most accurate model of motion at any speed when gravitational and quantum effects are negligible.[3][4] Even so, the Newtonian model is still valid as a simple and accurate approximation at low velocities (relative to the speed of light), for example, everyday motions on Earth.
+
+Special relativity has a wide range of consequences that have been experimentally verified.[5] These include the relativity of simultaneity, length contraction, time dilation, the relativistic velocity addition formula, the relativistic Doppler effect, relativistic mass, a universal speed limit, mass–energy equivalence, the speed of causality and the Thomas precession.[1][2] It has, for example, replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. Rather than an invariant time interval between two events, there is an invariant spacetime interval. Combined with other laws of physics, the two postulates of special relativity predict the equivalence of mass and energy, as expressed in the mass–energy equivalence formula ⁠
+
+
+
+E
+=
+m
+
+c
+
+2
+
+
+
+
+{\displaystyle E=mc^{2}}
+
+⁠, where 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is the speed of light in vacuum.[6][7] It also explains how the phenomena of electricity and magnetism are related.[1][2]
+
+A defining feature of special relativity is the replacement of the Galilean transformations of Newtonian mechanics with the Lorentz transformations. Time and space cannot be defined separately from each other (as was previously thought to be the case). Rather, space and time are interwoven into a single continuum known as ""spacetime"". Events that occur at the same time for one observer can occur at different times for another.
+
+Until several years later when Einstein developed general relativity, which introduced a curved spacetime to incorporate gravity, the phrase ""special relativity"" was not used. A translation sometimes used is ""restricted relativity""; ""special"" really means ""special case"".[p 2][p 3][p 4][note 1] Some of the work of Albert Einstein in special relativity is built on the earlier work by Hendrik Lorentz and Henri Poincaré. The theory became essentially complete in 1907, with Hermann Minkowski's papers on spacetime.[4]
+
+The theory is ""special"" in that it only applies in the special case where the spacetime is ""flat"", that is, where the curvature of spacetime (a consequence of the energy–momentum tensor and representing gravity) is negligible.[8][note 2] To correctly accommodate gravity, Einstein formulated general relativity in 1915. Special relativity, contrary to some historical descriptions, does accommodate accelerations as well as accelerating frames of reference.[9][10]
+
+Just as Galilean relativity is now accepted to be an approximation of special relativity that is valid for low speeds, special relativity is considered an approximation of general relativity that is valid for weak gravitational fields, that is, at a sufficiently small scale (e.g., when tidal forces are negligible) and in conditions of free fall. But general relativity incorporates non-Euclidean geometry to represent gravitational effects as the geometric curvature of spacetime. Special relativity is restricted to the flat spacetime known as Minkowski space. As long as the universe can be modeled as a pseudo-Riemannian manifold, a Lorentz-invariant frame that abides by special relativity can be defined for a sufficiently small neighborhood of each point in this curved spacetime.
+
+Galileo Galilei had already postulated that there is no absolute and well-defined state of rest (no privileged reference frames), a principle now called Galileo's principle of relativity. Einstein extended this principle so that it accounted for the constant speed of light,[11] a phenomenon that had been observed in the Michelson–Morley experiment. He also postulated that it holds for all the laws of physics, including both the laws of mechanics and of electrodynamics.[12]
+
+""Reflections of this type made it clear to me as long ago as shortly after 1900, i.e., shortly after Planck's trailblazing work, that neither mechanics nor electrodynamics could (except in limiting cases) claim exact validity. Gradually I despaired of the possibility of discovering the true laws by means of constructive efforts based on known facts. The longer and the more desperately I tried, the more I came to the conviction that only the discovery of a universal formal principle could lead us to assured results ... How, then, could such a universal principle be found?""
+
+Einstein discerned two fundamental propositions that seemed to be the most assured, regardless of the exact validity of the (then) known laws of either mechanics or electrodynamics. These propositions were the constancy of the speed of light in vacuum and the independence of physical laws (especially the constancy of the speed of light) from the choice of inertial system. In his initial presentation of special relativity in 1905 he expressed these postulates as:[p 1]
+
+The constancy of the speed of light was motivated by Maxwell's theory of electromagnetism[13] and the lack of evidence for the luminiferous ether.[14] There is conflicting evidence on the extent to which Einstein was influenced by the null result of the Michelson–Morley experiment.[15][16] In any case, the null result of the Michelson–Morley experiment helped the notion of the constancy of the speed of light gain widespread and rapid acceptance.
+
+The derivation of special relativity depends not only on these two explicit postulates, but also on several tacit assumptions (made in almost all theories of physics), including the isotropy and homogeneity of space and the independence of measuring rods and clocks from their past history.[p 6]
+
+Following Einstein's original presentation of special relativity in 1905, many different sets of postulates have been proposed in various alternative derivations.[17] But the most common set of postulates remains those employed by Einstein in his original paper. A more mathematical statement of the principle of relativity made later by Einstein, which introduces the concept of simplicity not mentioned above is:
+
+Special principle of relativity: If a system of coordinates K is chosen so that, in relation to it, physical laws hold good in their simplest form, the same laws hold good in relation to any other system of coordinates K′ moving in uniform translation relatively to K.[18]
+Henri Poincaré provided the mathematical framework for relativity theory by proving that Lorentz transformations are a subset of his Poincaré group of symmetry transformations. Einstein later derived these transformations from his axioms.
+
+Many of Einstein's papers present derivations of the Lorentz transformation based upon these two principles.[p 7]
+
+Reference frames play a crucial role in relativity theory. The term reference frame as used here is an observational perspective in space that is not undergoing any change in motion (acceleration), from which a position can be measured along 3 spatial axes (so, at rest or constant velocity). In addition, a reference frame has the ability to determine measurements of the time of events using a ""clock"" (any reference device with uniform periodicity).
+
+An event is an occurrence that can be assigned a single unique moment and location in space relative to a reference frame: it is a ""point"" in spacetime. Since the speed of light is constant in relativity irrespective of the reference frame, pulses of light can be used to unambiguously measure distances and refer back to the times that events occurred to the clock, even though light takes time to reach the clock after the event has transpired.
+
+For example, the explosion of a firecracker may be considered to be an ""event"". We can completely specify an event by its four spacetime coordinates: The time of occurrence and its 3-dimensional spatial location define a reference point. Let's call this reference frame S.
+
+In relativity theory, we often want to calculate the coordinates of an event from differing reference frames. The equations that relate measurements made in different frames are called transformation equations.
+
+To gain insight into how the spacetime coordinates measured by observers in different reference frames compare with each other, it is useful to work with a simplified setup with frames in a standard configuration.[19]: 107  With care, this allows simplification of the math with no loss of generality in the conclusions that are reached. In Fig. 2-1, two Galilean reference frames (i.e., conventional 3-space frames) are displayed in relative motion. Frame S belongs to a first observer O, and frame S′ (pronounced ""S prime"" or ""S dash"") belongs to a second observer O′.
+
+Since there is no absolute reference frame in relativity theory, a concept of ""moving"" does not strictly exist, as everything may be moving with respect to some other reference frame. Instead, any two frames that move at the same speed in the same direction are said to be comoving. Therefore, S and S′ are not comoving.
+
+The principle of relativity, which states that physical laws have the same form in each inertial reference frame, dates back to Galileo, and was incorporated into Newtonian physics. But in the late 19th century the existence of electromagnetic waves led some physicists to suggest that the universe was filled with a substance they called ""aether"", which, they postulated, would act as the medium through which these waves, or vibrations, propagated (in many respects similar to the way sound propagates through air). The aether was thought to be an absolute reference frame against which all speeds could be measured, and could be considered fixed and motionless relative to Earth or some other fixed reference point. The aether was supposed to be sufficiently elastic to support electromagnetic waves, while those waves could interact with matter, yet offering no resistance to bodies passing through it (its one property was that it allowed electromagnetic waves to propagate). The results of various experiments, including the Michelson–Morley experiment in 1887 (subsequently verified with more accurate and innovative experiments), led to the theory of special relativity, by showing that the aether did not exist.[20] Einstein's solution was to discard the notion of an aether and the absolute state of rest. In relativity, any reference frame moving with uniform motion will observe the same laws of physics. In particular, the speed of light in vacuum is always measured to be c, even when measured by multiple systems that are moving at different (but constant) velocities.
+
+From the principle of relativity alone without assuming the constancy of the speed of light (i.e., using the isotropy of space and the symmetry implied by the principle of special relativity) it can be shown that the spacetime transformations between inertial frames are either Euclidean, Galilean, or Lorentzian. In the Lorentzian case, one can then obtain relativistic interval conservation and a certain finite limiting speed. Experiments suggest that this speed is the speed of light in vacuum.[p 8][21]
+
+Einstein consistently based the derivation of Lorentz invariance (the essential core of special relativity) on just the two basic principles of: relativity and invariance of the speed of light. He wrote:
+
+The insight fundamental for the special theory of relativity is this: The assumptions relativity and light speed invariance are compatible if relations of a new type (""Lorentz transformation"") are postulated for the conversion of coordinates and times of events ... The universal principle of the special theory of relativity is contained in the postulate: The laws of physics are invariant with respect to Lorentz transformations (for the transition from one inertial system to any other arbitrarily chosen inertial system). This is a restricting principle for natural laws ...[p 5]
+Thus many modern treatments of special relativity base it on the single postulate of universal Lorentz covariance, or, equivalently, on the single postulate of Minkowski spacetime.[p 9][p 10]
+
+Rather than considering universal Lorentz covariance to be a derived principle, this article considers it to be the fundamental postulate of special relativity. The traditional two-postulate approach to special relativity is presented in innumerable college textbooks and popular presentations.[22] Textbooks starting with the single postulate of Minkowski spacetime include those by Taylor and Wheeler[11] and by Callahan.[23] This is also the approach followed by the Wikipedia articles Spacetime and Minkowski diagram.
+
+Define an event to have spacetime coordinates (t, x, y, z) in system S and (t′, x′, y′, z′) in a reference frame moving at a velocity v on the x-axis with respect to that frame, S′. Then the Lorentz transformation specifies that these coordinates are related in the following way:
+
+
+
+
+
+
+
+
+
+t
+′
+
+
+
+
+=
+γ
+ 
+(
+t
+−
+v
+x
+
+/
+
+
+c
+
+2
+
+
+)
+
+
+
+
+
+x
+′
+
+
+
+
+=
+γ
+ 
+(
+x
+−
+v
+t
+)
+
+
+
+
+
+y
+′
+
+
+
+
+=
+y
+
+
+
+
+
+z
+′
+
+
+
+
+=
+z
+,
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}t'&=\gamma \ (t-vx/c^{2})\\x'&=\gamma \ (x-vt)\\y'&=y\\z'&=z,\end{aligned}}}
+
+
+where 
+
+
+
+γ
+=
+
+
+1
+
+1
+−
+
+v
+
+2
+
+
+
+/
+
+
+c
+
+2
+
+
+
+
+
+
+
+{\displaystyle \gamma ={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}}
+
+ is the Lorentz factor and c is the speed of light in vacuum, and the velocity v of S′, relative to S, is parallel to the x-axis. For simplicity, the y and z coordinates are unaffected; only the x and t coordinates are transformed. These Lorentz transformations form a one-parameter group of linear mappings, that parameter being called rapidity.
+
+Solving the four transformation equations above for the unprimed coordinates yields the inverse Lorentz transformation:
+
+
+
+
+
+
+
+
+t
+
+
+
+=
+γ
+(
+
+t
+′
+
++
+v
+
+x
+′
+
+
+/
+
+
+c
+
+2
+
+
+)
+
+
+
+
+x
+
+
+
+=
+γ
+(
+
+x
+′
+
++
+v
+
+t
+′
+
+)
+
+
+
+
+y
+
+
+
+=
+
+y
+′
+
+
+
+
+
+z
+
+
+
+=
+
+z
+′
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}t&=\gamma (t'+vx'/c^{2})\\x&=\gamma (x'+vt')\\y&=y'\\z&=z'.\end{aligned}}}
+
+
+
+This shows that the unprimed frame is moving with the velocity −v, as measured in the primed frame.[24]
+
+There is nothing special about the x-axis. The transformation can apply to the y- or z-axis, or indeed in any direction parallel to the motion (which are warped by the γ factor) and perpendicular; see the article Lorentz transformation for details.
+
+A quantity that is invariant under Lorentz transformations is known as a Lorentz scalar.
+
+Writing the Lorentz transformation and its inverse in terms of coordinate differences, where one event has coordinates (x1, t1) and (x′1, t′1), another event has coordinates (x2, t2) and (x′2, t′2), and the differences are defined as
+
+we get
+
+If we take differentials instead of taking differences, we get
+
+Spacetime diagrams (Minkowski diagrams) are an extremely useful aid to visualizing how coordinates transform between different reference frames. Although it is not as easy to perform exact computations using them as directly invoking the Lorentz transformations, their main power is their ability to provide an intuitive grasp of the results of a relativistic scenario.[21]
+
+To draw a spacetime diagram, begin by considering two Galilean reference frames, S and S′, in standard configuration, as shown in Fig. 2-1.[21][25]: 155–199 
+
+Fig. 3-1a. Draw the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ axes of frame S. The 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ axis is horizontal and the 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ (actually 
+
+
+
+c
+t
+
+
+{\displaystyle ct}
+
+) axis is vertical, which is the opposite of the usual convention in kinematics. The 
+
+
+
+c
+t
+
+
+{\displaystyle ct}
+
+ axis is scaled by a factor of 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ so that both axes have common units of length. In the diagram shown, the gridlines are spaced one unit distance apart. The 45° diagonal lines represent the worldlines of two photons passing through the origin at time 
+
+
+
+t
+=
+0.
+
+
+{\displaystyle t=0.}
+
+ The slope of these worldlines is 1 because the photons advance one unit in space per unit of time. Two events, 
+
+
+
+
+A
+
+
+
+{\displaystyle {\text{A}}}
+
+ and 
+
+
+
+
+B
+
+,
+
+
+{\displaystyle {\text{B}},}
+
+ have been plotted on this graph so that their coordinates may be compared in the S and S' frames.
+
+Fig. 3-1b. Draw the 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ and 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ axes of frame S'. The 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ axis represents the worldline of the origin of the S' coordinate system as measured in frame S. In this figure, 
+
+
+
+v
+=
+c
+
+/
+
+2.
+
+
+{\displaystyle v=c/2.}
+
+ Both the 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ and 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ axes are tilted from the unprimed axes by an angle 
+
+
+
+α
+=
+
+tan
+
+−
+1
+
+
+⁡
+(
+β
+)
+,
+
+
+{\displaystyle \alpha =\tan ^{-1}(\beta ),}
+
+ where 
+
+
+
+β
+=
+v
+
+/
+
+c
+.
+
+
+{\displaystyle \beta =v/c.}
+
+ The primed and unprimed axes share a common origin because frames S and S' had been set up in standard configuration, so that 
+
+
+
+t
+=
+0
+
+
+{\displaystyle t=0}
+
+ when 
+
+
+
+
+t
+′
+
+=
+0.
+
+
+{\displaystyle t'=0.}
+
+
+
+Fig. 3-1c. Units in the primed axes have a different scale from units in the unprimed axes. From the Lorentz transformations, we observe that 
+
+
+
+(
+
+x
+′
+
+,
+c
+
+t
+′
+
+)
+
+
+{\displaystyle (x',ct')}
+
+ coordinates of 
+
+
+
+(
+0
+,
+1
+)
+
+
+{\displaystyle (0,1)}
+
+ in the primed coordinate system transform to 
+
+
+
+(
+β
+γ
+,
+γ
+)
+
+
+{\displaystyle (\beta \gamma ,\gamma )}
+
+ in the unprimed coordinate system. Likewise, 
+
+
+
+(
+
+x
+′
+
+,
+c
+
+t
+′
+
+)
+
+
+{\displaystyle (x',ct')}
+
+ coordinates of 
+
+
+
+(
+1
+,
+0
+)
+
+
+{\displaystyle (1,0)}
+
+ in the primed coordinate system transform to 
+
+
+
+(
+γ
+,
+β
+γ
+)
+
+
+{\displaystyle (\gamma ,\beta \gamma )}
+
+ in the unprimed system. Draw gridlines parallel with the 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ axis through points 
+
+
+
+(
+k
+γ
+,
+k
+β
+γ
+)
+
+
+{\displaystyle (k\gamma ,k\beta \gamma )}
+
+ as measured in the unprimed frame, where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is an integer. Likewise, draw gridlines parallel with the 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ axis through 
+
+
+
+(
+k
+β
+γ
+,
+k
+γ
+)
+
+
+{\displaystyle (k\beta \gamma ,k\gamma )}
+
+ as measured in the unprimed frame. Using the Pythagorean theorem, we observe that the spacing between 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ units equals 
+
+
+
+
+
+(
+1
++
+
+β
+
+2
+
+
+)
+
+/
+
+(
+1
+−
+
+β
+
+2
+
+
+)
+
+
+
+
+{\textstyle {\sqrt {(1+\beta ^{2})/(1-\beta ^{2})}}}
+
+ times the spacing between 
+
+
+
+c
+t
+
+
+{\displaystyle ct}
+
+ units, as measured in frame S. This ratio is always greater than 1, and ultimately it approaches infinity as 
+
+
+
+β
+→
+1.
+
+
+{\displaystyle \beta \to 1.}
+
+
+
+Fig. 3-1d. Since the speed of light is an invariant, the worldlines of two photons passing through the origin at time 
+
+
+
+
+t
+′
+
+=
+0
+
+
+{\displaystyle t'=0}
+
+ still plot as 45° diagonal lines. The primed coordinates of 
+
+
+
+
+A
+
+
+
+{\displaystyle {\text{A}}}
+
+ and 
+
+
+
+
+B
+
+
+
+{\displaystyle {\text{B}}}
+
+ are related to the unprimed coordinates through the Lorentz transformations and could be approximately measured from the graph (assuming that it has been plotted accurately enough), but the real merit of a Minkowski diagram is its granting us a geometric view of the scenario. For example, in this figure, we observe that the two timelike-separated events that had different x-coordinates in the unprimed frame are now at the same position in space.
+
+While the unprimed frame is drawn with space and time axes that meet at right angles, the primed frame is drawn with axes that meet at acute or obtuse angles. This asymmetry is due to unavoidable distortions in how spacetime coordinates map onto a Cartesian plane, but the frames are actually equivalent.
+
+The consequences of special relativity can be derived from the Lorentz transformation equations.[26] These transformations, and hence special relativity, lead to different physical predictions than those of Newtonian mechanics at all relative velocities, and most pronounced when relative velocities become comparable to the speed of light. The speed of light is so much larger than anything most humans encounter that some of the effects predicted by relativity are initially counterintuitive.
+
+In Galilean relativity, the spatial separation, (⁠
+
+
+
+Δ
+r
+
+
+{\displaystyle \Delta r}
+
+⁠), and the temporal separation, (⁠
+
+
+
+Δ
+t
+
+
+{\displaystyle \Delta t}
+
+⁠), between two events are independent invariants, the values of which do not change when observed from different frames of reference.
+In special relativity, however, the interweaving of spatial and temporal coordinates generates the concept of an invariant interval, denoted as ⁠
+
+
+
+Δ
+
+s
+
+2
+
+
+
+
+{\displaystyle \Delta s^{2}}
+
+⁠:
+
+
+
+
+Δ
+
+s
+
+2
+
+
+
+
+
+=
+def
+
+
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+2
+
+
+−
+(
+Δ
+
+x
+
+2
+
+
++
+Δ
+
+y
+
+2
+
+
++
+Δ
+
+z
+
+2
+
+
+)
+
+
+{\displaystyle \Delta s^{2}\;{\overset {\text{def}}{=}}\;c^{2}\Delta t^{2}-(\Delta x^{2}+\Delta y^{2}+\Delta z^{2})}
+
+
+In considering the physical significance of ⁠
+
+
+
+Δ
+
+s
+
+2
+
+
+
+
+{\displaystyle \Delta s^{2}}
+
+⁠, there are three cases to note:[21][27]: 25–39 
+
+The interweaving of space and time revokes the implicitly assumed concepts of absolute simultaneity and synchronization across non-comoving frames.
+
+The form of ⁠
+
+
+
+Δ
+
+s
+
+2
+
+
+
+
+{\displaystyle \Delta s^{2}}
+
+⁠, being the difference of the squared time lapse and the squared spatial distance, demonstrates a fundamental discrepancy between Euclidean and spacetime distances.[note 3] The invariance of this interval is a property of the general Lorentz transform (also called the Poincaré transformation), making it an isometry of spacetime. The general Lorentz transform extends the standard Lorentz transform (which deals with translations without rotation, that is, Lorentz boosts, in the x-direction) with all other translations, reflections, and rotations between any Cartesian inertial frame.[28]: 33–34 
+
+In the analysis of simplified scenarios, such as spacetime diagrams, a reduced-dimensionality form of the invariant interval is often employed:
+
+
+
+
+Δ
+
+s
+
+2
+
+
+
+=
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+2
+
+
+−
+Δ
+
+x
+
+2
+
+
+
+
+{\displaystyle \Delta s^{2}\,=\,c^{2}\Delta t^{2}-\Delta x^{2}}
+
+
+
+Demonstrating that the interval is invariant is straightforward for the reduced-dimensionality case and with frames in standard configuration:[21]
+
+
+
+
+
+
+
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+2
+
+
+−
+Δ
+
+x
+
+2
+
+
+
+
+
+=
+
+c
+
+2
+
+
+
+γ
+
+2
+
+
+
+
+(
+
+Δ
+
+t
+′
+
++
+
+
+
+
+v
+Δ
+
+x
+′
+
+
+
+c
+
+2
+
+
+
+
+
+
+)
+
+
+2
+
+
+−
+
+γ
+
+2
+
+
+ 
+(
+Δ
+
+x
+′
+
++
+v
+Δ
+
+t
+′
+
+
+)
+
+2
+
+
+
+
+
+
+
+
+=
+
+γ
+
+2
+
+
+
+(
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
++
+2
+v
+Δ
+
+x
+′
+
+Δ
+
+t
+′
+
++
+
+
+
+
+
+v
+
+2
+
+
+Δ
+
+x
+
+′
+
+
+2
+
+
+
+
+
+c
+
+2
+
+
+
+
+
+
+)
+
+−
+
+γ
+
+2
+
+
+ 
+(
+Δ
+
+x
+
+′
+
+
+2
+
+
+
++
+2
+v
+Δ
+
+x
+′
+
+Δ
+
+t
+′
+
++
+
+v
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
+)
+
+
+
+
+
+
+=
+
+γ
+
+2
+
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
+−
+
+γ
+
+2
+
+
+
+v
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
+−
+
+γ
+
+2
+
+
+Δ
+
+x
+
+′
+
+
+2
+
+
+
++
+
+γ
+
+2
+
+
+
+
+
+
+
+v
+
+2
+
+
+Δ
+
+x
+
+′
+
+
+2
+
+
+
+
+
+c
+
+2
+
+
+
+
+
+
+
+
+
+
+
+=
+
+γ
+
+2
+
+
+
+c
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
+
+(
+
+1
+−
+
+
+
+
+v
+
+2
+
+
+
+c
+
+2
+
+
+
+
+
+
+)
+
+−
+
+γ
+
+2
+
+
+Δ
+
+x
+
+′
+
+
+2
+
+
+
+
+(
+
+1
+−
+
+
+
+
+v
+
+2
+
+
+
+c
+
+2
+
+
+
+
+
+
+)
+
+
+
+
+
+
+
+=
+
+c
+
+2
+
+
+Δ
+
+t
+
+′
+
+
+2
+
+
+
+−
+Δ
+
+x
+
+′
+
+
+2
+
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}c^{2}\Delta t^{2}-\Delta x^{2}&=c^{2}\gamma ^{2}\left(\Delta t'+{\dfrac {v\Delta x'}{c^{2}}}\right)^{2}-\gamma ^{2}\ (\Delta x'+v\Delta t')^{2}\\&=\gamma ^{2}\left(c^{2}\Delta t'^{\,2}+2v\Delta x'\Delta t'+{\dfrac {v^{2}\Delta x'^{\,2}}{c^{2}}}\right)-\gamma ^{2}\ (\Delta x'^{\,2}+2v\Delta x'\Delta t'+v^{2}\Delta t'^{\,2})\\&=\gamma ^{2}c^{2}\Delta t'^{\,2}-\gamma ^{2}v^{2}\Delta t'^{\,2}-\gamma ^{2}\Delta x'^{\,2}+\gamma ^{2}{\dfrac {v^{2}\Delta x'^{\,2}}{c^{2}}}\\&=\gamma ^{2}c^{2}\Delta t'^{\,2}\left(1-{\dfrac {v^{2}}{c^{2}}}\right)-\gamma ^{2}\Delta x'^{\,2}\left(1-{\dfrac {v^{2}}{c^{2}}}\right)\\&=c^{2}\Delta t'^{\,2}-\Delta x'^{\,2}\end{aligned}}}
+
+
+
+The value of 
+
+
+
+Δ
+
+s
+
+2
+
+
+
+
+{\displaystyle \Delta s^{2}}
+
+ is hence independent of the frame in which it is measured.
+
+Consider two events happening in two different locations that occur simultaneously in the reference frame of one inertial observer. They may occur non-simultaneously in the reference frame of another inertial observer (lack of absolute simultaneity).
+
+From Equation 3 (the forward Lorentz transformation in terms of coordinate differences)
+
+
+
+
+Δ
+
+t
+′
+
+=
+γ
+
+(
+
+Δ
+t
+−
+
+
+
+v
+
+Δ
+x
+
+
+c
+
+2
+
+
+
+
+
+)
+
+
+
+{\displaystyle \Delta t'=\gamma \left(\Delta t-{\frac {v\,\Delta x}{c^{2}}}\right)}
+
+
+
+It is clear that the two events that are simultaneous in frame S (satisfying Δt = 0), are not necessarily simultaneous in another inertial frame S′ (satisfying Δt′ = 0). Only if these events are additionally co-local in frame S (satisfying Δx = 0), will they be simultaneous in another frame S′.
+
+The Sagnac effect can be considered a manifestation of the relativity of simultaneity.[29] Since relativity of simultaneity is a first order effect in ⁠
+
+
+
+v
+
+
+{\displaystyle v}
+
+⁠,[21] instruments based on the Sagnac effect for their operation, such as ring laser gyroscopes and fiber optic gyroscopes, are capable of extreme levels of sensitivity.[p 11]
+
+The time lapse between two events is not invariant from one observer to another, but is dependent on the relative speeds of the observers' reference frames.
+
+Suppose a clock is at rest in the unprimed system S. The location of the clock on two different ticks is then characterized by Δx = 0. To find the relation between the times between these ticks as measured in both systems, Equation 3 can be used to find:
+
+This shows that the time (Δt′) between the two ticks as seen in the frame in which the clock is moving (S′), is longer than the time (Δt) between these ticks as measured in the rest frame of the clock (S). Time dilation explains a number of physical phenomena; for example, the lifetime of high speed muons created by the collision of cosmic rays with particles in the Earth's outer atmosphere and moving towards the surface is greater than the lifetime of slowly moving muons, created and decaying in a laboratory.[30]
+
+Whenever one hears a statement to the effect that ""moving clocks run slow"", one should envision an inertial reference frame thickly populated with identical, synchronized clocks. As a moving clock travels through this array, its reading at any particular point is compared with a stationary clock at the same point.[31]: 149–152 
+
+The measurements that we would get if we actually looked at a moving clock would, in general, not at all be the same thing, because the time that we would see would be delayed by the finite speed of light, i.e. the times that we see would be distorted by the Doppler effect. Measurements of relativistic effects must always be understood as having been made after finite speed-of-light effects have been factored out.[31]: 149–152 
+
+
+
+Paul Langevin, an early proponent of the theory of relativity, did much to popularize the theory in the face of resistance by many physicists to Einstein's revolutionary concepts. Among his numerous contributions to the foundations of special relativity were independent work on the mass–energy relationship, a thorough examination of the twin paradox, and investigations into rotating coordinate systems. His name is frequently attached to a hypothetical construct called a ""light-clock"" (originally developed by Lewis and Tolman in 1909[32]), which he used to perform a novel derivation of the Lorentz transformation.[33]
+
+A light-clock is imagined to be a box of perfectly reflecting walls wherein a light signal reflects back and forth from opposite faces. The concept of time dilation is frequently taught using a  light-clock that is traveling in uniform inertial motion perpendicular to a line connecting the two mirrors.[34][35][36][37] (Langevin himself made use of a light-clock oriented parallel to its line of motion.[33])
+
+Consider the scenario illustrated in Fig. 4-3A. Observer A holds a light-clock of length 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ as well as an electronic timer with which she measures how long it takes a pulse to make a round trip up and down along the light-clock. Although observer A is traveling rapidly along a train, from her point of view the emission and receipt of the pulse occur at the same place, and she measures the interval using a single clock located at the precise position of these two events. For the interval between these two events, observer A finds ⁠
+
+
+
+
+t
+
+A
+
+
+=
+2
+L
+
+/
+
+c
+
+
+{\displaystyle t_{\text{A}}=2L/c}
+
+⁠. A time interval measured using a single clock that is motionless in a particular reference frame is called a proper time interval.[38]
+
+Fig. 4-3B illustrates these same two events from the standpoint of observer B, who is parked by the tracks as the train goes by at a speed of ⁠
+
+
+
+v
+
+
+{\displaystyle v}
+
+⁠. Instead of making straight up-and-down motions, observer B sees the pulses moving along a zig-zag line. However, because of the postulate of the constancy of the speed of light, the speed of the pulses along these diagonal lines is the same 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ that observer A saw for her up-and-down pulses. B measures the speed of the vertical component of these pulses as 
+
+
+
+±
+
+
+
+c
+
+2
+
+
+−
+
+v
+
+2
+
+
+
+
+,
+
+
+{\textstyle \pm {\sqrt {c^{2}-v^{2}}},}
+
+ so that the total round-trip time of the pulses is 
+
+
+
+
+t
+
+B
+
+
+=
+2
+L
+
+
+/
+
+
+
+
+
+c
+
+2
+
+
+−
+
+v
+
+2
+
+
+
+
+=
+
+
+
+
+{\textstyle t_{\text{B}}=2L{\big /}{\sqrt {c^{2}-v^{2}}}={}}
+
+⁠
+
+
+
+
+
+t
+
+A
+
+
+
+
+/
+
+
+
+
+1
+−
+
+v
+
+2
+
+
+
+/
+
+
+c
+
+2
+
+
+
+
+
+
+
+{\displaystyle \textstyle t_{\text{A}}{\big /}{\sqrt {1-v^{2}/c^{2}}}}
+
+⁠. Note that for observer B, the emission and receipt of the light pulse occurred at different places, and he measured the interval using two stationary and synchronized clocks located at two different positions in his reference frame. The interval that B measured was therefore not a proper time interval because he did not measure it with a single resting clock.[38]
+
+In the above description of the Langevin light-clock, the labeling of one observer as stationary and the other as in motion was completely arbitrary. One could just as well have observer B carrying the light-clock and moving at a speed of 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ to the left, in which case observer A would perceive B's clock as running slower than her local clock.
+
+There is no paradox here, because there is no independent observer C who will agree with both A and B. Observer C necessarily makes his measurements from his own reference frame. If that reference frame coincides with A's reference frame, then C will agree with A's measurement of time. If C's reference frame coincides with B's reference frame, then C will agree with B's measurement of time. If C's reference frame coincides with neither A's frame nor B's frame, then C's measurement of time will disagree with both A's and B's measurement of time.[39]
+
+The reciprocity of time dilation between two observers in separate inertial frames leads to the so-called twin paradox, articulated in its present form by Langevin in 1911.[40] Langevin imagined an adventurer wishing to explore the future of the Earth. This traveler boards a projectile capable of traveling at 99.995% of the speed of light. After making a round-trip journey to and from a nearby star lasting only two years of his own life, he returns to an Earth that is two hundred years older.
+
+This result appears puzzling because both the traveler and an Earthbound observer would see the other as moving, and so, because of the reciprocity of time dilation, one might initially expect that each should have found the other to have aged less. In reality, there is no paradox at all, because in order for the two observers to perform side-by-side comparisons of their elapsed proper times, the symmetry of the situation must be broken: At least one of the two observers must change their state of motion to match that of the other.[41]
+
+Knowing the general resolution of the paradox, however, does not immediately yield the ability to calculate correct quantitative results. Many solutions to this puzzle have been provided in the literature and have been reviewed in the Twin paradox article. We will examine in the following one such solution to the paradox.
+
+Our basic aim will be to demonstrate that, after the trip, both twins are in perfect agreement about who aged by how much, regardless of their different experiences. Fig 4-4 illustrates a scenario where the traveling twin flies at 0.6 c to and from a star 3 ly distant. During the trip, each twin sends yearly time signals (measured in their own proper times) to the other. After the trip, the cumulative counts are compared. On the outward phase of the trip, each twin receives the other's signals at the lowered rate of ⁠
+
+
+
+
+
+f
+′
+
+=
+f
+
+
+(
+1
+−
+β
+)
+
+/
+
+(
+1
++
+β
+)
+
+
+
+
+
+{\displaystyle \textstyle f'=f{\sqrt {(1-\beta )/(1+\beta )}}}
+
+⁠. Initially, the situation is perfectly symmetric: note that each twin receives the other's one-year signal at two years measured on their own clock. The symmetry is broken when the traveling twin turns around at the four-year mark as measured by her clock. During the remaining four years of her trip, she receives signals at the enhanced rate of ⁠
+
+
+
+
+
+f
+″
+
+=
+f
+
+
+(
+1
++
+β
+)
+
+/
+
+(
+1
+−
+β
+)
+
+
+
+
+
+{\displaystyle \textstyle f''=f{\sqrt {(1+\beta )/(1-\beta )}}}
+
+⁠. The situation is quite different with the stationary twin. Because of light-speed delay, he does not see his sister turn around until eight years have passed on his own clock. Thus, he receives enhanced-rate signals from his sister for only a relatively brief period. Although the twins disagree in their respective measures of total time, we see in the following table, as well as by simple observation of the Minkowski diagram, that each twin is in total agreement with the other as to the total number of signals sent from one to the other. There is hence no paradox.[31]: 152–159 
+
+The dimensions (e.g., length) of an object as measured by one observer may be smaller than the results of measurements of the same object made by another observer (e.g., the ladder paradox involves a long ladder traveling near the speed of light and being contained within a smaller garage).
+
+Similarly, suppose a measuring rod is at rest and aligned along the x-axis in the unprimed system S. In this system, the length of this rod is written as Δx. To measure the length of this rod in the system S′, in which the rod is moving, the distances x′ to the end points of the rod must be measured simultaneously in that system S′. In other words, the measurement is characterized by Δt′ = 0, which can be combined with Equation 4 to find the relation between the lengths Δx and Δx′:
+
+This shows that the length (Δx′) of the rod as measured in the frame in which it is moving (S′), is shorter than its length (Δx) in its own rest frame (S).
+
+Time dilation and length contraction are not merely appearances. Time dilation is explicitly related to our way of measuring time intervals between events that occur at the same place in a given coordinate system (called ""co-local"" events). These time intervals (which can be, and are, actually measured experimentally by relevant observers) are different in another coordinate system moving with respect to the first, unless the events, in addition to being co-local, are also simultaneous. Similarly, length contraction relates to our measured distances between separated but simultaneous events in a given coordinate system of choice. If these events are not co-local, but are separated by distance (space), they will not occur at the same spatial distance from each other when seen from another moving coordinate system.
+
+Consider two frames S and S′ in standard configuration. A particle in S moves in the x direction with velocity vector ⁠
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+⁠. What is its velocity 
+
+
+
+
+
+u
+′
+
+
+
+
+{\displaystyle \mathbf {u'} }
+
+ in frame S′?
+
+We can write
+
+Substituting expressions for 
+
+
+
+d
+
+x
+′
+
+
+
+{\displaystyle dx'}
+
+ and 
+
+
+
+d
+
+t
+′
+
+
+
+{\displaystyle dt'}
+
+ from Equation 5 into Equation 8, followed by straightforward mathematical manipulations and back-substitution from Equation 7 yields the Lorentz transformation of the speed 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ to ⁠
+
+
+
+
+u
+′
+
+
+
+{\displaystyle u'}
+
+⁠:
+
+The inverse relation is obtained by interchanging the primed and unprimed symbols and replacing 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ with ⁠
+
+
+
+−
+v
+
+
+{\displaystyle -v}
+
+⁠.
+
+For 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+ not aligned along the x-axis, we write:[12]: 47–49 
+
+The forward and inverse transformations for this case are:
+
+Equation 10 and Equation 14 can be interpreted as giving the resultant 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+ of the two velocities 
+
+
+
+
+v
+
+
+
+{\displaystyle \mathbf {v} }
+
+ and ⁠
+
+
+
+
+
+u
+′
+
+
+
+
+{\displaystyle \mathbf {u'} }
+
+⁠, and they replace the formula ⁠
+
+
+
+
+u
+=
+
+u
+′
+
++
+v
+
+
+
+{\displaystyle \mathbf {u=u'+v} }
+
+⁠. which is valid in Galilean relativity. Interpreted in such a fashion, they are commonly referred to as the relativistic velocity addition (or composition) formulas, valid for the three axes of S and S′ being aligned with each other (although not necessarily in standard configuration).[12]: 47–49 
+
+We note the following points:
+
+There is nothing special about the x direction in the standard configuration. The above formalism applies to any direction; and three orthogonal directions allow dealing with all directions in space by decomposing the velocity vectors to their components in these directions. See Velocity-addition formula for details.
+
+The composition of two non-collinear Lorentz boosts (i.e., two non-collinear Lorentz transformations, neither of which involve rotation) results in a Lorentz transformation that is not a pure boost but is the composition of a boost and a rotation.
+
+Thomas rotation results from the relativity of simultaneity. In Fig. 4-5a, a rod of length 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ in its rest frame (i.e., having a proper length of ⁠
+
+
+
+L
+
+
+{\displaystyle L}
+
+⁠) rises vertically along the y-axis in the ground frame.
+
+In Fig. 4-5b, the same rod is observed from the frame of a rocket moving at speed 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ to the right. If we imagine two clocks situated at the left and right ends of the rod that are synchronized in the frame of the rod, relativity of simultaneity causes the observer in the rocket frame to observe (not see) the clock at the right end of the rod as being advanced in time by ⁠
+
+
+
+L
+v
+
+/
+
+
+c
+
+2
+
+
+
+
+{\displaystyle Lv/c^{2}}
+
+⁠, and the rod is correspondingly observed as tilted.[27]: 98–99 
+
+Unlike second-order relativistic effects such as length contraction or time dilation, this effect becomes quite significant even at fairly low velocities. For example, this can be seen in the spin of moving particles, where Thomas precession is a relativistic correction that applies to the spin of an elementary particle or the rotation of a macroscopic gyroscope, relating the angular velocity of the spin of a particle following a curvilinear orbit to the angular velocity of the orbital motion.[27]: 169–174 
+
+Thomas rotation provides the resolution to the well-known ""meter stick and hole paradox"".[p 12][27]: 98–99 
+
+In Fig. 4-6, the time interval between the events A (the ""cause"") and B (the ""effect"") is 'timelike'; that is, there is a frame of reference in which events A and B occur at the same location in space, separated only by occurring at different times. If A precedes B in that frame, then A precedes B in all frames accessible by a Lorentz transformation. It is possible for matter (or information) to travel (below light speed) from the location of A, starting at the time of A, to the location of B, arriving at the time of B, so there can be a causal relationship (with A the cause and B the effect).
+
+The interval AC in the diagram is 'spacelike'; that is, there is a frame of reference in which events A and C occur simultaneously, separated only in space. There are also frames in which A precedes C (as shown) and frames in which C precedes A. But no frames are accessible by a Lorentz transformation, in which events A and C occur at the same location. If it were possible for a cause-and-effect relationship to exist between events A and C, paradoxes of causality would result.
+
+For example, if signals could be sent faster than light, then signals could be sent into the sender's past (observer B in the diagrams).[42][p 13] A variety of causal paradoxes could then be constructed.
+
+Consider the spacetime diagrams in Fig. 4-7. A and B stand alongside a railroad track, when a high-speed train passes by, with C riding in the last car of the train and D riding in the leading car. The world lines of A and B are vertical (ct), distinguishing the stationary position of these observers on the ground, while the world lines of C and D are tilted forwards (ct′), reflecting the rapid motion of the observers C and D stationary in their train, as observed from the ground.
+
+It is not necessary for signals to be instantaneous to violate causality. Even if the signal from D to C were slightly shallower than the 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ axis (and the signal from A to B slightly steeper than the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ axis), it would still be possible for B to receive his message before he had sent it. By increasing the speed of the train to near light speeds, the 
+
+
+
+c
+
+t
+′
+
+
+
+{\displaystyle ct'}
+
+ and 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ axes can be squeezed very close to the dashed line representing the speed of light. With this modified setup, it can be demonstrated that even signals only slightly faster than the speed of light will result in causality violation.[44]
+
+Therefore, if causality is to be preserved, one of the consequences of special relativity is that no information signal or material object can travel faster than light in vacuum.
+
+This is not to say that all faster than light speeds are impossible. Various trivial situations can be described where some ""things"" (not actual matter or energy) move faster than light.[45] For example, the location where the beam of a search light hits the bottom of a cloud can move faster than light when the search light is turned rapidly (although this does not violate causality or any other relativistic phenomenon).[46][47]
+
+In 1850, Hippolyte Fizeau and Léon Foucault independently established that light travels more slowly in water than in air, thus validating a prediction of Fresnel's wave theory of light and invalidating the corresponding prediction of Newton's corpuscular theory.[48] The speed of light was measured in still water. What would be the speed of light in flowing water?
+
+In 1851, Fizeau conducted an experiment to answer this question, a simplified representation of which is illustrated in Fig. 5-1. A beam of light is divided by a beam splitter, and the split beams are passed in opposite directions through a tube of flowing water. They are recombined to form interference fringes, indicating a difference in optical path length, that an observer can view. The experiment demonstrated that dragging of the light by the flowing water caused a displacement of the fringes, showing that the motion of the water had affected the speed of the light.
+
+According to the theories prevailing at the time, light traveling through a moving medium would be a simple sum of its speed through the medium plus the speed of the medium. Contrary to expectation, Fizeau found that although light appeared to be dragged by the water, the magnitude of the dragging was much lower than expected. If 
+
+
+
+
+u
+′
+
+=
+c
+
+/
+
+n
+
+
+{\displaystyle u'=c/n}
+
+ is the speed of light in still water, and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ is the speed of the water, and 
+
+
+
+
+u
+
+±
+
+
+
+
+{\displaystyle u_{\pm }}
+
+ is the water-borne speed of light in the lab frame with the flow of water adding to or subtracting from the speed of light, then
+
+
+
+
+
+u
+
+±
+
+
+=
+
+
+c
+n
+
+
+±
+v
+
+(
+
+1
+−
+
+
+1
+
+n
+
+2
+
+
+
+
+
+)
+
+ 
+.
+
+
+{\displaystyle u_{\pm }={\frac {c}{n}}\pm v\left(1-{\frac {1}{n^{2}}}\right)\ .}
+
+
+
+Fizeau's results, although consistent with Fresnel's earlier hypothesis of partial aether dragging, were extremely disconcerting to physicists of the time. Among other things, the presence of an index of refraction term meant that, since 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ depends on wavelength, the aether must be capable of sustaining different motions at the same time.[note 4] A variety of theoretical explanations were proposed to explain Fresnel's dragging coefficient, that were completely at odds with each other. Even before the Michelson–Morley experiment, Fizeau's experimental results were among a number of observations that created a critical situation in explaining the optics of moving bodies.[49]
+
+From the point of view of special relativity, Fizeau's result is nothing but an approximation to Equation 10, the relativistic formula for composition of velocities.[28]
+
+Because of the finite speed of light, if the relative motions of a source and receiver include a transverse component, then the direction from which light arrives at the receiver will be displaced from the geometric position in space of the source relative to the receiver. The classical calculation of the displacement takes two forms and makes different predictions depending on whether the receiver, the source, or both are in motion with respect to the medium. (1) If the receiver is in motion, the displacement would be the consequence of the aberration of light. The incident angle of the beam relative to the receiver would be calculable from the vector sum of the receiver's motions and the velocity of the incident light.[50] (2) If the source is in motion, the displacement would be the consequence of light-time correction. The displacement of the apparent position of the source from its geometric position would be the result of the source's motion during the time that its light takes to reach the receiver.[51]
+
+The classical explanation failed experimental test. Since the aberration angle depends on the relationship between the velocity of the receiver and the speed of the incident light, passage of the incident light through a refractive medium should change the aberration angle. In 1810, Arago used this expected phenomenon in a failed attempt to measure the speed of light,[52] and in 1870, George Airy tested the hypothesis using a water-filled telescope, finding that, against expectation, the measured aberration was identical to the aberration measured with an air-filled telescope.[53] A ""cumbrous"" attempt to explain these results used the hypothesis of partial aether-drag,[54] but was incompatible with the results of the Michelson–Morley experiment, which apparently demanded complete aether-drag.[55]
+
+Assuming inertial frames, the relativistic expression for the aberration of light is applicable to both the receiver moving and source moving cases. A variety of trigonometrically equivalent formulas have been published. Expressed in terms of the variables in Fig. 5-2, these include[28]: 57–60 
+
+The classical Doppler effect depends on whether the source, receiver, or both are in motion with respect to the medium. The relativistic Doppler effect is independent of any medium. Nevertheless, relativistic Doppler shift for the longitudinal case, with source and receiver moving directly towards or away from each other, can be derived as if it were the classical phenomenon, but modified by the addition of a time dilation term, and that is the treatment described here.[56][57]
+
+Assume the receiver and the source are moving away from each other with a relative speed 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ as measured by an observer on the receiver or the source (The sign convention adopted here is that 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ is negative if the receiver and the source are moving towards each other). Assume that the source is stationary in the medium. Then
+
+
+
+
+
+f
+
+r
+
+
+=
+
+(
+
+1
+−
+
+
+v
+
+c
+
+s
+
+
+
+
+
+)
+
+
+f
+
+s
+
+
+
+
+{\displaystyle f_{r}=\left(1-{\frac {v}{c_{s}}}\right)f_{s}}
+
+
+where 
+
+
+
+
+c
+
+s
+
+
+
+
+{\displaystyle c_{s}}
+
+ is the speed of sound.
+
+For light, and with the receiver moving at relativistic speeds, clocks on the receiver are time dilated relative to clocks at the source. The receiver will measure the received frequency to be
+
+
+
+
+
+f
+
+r
+
+
+=
+γ
+
+(
+
+1
+−
+β
+
+)
+
+
+f
+
+s
+
+
+=
+
+
+
+
+1
+−
+β
+
+
+1
++
+β
+
+
+
+
+
+
+f
+
+s
+
+
+.
+
+
+{\displaystyle f_{r}=\gamma \left(1-\beta \right)f_{s}={\sqrt {\frac {1-\beta }{1+\beta }}}\,f_{s}.}
+
+
+where
+
+An identical expression for relativistic Doppler shift is obtained when performing the analysis in the reference frame of the receiver with a moving source.[58][21]
+
+The transverse Doppler effect is one of the main novel predictions of the special theory of relativity.
+
+Classically, one might expect that if source and receiver are moving transversely with respect to each other with no longitudinal component to their relative motions, that there should be no Doppler shift in the light arriving at the receiver.
+
+Special relativity predicts otherwise. Fig. 5-3 illustrates two common variants of this scenario. Both variants can be analyzed using simple time dilation arguments.[21] In Fig. 5-3a, the receiver observes light from the source as being blueshifted by a factor of ⁠
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+⁠. In Fig. 5-3b, the light is redshifted by the same factor.
+
+Time dilation and length contraction are not optical illusions, but genuine effects. Measurements of these effects are not an artifact of Doppler shift, nor are they the result of neglecting to take into account the time it takes light to travel from an event to an observer.
+
+Scientists make a fundamental distinction between measurement or observation on the one hand, versus visual appearance, or what one sees. The measured shape of an object is a hypothetical snapshot of all of the object's points as they exist at a single moment in time. But the visual appearance of an object is affected by the varying lengths of time that light takes to travel from different points on the object to one's eye.
+
+For many years, the distinction between the two had not been generally appreciated, and it had generally been thought that a length contracted object passing by an observer would in fact actually be seen as length contracted. In 1959, James Terrell and Roger Penrose independently pointed out that differential time lag effects in signals reaching the observer from the different parts of a moving object result in a fast moving object's visual appearance being quite different from its measured shape. For example, a receding object would appear contracted, an approaching object would appear elongated, and a passing object would have a skew appearance that has been likened to a rotation.[p 16][p 17][59][60] A sphere in motion retains the circular outline for all speeds, for any distance, and for all view angles, although
+the surface of the sphere and the images on it will appear distorted.[61][62]
+
+Both Fig. 5-4 and Fig. 5-5 illustrate objects moving transversely to the line of sight. In Fig. 5-4, a cube is viewed from a distance of four times the length of its sides. At high speeds, the sides of the cube that are perpendicular to the direction of motion appear hyperbolic in shape. The cube is actually not rotated. Rather, light from the rear of the cube takes longer to reach one's eyes compared with light from the front, during which time the cube has moved to the right. At high speeds, the sphere in Fig. 5-5 takes on the appearance of a flattened disk tilted up to 45° from the line of sight. If the objects' motions are not strictly transverse but instead include a longitudinal component, exaggerated distortions in perspective may be seen.[63] This illusion has come to be known as Terrell rotation or the Terrell–Penrose effect.[note 5]
+
+Another example where visual appearance is at odds with measurement comes from the observation of apparent superluminal motion in various radio galaxies, BL Lac objects, quasars, and other astronomical objects that eject relativistic-speed jets of matter at narrow angles with respect to the viewer. An apparent optical illusion results giving the appearance of faster than light travel.[64][65][66] In Fig. 5-6, galaxy M87 streams out a high-speed jet of subatomic particles almost directly towards us, but Penrose–Terrell rotation causes the jet to appear to be moving laterally in the same manner that the appearance of the cube in Fig. 5-4 has been stretched out.[67]
+
+Section § Consequences derived from the Lorentz transformation dealt strictly with kinematics, the study of the motion of points, bodies, and systems of bodies without considering the forces that caused the motion. This section discusses masses, forces, energy and so forth, and as such requires consideration of physical effects beyond those encompassed by the Lorentz transformation itself.
+
+As an object's speed approaches the speed of light from an observer's point of view, its relativistic mass increases thereby making it more and more difficult to accelerate it from within the observer's frame of reference.
+
+The energy content of an object at rest with mass m equals mc2. Conservation of energy implies that, in any reaction, a decrease of the sum of the masses of particles must be accompanied by an increase in kinetic energies of the particles after the reaction. Similarly, the mass of an object can be increased by taking in kinetic energies.
+
+In addition to the papers referenced above – which give derivations of the Lorentz transformation and describe the foundations of special relativity—Einstein also wrote at least four papers giving heuristic arguments for the equivalence (and transmutability) of mass and energy, for E = mc2.
+
+Mass–energy equivalence is a consequence of special relativity. The energy and momentum, which are separate in Newtonian mechanics, form a four-vector in relativity, and this relates the time component (the energy) to the space components (the momentum) in a non-trivial way. For an object at rest, the energy–momentum four-vector is (E/c, 0, 0, 0): it has a time component, which is the energy, and three space components, which are zero. By changing frames with a Lorentz transformation in the x direction with a small value of the velocity v, the energy momentum four-vector becomes (E/c, Ev/c2, 0, 0). The momentum is equal to the energy multiplied by the velocity divided by c2. As such, the Newtonian mass of an object, which is the ratio of the momentum to the velocity for slow velocities, is equal to E/c2.
+
+The energy and momentum are properties of matter and radiation, and it is impossible to deduce that they form a four-vector just from the two basic postulates of special relativity by themselves, because these do not talk about matter or radiation, they only talk about space and time. The derivation therefore requires some additional physical reasoning. In his 1905 paper, Einstein used the additional principles that Newtonian mechanics should hold for slow velocities, so that there is one energy scalar and one three-vector momentum at slow velocities, and that the conservation law for energy and momentum is exactly true in relativity. Furthermore, he assumed that the energy of light is transformed by the same Doppler-shift factor as its frequency, which he had previously shown to be true based on Maxwell's equations.[p 1] The first of Einstein's papers on this subject was ""Does the Inertia of a Body Depend upon its Energy Content?"" in 1905.[p 18] Although Einstein's argument in this paper is nearly universally accepted by physicists as correct, even self-evident, many authors over the years have suggested that it is wrong.[68] Other authors suggest that the argument was merely inconclusive because it relied on some implicit assumptions.[69]
+
+Einstein acknowledged the controversy over his derivation in his 1907 survey paper on special relativity. There he notes that it is problematic to rely on Maxwell's equations for the heuristic mass–energy argument. The argument in his 1905 paper can be carried out with the emission of any massless particles, but the Maxwell equations are implicitly used to make it obvious that the emission of light in particular can be achieved only by doing work. To emit electromagnetic waves, all you have to do is shake a charged particle, and this is clearly doing work, so that the emission is of energy.[p 19][note 6]
+
+In his fourth of his 1905 Annus mirabilis papers,[p 18] Einstein presented a heuristic argument for the equivalence of mass and energy. Although, as discussed above, subsequent scholarship has established that his arguments fell short of a broadly definitive proof, the conclusions that he reached in this paper have stood the test of time.
+
+Einstein took as starting assumptions his recently discovered formula for relativistic Doppler shift, the laws of conservation of energy and conservation of momentum, and the relationship between the frequency of light and its energy as implied by Maxwell's equations.
+
+Fig. 6-1 (top). Consider a system of plane waves of light having frequency 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ traveling in direction 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ relative to the x-axis of reference frame S. The frequency (and hence energy) of the waves as measured in frame S′ that is moving along the x-axis at velocity 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ is given by the relativistic Doppler shift formula that Einstein had developed in his 1905 paper on special relativity:[p 1]
+
+Fig. 6-1 (bottom). Consider an arbitrary body that is stationary in reference frame S. Let this body emit a pair of equal-energy light-pulses in opposite directions at angle 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ with respect to the x-axis. Each pulse has energy ⁠
+
+
+
+L
+
+/
+
+2
+
+
+{\displaystyle L/2}
+
+⁠. Because of conservation of momentum, the body remains stationary in S after emission of the two pulses. Let 
+
+
+
+
+E
+
+0
+
+
+
+
+{\displaystyle E_{0}}
+
+ be the energy of the body before emission of the two pulses and 
+
+
+
+
+E
+
+1
+
+
+
+
+{\displaystyle E_{1}}
+
+ after their emission.
+
+Next, consider the same system observed from frame S′ that is moving along the x-axis at speed 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ relative to frame S. In this frame, light from the forwards and reverse pulses will be relativistically Doppler-shifted. Let 
+
+
+
+
+H
+
+0
+
+
+
+
+{\displaystyle H_{0}}
+
+ be the energy of the body measured in reference frame S′ before emission of the two pulses and 
+
+
+
+
+H
+
+1
+
+
+
+
+{\displaystyle H_{1}}
+
+ after their emission. We obtain the following relationships:[p 18]
+
+From the above equations, we obtain the following:
+
+The two differences of form 
+
+
+
+H
+−
+E
+
+
+{\displaystyle H-E}
+
+ seen in the above equation have a straightforward physical interpretation. Since 
+
+
+
+H
+
+
+{\displaystyle H}
+
+ and 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ are the energies of the arbitrary body in the moving and stationary frames, 
+
+
+
+
+H
+
+0
+
+
+−
+
+E
+
+0
+
+
+
+
+{\displaystyle H_{0}-E_{0}}
+
+ and 
+
+
+
+
+H
+
+1
+
+
+−
+
+E
+
+1
+
+
+
+
+{\displaystyle H_{1}-E_{1}}
+
+ represents the kinetic energies of the bodies before and after the emission of light (except for an additive constant that fixes the zero point of energy and is conventionally set to zero). Hence,
+
+Taking a Taylor series expansion and neglecting higher order terms, he obtained
+
+Comparing the above expression with the classical expression for kinetic energy, K.E. = ⁠1/2⁠mv2, Einstein then noted: ""If a body gives off the energy L in the form of radiation, its mass diminishes by L/c2.""
+
+Rindler has observed that Einstein's heuristic argument suggested merely that energy contributes to mass. In 1905, Einstein's cautious expression of the mass–energy relationship allowed for the possibility that ""dormant"" mass might exist that would remain behind after all the energy of a body was removed. By 1907, however, Einstein was ready to assert that all inertial mass represented a reserve of energy. ""To equate all mass with energy required an act of aesthetic faith, very characteristic of Einstein.""[12]: 81–84  Einstein's bold hypothesis has been amply confirmed in the years subsequent to his original proposal.
+
+For a variety of reasons, Einstein's original derivation is currently seldom taught. Besides the vigorous debate that continues until this day as to the formal correctness of his original derivation, the recognition of special relativity as being what Einstein called a ""principle theory"" has led to a shift away from reliance on electromagnetic phenomena to purely dynamic methods of proof.[70]
+
+Since nothing can travel faster than light, one might conclude that a human can never travel farther from Earth than ~ 100 light years. You would easily think that a traveler would never be able to reach more than the few solar systems that exist within the limit of 100 light years from Earth.  However, because of time dilation, a hypothetical spaceship can travel thousands of light years during a passenger's lifetime. If a spaceship could be built that accelerates at a constant 1g, it will, after one year, be travelling at almost the speed of light as seen from Earth. This is described by:
+
+
+
+
+v
+(
+t
+)
+=
+
+
+
+a
+t
+
+
+1
++
+
+a
+
+2
+
+
+
+t
+
+2
+
+
+
+/
+
+
+c
+
+2
+
+
+
+
+
+,
+
+
+{\displaystyle v(t)={\frac {at}{\sqrt {1+a^{2}t^{2}/c^{2}}}},}
+
+
+where v(t) is the velocity at a time t, a is the acceleration of the spaceship and t is the coordinate time as measured by people on Earth.[p 20] Therefore, after one year of accelerating at 9.81 m/s2, the spaceship will be travelling at v = 0.712 c and 0.946 c after three years, relative to Earth.  After three years of this acceleration, with the spaceship achieving a velocity of 94.6% of the speed of light relative to Earth, time dilation will result in each second experienced on the spaceship corresponding to 3.1 seconds back on Earth.  During their journey, people on Earth will experience more time than they do – since their clocks (all physical phenomena) would really be ticking 3.1 times faster than those of the spaceship. A 5-year round trip for the traveller will take 6.5 Earth years and cover a distance of over 6 light-years. A 20-year round trip for them (5 years accelerating, 5 decelerating, twice each) will land them back on Earth having travelled for 335 Earth years and a distance of 331 light years.[71] A full 40-year trip at 1g will appear on Earth to last 58,000 years and cover a distance of 55,000 light years. A 40-year trip at 1.1 g will take 148000 years and cover about 140000 light years. A one-way 28 year (14 years accelerating, 14 decelerating as measured with the astronaut's clock) trip at 1g acceleration could reach 2,000,000 light-years to the Andromeda Galaxy.[71] This same time dilation is why a muon travelling close to c is observed to travel much farther than c times its half-life (when at rest).[72]
+
+Examination of the collision products generated by particle accelerators around the world provides scientists evidence of the structure of the subatomic world and the natural laws governing it. Analysis of the collision products, the sum of whose masses may vastly exceed the masses of the incident particles, requires special relativity.[73]
+
+In Newtonian mechanics, analysis of collisions involves use of the conservation laws for mass, momentum and energy. In relativistic mechanics, mass is not independently conserved, because it has been subsumed into the total relativistic energy. We illustrate the differences that arise between the Newtonian and relativistic treatments of particle collisions by examining the simple case of two perfectly elastic colliding particles of equal mass. (Inelastic collisions are discussed in Spacetime#Conservation laws. Radioactive decay may be considered a sort of time-reversed inelastic collision.[73])
+
+Elastic scattering of charged elementary particles deviates from ideality due to the production of Bremsstrahlung radiation.[74][75]
+
+Fig. 6-2 provides a demonstration of the result, familiar to billiard players, that if a stationary ball is struck elastically by another one of the same mass (assuming no sidespin, or ""English""), then after collision, the diverging paths of the two balls  will subtend a right angle. (a) In the stationary frame, an incident sphere traveling at 2v strikes a stationary sphere. (b) In the center of momentum frame, the two spheres approach each other symmetrically at ±v. After elastic collision, the two spheres rebound from each other with equal and opposite velocities ±u. Energy conservation requires that |u| = |v|. (c) Reverting to the stationary frame, the rebound velocities are v ± u. The dot product (v + u) ⋅ (v − u) = v2 − u2 = 0, indicating that the vectors are orthogonal.[12]: 26–27 
+
+Consider the elastic collision scenario in Fig. 6-3 between a moving particle colliding with an equal mass stationary particle. Unlike the Newtonian case, the angle between the two particles after collision is less than 90°, is dependent on the angle of scattering, and becomes smaller and smaller as the velocity of the incident particle approaches the speed of light:
+
+The relativistic momentum and total relativistic energy of a particle are given by
+
+Conservation of momentum dictates that the sum of the momenta of the incoming particle and the stationary particle (which initially has momentum = 0) equals the sum of the momenta of the emergent particles:
+
+Likewise, the sum of the total relativistic energies of the incoming particle and the stationary particle (which initially has total energy mc2) equals the sum of the total energies of the emergent particles:
+
+Breaking down (6-5) into its components, replacing 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ with the dimensionless ⁠
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+⁠, and factoring out common terms from (6-5) and (6-6) yields the following:[p 21]
+
+From these we obtain the following relationships:[p 21]
+
+For the symmetrical case in which 
+
+
+
+ϕ
+=
+θ
+
+
+{\displaystyle \phi =\theta }
+
+ and ⁠
+
+
+
+
+β
+
+2
+
+
+=
+
+β
+
+3
+
+
+
+
+{\displaystyle \beta _{2}=\beta _{3}}
+
+⁠, (6-12) takes on the simpler form:[p 21]
+
+Lorentz transformations relate coordinates of events in one reference frame to those of another frame. Relativistic composition of velocities is used to add two velocities together. The formulas to perform the latter computations are nonlinear, making them more complex than the corresponding Galilean formulas.
+
+This nonlinearity is an artifact of our choice of parameters.[11]: 47–59  We have previously noted that in an x–ct spacetime diagram, the points at some constant spacetime interval from the origin form an invariant hyperbola. We have also noted that the coordinate systems of two spacetime reference frames in standard configuration are hyperbolically rotated with respect to each other.
+
+The natural functions for expressing these relationships are the hyperbolic analogs of the trigonometric functions. Fig. 7-1a shows a unit circle with sin(a) and cos(a), the only difference between this diagram and the familiar unit circle of elementary trigonometry being that a is interpreted, not as the angle between the ray and the x-axis, but as twice the area of the sector swept out by the ray from the x-axis. Numerically, the angle and 2 × area measures for the unit circle are identical. Fig. 7-1b shows a unit hyperbola with sinh(a) and cosh(a), where a is likewise interpreted as twice the tinted area.[76] Fig. 7-2 presents plots of the sinh, cosh, and tanh functions.
+
+For the unit circle, the slope of the ray is given by
+
+In the Cartesian plane, rotation of point (x, y) into point (x', y') by angle θ is given by
+
+In a spacetime diagram, the velocity parameter 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ is the analog of slope. The rapidity, φ, is defined by[21]: 96–99 
+
+where
+
+The rapidity defined above is very useful in special relativity because many expressions take on a considerably simpler form when expressed in terms of it. For example, rapidity is simply additive in the collinear velocity-addition formula;[11]: 47–59 
+
+or in other words, ⁠
+
+
+
+ϕ
+=
+
+ϕ
+
+1
+
+
++
+
+ϕ
+
+2
+
+
+
+
+{\displaystyle \phi =\phi _{1}+\phi _{2}}
+
+⁠.
+
+The Lorentz transformations take a simple form when expressed in terms of rapidity. The γ factor can be written as
+
+Transformations describing relative motion with uniform velocity and without rotation of the space coordinate axes are called boosts.
+
+Substituting γ and γβ into the transformations as previously presented and rewriting in matrix form, the Lorentz boost in the x-direction may be written as
+
+and the inverse Lorentz boost in the x-direction may be written as
+
+In other words, Lorentz boosts represent hyperbolic rotations in Minkowski spacetime.[21]: 96–99 
+
+The advantages of using hyperbolic functions are such that some textbooks such as the classic ones by Taylor and Wheeler introduce their use at a very early stage.[11][note 7]
+
+
+Four‑vectors have been mentioned above in context of the energy–momentum 4‑vector, but without any great emphasis. Indeed, none of the elementary derivations of special relativity require them. But once understood, 4‑vectors, and more generally tensors, greatly simplify the mathematics and conceptual understanding of special relativity. Working exclusively with such objects leads to formulas that are manifestly relativistically invariant, which is a considerable advantage in non-trivial contexts. For instance, demonstrating relativistic invariance of Maxwell's equations in their usual form is not trivial, while it is merely a routine calculation, really no more than an observation, using the field strength tensor formulation.[77]
+
+On the other hand, general relativity, from the outset, relies heavily on 4‑vectors, and more generally tensors, representing physically relevant entities. Relating these via equations that do not rely on specific coordinates requires tensors, capable of connecting such 4‑vectors even within a curved spacetime, and not just within a flat one as in special relativity. The study of tensors is outside the scope of this article, which provides only a basic discussion of spacetime.
+
+A 4-tuple, ⁠
+
+
+
+A
+=
+
+(
+
+
+A
+
+0
+
+
+,
+
+A
+
+1
+
+
+,
+
+A
+
+2
+
+
+,
+
+A
+
+3
+
+
+
+)
+
+
+
+{\displaystyle A=\left(A_{0},A_{1},A_{2},A_{3}\right)}
+
+⁠ is a ""4-vector"" if its component Ai transform between frames according to the Lorentz transformation.
+
+If using ⁠
+
+
+
+(
+c
+t
+,
+x
+,
+y
+,
+z
+)
+
+
+{\displaystyle (ct,x,y,z)}
+
+⁠ coordinates, A is a 4–vector if it transforms (in the x-direction) according to
+
+which comes from simply replacing ct with A0 and x with A1 in the earlier presentation of the Lorentz transformation.
+
+As usual, when we write x, t, etc. we generally mean Δx, Δt etc.
+
+The last three components of a 4–vector must be a standard vector in three-dimensional space. Therefore, a 4–vector must transform like ⁠
+
+
+
+(
+c
+Δ
+t
+,
+Δ
+x
+,
+Δ
+y
+,
+Δ
+z
+)
+
+
+{\displaystyle (c\Delta t,\Delta x,\Delta y,\Delta z)}
+
+⁠ under Lorentz transformations as well as rotations.[78]: 36–59 
+
+As expected, the final components of the above 4-vectors are all standard 3-vectors corresponding to spatial 3-momentum, 3-force etc.[21]: 178–181 [78]: 36–59 
+
+The first postulate of special relativity declares the equivalency of all inertial frames. A physical law holding in one frame must apply in all frames, since otherwise it would be possible to differentiate between frames. Newtonian momenta fail to behave properly under Lorentzian transformation, and Einstein preferred to change the definition of momentum to one involving 4-vectors rather than give up on conservation of momentum.
+
+Physical laws must be based on constructs that are frame independent. This means that physical laws may take the form of equations connecting scalars, which are always frame independent. However, equations involving 4-vectors require the use of tensors with appropriate rank, which themselves can be thought of as being built up from 4-vectors.[21]: 186 
+
+
+It is a common misconception that special relativity is applicable only to inertial frames, and that it is unable to handle accelerating objects or accelerating reference frames. Actually, accelerating objects can generally be analyzed without needing to deal with accelerating frames at all. It is only when gravitation is significant that general relativity is required.[79]
+
+Properly handling accelerating frames does require some care, however. The difference between special and general relativity is that (1) In special relativity, all velocities are relative, but acceleration is absolute. (2) In general relativity, all motion is relative, whether inertial, accelerating, or rotating. To accommodate this difference, general relativity uses curved spacetime.[79]
+
+In this section, we analyze several scenarios involving accelerated reference frames.
+
+
+
+The Dewan–Beran–Bell spaceship paradox (Bell's spaceship paradox) is a good example of a problem where intuitive reasoning unassisted by the geometric insight of the spacetime approach can lead to issues.
+
+In Fig. 7-4, two identical spaceships float in space and are at rest relative to each other. They are connected by a string that is capable of only a limited amount of stretching before breaking. At a given instant in our frame, the observer frame, both spaceships accelerate in the same direction along the line between them with the same constant proper acceleration.[note 8] Will the string break?
+
+When the paradox was new and relatively unknown, even professional physicists had difficulty working out the solution. Two lines of reasoning lead to opposite conclusions. Both arguments, which are presented below, are flawed even though one of them yields the correct answer.[21]: 106, 120–122 
+
+The problem with the first argument is that there is no ""frame of the spaceships."" There cannot be, because the two spaceships measure a growing distance between the two. Because there is no common frame of the spaceships, the length of the string is ill-defined. Nevertheless, the conclusion is correct, and the argument is mostly right. The second argument, however, completely ignores the relativity of simultaneity.[21]: 106, 120–122 
+
+A spacetime diagram (Fig. 7-5) makes the correct solution to this paradox almost immediately evident. Two observers in Minkowski spacetime accelerate with constant magnitude 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ acceleration for proper time 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+ (acceleration and elapsed time measured by the observers themselves, not some inertial observer). They are comoving and inertial before and after this phase. In Minkowski geometry, the length along the line of simultaneity 
+
+
+
+
+A
+′
+
+
+B
+″
+
+
+
+{\displaystyle A'B''}
+
+ turns out to be greater than the length along the line of simultaneity ⁠
+
+
+
+A
+B
+
+
+{\displaystyle AB}
+
+⁠.
+
+The length increase can be calculated with the help of the Lorentz transformation. If, as illustrated in Fig. 7-5, the acceleration is finished, the ships will remain at a constant offset in some frame ⁠
+
+
+
+
+S
+′
+
+
+
+{\displaystyle S'}
+
+⁠. If 
+
+
+
+
+x
+
+A
+
+
+
+
+{\displaystyle x_{A}}
+
+ and 
+
+
+
+
+x
+
+B
+
+
+=
+
+x
+
+A
+
+
++
+L
+
+
+{\displaystyle x_{B}=x_{A}+L}
+
+ are the ships' positions in ⁠
+
+
+
+S
+
+
+{\displaystyle S}
+
+⁠, the positions in frame 
+
+
+
+
+S
+′
+
+
+
+{\displaystyle S'}
+
+ are:[80]
+
+The ""paradox"", as it were, comes from the way that Bell constructed his example. In the usual discussion of Lorentz contraction, the rest length is fixed and the moving length shortens as measured in frame ⁠
+
+
+
+S
+
+
+{\displaystyle S}
+
+⁠. As shown in Fig. 7-5, Bell's example asserts the moving lengths 
+
+
+
+A
+B
+
+
+{\displaystyle AB}
+
+ and 
+
+
+
+
+A
+′
+
+
+B
+′
+
+
+
+{\displaystyle A'B'}
+
+ measured in frame 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ to be fixed, thereby forcing the rest frame length 
+
+
+
+
+A
+′
+
+
+B
+″
+
+
+
+{\displaystyle A'B''}
+
+ in frame 
+
+
+
+
+S
+′
+
+
+
+{\displaystyle S'}
+
+ to increase.
+
+
+
+Certain special relativity problem setups can lead to insight about phenomena normally associated with general relativity, such as event horizons. In the text accompanying Section ""Invariant hyperbola"" of the article Spacetime, the magenta hyperbolae represented actual paths that are tracked by a constantly accelerating traveler in spacetime. During periods of positive acceleration, the traveler's velocity just approaches the speed of light, while, measured in our frame, the traveler's acceleration constantly decreases.
+
+Fig. 7-6 details various features of the traveler's motions with more specificity. At any given moment, her space axis is formed by a line passing through the origin and her current position on the hyperbola, while her time axis is the tangent to the hyperbola at her position. The velocity parameter 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ approaches a limit of one as 
+
+
+
+c
+t
+
+
+{\displaystyle ct}
+
+ increases. Likewise, 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ approaches infinity.
+
+The shape of the invariant hyperbola corresponds to a path of constant proper acceleration. This is demonstrable as follows:
+
+Fig. 7-6 illustrates a specific calculated scenario. Terence (A) and Stella (B) initially stand together 100 light hours from the origin. Stella lifts off at time 0, her spacecraft accelerating at 0.01 c per hour. Every twenty hours, Terence radios updates to Stella about the situation at home (solid green lines). Stella receives these regular transmissions, but the increasing distance (offset in part by time dilation) causes her to receive Terence's communications later and later as measured on her clock, and she never receives any communications from Terence after 100 hours on his clock (dashed green lines).[81]: 110–113 
+
+After 100 hours according to Terence's clock, Stella enters a dark region. She has traveled outside Terence's timelike future. On the other hand, Terence can continue to receive Stella's messages to him indefinitely. He just has to wait long enough. Spacetime has been divided into distinct regions separated by an apparent event horizon. So long as Stella continues to accelerate, she can never know what takes place behind this horizon.[81]: 110–113 
+
+Theoretical investigation in classical electromagnetism led to the discovery of wave propagation. Equations generalizing the electromagnetic effects found that finite propagation speed of the E and B fields required certain behaviors on charged particles. The general study of moving charges forms the Liénard–Wiechert potential, which is a step towards special relativity.
+
+The Lorentz transformation of the electric field of a moving charge into a non-moving observer's reference frame results in the appearance of a mathematical term commonly called the magnetic field. Conversely, the magnetic field generated by a moving charge disappears and becomes a purely electrostatic field in a comoving frame of reference. Maxwell's equations are thus simply an empirical fit to special relativistic effects in a classical model of the Universe. As electric and magnetic fields are reference frame dependent and thus intertwined, one speaks of electromagnetic fields. Special relativity provides the transformation rules for how an electromagnetic field in one inertial frame appears in another inertial frame.
+
+Maxwell's equations in the 3D form are already consistent with the physical content of special relativity, although they are easier to manipulate in a manifestly covariant form, that is, in the language of tensor calculus.[77]
+
+Special relativity can be combined with quantum mechanics to form relativistic quantum mechanics and quantum electrodynamics. How general relativity and quantum mechanics can be unified is one of the unsolved problems in physics; quantum gravity and a ""theory of everything"", which require a unification including general relativity too, are active and ongoing areas in theoretical research.
+
+The early Bohr–Sommerfeld atomic model explained the fine structure of alkali metal atoms using both special relativity and the preliminary knowledge on quantum mechanics of the time.[82]
+
+In 1928, Paul Dirac constructed an influential relativistic wave equation, now known as the Dirac equation in his honour,[p 22] that is fully compatible both with special relativity and with the final version of quantum theory existing after 1926. This equation not only described the intrinsic angular momentum of the electrons called spin, it also led to the prediction of the antiparticle of the electron (the positron),[p 22][p 23] and fine structure could only be fully explained with special relativity. It was the first foundation of relativistic quantum mechanics.
+
+On the other hand, the existence of antiparticles leads to the conclusion that relativistic quantum mechanics is not enough for a more accurate and complete theory of particle interactions. Instead, a theory of particles interpreted as quantized fields, called quantum field theory, becomes necessary; in which particles can be created and destroyed throughout space and time.
+
+Special relativity in its Minkowski spacetime is accurate only when the absolute value of the gravitational potential is much less than c2 in the region of interest.[83] In a strong gravitational field, one must use general relativity. General relativity becomes special relativity at the limit of a weak field. At very small scales, such as at the Planck length and below, quantum effects must be taken into consideration resulting in quantum gravity. But at macroscopic scales and in the absence of strong gravitational fields, special relativity is experimentally tested to extremely high degree of accuracy (10−20)[84]
+and thus accepted by the physics community. Experimental results that appear to contradict it are not reproducible and are thus widely believed to be due to experimental errors.[85]
+
+Special relativity is mathematically self-consistent, and it is an organic part of all modern physical theories, most notably quantum field theory, string theory, and general relativity (in the limiting case of negligible gravitational fields).
+
+Newtonian mechanics mathematically follows from special relativity at small velocities (compared to the speed of light) – thus Newtonian mechanics can be considered as a special relativity of slow moving bodies. See Classical mechanics for a more detailed discussion.
+
+Several experiments predating Einstein's 1905 paper are now interpreted as evidence for relativity. Of these it is known Einstein was aware of the Fizeau experiment before 1905,[86] and historians have concluded that Einstein was at least aware of the Michelson–Morley experiment as early as 1899 despite claims he made in his later years that it played no role in his development of the theory.[16]
+
+Particle accelerators accelerate and measure the properties of particles moving at near the speed of light, where their behavior is consistent with relativity theory and inconsistent with the earlier Newtonian mechanics. These machines would simply not work if they were not engineered according to relativistic principles. In addition, a considerable number of modern experiments have been conducted to test special relativity. Some examples:
+
+Special relativity uses a ""flat"" 4-dimensional Minkowski space – an example of a spacetime. Minkowski spacetime appears to be very similar to the standard 3-dimensional Euclidean space, but there is a crucial difference with respect to time.
+
+In 3D space, the differential of distance (line element) ds is defined by
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+d
+
+x
+
+⋅
+d
+
+x
+
+=
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
++
+d
+
+x
+
+3
+
+
+2
+
+
+,
+
+
+{\displaystyle ds^{2}=d\mathbf {x} \cdot d\mathbf {x} =dx_{1}^{2}+dx_{2}^{2}+dx_{3}^{2},}
+
+
+where dx = (dx1, dx2, dx3) are the differentials of the three spatial dimensions. In Minkowski geometry, there is an extra dimension with coordinate X0 derived from time, such that the distance differential fulfills
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+−
+d
+
+X
+
+0
+
+
+2
+
+
++
+d
+
+X
+
+1
+
+
+2
+
+
++
+d
+
+X
+
+2
+
+
+2
+
+
++
+d
+
+X
+
+3
+
+
+2
+
+
+,
+
+
+{\displaystyle ds^{2}=-dX_{0}^{2}+dX_{1}^{2}+dX_{2}^{2}+dX_{3}^{2},}
+
+
+where dX = (dX0, dX1, dX2, dX3) are the differentials of the four spacetime dimensions. This suggests a deep theoretical insight: special relativity is simply a rotational symmetry of our spacetime, analogous to the rotational symmetry of Euclidean space (see Fig. 10-1).[88] Just as Euclidean space uses a Euclidean metric, so spacetime uses a Minkowski metric. Basically, special relativity can be stated as the invariance of any spacetime interval (that is the 4D distance between any two events) when viewed from any inertial reference frame. All equations and effects of special relativity can be derived from this rotational symmetry (the Poincaré group) of Minkowski spacetime.
+
+The actual form of ds above depends on the metric and on the choices for the X0 coordinate.
+To make the time coordinate look like the space coordinates, it can be treated as imaginary: X0 = ict (this is called a Wick rotation).
+According to Misner, Thorne and Wheeler (1971, §2.3), ultimately the deeper understanding of both special and general relativity will come from the study of the Minkowski metric (described below) and to take X0 = ct, rather than a ""disguised"" Euclidean metric using ict as the time coordinate.
+
+Some authors use X0 = t, with factors of c elsewhere to compensate; for instance, spatial coordinates are divided by c or factors of c±2 are included in the metric tensor.[89]
+These numerous conventions can be superseded by using natural units where c = 1. Then space and time have equivalent units, and no factors of c appear anywhere.
+
+If we reduce the spatial dimensions to 2, so that we can represent the physics in a 3D space
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
+−
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+,
+
+
+{\displaystyle ds^{2}=dx_{1}^{2}+dx_{2}^{2}-c^{2}dt^{2},}
+
+
+we see that the null geodesics lie along a dual-cone (see Fig. 10-2) defined by the equation;
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+0
+=
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
+−
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+
+
+{\displaystyle ds^{2}=0=dx_{1}^{2}+dx_{2}^{2}-c^{2}dt^{2}}
+
+
+or simply
+
+
+
+
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
+=
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+,
+
+
+{\displaystyle dx_{1}^{2}+dx_{2}^{2}=c^{2}dt^{2},}
+
+
+which is the equation of a circle of radius c dt.
+
+If we extend this to three spatial dimensions, the null geodesics are the 4-dimensional cone:
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+0
+=
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
++
+d
+
+x
+
+3
+
+
+2
+
+
+−
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+
+
+{\displaystyle ds^{2}=0=dx_{1}^{2}+dx_{2}^{2}+dx_{3}^{2}-c^{2}dt^{2}}
+
+
+so
+
+
+
+
+d
+
+x
+
+1
+
+
+2
+
+
++
+d
+
+x
+
+2
+
+
+2
+
+
++
+d
+
+x
+
+3
+
+
+2
+
+
+=
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+.
+
+
+{\displaystyle dx_{1}^{2}+dx_{2}^{2}+dx_{3}^{2}=c^{2}dt^{2}.}
+
+
+
+As illustrated in Fig. 10-3, the null geodesics can be visualized as a set of continuous concentric spheres with radii = c dt.
+
+This null dual-cone represents the ""line of sight"" of a point in space. That is, when we look at the stars and say ""The light from that star that I am receiving is X years old"", we are looking down this line of sight: a null geodesic. We are looking at an event a distance 
+
+
+
+d
+=
+
+
+
+x
+
+1
+
+
+2
+
+
++
+
+x
+
+2
+
+
+2
+
+
++
+
+x
+
+3
+
+
+2
+
+
+
+
+
+
+{\textstyle d={\sqrt {x_{1}^{2}+x_{2}^{2}+x_{3}^{2}}}}
+
+ away and a time d/c in the past. For this reason the null dual cone is also known as the ""light cone"". (The point in the lower left of the Fig. 10-2 represents the star, the origin represents the observer, and the line represents the null geodesic ""line of sight"".)
+
+The cone in the −t region is the information that the point is ""receiving"", while the cone in the +t section is the information that the point is ""sending"".
+
+The geometry of Minkowski space can be depicted using Minkowski diagrams, which are useful also in understanding many of the thought experiments in special relativity.
+
+Above, the Lorentz transformation for the time coordinate and three space coordinates illustrates that they are intertwined. This is true more generally: certain pairs of ""timelike"" and ""spacelike"" quantities naturally combine on equal footing under the same Lorentz transformation.
+
+The Lorentz transformation in standard configuration above, that is, for a boost in the x-direction, can be recast into matrix form as follows:
+
+
+
+
+
+
+(
+
+
+
+c
+
+t
+′
+
+
+
+
+
+
+x
+′
+
+
+
+
+
+
+y
+′
+
+
+
+
+
+
+z
+′
+
+
+
+
+)
+
+
+=
+
+
+(
+
+
+
+γ
+
+
+−
+β
+γ
+
+
+0
+
+
+0
+
+
+
+
+−
+β
+γ
+
+
+γ
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+
+
+
+)
+
+
+
+
+(
+
+
+
+c
+t
+
+
+
+
+x
+
+
+
+
+y
+
+
+
+
+z
+
+
+
+)
+
+
+=
+
+
+(
+
+
+
+γ
+c
+t
+−
+γ
+β
+x
+
+
+
+
+γ
+x
+−
+β
+γ
+c
+t
+
+
+
+
+y
+
+
+
+
+z
+
+
+
+)
+
+
+.
+
+
+{\displaystyle {\begin{pmatrix}ct'\\x'\\y'\\z'\end{pmatrix}}={\begin{pmatrix}\gamma &-\beta \gamma &0&0\\-\beta \gamma &\gamma &0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}}{\begin{pmatrix}ct\\x\\y\\z\end{pmatrix}}={\begin{pmatrix}\gamma ct-\gamma \beta x\\\gamma x-\beta \gamma ct\\y\\z\end{pmatrix}}.}
+
+
+
+In Newtonian mechanics, quantities that have magnitude and direction are mathematically described as 3d vectors in Euclidean space, and in general they are parametrized by time. In special relativity, this notion is extended by adding the appropriate timelike quantity to a spacelike vector quantity, and we have 4d vectors, or ""four-vectors"", in Minkowski spacetime. The components of vectors are written using tensor index notation, as this has numerous advantages. The notation makes it clear the equations are manifestly covariant under the Poincaré group, thus bypassing the tedious calculations to check this fact. In constructing such equations, we often find that equations previously thought to be unrelated are, in fact, closely connected being part of the same tensor equation. Recognizing other physical quantities as tensors simplifies their transformation laws. Throughout, upper indices (superscripts) are contravariant indices rather than exponents except when they indicate a square (this should be clear from the context), and lower indices (subscripts) are covariant indices. For simplicity and consistency with the earlier equations, Cartesian coordinates will be used.
+
+The simplest example of a four-vector is the position of an event in spacetime, which constitutes a timelike component ct and spacelike component x = (x, y, z), in a contravariant position four-vector with components:
+
+
+
+
+
+X
+
+ν
+
+
+=
+(
+
+X
+
+0
+
+
+,
+
+X
+
+1
+
+
+,
+
+X
+
+2
+
+
+,
+
+X
+
+3
+
+
+)
+=
+(
+c
+t
+,
+x
+,
+y
+,
+z
+)
+=
+(
+c
+t
+,
+
+x
+
+)
+.
+
+
+{\displaystyle X^{\nu }=(X^{0},X^{1},X^{2},X^{3})=(ct,x,y,z)=(ct,\mathbf {x} ).}
+
+
+where we define X0 = ct so that the time coordinate has the same dimension of distance as the other spatial dimensions; so that space and time are treated equally.[90][91][92] Now the transformation of the contravariant components of the position 4-vector can be compactly written as:
+
+
+
+
+
+X
+
+
+μ
+′
+
+
+
+=
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+X
+
+ν
+
+
+
+
+{\displaystyle X^{\mu '}=\Lambda ^{\mu '}{}_{\nu }X^{\nu }}
+
+
+where there is an implied summation on 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ from 0 to 3, and 
+
+
+
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+
+{\displaystyle \Lambda ^{\mu '}{}_{\nu }}
+
+ is a matrix.
+
+More generally, all contravariant components of a four-vector 
+
+
+
+
+T
+
+ν
+
+
+
+
+{\displaystyle T^{\nu }}
+
+ transform from one frame to another frame by a Lorentz transformation:
+
+
+
+
+
+T
+
+
+μ
+′
+
+
+
+=
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+T
+
+ν
+
+
+
+
+{\displaystyle T^{\mu '}=\Lambda ^{\mu '}{}_{\nu }T^{\nu }}
+
+
+
+Examples of other 4-vectors include the four-velocity ⁠
+
+
+
+
+U
+
+μ
+
+
+
+
+{\displaystyle U^{\mu }}
+
+⁠, defined as the derivative of the position 4-vector with respect to proper time:
+
+
+
+
+
+U
+
+μ
+
+
+=
+
+
+
+d
+
+X
+
+μ
+
+
+
+
+d
+τ
+
+
+
+=
+γ
+(
+v
+)
+(
+c
+,
+
+v
+
+x
+
+
+,
+
+v
+
+y
+
+
+,
+
+v
+
+z
+
+
+)
+=
+γ
+(
+v
+)
+(
+c
+,
+
+v
+
+)
+.
+
+
+{\displaystyle U^{\mu }={\frac {dX^{\mu }}{d\tau }}=\gamma (v)(c,v_{x},v_{y},v_{z})=\gamma (v)(c,\mathbf {v} ).}
+
+
+where the Lorentz factor is:
+
+
+
+
+γ
+(
+v
+)
+=
+
+
+1
+
+1
+−
+
+v
+
+2
+
+
+
+/
+
+
+c
+
+2
+
+
+
+
+
+
+
+v
+
+2
+
+
+=
+
+v
+
+x
+
+
+2
+
+
++
+
+v
+
+y
+
+
+2
+
+
++
+
+v
+
+z
+
+
+2
+
+
+.
+
+
+{\displaystyle \gamma (v)={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}\qquad v^{2}=v_{x}^{2}+v_{y}^{2}+v_{z}^{2}.}
+
+
+
+The relativistic energy 
+
+
+
+E
+=
+γ
+(
+v
+)
+m
+
+c
+
+2
+
+
+
+
+{\displaystyle E=\gamma (v)mc^{2}}
+
+ and relativistic momentum 
+
+
+
+
+p
+
+=
+γ
+(
+v
+)
+m
+
+v
+
+
+
+{\displaystyle \mathbf {p} =\gamma (v)m\mathbf {v} }
+
+ of an object are respectively the timelike and spacelike components of a contravariant four-momentum vector:
+
+
+
+
+
+P
+
+μ
+
+
+=
+m
+
+U
+
+μ
+
+
+=
+m
+γ
+(
+v
+)
+(
+c
+,
+
+v
+
+x
+
+
+,
+
+v
+
+y
+
+
+,
+
+v
+
+z
+
+
+)
+=
+
+(
+
+
+
+E
+c
+
+
+,
+
+p
+
+x
+
+
+,
+
+p
+
+y
+
+
+,
+
+p
+
+z
+
+
+
+)
+
+=
+
+(
+
+
+
+E
+c
+
+
+,
+
+p
+
+
+)
+
+.
+
+
+{\displaystyle P^{\mu }=mU^{\mu }=m\gamma (v)(c,v_{x},v_{y},v_{z})=\left({\frac {E}{c}},p_{x},p_{y},p_{z}\right)=\left({\frac {E}{c}},\mathbf {p} \right).}
+
+
+where m is the invariant mass.
+
+The four-acceleration is the proper time derivative of 4-velocity:
+
+
+
+
+
+A
+
+μ
+
+
+=
+
+
+
+d
+
+U
+
+μ
+
+
+
+
+d
+τ
+
+
+
+.
+
+
+{\displaystyle A^{\mu }={\frac {dU^{\mu }}{d\tau }}.}
+
+
+
+The transformation rules for three-dimensional velocities and accelerations are very awkward; even above in standard configuration the velocity equations are quite complicated owing to their non-linearity. On the other hand, the transformation of four-velocity and four-acceleration are simpler by means of the Lorentz transformation matrix.
+
+The four-gradient of a scalar field φ transforms covariantly rather than contravariantly:
+
+
+
+
+
+
+(
+
+
+
+
+
+
+1
+c
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+
+t
+′
+
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+
+x
+′
+
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+
+y
+′
+
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+
+z
+′
+
+
+
+
+
+
+
+
+)
+
+
+=
+
+
+(
+
+
+
+
+
+
+1
+c
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+t
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+x
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+y
+
+
+
+
+
+
+
+
+
+
+∂
+ϕ
+
+
+∂
+z
+
+
+
+
+
+
+
+)
+
+
+
+
+(
+
+
+
+γ
+
+
++
+β
+γ
+
+
+0
+
+
+0
+
+
+
+
++
+β
+γ
+
+
+γ
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+
+
+
+)
+
+
+,
+
+
+{\displaystyle {\begin{pmatrix}{\dfrac {1}{c}}{\dfrac {\partial \phi }{\partial t'}}&{\dfrac {\partial \phi }{\partial x'}}&{\dfrac {\partial \phi }{\partial y'}}&{\dfrac {\partial \phi }{\partial z'}}\end{pmatrix}}={\begin{pmatrix}{\dfrac {1}{c}}{\dfrac {\partial \phi }{\partial t}}&{\dfrac {\partial \phi }{\partial x}}&{\dfrac {\partial \phi }{\partial y}}&{\dfrac {\partial \phi }{\partial z}}\end{pmatrix}}{\begin{pmatrix}\gamma &+\beta \gamma &0&0\\+\beta \gamma &\gamma &0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}},}
+
+
+which is the transpose of:
+
+
+
+
+(
+
+∂
+
+
+μ
+′
+
+
+
+ϕ
+)
+=
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+(
+
+∂
+
+ν
+
+
+ϕ
+)
+
+
+∂
+
+μ
+
+
+≡
+
+
+∂
+
+∂
+
+x
+
+μ
+
+
+
+
+
+.
+
+
+{\displaystyle (\partial _{\mu '}\phi )=\Lambda _{\mu '}{}^{\nu }(\partial _{\nu }\phi )\qquad \partial _{\mu }\equiv {\frac {\partial }{\partial x^{\mu }}}.}
+
+
+only in Cartesian coordinates. It is the covariant derivative that transforms in manifest covariance, in Cartesian coordinates this happens to reduce to the partial derivatives, but not in other coordinates.
+
+More generally, the covariant components of a 4-vector transform according to the inverse Lorentz transformation:
+
+
+
+
+
+T
+
+
+μ
+′
+
+
+
+=
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+T
+
+ν
+
+
+,
+
+
+{\displaystyle T_{\mu '}=\Lambda _{\mu '}{}^{\nu }T_{\nu },}
+
+
+where 
+
+
+
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+
+{\displaystyle \Lambda _{\mu '}{}^{\nu }}
+
+ is the reciprocal matrix of ⁠
+
+
+
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+
+
+{\displaystyle \Lambda ^{\mu '}{}_{\nu }}
+
+⁠.
+
+The postulates of special relativity constrain the exact form the Lorentz transformation matrices take.
+
+More generally, most physical quantities are best described as (components of) tensors. So to transform from one frame to another, we use the well-known tensor transformation law[93]
+
+
+
+
+
+T
+
+
+θ
+′
+
+
+ι
+′
+
+⋯
+
+κ
+′
+
+
+
+
+α
+′
+
+
+β
+′
+
+⋯
+
+ζ
+′
+
+
+
+=
+
+Λ
+
+
+α
+′
+
+
+
+
+
+
+
+μ
+
+
+
+Λ
+
+
+β
+′
+
+
+
+
+
+
+
+ν
+
+
+⋯
+
+Λ
+
+
+ζ
+′
+
+
+
+
+
+
+
+ρ
+
+
+
+Λ
+
+
+θ
+′
+
+
+
+
+
+
+
+σ
+
+
+
+Λ
+
+
+ι
+′
+
+
+
+
+
+
+
+υ
+
+
+⋯
+
+Λ
+
+
+κ
+′
+
+
+
+
+
+
+
+ϕ
+
+
+
+T
+
+σ
+υ
+⋯
+ϕ
+
+
+μ
+ν
+⋯
+ρ
+
+
+
+
+{\displaystyle T_{\theta '\iota '\cdots \kappa '}^{\alpha '\beta '\cdots \zeta '}=\Lambda ^{\alpha '}{}_{\mu }\Lambda ^{\beta '}{}_{\nu }\cdots \Lambda ^{\zeta '}{}_{\rho }\Lambda _{\theta '}{}^{\sigma }\Lambda _{\iota '}{}^{\upsilon }\cdots \Lambda _{\kappa '}{}^{\phi }T_{\sigma \upsilon \cdots \phi }^{\mu \nu \cdots \rho }}
+
+
+where 
+
+
+
+
+Λ
+
+
+χ
+′
+
+
+
+
+
+
+
+ψ
+
+
+
+
+{\displaystyle \Lambda _{\chi '}{}^{\psi }}
+
+ is the reciprocal matrix of ⁠
+
+
+
+
+Λ
+
+
+χ
+′
+
+
+
+
+
+
+
+ψ
+
+
+
+
+{\displaystyle \Lambda ^{\chi '}{}_{\psi }}
+
+⁠. All tensors transform by this rule.
+
+An example of a four-dimensional second order antisymmetric tensor is the relativistic angular momentum, which has six components: three are the classical angular momentum, and the other three are related to the boost of the center of mass of the system. The derivative of the relativistic angular momentum with respect to proper time is the relativistic torque, also second order antisymmetric tensor.
+
+The electromagnetic field tensor is another second order antisymmetric tensor field, with six components: three for the electric field and another three for the magnetic field. There is also the stress–energy tensor for the electromagnetic field, namely the electromagnetic stress–energy tensor.
+
+The metric tensor allows one to define the inner product of two vectors, which in turn allows one to assign a magnitude to the vector. Given the four-dimensional nature of spacetime the Minkowski metric η has components (valid with suitably chosen coordinates), which can be arranged in a 4 × 4 matrix:
+
+
+
+
+
+η
+
+α
+β
+
+
+=
+
+
+(
+
+
+
+−
+1
+
+
+0
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+1
+
+
+0
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+0
+
+
+0
+
+
+1
+
+
+
+)
+
+
+,
+
+
+{\displaystyle \eta _{\alpha \beta }={\begin{pmatrix}-1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1\end{pmatrix}},}
+
+
+which is equal to its reciprocal, ⁠
+
+
+
+
+η
+
+α
+β
+
+
+
+
+{\displaystyle \eta ^{\alpha \beta }}
+
+⁠, in those frames. Throughout we use the signs as above, different authors use different conventions – see Minkowski metric alternative signs.
+
+The Poincaré group is the most general group of transformations that preserves the Minkowski metric:
+
+
+
+
+
+η
+
+α
+β
+
+
+=
+
+η
+
+
+μ
+′
+
+
+ν
+′
+
+
+
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+α
+
+
+
+Λ
+
+
+ν
+′
+
+
+
+
+
+
+
+β
+
+
+
+
+{\displaystyle \eta _{\alpha \beta }=\eta _{\mu '\nu '}\Lambda ^{\mu '}{}_{\alpha }\Lambda ^{\nu '}{}_{\beta }}
+
+
+and this is the physical symmetry underlying special relativity.
+
+The metric can be used for raising and lowering indices on vectors and tensors. Invariants can be constructed using the metric, the inner product of a 4-vector T with another 4-vector S is:
+
+
+
+
+
+T
+
+α
+
+
+
+S
+
+α
+
+
+=
+
+T
+
+α
+
+
+
+η
+
+α
+β
+
+
+
+S
+
+β
+
+
+=
+
+T
+
+α
+
+
+
+η
+
+α
+β
+
+
+
+S
+
+β
+
+
+=
+
+invariant scalar
+
+
+
+{\displaystyle T^{\alpha }S_{\alpha }=T^{\alpha }\eta _{\alpha \beta }S^{\beta }=T_{\alpha }\eta ^{\alpha \beta }S_{\beta }={\text{invariant scalar}}}
+
+
+
+Invariant means that it takes the same value in all inertial frames, because it is a scalar (0 rank tensor), and so no Λ appears in its trivial transformation. The magnitude of the 4-vector T is the positive square root of the inner product with itself:
+
+
+
+
+
+|
+
+
+T
+
+
+|
+
+=
+
+
+
+T
+
+α
+
+
+
+T
+
+α
+
+
+
+
+
+
+{\displaystyle |\mathbf {T} |={\sqrt {T^{\alpha }T_{\alpha }}}}
+
+
+
+One can extend this idea to tensors of higher order, for a second order tensor we can form the invariants:
+
+
+
+
+
+T
+
+α
+
+
+
+
+
+
+α
+
+
+,
+
+T
+
+α
+
+
+
+
+
+
+β
+
+
+
+T
+
+β
+
+
+
+
+
+
+α
+
+
+,
+
+T
+
+α
+
+
+
+
+
+
+β
+
+
+
+T
+
+β
+
+
+
+
+
+
+γ
+
+
+
+T
+
+γ
+
+
+
+
+
+
+α
+
+
+=
+
+invariant scalars
+
+,
+
+
+{\displaystyle T^{\alpha }{}_{\alpha },T^{\alpha }{}_{\beta }T^{\beta }{}_{\alpha },T^{\alpha }{}_{\beta }T^{\beta }{}_{\gamma }T^{\gamma }{}_{\alpha }={\text{invariant scalars}},}
+
+
+similarly for higher order tensors. Invariant expressions, particularly inner products of 4-vectors with themselves, provide equations that are useful for calculations, because one does not need to perform Lorentz transformations to determine the invariants.
+
+The coordinate differentials transform also contravariantly:
+
+
+
+
+d
+
+X
+
+
+μ
+′
+
+
+
+=
+
+Λ
+
+
+μ
+′
+
+
+
+
+
+
+
+ν
+
+
+d
+
+X
+
+ν
+
+
+
+
+{\displaystyle dX^{\mu '}=\Lambda ^{\mu '}{}_{\nu }dX^{\nu }}
+
+
+so the squared length of the differential of the position four-vector dXμ constructed using
+
+
+
+
+d
+
+
+X
+
+
+2
+
+
+=
+d
+
+X
+
+μ
+
+
+
+d
+
+X
+
+μ
+
+
+=
+
+η
+
+μ
+ν
+
+
+
+d
+
+X
+
+μ
+
+
+
+d
+
+X
+
+ν
+
+
+=
+−
+(
+c
+
+d
+t
+
+)
+
+2
+
+
++
+(
+d
+x
+
+)
+
+2
+
+
++
+(
+d
+y
+
+)
+
+2
+
+
++
+(
+d
+z
+
+)
+
+2
+
+
+
+
+{\displaystyle d\mathbf {X} ^{2}=dX^{\mu }\,dX_{\mu }=\eta _{\mu \nu }\,dX^{\mu }\,dX^{\nu }=-(c\,dt)^{2}+(dx)^{2}+(dy)^{2}+(dz)^{2}}
+
+
+is an invariant. Notice that when the line element dX2 is negative that √−dX2 is the differential of proper time, while when dX2 is positive, √dX2 is differential of the proper distance.
+
+The 4-velocity Uμ has an invariant form:
+
+
+
+
+
+
+U
+
+
+2
+
+
+=
+
+η
+
+ν
+μ
+
+
+
+U
+
+ν
+
+
+
+U
+
+μ
+
+
+=
+−
+
+c
+
+2
+
+
+
+,
+
+
+{\displaystyle \mathbf {U} ^{2}=\eta _{\nu \mu }U^{\nu }U^{\mu }=-c^{2}\,,}
+
+
+which means all velocity four-vectors have a magnitude of c. This is an expression of the fact that there is no such thing as being at coordinate rest in relativity: at the least, you are always moving forward through time. Differentiating the above equation by τ produces:
+
+
+
+
+2
+
+η
+
+μ
+ν
+
+
+
+A
+
+μ
+
+
+
+U
+
+ν
+
+
+=
+0.
+
+
+{\displaystyle 2\eta _{\mu \nu }A^{\mu }U^{\nu }=0.}
+
+
+So in special relativity, the acceleration four-vector and the velocity four-vector are orthogonal.
+
+The invariant magnitude of the momentum 4-vector generates the energy–momentum relation:
+
+
+
+
+
+
+P
+
+
+2
+
+
+=
+
+η
+
+μ
+ν
+
+
+
+P
+
+μ
+
+
+
+P
+
+ν
+
+
+=
+−
+
+
+(
+
+
+E
+c
+
+
+)
+
+
+2
+
+
++
+
+p
+
+2
+
+
+.
+
+
+{\displaystyle \mathbf {P} ^{2}=\eta ^{\mu \nu }P_{\mu }P_{\nu }=-\left({\frac {E}{c}}\right)^{2}+p^{2}.}
+
+
+
+We can work out what this invariant is by first arguing that, since it is a scalar, it does not matter in which reference frame we calculate it, and then by transforming to a frame where the total momentum is zero.
+
+
+
+
+
+
+P
+
+
+2
+
+
+=
+−
+
+
+(
+
+
+
+E
+
+rest
+
+
+c
+
+
+)
+
+
+2
+
+
+=
+−
+(
+m
+c
+
+)
+
+2
+
+
+.
+
+
+{\displaystyle \mathbf {P} ^{2}=-\left({\frac {E_{\text{rest}}}{c}}\right)^{2}=-(mc)^{2}.}
+
+
+
+We see that the rest energy is an independent invariant. A rest energy can be calculated even for particles and systems in motion, by translating to a frame in which momentum is zero.
+
+The rest energy is related to the mass according to the celebrated equation discussed above:
+
+
+
+
+
+E
+
+rest
+
+
+=
+m
+
+c
+
+2
+
+
+.
+
+
+{\displaystyle E_{\text{rest}}=mc^{2}.}
+
+
+
+The mass of systems measured in their center of momentum frame (where total momentum is zero) is given by the total energy of the system in this frame. It may not be equal to the sum of individual system masses measured in other frames.
+
+To use Newton's third law of motion, both forces must be defined as the rate of change of momentum with respect to the same time coordinate. That is, it requires the 3D force defined above. Unfortunately, there is no tensor in 4D that contains the components of the 3D force vector among its components.
+
+If a particle is not traveling at c, one can transform the 3D force from the particle's co-moving reference frame into the observer's reference frame. This yields a 4-vector called the four-force. It is the rate of change of the above energy momentum four-vector with respect to proper time. The covariant version of the four-force is:
+
+
+
+
+
+F
+
+ν
+
+
+=
+
+
+
+d
+
+P
+
+ν
+
+
+
+
+d
+τ
+
+
+
+=
+m
+
+A
+
+ν
+
+
+
+
+{\displaystyle F_{\nu }={\frac {dP_{\nu }}{d\tau }}=mA_{\nu }}
+
+
+
+In the rest frame of the object, the time component of the four-force is zero unless the ""invariant mass"" of the object is changing (this requires a non-closed system in which energy/mass is being directly added or removed from the object) in which case it is the negative of that rate of change of mass, times c. In general, though, the components of the four-force are not equal to the components of the three-force, because the three force is defined by the rate of change of momentum with respect to coordinate time, that is, dp/dt while the four-force is defined by the rate of change of momentum with respect to proper time, that is, dp/dτ.
+
+In a continuous medium, the 3D density of force combines with the density of power to form a covariant 4-vector. The spatial part is the result of dividing the force on a small cell (in 3-space) by the volume of that cell. The time component is −1/c times the power transferred to that cell divided by the volume of the cell. This will be used below in the section on electromagnetism.
+","[""Special relativity"", ""Albert Einstein"", ""Lorentz transformations"", ""Michelson\u2013Morley experiment"", ""Mass\u2013energy equivalence""]","[{'role': 'Physicist', 'description': 'A scientist with extensive knowledge in theoretical physics and special relativity.', 'expertise_area': 'Theoretical Physics', 'perspective': 'Scientific Accuracy', 'speaking_style': {'tone': 'formal and reserved, with occasional bursts of enthusiasm when discussing complex theories', 'language_complexity': 'highly technical language with industry jargon, frequent use of metaphors and analogies to explain concepts', 'communication_style': 'collaborative and inquisitive, often poses rhetorical questions to stimulate thought', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of exclamations when excited about a topic', 'formality': 'formal', 'other_traits': 'uses pauses effectively to allow others to process information, occasionally interrupts when particularly passionate about a subject'}, 'personalized_vocabulary': {'filler_words': ['um', 'you know', 'like', 'I mean'], 'catchphrases': ['In theory...', '...relatively speaking', '...from a quantum perspective'], 'speech_patterns': [""often starts sentences with 'Well,' or 'So,'"", ""uses rhetorical questions like 'Isn't it fascinating?'"", 'frequently ends explanations with \'Does that make sense?\'""'], 'emotional_expressions': ['laughter when amused by a paradox', ""'Wow!' when discovering something new"", ""'Amazing!' when impressed by an idea""]}, 'social_roles': ['Initiator-Contributor', 'Information Giver'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Shares relevant information, data or research that the group needs to make informed decisions.']}, {'role': 'Historian of Science', 'description': 'An expert in the history and development of scientific theories, particularly those related to physics.', 'expertise_area': 'History of Science', 'perspective': 'Historical Context', 'speaking_style': {'tone': 'semi-formal and reflective, with a touch of nostalgia when discussing historical events', 'language_complexity': 'moderate complexity with occasional use of technical terms, prefers storytelling and historical anecdotes', 'communication_style': 'collaborative and narrative-driven, often uses rhetorical questions to engage the audience', 'sentence_structure': 'varied sentence lengths, often starts with a historical context before delving into details, frequent use of parenthetical statements', 'formality': 'semi-formal', 'other_traits': 'uses pauses for dramatic effect, occasionally repeats key points for emphasis'}, 'personalized_vocabulary': {'filler_words': ['well', 'you see', 'actually', ""let's say""], 'catchphrases': ['In the grand scheme of things...', '...from a historical perspective', '...as history tells us'], 'speech_patterns': [""often begins with 'Interestingly,' or 'Historically speaking,'; uses rhetorical questions like 'Can you imagine?' or 'What if?'; frequently ends stories with 'And that's how it happened.'""], 'emotional_expressions': [""sighs when reflecting on past mistakes; 'Fascinating!' when uncovering an intriguing fact; 'Remarkable!' when impressed by a discovery""]}, 'social_roles': ['Opinion Giver', 'Evaluator-Critic'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Educator', 'description': 'An experienced teacher who excels at making complex scientific concepts accessible to a general audience.', 'expertise_area': 'Science Education', 'perspective': 'Simplification and Engagement', 'speaking_style': {'tone': 'casual and enthusiastic, with a warm and encouraging demeanor', 'language_complexity': 'simple language with common terms, frequent use of analogies and storytelling to explain concepts', 'communication_style': 'collaborative and engaging, often asks questions to involve the audience, prefers active listening', 'sentence_structure': 'short and concise sentences, occasional longer sentences for storytelling, frequent use of questions to maintain engagement', 'formality': 'informal', 'other_traits': 'uses humor to make points memorable, often repeats key ideas for emphasis, uses pauses effectively to allow students to think'}, 'personalized_vocabulary': {'filler_words': ['um', 'you know', 'like', 'I mean'], 'catchphrases': [""Let's break it down..."", '...in simple terms', '...think about it this way'], 'speech_patterns': [""often starts with 'Okay,' or 'So,'"", ""'Does that make sense?' after explanations"", ""'What do you think?' to encourage participation""], 'emotional_expressions': ['laughter when making a joke', ""'Wow!' when impressed by a student's answer"", ""'Great job!' when praising students""]}, 'social_roles': ['Coordinator', 'Encourager'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Engineer', 'description': 'A professional with practical experience in applying scientific theories to real-world problems, particularly in the field of physics.', 'expertise_area': 'Applied Physics', 'perspective': 'Practical Application', 'speaking_style': {'tone': 'practical and solution-oriented, with a touch of enthusiasm when discussing successful implementations', 'language_complexity': 'moderate complexity with technical terms specific to engineering, prefers clear and precise language', 'communication_style': 'direct and assertive, often provides step-by-step explanations, encourages feedback and questions', 'sentence_structure': 'short to medium-length sentences, often structured in a logical sequence, frequent use of bullet points or lists in speech', 'formality': 'semi-formal', 'other_traits': 'uses diagrams or sketches to illustrate points, occasionally interrupts to clarify misunderstandings, uses pauses to emphasize key steps'}, 'personalized_vocabulary': {'filler_words': ['uh', 'you know', 'basically', 'so'], 'catchphrases': ['In practical terms...', '...from an engineering standpoint', ""...let's break it down step by step""], 'speech_patterns': [""often starts with 'Alright,' or 'Let's see,'"", ""'Does that make sense?' after detailed explanations"", ""'Any questions?' to encourage interaction""], 'emotional_expressions': ['nods approvingly when someone understands a concept', ""'Excellent!' when a solution works well"", ""'Interesting!' when encountering a new challenge""]}, 'social_roles': ['Implementer', 'Aggressor'], 'social_roles_descr': ['Puts plans and decisions of the group into action and ensures practical implementation.', 'Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.']}]","The brainstorming session centered on the theory of special relativity, a fundamental concept in physics introduced by Albert Einstein in 1905. The discussion began with the two postulates that form the basis of the theory: the constancy of the speed of light and the principle that physical laws are invariant across all inertial frames. These principles were motivated by inconsistencies between Maxwell's equations and Newtonian mechanics, as well as results from the Michelson-Morley experiment.
+
+Key points included how special relativity replaces Galilean transformations with Lorentz transformations, leading to significant consequences such as time dilation, length contraction, and mass-energy equivalence (E=mc²). The theory also redefines simultaneity and introduces spacetime as a single continuum where space and time are interwoven.
+
+Further discussions highlighted experimental verifications of special relativity's predictions, including relativistic velocity addition and Doppler effect. It was noted that while special relativity applies to flat spacetime without significant gravitational effects, general relativity extends these concepts to curved spacetime incorporating gravity.
+
+The session concluded with an acknowledgment of special relativity's profound impact on modern physics, influencing fields like quantum mechanics and particle physics. Participants agreed on its foundational role in understanding high-speed motion and its integration into broader theories such as general relativity and quantum field theory.","[""Scene 1: Opening and Greetings\nTLDR: Brief welcome and setting the stage for the brainstorming session\n- Quick greeting among participants\n- Overview of meeting objectives and expected outcomes\n- Brief recap of special relativity basics"", ""Scene 2: Discussing the Two Postulates\nTLDR: Exploring the constancy of the speed of light and invariance of physical laws\n- Physicist explains the two postulates in detail\n- Historian provides historical context and motivation behind these postulates\n- Educator simplifies concepts for better understanding"", ""Scene 3: Lorentz Transformations vs. Galilean Transformations\nTLDR: Comparing old and new transformations in physics\n- Engineer discusses practical implications of Lorentz transformations\n- Group discussion on differences between Galilean and Lorentz transformations"", ""Scene 4: Consequences of Special Relativity\nTLDR: Delving into time dilation, length contraction, and mass-energy equivalence (E=mc\u00b2)\n- Physicist explains each consequence with examples\n- Educator uses analogies to simplify complex ideas for general understanding"", ""Scene 5: Redefining Simultaneity and Spacetime Continuum\nTLDR: Understanding how special relativity changes our perception of time and space\n- Historian shares anecdotes about early reactions to these concepts\n- Group discussion on spacetime as a single continuum"", ""Scene 6: Experimental Verifications \nTLDR: Reviewing experiments that support special relativity predictions \n - Engineer talks about Michelson-Morley experiment results \n - Physicist discusses relativistic velocity addition and Doppler effect \n - Open floor for spontaneous contributions from all participants"", ""Scene 7: Special vs. General Relativity \n TLDR : Differentiating between flat spacetime (special) and curved spacetime (general) \n - Physicist briefly introduces general relativity \n - Group discussion on how special relativity integrates into broader theories"", ""Scene 8 : Impact on Modern Physics \n TLDR : Reflecting on special relativity\u2019s influence across various fields \n - Historian highlights its role in quantum mechanics & particle physics development \n - Engineer shares practical applications in technology & engineering"", ""Scene 9 : Idea Generation & Prioritization \n TLDR : Brainstorming potential ideas related to special relativity applications or further exploration areas \\ n - Open floor for idea generation from all participants\\ n - Collaborative prioritization of concepts based on feasibility & impact"", ""Scene 10 : Conclusion & Next Steps\\ n TLDR : Wrapping up session with key takeaways & action items\\ n - Recap main points discussed during meeting\\ n - Outline next steps for exploring prioritized ideas\\ n - Thank everyone for their contributions""]",">>Physicist: Hey everyone! Thanks for coming. Today, we're diving into the fascinating world of special relativity. Our main goals are to explore its core principles, discuss its impact on modern physics, and brainstorm potential research areas. Isn't it cool how Einstein's ideas changed everything we thought we knew about space and time?
+
+>>Historian of Science: Absolutely! Before Einstein's groundbreaking work in 1905, physicists were really struggling with inconsistencies between Newtonian mechanics and Maxwell's equations. The Michelson-Morley experiment, which failed to detect the luminiferous aether, was particularly perplexing. Can you imagine the paradigm shift when Einstein proposed that time and space are interwoven into a single continuum known as spacetime?
+
+>>Educator: Right, so let's break it down simply. Special relativity tells us that time and space aren't fixed; they change depending on your speed. Imagine you're on a train moving super fast, close to the speed of light. To someone standing still, your clock would seem to tick slower than theirs. It's like time is stretching out for you! Pretty wild, huh?
+
+>>Physicist: And adding to that, special relativity also introduces mass-energy equivalence with E=mc^2. This means mass can be converted into energy and vice versa, fundamentally altering our understanding of matter and energy.
+
+>>Engineer: Exactly! From an engineering standpoint, the practical applications are huge. For instance, GPS satellites need to account for time dilation effects due to their high speeds and weaker gravitational field in orbit compared to Earth's surface. This ensures accurate positioning data.
+
+>>Historian of Science: That's a great point! Historically speaking, it's remarkable how Einstein's ideas were initially met with skepticism but eventually transformed our understanding of the universe.
+
+>>Educator: So to sum it up - special relativity shows us that time and space are flexible depending on your speed, fundamentally changing our understanding of physics. And remember E=mc^2 highlights the deep connection between mass and energy.
+
+>>Physicist: Also remember that special relativity implies the invariance of the speed of light in all inertial frames. No matter how fast you're moving, you'll always measure the speed of light as constant.
+
+>>Historian of Science: I remember reading about how controversial Einstein's ideas were at first; it wasn't just scientific skepticism but cultural resistance too—many people didn't want to let go of Newtonian views.
+
+>>Engineer: In my experience working with satellite technology, we've had to account for these relativistic effects all the time—it’s amazing how theory translates into practice!
+
+>>Physicist: Let's brainstorm some potential research areas related to this topic.
+
+>>Engineer: How about looking into practical applications for future tech? Maybe something beyond GPS?
+
+>>Educator: Or ways we can simplify these concepts for students? Making such complex ideas accessible could inspire future generations! 
+ >>Physicist: Let's dive into special relativity's two postulates. First up, the principle of relativity—it says physical laws don't change whether you're moving at a constant speed or standing still. Pretty cool, right?
+
+>>Historian of Science: Absolutely! This idea actually dates back to Galileo, but Einstein took it further by applying it universally across all physical laws.
+
+>>Educator: So it's like saying if you're playing chess on a train versus at home, the rules stay exactly the same no matter where you are. Makes sense?
+
+>>Physicist: Exactly! Now onto something even wilder—the second postulate states that light's speed is constant regardless of how fast you're moving towards or away from it.
+
+>>Historian of Science: That was groundbreaking! Before Einstein, people thought light's speed varied with motion until experiments proved otherwise.
+
+>>Educator: Imagine running towards a light beam; you'd think it gets faster but nope—it stays constant!
+
+>>Physicist: Right! And this leads us to time dilation—moving clocks tick slower than stationary ones. We've seen this with particles in accelerators and atomic clocks on planes!
+
+>>Historian of Science: Mind-blowing indeed! Before Einstein proposed this idea...
+
+>>Educator: Hold on a sec—so if I'm on a spaceship zooming through space, my watch would tick slower compared to someone on Earth?
+
+>>Physicist: Exactly! It's been confirmed by experiments. And then there's length contraction—an object moving really fast will appear shorter along its direction of motion to someone standing still.
+
+>>Historian of Science: Length contraction was also quite a leap historically speaking! Before Einstein, nobody thought an object's length could change depending on its speed relative to an observer.
+
+>>Educator: So think about length contraction like this—a really fast-moving car looks shorter to someone standing still on the sidewalk because it's going so fast.
+
+>>Physicist: Yes, and these concepts have been experimentally verified using particle accelerators!
+
+>>Historian of Science: The historical context here is fascinating too. The Michelson-Morley experiment challenged previous notions and paved the way for Einstein’s theories.
+
+>>Educator: Wow, it's amazing how these ideas evolved over time. So many layers to uncover! 
+ >>Physicist: Lorentz transformations really changed how we understand space and time. Unlike Galilean transformations, which assume absolute time and space, Lorentz transformations account for the speed of light and lead to phenomena like time dilation and length contraction. It's fascinating how these concepts interweave space and time into a single continuum.
+
+>>Historian of Science: It's amazing to think how Einstein built on Lorentz's work to completely change our view of the universe. Before them, physicists like Galileo and Newton operated under the assumption of absolute time and space. Imagine shifting from that to a universe where time itself could stretch and contract!
+
+>>Educator: Think about it like this: for everyday speeds, Newton's laws work fine, but when you get close to light speed, you need Einstein's adjustments. It's like switching from a flat map to a 3D globe when you need more accuracy.
+
+>>Engineer: Alright, from an engineering standpoint—
+
+>>Physicist: Sorry to jump in here! Just wanted to add quickly that even at lower speeds with precise measurements, these effects can be significant.
+
+>>Engineer: Good point! So as I was saying, the practical implications are immense. For instance, GPS technology relies heavily on these principles to provide accurate positioning data. Without accounting for time dilation and length contraction, our GPS systems would be off by several kilometers.
+
+>>Physicist: The Lorentz transformations also change our perception of simultaneity. Two events that appear simultaneous in one frame may not be so in another moving frame. Isn't it fascinating how this challenges our intuitive understanding of time?
+
+>>Educator: Wait a second! Are we saying that if I'm on a fast-moving train...
+
+>>Historian of Science (laughing): Yes! If you're on a fast-moving train...
+
+>>Educator: ...and someone else is standing still outside...
+
+>>Historian of Science: Exactly! Your frames are different so events might not line up perfectly. 
+ >>Physicist: Let's talk about some cool things in special relativity. Like, did you know that if you're moving really fast, time actually slows down for you? This has been proven with particles called muons. Also, objects get shorter in the direction they're moving when they go near light speed. And E=mc² means mass can turn into energy and vice versa. Does that make sense?
+
+>>Educator: Imagine you're on a super-fast train with a flashlight. No matter how fast you go, the light from your flashlight always travels at the same speed because of these effects working together to keep it constant. And E=mc²? Think of it like this: mass is just another form of energy, like how ice can melt into water.
+
+>>Historian of Science: Well, actually, the historical context of these concepts is quite remarkable. You see, before Einstein's revolutionary ideas—
+
+>>Engineer (interrupting): Sorry to interrupt, but I think it's important to mention something about GPS technology here.
+
+>>Historian of Science: Oh sure, go ahead!
+
+>>Engineer: Thanks! So here's something cool—GPS technology wouldn't work without these principles! We have to correct for time differences between satellites in space and receivers on Earth; otherwise, our positioning would be off by kilometers!
+
+>>Physicist: Absolutely! It's amazing how practical these theories are—like with GPS technology needing those corrections for accuracy—and considering E=mc²... 
+ >>Historian of Science: Interestingly, when Einstein first introduced the concept of spacetime as a single continuum, it was met with quite a bit of skepticism. You see, the idea that time and space were not separate entities but rather interwoven was revolutionary. Can you imagine how challenging it must have been for scientists at the time to shift their entire understanding of reality?
+
+>>Educator: Absolutely! Think about it this way: spacetime is like a fabric. When you place a heavy object on it, the fabric bends. This bending affects how objects move through space and time. It's not just that time slows down or speeds up; it's that space and time are interconnected in such a way that they form a single continuum. Does that make sense?
+
+>>Physicist: It's fascinating how spacetime changes our view of reality. Events that seem simultaneous can differ depending on motion.
+
+>>Engineer: Speaking of practical applications, this concept is crucial for modern engineering, like in GPS systems.
+
+>>Historian of Science: That's an excellent point! The practical applications are indeed vast.
+
+>>Educator: Right! And speaking of GPS systems, they need to account for both general and special relativity to provide accurate positioning data.
+
+>>Physicist: Exactly! Without these adjustments for spacetime curvature and relative motion, our navigation systems would be significantly off.
+
+>>Engineer: Without these corrections, our navigation systems wouldn't work accurately. 
+ >>Physicist: The Michelson-Morley experiment showed that light's speed is always the same, no matter what. This was huge for Einstein's theory.
+
+>>Historian of Science: It was a big deal back then because it went against what everyone believed. Imagine how shocked they were!
+
+>>Educator: In simple terms, it means light's speed doesn't change no matter how you measure it. It's like your shadow always moving at the same speed, no matter how fast you run.
+
+>>Engineer: Right, and this experiment also helped develop technologies like GPS. Without it, our navigation systems wouldn't be as reliable.
+
+>>Physicist: Exactly! Another interesting point is how velocities add up differently in relativity. Instead of just adding speeds together, they combine in a way that keeps them below the speed of light.
+
+>>Historian of Science: And historically speaking, later experiments like Kennedy-Thorndike confirmed this by showing that light's speed stays constant even when velocity changes. These findings really solidified Einstein’s theories over time.
+
+>>Educator: Yeah, that's related to the Doppler effect too—how light changes color based on motion. It's like when an ambulance passes by and its siren pitch changes; with light, this means color shifts depending on whether it's moving towards or away from us.
+
+>>Engineer: And practically speaking, it's crucial for calibrating instruments used in satellite communication and radar systems. Without accounting for these shifts, our data would be significantly off.
+
+>>Physicist: Exactly! The relativistic Doppler effect not only explains frequency shifts but also has practical applications in astronomy to measure speeds at which stars and galaxies move towards or away from us—helping us understand universe expansion.
+
+>>Historian of Science: Indeed! And don't forget how these findings were built upon earlier work like Michelson-Morley’s results—each step reinforcing Einstein’s theories more robustly over time. 
+ >>Physicist: Let's delve into the distinction between special and general relativity. Special relativity deals with flat spacetime, where gravity is negligible, focusing on the relationship between space and time for objects moving at constant speeds. In contrast, general relativity introduces curved spacetime to account for gravity's influence on the fabric of space and time. It's pretty cool how these theories fit together to give us a better understanding of our universe.
+
+>>Educator: Right, so think about special relativity as dealing with a flat piece of paper where everything moves in straight lines at constant speeds. Now, general relativity is like taking that paper and crumpling it up to show how gravity bends space and time. Does that make sense?
+
+>>Historian of Science: Absolutely! And from a historical perspective, the transition from special to general relativity was revolutionary. Special relativity was groundbreaking but limited to non-accelerating frames of reference. Einstein really took a huge step by introducing curved spacetime to explain gravity.
+
+>>Engineer: That's a great point about GPS! Speaking of practical applications, GPS technology relies heavily on both special and general relativity for accurate positioning data. Without accounting for time dilation and spacetime curvature caused by Earth's mass, our navigation systems would be off by miles!
+
+>>Physicist: Exactly! And from a quantum perspective, it's fascinating how special relativity's principles are essential for understanding particle physics. For instance, the behavior of particles in accelerators can only be accurately described using these relativistic effects.
+
+>>Historian of Science: Building on what you said about particle physics, historically speaking, this leap wasn't just scientific; it was also significant because it addressed limitations within Newtonian mechanics and Maxwell's equations.
+
+>>Educator: So if we think about it again—special versus general—one being smooth roads versus twisty mountain paths due to gravitational influences makes our universe dynamic!
+
+>>Engineer: And another interesting application is in engineering fields beyond GPS. For example, designing satellites requires precise calculations based on both theories to ensure they function correctly in orbit.
+
+>>Physicist: Yes! And let's not forget how these principles help us understand cosmic phenomena like black holes and the expansion of the universe.
+
+>>Historian of Science: Indeed! The transition from special to general was not only scientifically groundbreaking but also marked a paradigm shift in our understanding of gravity. 
+ >>Physicist: You know, special relativity's impact on quantum mechanics is profound. The Dirac equation, for instance, predicted antimatter!
+
+>>Educator: That's fascinating! And it's not just theoretical—think about GPS technology. Without accounting for time dilation, our navigation systems would be way off.
+
+>>Historian of Science: Absolutely. Special relativity didn't just change physics; it laid the groundwork for so much of modern science.
+
+>>Engineer: From an engineering standpoint, it's crucial for particle accelerators. We couldn't study fundamental particles without these principles.
+
+>>Physicist: And um, it's fascinating how these principles are applied in practical scenarios. The precision required in experiments wouldn't be possible without accounting for relativistic effects.
+
+>>Educator: Yeah, exactly! It's like the glue that holds modern physics together. Without it, our understanding of the universe would be completely different.
+
+>>Historian of Science: Well said! Though I think its influence on quantum mechanics is sometimes overstated. 
+
+>>Engineer: I see your point, but from a tech perspective, we wouldn't have MRI machines without these principles. For instance, when we were working on the latest particle accelerator project...
+
+>>Physicist: Exactly! The interplay between special relativity and quantum mechanics has opened up new avenues in theoretical research as well as practical applications.
+
+>>Educator: Right! And it's amazing how something so theoretical can have such tangible impacts on our daily lives.
+
+>>Historian of Science: You see, this is why understanding history is so important. It gives us perspective on how far we've come and what foundational theories have enabled our current advancements.
+
+>>Engineer: Uh-huh. And from a practical viewpoint, knowing these historical contexts helps us appreciate the technology we often take for granted today. 
+ >>Physicist: Considering the vast implications of special relativity, one intriguing area to explore is its application in high-energy particle physics. By understanding how particles behave at relativistic speeds, we can gain deeper insights into fundamental forces and interactions. It's pretty amazing.
+
+>>Historian of Science: From a historical perspective, the development of special relativity wasn't just about high-energy particles. It revolutionized our grasp of space and time itself. Imagine realizing that time could slow down or lengths could contract at high speeds—mind-blowing for its time!
+
+>>Educator: Yeah, and think about how special relativity impacts our everyday technology. For instance, GPS systems rely on precise time measurements. Without accounting for time dilation, they'd be off by miles! High-energy particle physics is another area where these principles are crucial.
+
+>>Engineer: Absolutely, let's consider practical applications in telecommunications. Understanding relativistic effects can improve data transmission speeds and accuracy over long distances. This could really change global communications.
+
+>>Physicist: Another fascinating application is in particle accelerators. By accelerating particles to near-light speeds, we can observe relativistic effects directly and gain insights into fundamental forces and interactions. This not only helps us understand the universe better but also has practical implications for developing new technologies.
+
+>>Historian of Science: And historically speaking, it's interesting to note that special relativity didn't just change our understanding of high-energy particles but fundamentally altered our concepts of space and time.
+
+>>Educator: Right... breaking it down further—think about GPS systems relying on precise timing; without accounting for time dilation they’d be way off! And yes—high-energy particle physics is another key area where these principles are vital.
+
+>>Engineer: So yeah... looking at telecoms through this lens—we can enhance data transmission speed/accuracy over long distances by understanding those relativistic effects better. That would revolutionize global communications! 
+ >>Educator: Okay, so let's wrap things up. We've covered the core principles of special relativity and its practical applications like GPS and telecommunications. Great job everyone! Next steps: let's prioritize further research on how these concepts can be applied to emerging technologies.
+
+>>Physicist: To sum it up, we've talked about the main ideas behind special relativity and how it's used in things like GPS. Moving forward, we should look into how these concepts can help with new tech developments. Does that make sense?
+
+>>Historian of Science: Adding to that, it's amazing how this changed our view of space and time. This wasn't just a scientific breakthrough; it was a whole new way of thinking.
+
+>>Engineer (interrupting): Sorry, just wanted to add—this shift also had a big impact on quantum mechanics. It's fascinating!
+
+>>Historian of Science: Absolutely! And moving forward, let's ensure our research continues to explore these revolutionary concepts and their applications.
+
+>>Engineer: Alright, let's break it down step by step. We've discussed the core principles of special relativity and its practical uses in GPS and telecommunications. So next, we should focus on integrating these ideas into emerging technologies like autonomous vehicles and advanced communication systems. Any questions?
+
+>>Physicist: You know, um... before we finish up, I think it's important to remember how these principles can drive innovation in new areas.
+
+>>Educator (interrupting): Oh wait—before you finish up—did anyone else have any quick thoughts or questions? 
+
+>>Historian of Science: Just one more thing—let's keep exploring these groundbreaking ideas in our future research.
+
+>>Educator: Great point! So as I was saying earlier... great job everyone! Let's focus on applying these concepts to new tech moving forward."

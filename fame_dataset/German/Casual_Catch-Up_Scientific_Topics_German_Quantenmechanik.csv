@@ -1,0 +1,1403 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Quantenmechanik,"Die Quantenmechanik ist eine physikalische Theorie, mit der die Eigenschaften und Gesetzmäßigkeiten von Zuständen und Vorgängen der Materie beschrieben werden. Im Gegensatz zu den Theorien der klassischen Physik erlaubt sie als Grundlage der Quantenphysik die zutreffende Berechnung physikalischer Eigenschaften von Materie bis zum Größenbereich der Atome herab und weiter darunter. Die Quantenmechanik ist eine der Hauptsäulen der modernen Physik. Sie bildet die Grundlage zur Beschreibung von Phänomenen der Atomphysik, der Festkörperphysik und der Kern- und Elementarteilchenphysik, aber auch verwandter Wissenschaften wie der Quantenchemie.
+
+
+Grundlagen
+Die Grundlagen der Quantenmechanik wurden zwischen 1925 und 1932 von Werner Heisenberg, Erwin Schrödinger, Max Born, Pascual Jordan, Wolfgang Pauli, Paul Dirac, John von Neumann und weiteren Physikern erarbeitet, nachdem erst die klassische Physik und dann die älteren Quantentheorien bei der systematischen Beschreibung der Vorgänge in den Atomen versagt hatten.
+Die Quantenmechanik erhielt ihren Namen sowohl in Anlehnung an die klassische Mechanik als auch in Abgrenzung von ihr. Die Quantenmechanik bleibt wie die klassische Mechanik auf die Bewegung von massebehafteten Teilchen unter der Wirkung von Kräften beschränkt. Jedoch werden einige zentrale Begriffe der klassischen Mechanik, unter anderem „Ort“ und „Bahn“ eines Teilchens, in der Quantenmechanik durch grundlegend andere, der Quantenphysik besser angepasste Konzepte ersetzt. Die für die Quantenphysik auch typischen Entstehungs- und Vernichtungsprozesse werden von der Quantenmechanik noch nicht behandelt.
+Die Quantenmechanik bezieht sich auf materielle Objekte und modelliert diese als einzelne Teilchen oder als Systeme, die aus einer bestimmten Anzahl von einzelnen Teilchen bestehen. Mit diesen Modellen können Elementarteilchen, Atome, Moleküle oder die makroskopische Materie detailliert beschrieben werden. Zur Berechnung deren möglicher Zustände mit ihren jeweiligen physikalischen Eigenschaften und Reaktionsweisen wird ein der Quantenmechanik eigener mathematischer Formalismus genutzt, der sich stark von der mathematischen Struktur der klassischen Mechanik unterscheidet.
+Die Quantenmechanik unterscheidet sich grundlegend von der klassischen Physik. Sie verwendet Begriffe und Konzepte, die sich der Anschaulichkeit entziehen und auch einigen Prinzipien widersprechen, die in der klassischen Physik als fundamental und selbstverständlich angesehen werden. Durch Anwendung von Korrespondenzregeln und Konzepten der Dekohärenztheorie können viele Gesetzmäßigkeiten der klassischen Physik, insbesondere die gesamte klassische Mechanik, als Grenzfälle der Quantenmechanik beschrieben werden. Allerdings gibt es auch zahlreiche Quanteneffekte ohne klassischen Grenzfall. Zur Deutung der Theorie wurde eine Reihe verschiedener Interpretationen der Quantenmechanik entwickelt, die sich insbesondere in ihrer Konzeption des Messprozesses und in ihren metaphysischen Prämissen unterscheiden.
+Auf der Quantenmechanik und ihren Begriffen bauen ab ca. 1930 die weiterführenden Quantenfeldtheorien auf, angefangen mit der Quantenelektrodynamik. Mit diesen können auch die Prozesse der Erzeugung und Vernichtung von Teilchen analysiert werden.
+Genauere Informationen zum mathematischen Formalismus finden sich im Artikel Mathematische Struktur der Quantenmechanik.
+
+
+Geschichte
+
+Anfang des 20. Jahrhunderts begann die Entwicklung der Quantenphysik zunächst mit den sogenannten alten Quantentheorien. Max Planck stellte 1900 zur Herleitung des nach ihm benannten Strahlungsgesetzes die Hypothese auf, dass ein Oszillator Energie nur in ganzzahligen Vielfachen des Energiequantums 
+  
+    
+      
+        Δ
+        E
+        =
+        h
+        f
+      
+    
+    {\displaystyle \Delta E=hf}
+  
+ aufnehmen oder abgeben kann (
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ ist die Planck-Konstante, 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ ist die Frequenz des Oszillators). 1905 erklärte Albert Einstein den photoelektrischen Effekt durch die Lichtquantenhypothese. Demnach besteht Licht aus diskreten Partikeln gleicher Energie 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+, denen mit der Frequenz 
+  
+    
+      
+        f
+        =
+        E
+        
+          /
+        
+        h
+      
+    
+    {\displaystyle f=E/h}
+  
+ auch eine Welleneigenschaft zukommt.
+Im Zeitraum ab 1913 entwickelte Niels Bohr das nach ihm benannte Atommodell. Dieses basiert auf der Annahme, dass Elektronen im Atom nur Zustände von ganz bestimmten Energien einnehmen können und dass die Elektronen bei der Emission oder Absorption von Licht von einem Energieniveau auf ein anderes „springen“ (siehe Quantensprung). Bei der Formulierung seiner Theorie nutzte Bohr das Korrespondenzprinzip, dem zufolge sich das quantentheoretisch berechnete optische Spektrum von Atomen im Grenzfall großer Quantenzahlen dem klassisch berechneten Spektrum annähern muss. Mit dem Bohrschen Atommodell und seinen Erweiterungen, dem Schalenmodell und dem Bohr-Sommerfeld-Modell, gelangen einige große Erfolge, darunter die Erklärung des Wasserstoffspektrums, der Röntgenlinien und des Stark-Effekts sowie die Erklärung des Aufbaus des Periodensystems der Elemente.
+Schnell erwiesen sich diese frühen Atommodelle jedoch als unzureichend. So versagten sie bereits beim Heliumatom mit zwei Elektronen, beim Wert des Bahndrehimpulses des elektronischen Grundzustandes im Wasserstoffatom und bei der Beschreibung verschiedener spektroskopischer Beobachtungen, wie z. B. des anomalen Zeeman-Effekts oder der Feinstruktur.
+Im Jahr 1924 veröffentlichte Louis de Broglie seine Theorie der Materiewellen, wonach jegliche Materie einen Wellencharakter aufweisen kann, wie auch umgekehrt Wellen einen Teilchencharakter. Diese Arbeit führte die Quantenphänomene auf eine gemeinsame Erklärung zurück, die jedoch wieder heuristischer Natur war und auch keine Berechnung der Spektren von Atomen ermöglichte. Daher wird sie als letzte den alten Quantentheorien zugeordnet, war jedoch richtungsweisend für die Entwicklung der Quantenmechanik.
+Die moderne Quantenmechanik fand ihren Beginn im Jahr 1925 mit der Formulierung der Matrizenmechanik durch Werner Heisenberg, Max Born und Pascual Jordan. Schon vor der Fertigstellung der ersten Veröffentlichung prägte Heisenberg in einem Brief an Wolfgang Pauli den Begriff Quantenmechanik, um deutlich zu machen, dass die klassische Mechanik durch etwas grundlegend Neues abgelöst werden müsse.
+Wenige Monate später stellte Erwin Schrödinger über einen völlig anderen Ansatz – ausgehend von De Broglies Theorie der Materiewellen – die Wellenmechanik bzw. die Schrödingergleichung auf. Kurz darauf konnte Schrödinger nachweisen, dass die Wellenmechanik mit der Matrizenmechanik mathematisch äquivalent ist. Schon 1926 brachte John Hasbrouck Van Vleck in den USA unter dem Titel Quantum Principles and Line Spectra das erste Lehrbuch zur neuen Quantenmechanik heraus. Das erste deutschsprachige Lehrbuch, Gruppentheorie und Quantenmechanik von dem Mathematiker Hermann Weyl, folgte 1928.
+Heisenberg entdeckte die nach ihm benannte Unschärferelation im Jahr 1927; im gleichen Jahr wurde auch die bis heute vorherrschende Kopenhagener Interpretation der Quantenmechanik formuliert. In den Jahren ab etwa 1927 vereinigte Paul Dirac die Quantenmechanik mit der speziellen Relativitätstheorie. Er führte auch erstmals die Verwendung der Operator-Theorie inklusive der Bra-Ket-Notation ein und beschrieb diesen mathematischen Kalkül 1930 in seinem Buch Principles of Quantum Mechanics. Zur gleichen Zeit formulierte John von Neumann eine strenge mathematische Basis für die Quantenmechanik im Rahmen der Theorie linearer Operatoren auf Hilberträumen, die er 1932 in seinem Buch Mathematische Grundlagen der Quantenmechanik beschrieb. Die in dieser Aufbauphase formulierten Ergebnisse haben bis heute Bestand und werden allgemein zur Beschreibung quantenmechanischer Aufgabenstellungen verwendet.
+
+
+Grundlegende Eigenschaften
+Diese Darstellung geht von der Kopenhagener Interpretation der Quantenmechanik aus, die ab 1927 vor allem von Niels Bohr und Werner Heisenberg erarbeitet wurde. Trotz ihrer begrifflichen und logischen Schwierigkeiten hat sie gegenüber anderen Interpretationen bis heute eine vorherrschende Stellung inne. Auf Formeln wird im Folgenden weitgehend verzichtet, Genaueres siehe unter Mathematische Struktur der Quantenmechanik.
+
+
+Observable und Zustände
+
+Im Rahmen der klassischen Mechanik lässt sich aus dem Ort und der Geschwindigkeit eines (punktförmigen) Teilchens bei Kenntnis der wirkenden Kräfte dessen Bahnkurve vollständig vorausberechnen. Der Zustand des Teilchens lässt sich also eindeutig durch zwei Größen beschreiben, die (immer in idealen Messungen) mit eindeutigem Ergebnis gemessen werden können. Eine gesonderte Behandlung des Zustandes und der Messgrößen (oder „Observablen“) ist damit in der klassischen Mechanik nicht nötig, weil der Zustand die Messwerte festlegt und umgekehrt.
+Die Natur zeigt jedoch Quantenphänomene, die sich mit diesen Begriffen nicht beschreiben lassen. Es ist im Allgemeinen nicht mehr vorhersagbar, an welchem Ort und mit welcher Geschwindigkeit ein Teilchen nachgewiesen wird. Wenn beispielsweise ein Streuexperiment mit einem Teilchen unter exakt gleichen Ausgangsbedingungen wiederholt wird, muss man für das Teilchen nach dem Streuvorgang immer denselben Zustand ansetzen (siehe Deterministische Zeitentwicklung), gleichwohl kann es an verschiedenen Orten des Schirms auftreffen. Der Zustand des Teilchens nach dem Streuprozess legt also seine Flugrichtung nicht fest. Allgemein gilt: In der Quantenmechanik gibt es Zustände, die auch dann nicht die Vorhersage eines einzelnen Messergebnisses ermöglichen, wenn der Zustand exakt bekannt ist. Es lässt sich dann jedem der möglichen Messwerte nur noch eine Wahrscheinlichkeit zuordnen. Daher werden in der Quantenmechanik Messgrößen und Zustände getrennt behandelt und es werden für diese Größen andere Konzepte verwendet als in der klassischen Mechanik.
+Allen messbaren Eigenschaften eines physikalischen Systems werden in der Quantenmechanik mathematische Objekte zugeordnet, die sogenannten Observablen. Beispiele sind der Ort eines Teilchens, sein Impuls, sein Drehimpuls oder seine Energie. Es gibt zu jeder Observablen einen Satz von speziellen Zuständen, bei denen das Ergebnis einer Messung nicht streuen kann, sondern eindeutig festliegt. Ein solcher Zustand wird „Eigenzustand“ der betreffenden Observablen genannt, und das zugehörige Messergebnis ist einer der „Eigenwerte“ der Observablen. In allen anderen Zuständen, die nicht Eigenzustand zu dieser Observablen sind, sind verschiedene Messergebnisse möglich. Sicher ist aber, dass bei dieser Messung einer der Eigenwerte festgestellt wird und dass das System anschließend im entsprechenden Eigenzustand dieser Observablen ist. Zu der Frage, welcher der Eigenwerte für die zweite Observable zu erwarten ist oder – gleichbedeutend – in welchem Zustand sich das System nach dieser Messung befinden wird, lässt sich nur eine Wahrscheinlichkeitsverteilung angeben, die aus dem Anfangszustand zu ermitteln ist.
+Verschiedene Observablen haben im Allgemeinen auch verschiedene Eigenzustände. Dann ist für ein System, das sich als Anfangszustand im Eigenzustand einer Observablen befindet, das Messergebnis einer zweiten Observablen unbestimmt. Der Anfangszustand selbst wird dazu als Überlagerung (Superposition) aller möglichen Eigenzustände der zweiten Observablen interpretiert. Den Anteil eines bestimmten Eigenzustands bezeichnet man als dessen Wahrscheinlichkeitsamplitude. Das Betragsquadrat einer Wahrscheinlichkeitsamplitude gibt die Wahrscheinlichkeit an, bei einer Messung am Anfangszustand den entsprechenden Eigenwert der zweiten Observablen zu erhalten (Bornsche Regel oder Bornsche Wahrscheinlichkeitsinterpretation). Allgemein lässt sich jeder beliebige quantenmechanische Zustand als Überlagerung von verschiedenen Eigenzuständen einer Observablen darstellen. Verschiedene Zustände unterscheiden sich nur dadurch, welche dieser Eigenzustände mit welchem Anteil zu der Überlagerung beitragen.
+Bei manchen Observablen, zum Beispiel beim Drehimpuls, sind nur diskrete Eigenwerte erlaubt. Beim Teilchenort hingegen bilden die Eigenwerte ein Kontinuum. Die Wahrscheinlichkeitsamplitude dafür, das Teilchen an einem bestimmten Ort zu finden, wird deshalb in Form einer ortsabhängigen Funktion, der so genannten Wellenfunktion angegeben. Das Betragsquadrat der Wellenfunktion an einem bestimmten Ort gibt die räumliche Dichte der Aufenthaltswahrscheinlichkeit an, das Teilchen dort zu finden.
+Nicht alle quantenmechanischen Observablen haben einen klassischen Gegenpart. Ein Beispiel ist der Spin, der nicht auf Eigenschaften wie Ladung, Masse, Ort oder Impuls, die schon aus der klassischen Physik bekannt sind, zurückgeführt werden kann.
+
+
+Mathematische Formulierung
+
+Für die mathematische Behandlung physikalischer Vorgänge soll der Zustand des betrachteten Systems zum betrachteten Zeitpunkt alle Angaben enthalten, die – bei bekannten äußeren Kräften – zur Berechnung seines zukünftigen Verhaltens erforderlich sind. Daher ist der Zustand eines Massenpunktes zu einem bestimmten Zeitpunkt t in der klassischen Physik schon durch die Angabe von Ort 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle {\vec {r}}=(x,y,z)}
+  
+ und Impuls 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        (
+        
+          p
+          
+            x
+          
+        
+        ,
+        
+          p
+          
+            y
+          
+        
+        ,
+        
+          p
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle {\vec {p}}=(p_{x},p_{y},p_{z})}
+  
+ gegeben, zusammen also durch einen Punkt in einem 6-dimensionalen Raum, der Zustandsraum oder Phasenraum genannt wird. Genau in dieser Definition liegt begründet, dass die Quantenphänomene in der klassischen Physik keine Erklärung finden können. Dies zeigt sich beispielsweise in der unten beschriebenen Heisenbergschen Unschärferelation, der zufolge Ort und Impuls eines Quantenobjekts prinzipiell nicht gleichzeitig eindeutig bestimmt sein können.
+In der Quantenmechanik wird der Zustand durch einen Vektor im Hilbertraum wiedergegeben, die übliche Notation ist 
+  
+    
+      
+        |
+        ψ
+        ⟩
+        ,
+      
+    
+    {\displaystyle \vert \psi \rangle ,}
+  
+ vereinfacht wird auch oft nur 
+  
+    
+      
+        
+        ψ
+      
+    
+    {\displaystyle \,\psi }
+  
+ geschrieben. Dabei ist zu berücksichtigen, dass zwei verschiedene Vektoren genau dann denselben physikalischen Zustand bezeichnen, wenn sie sich nur um einen konstanten Zahlenfaktor unterscheiden. Eine unter vielen Möglichkeiten, 
+  
+    
+      
+        |
+        ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \psi \rangle }
+  
+ zu repräsentieren, ist die Wellenfunktion 
+  
+    
+      
+        ψ
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \psi ({\vec {r}})}
+  
+ (die ganze Funktion, nicht nur ihr Wert an einem Ort 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+  
+), oft ebenfalls einfach als 
+  
+    
+      
+        
+        ψ
+      
+    
+    {\displaystyle \,\psi }
+  
+ geschrieben. Betrachtet man die zeitliche Entwicklung des Zustands, schreibt man 
+  
+    
+      
+        |
+        ψ
+        (
+        t
+        )
+        ⟩
+      
+    
+    {\displaystyle \vert \psi (t)\rangle }
+  
+ beziehungsweise 
+  
+    
+      
+        ψ
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        ,
+        t
+        )
+        .
+      
+    
+    {\displaystyle \psi ({\vec {r}},t).}
+  
+ Zwei Wellenfunktionen, die sich nur durch einen konstanten Faktor unterscheiden, geben denselben Zustand wieder.
+Eine Observable wird allgemein durch einen linearen Operator 
+  
+    
+      
+        
+          
+            
+              O
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {O}}}
+  
+ dargestellt, der mathematisch auf einen Zustandsvektor wirkt und als Ergebnis einen neuen Vektor des Zustandsraums erzeugt: 
+  
+    
+      
+        
+          
+            
+              O
+              ^
+            
+          
+        
+        |
+        ψ
+        ⟩
+        =
+        |
+        ϕ
+        ⟩
+        .
+      
+    
+    {\displaystyle {\hat {O}}\vert \psi \rangle =\vert \phi \rangle .}
+  
+ Falls 
+  
+    
+      
+        |
+        ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \psi \rangle }
+  
+ ein Eigenzustand dieser Observablen ist, gilt die Eigenwertgleichung 
+  
+    
+      
+        
+          
+            
+              O
+              ^
+            
+          
+        
+        |
+        ψ
+        ⟩
+        =
+        a
+        ⋅
+        |
+        ψ
+        ⟩
+        .
+      
+    
+    {\displaystyle {\hat {O}}\vert \psi \rangle =a\cdot \vert \psi \rangle .}
+  
+ Darin ist der Faktor 
+  
+    
+      
+        
+        a
+      
+    
+    {\displaystyle \,a}
+  
+ der Eigenwert, also der für diesen Zustand eindeutig festgelegte Messwert der Observablen 
+  
+    
+      
+        
+          
+            
+              O
+              ^
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\hat {O}}.}
+  
+ Meist wird der Zustandsvektor 
+  
+    
+      
+        |
+        ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \psi \rangle }
+  
+ dann durch einen unteren Index gekennzeichnet, z. B. 
+  
+    
+      
+        |
+        
+          ψ
+          
+            a
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \vert \psi _{a}\rangle }
+  
+ oder 
+  
+    
+      
+        |
+        
+          ψ
+          
+            n
+          
+        
+        ⟩
+        ,
+      
+    
+    {\displaystyle \vert \psi _{n}\rangle ,}
+  
+ worin 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ der Eigenwert selber ist bzw. n (die „Quantenzahl“) seine laufende Nummer in der Liste aller Eigenwerte (sofern eine solche Liste existiert, also nicht für kontinuierliche Eigenwerte).
+
+
+Deterministische Zeitentwicklung
+
+Die Beschreibung der zeitlichen Entwicklung eines isolierten Systems erfolgt in der Quantenmechanik analog zur klassischen Mechanik durch eine Bewegungsgleichung, die Schrödingergleichung. Durch Lösen dieser Differentialgleichung lässt sich berechnen, wie sich die Wellenfunktion des Systems entwickelt:
+
+  
+    
+      
+        
+          i
+        
+        ℏ
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        ψ
+        =
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        ψ
+      
+    
+    {\displaystyle \mathrm {i} \hbar {\frac {\partial }{\partial t}}\psi ={\hat {H}}\psi }
+  
+
+mit dem Hamilton-Operator 
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {H}}}
+  
+, der die Gesamtenergie des quantenmechanischen Systems beschreibt. Der Hamilton-Operator setzt sich zusammen aus einem Term für die kinetische Energie der Teilchen des Systems und einem zweiten Term, der im Falle mehrerer Teilchen die Wechselwirkungen zwischen ihnen beschreibt sowie im Fall externer Felder die potentielle Energie, wobei die externen Felder auch zeitabhängig sein können. Wechselwirkungen zwischen verschiedenen Teilchen werden also – anders als in der newtonschen Mechanik – nicht als Kräfte, sondern ähnlich zur Methodik der klassischen hamiltonschen Mechanik als Energieterme beschrieben. Hierbei ist in den typischen Anwendungen auf Atome, Moleküle, Festkörper insbesondere die elektromagnetische Wechselwirkung relevant.
+Die Schrödingergleichung ist eine partielle Differentialgleichung erster Ordnung in der Zeitkoordinate, die Zeitentwicklung des quantenmechanischen Zustands eines geschlossenen Systems ist also vollständig deterministisch.
+
+
+Stationäre Zustände
+
+Wenn der Hamilton-Operator 
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {H}}}
+  
+ eines Systems nicht selbst von der Zeit abhängt, gibt es für dieses System stationäre Zustände, also solche, die sich im Zeitverlauf nicht ändern. Es sind die Eigenzustände zum Hamilton-Operator 
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {H}}}
+  
+. Nur in ihnen hat das System eine wohldefinierte Energie 
+  
+    
+      
+        
+        E
+      
+    
+    {\displaystyle \,E}
+  
+, eben den jeweiligen Eigenwert:
+
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        ψ
+        =
+        E
+        ψ
+        
+        .
+      
+    
+    {\displaystyle {\hat {H}}\psi =E\psi \,.}
+  
+
+Die Schrödingergleichung reduziert sich in diesem Fall auf
+
+  
+    
+      
+        
+          i
+        
+        ℏ
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        ψ
+        =
+        E
+        ψ
+      
+    
+    {\displaystyle \mathrm {i} \hbar {\frac {\partial }{\partial t}}\psi =E\psi }
+  
+
+und hat die Lösung
+
+  
+    
+      
+        ψ
+        (
+        t
+        )
+        =
+        ψ
+        (
+        0
+        )
+        ⋅
+        
+          
+            e
+          
+          
+            −
+            
+              i
+            
+            
+              
+                E
+                ℏ
+              
+            
+            t
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \psi (t)=\psi (0)\cdot \mathrm {e} ^{-\mathrm {i} {\frac {E}{\hbar }}t}\,.}
+  
+
+Die zeitliche Entwicklung drückt sich also einzig in einem zusätzlichen Exponentialfaktor aus, einem Phasenfaktor. Das bedeutet, dass der durch 
+  
+    
+      
+        ψ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \psi (t)}
+  
+ beschriebene Zustand derselbe ist wie 
+  
+    
+      
+        ψ
+        (
+        0
+        )
+      
+    
+    {\displaystyle \psi (0)}
+  
+ – ein stationärer Zustand eben. Nur die quantenmechanische Phase ändert sich, und zwar mit der Kreisfrequenz 
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              E
+              ℏ
+            
+          
+        
+      
+    
+    {\displaystyle \omega ={\tfrac {E}{\hbar }}}
+  
+. Auch für andere Observable als die Energie ist in stationären Zuständen die Wahrscheinlichkeit, einen bestimmten Wert zu messen, von der Zeit unabhängig.
+
+
+Interferenz
+
+Eine weitere wesentliche Eigenschaft des quantenmechanischen Zustandes ist die Möglichkeit zur Interferenz. Wenn z. B. 
+  
+    
+      
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \psi _{1}(x)}
+  
+ und 
+  
+    
+      
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \psi _{2}(x)}
+  
+ Lösungen derselben Schrödingergleichung sind, ist es auch ihre Summe 
+  
+    
+      
+        Ψ
+        (
+        x
+        )
+        =
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+        +
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \Psi (x)=\psi _{1}(x)+\psi _{2}(x)}
+  
+. In dieser Eigenschaft drückt sich das bei Wellen aller Art geltende Superpositionsprinzip aus. Mathematisch ergibt sie sich hier aus der Linearität der Schrödingergleichung. Die entsprechende räumliche Wahrscheinlichkeitsverteilung für ein Teilchen im Zustand 
+  
+    
+      
+        |
+        Ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \Psi \rangle }
+  
+ ist (bis auf einen konstanten Normierungsfaktor) durch das Betragsquadrat 
+  
+    
+      
+        |
+        Ψ
+        (
+        x
+        )
+        
+          |
+          
+            2
+          
+        
+        =
+        |
+        [
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+        +
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+        ]
+        
+          |
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \vert \Psi (x)\vert ^{2}=\vert [\psi _{1}(x)+\psi _{2}(x)]\vert ^{2}}
+  
+ gegeben. Im Zustand 
+  
+    
+      
+        |
+        Ψ
+        ⟩
+      
+    
+    {\displaystyle \vert \Psi \rangle }
+  
+ ist die Aufenthaltswahrscheinlichkeit daher nicht die Summe der beiden einzelnen Aufenthaltswahrscheinlichkeiten 
+  
+    
+      
+        |
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+        
+          |
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \vert \psi _{1}(x)\vert ^{2}}
+  
+ und 
+  
+    
+      
+        |
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+        
+          |
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \vert \psi _{2}(x)\vert ^{2}}
+  
+, wie man es für klassische Teilchen erwarten würde. Vielmehr ist sie Null an jedem Ort, wo 
+  
+    
+      
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+        =
+        −
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \psi _{1}(x)=-\psi _{2}(x)}
+  
+ gilt (destruktive Interferenz), während sie an Orten mit 
+  
+    
+      
+        
+          ψ
+          
+            1
+          
+        
+        (
+        x
+        )
+        =
+        
+          ψ
+          
+            2
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \psi _{1}(x)=\psi _{2}(x)}
+  
+ doppelt so groß ist wie die Summe der beiden einzelnen Aufenthaltswahrscheinlichkeiten (konstruktive Interferenz). Diese Eigenschaft weist auch Licht auf, das zum Beispiel hinter einem Doppelspalt ein Interferenzmuster entstehen lässt. Die Quantenmechanik sagt dementsprechend für Teilchen ähnliche Interferenzerscheinungen voraus wie für Licht.
+Das Doppelspaltexperiment zeigt sowohl die statistische Natur der Quantenmechanik als auch den Interferenzeffekt und ist damit ein gutes Beispiel für den Welle-Teilchen-Dualismus. Dabei werden mikroskopische „Teilchen“, zum Beispiel Elektronen, in einem breiten Strahl auf ein Hindernis mit zwei eng beieinander liegenden Spalten gesendet und weiter hinten auf einem Leuchtschirm aufgefangen. In der Verteilung der Elektronen auf dem Schirm würde man unter Annahme des klassischen Teilchenmodells zwei klar voneinander abgrenzbare Häufungen erwarten. Das kann man sich so vorstellen, als ob man kleine Kugeln von oben durch zwei Schlitze fallen ließe; diese werden unter jedem Schlitz je einen Haufen bilden. Die mit Elektronen tatsächlich beobachteten Messergebnisse sind anders (siehe Abbildung rechts). Mit der klassischen Teilchenvorstellung stimmen sie nur insoweit überein, als jedes einzelne Elektron auf dem Schirm genau einen einzigen Leuchtpunkt verursacht. Bei der Ausführung des Experiments mit vielen Elektronen (gleich, ob gleichzeitig oder nacheinander auf die Spalte gesendet) wird die Wahrscheinlichkeitsverteilung der Ortsmesswerte sichtbar, die nicht den klassisch erwarteten zwei Häufungen entspricht. Sie weist stattdessen wie beim Licht ausgeprägte Interferenzstreifen auf, in denen sich die destruktive und konstruktive Interferenz abwechseln.
+
+
+Messprozess
+
+Eine Messung an einem physikalischen Objekt bestimmt den augenblicklichen Wert einer physikalischen Größe. Im Formalismus der Quantenmechanik wird die gemessene Größe durch einen Operator beschrieben, und der Messwert ist ein Eigenwert dieses Operators. Im Allgemeinen sind die Zustände des Systems Überlagerungen von Eigenzuständen zu verschiedenen Eigenwerten, trotzdem wird bei einer einzelnen Messung kein verwaschenes Bild mehrerer Werte gemessen, sondern stets ein eindeutiger Wert. Mit der Messung wird auch festgestellt, dass das Objekt – mindestens von diesem Zeitpunkt ab – einen zu diesem Eigenwert gehörenden Eigenzustand des Operators einnimmt. Sofern es sich um eine Messung handelt, die das Objekt intakt lässt, muss eine sofortige Wiederholung der Messung nämlich mit Sicherheit dasselbe Ergebnis liefern, denn jede bemerkbare Änderung des Zustands gemäß der Schrödingergleichung würde eine gewisse Zeit brauchen.
+Das quantenmechanische Messproblem entsteht daraus, dass der Übergang von dem Zustand vor der Messung zu dem durch die Messung festgestellten Zustand nicht als eine zeitliche Entwicklung gemäß der Schrödingergleichung verstanden werden kann. Dieser Übergang wird als Kollaps der Wellenfunktion oder als Zustandsreduktion bezeichnet. Von den Komponenten zu verschiedenen Eigenwerten, die im Allgemeinen die Wellenfunktion vor der Messung hat, verschwinden im Kollaps alle diejenigen, die zu anderen Eigenwerten als dem festgestellten Messwert gehören. In den entsprechenden Formulierungen der Quantenmechanik erfolgt dieser Kollaps beim Vorgang des Messens. Doch dies ist nur eine ungenaue und unbefriedigende Umschreibung in der Alltagssprache. Die Vorgänge in der Messapparatur sind ausnahmslos physikalische Vorgänge. Wenn aber die Quantenmechanik die zutreffende grundlegende Theorie aller physikalischen Vorgänge ist, müsste sie alle physikalischen Systeme – inklusive der Messvorrichtung selbst – und deren wechselseitige Wirkung aufeinander beschreiben können. Der Quantenmechanik zufolge überführt der Messvorgang das untersuchte System und die Messvorrichtung in einen Zustand, in dem sie miteinander verschränkt sind, wodurch jeder der möglichen Messwerte eindeutig mit der entsprechenden Anzeige des Messgeräts verknüpft wird. Wenn dann – spätestens durch das Ablesen an der Messvorrichtung – das Messergebnis festgestellt wird, stellt sich wieder das Problem der Zustandsreduktion. Offenbar mangelt es an einer Definition, die in physikalischen Begriffen feststellt, was genau den Unterschied einer „Messung“ zu allen anderen physikalischen Prozessen ausmacht, so dass sie den Kollaps der Wellenfunktion verursachen kann. Insbesondere bleibt offen, wo man die Grenze zwischen dem zu beschreibenden Quantensystem und der klassischen „Messapparatur“ festlegen soll. Dies wird als Demarkationsproblem bezeichnet. Für die konkrete Vorhersage der Wahrscheinlichkeitsverteilung der Messergebnisse am untersuchten System ist es allerdings unerheblich, wo man diese Grenze zieht, also welche Teile der Messapparatur man mit in die quantenmechanische Betrachtung einbezieht. Denn für die vorhergesagte Verteilung ergibt sich immer das gleiche Ergebnis. Fest steht nur, dass zwischen dem Beginn der Messung und dem Registrieren des einzelnen eindeutigen Ergebnisses die Zustandsreduktion erfolgen muss.
+Die Kopenhagener Interpretation erklärt den Kollaps und die Fragen zur Demarkation nicht weiter: Eine Messung wird schlicht beschrieben als Interaktion eines Quantensystems mit einem Messgerät, das selber als klassisches physikalisches System aufgefasst wird. Die oben gegebene Beschreibung von Observablen und Zuständen ist an dieser Interpretation orientiert. Davon stark unterschieden ist die Interpretation nach der Viele-Welten-Theorie. Sie betrachtet die im Kollaps verschwundenen Komponenten zu anderen Messwerten nicht als verschwunden, sondern nimmt an, dass diese gleichartige Zweige des Universums darstellen, welche untereinander fortan effektiv keine Information mehr austauschen können. Zu diesen und weiteren Sichtweisen siehe Interpretationen der Quantenmechanik.
+Ein weiterer wichtiger Unterschied zwischen der quantenmechanischen und der klassischen Messung zeigt sich bei aufeinanderfolgenden Messungen von zwei verschiedenen Größen. Da die (ideale) klassische Messung das gemessene System gar nicht verändert, bleibt hier die Reihenfolge der beiden Messungen ohne Wirkung auf die Ergebnisse. Nach der Quantenmechanik aber wird der anfängliche Zustand durch eine Messung im Allgemeinen verändert, außer es handelt sich schon um einen Eigenzustand der betreffenden Observablen. Bei zwei aufeinanderfolgenden Messungen ist die Reihenfolge daher nur dann unerheblich, wenn sich das System in einem gemeinsamen Eigenzustand beider Observablen befindet. Andernfalls tritt bei mindestens einer der Messungen eine Zustandsreduktion auf, und das betreffende Messergebnis ist nur noch mit Wahrscheinlichkeit vorherzusagen. Für bestimmte Paare von Observablen trifft dies immer zu, denn sie haben überhaupt keinen gemeinsamen Eigenzustand. Solche Observablen werden komplementäre Observablen genannt. Ein Beispiel für ein Paar komplementärer Observablen sind Ort und Impuls. Hat z. B. ein Teilchen einen bestimmten Impuls, so wird eine Messung des Impulses genau diesen Wert ergeben. Eine nachfolgende Ortsmessung ergibt dann einen Wert aus einer unendlich breiten Wahrscheinlichkeitsverteilung, denn bei feststehendem Impuls ist der Ort völlig unbestimmt. Wird aber die Reihenfolge vertauscht, also die Ortsmessung zuerst ausgeführt, ist danach der Impuls unbestimmt, und damit auch das Ergebnis der nachfolgenden Impulsmessung.
+
+
+Heisenbergsche Unschärferelation
+
+Das Unschärfeprinzip der Quantenmechanik, das in Form der Heisenbergschen Unschärferelation bekannt ist, setzt die kleinstmöglichen theoretisch erreichbaren Unsicherheitsbereiche zweier Messgrößen in Beziehung. Es gilt für jedes Paar von komplementären Observablen, insbesondere für Paare von Observablen, die wie Ort und Impuls oder Drehwinkel und Drehimpuls physikalische Messgrößen beschreiben, die in der klassischen Mechanik als kanonisch konjugiert bezeichnet werden und kontinuierliche Werte annehmen können.
+Hat für das betrachtete System eine dieser Größen einen exakt bestimmten Wert (Unsicherheitsbereich Null), dann ist der Wert der anderen völlig unbestimmt (Unsicherheitsbereich unendlich). Dieser Extremfall ist allerdings nur theoretisch von Interesse, denn keine reale Messung kann völlig exakt sein. Tatsächlich ist der Endzustand der Messung der Observablen 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ daher kein reiner Eigenzustand der Observablen 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, sondern eine Überlagerung mehrerer dieser Zustände zu einem gewissen Bereich von Eigenwerten zu 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+. Bezeichnet man mit 
+  
+    
+      
+        Δ
+        A
+      
+    
+    {\displaystyle \Delta A}
+  
+ den Unsicherheitsbereich von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, mathematisch definiert durch die sog. Standardabweichung, dann gilt für den ebenso definierten Unsicherheitsbereich 
+  
+    
+      
+        Δ
+        B
+      
+    
+    {\displaystyle \Delta B}
+  
+ der kanonisch konjugierten Observablen 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ die Ungleichung
+
+  
+    
+      
+        Δ
+        A
+        ⋅
+        Δ
+        B
+        ≥
+        
+          
+            h
+            
+              4
+              π
+            
+          
+        
+        =
+        
+          
+            ℏ
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta A\cdot \Delta B\geq {\frac {h}{4\pi }}={\frac {\hbar }{2}}}
+  
+.
+Darin ist 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ die Planck-Konstante und 
+  
+    
+      
+        ℏ
+        
+        =
+        
+        h
+        
+          /
+        
+        2
+        π
+      
+    
+    {\displaystyle \hbar \,=\,h/2\pi }
+  
+.
+Selbst wenn beide Messgeräte beliebig genau messen können, wird die Schärfe der Messung von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ durch die der Messung von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ beschränkt. Es gibt keinen Zustand, in dem die Messwerte von zwei kanonisch konjugierten Observablen mit kleinerer Unschärfe streuen. Für das Beispiel von Ort und Impuls bedeutet das, dass in der Quantenmechanik die Beschreibung der Bewegung eines Teilchens durch eine Bahnkurve nur mit begrenzter Genauigkeit sinnvoll und insbesondere im Innern eines Atoms unmöglich ist.
+Eine ähnliche Unschärferelation gilt zwischen Energie und Zeit. Diese nimmt aber hier eine Sonderrolle ein, da in der Quantenmechanik aus formalen Gründen der Zeit keine Observable zugeordnet ist.
+
+
+Tunneleffekt
+
+Der Tunneleffekt ist einer der bekannteren Quanteneffekte, die im Gegensatz zur klassischen Physik und zur Alltagserfahrung stehen. Er beschreibt das Verhalten eines Teilchens an einer Potentialbarriere. Im Rahmen der klassischen Mechanik kann ein Teilchen eine solche Barriere nur überwinden, wenn seine Energie höher als der höchste Punkt der Barriere ist, andernfalls prallt es ab. Nach der Quantenmechanik kann das Teilchen hingegen mit einer gewissen Wahrscheinlichkeit die Barriere auch im klassisch verbotenen Fall überwinden. Andererseits wird das Teilchen auch dann mit einer gewissen Wahrscheinlichkeit an der Barriere reflektiert, wenn seine Energie höher als die Barriere ist. Die Wahrscheinlichkeiten für das Tunneln beziehungsweise für die Reflexion können bei bekannter Form der Potentialbarriere präzise berechnet werden.
+Der Tunneleffekt hat eine große Bedeutung in verschiedenen Bereichen der Physik, wie zum Beispiel bei der Beschreibung des Alpha-Zerfalls, der Kernfusion, der Funktionsweise der Feldemissions- und Rastertunnelmikroskopie oder bei der Erklärung des Zustandekommens der chemischen Bindung.
+
+
+Verschränkung, EPR-Experiment
+
+Wenn zwei Quantensysteme miteinander in Wechselwirkung treten, müssen sie als ein Gesamtsystem betrachtet werden. Selbst wenn vor der Wechselwirkung der quantenmechanische Zustand dieses Gesamtsystems einfach aus den beiden wohldefinierten Anfangszuständen der beiden Teilsysteme zusammengesetzt ist, entwickelt er sich durch die Wechselwirkung zu einer Superposition von Zuständen, die jeweils aus solchen Paaren von Zuständen der Teilsysteme gebildet sind. Es sind mit verschiedener Wahrscheinlichkeit verschiedene Paarungen möglich (z. B. beim Stoß der elastische oder der inelastische Stoß, oder Ablenkung um verschiedene Winkel etc.). In jedem dieser Paare sind die Endzustände der Teilsysteme so aufeinander abgestimmt, dass die Erhaltungssätze (Energie, Impuls, Drehimpuls, Ladung etc.) erfüllt sind. Der Zustand des Gesamtsystems liegt eindeutig fest und ist eine Superposition aller möglichen Paarungen. Er kann nicht – wie der Anfangszustand vor der Wechselwirkung – einfach aus je einem bestimmten Zustand beider Teilsysteme gebildet werden. Dann ist mit einer Messung, die nur an einem Teilsystem ausgeführt wird und dieses in einem bestimmten seiner möglichen Endzustände findet, auch eindeutig festgestellt, dass das andere Teilsystem sich im dazu passenden Endzustand befindet. Es besteht nun eine Korrelation zwischen den physikalischen Eigenschaften der Teilsysteme. Daher bezeichnet man den Zustand des Gesamtsystems als verschränkt. Die Verschränkung bleibt auch dann erhalten, wenn der Zeitpunkt der Wechselwirkung schon weit in der Vergangenheit liegt und die zwei Teilsysteme sich inzwischen weit voneinander entfernt haben. Es ist zum Beispiel möglich, ein Paar von Elektronen so zu präparieren, dass sie sich räumlich entfernen und für keins der Elektronen einzeln die Richtung des Spins vorhersagbar ist, während es feststeht, dass das eine Elektron den Spin „down“ aufweist, wenn das andere Elektron mit dem Spin „up“ beobachtet wurde, und umgekehrt. Diese Korrelationen sind auch beobachtbar, wenn erst nach der Wechselwirkung entschieden wird, welche beliebige Richtung im Raum als Up- bzw. Down-Achse definiert wird.
+Folge der Verschränkung ist, dass die Durchführung einer Messung an einem Ort die Messergebnisse an einem (im Prinzip beliebig weit entfernten) anderen Ort beeinflusst, und das ohne jede Zeitverzögerung, also mit Überlichtgeschwindigkeit. Dieses Phänomen war einer der Gründe, weshalb Albert Einstein die Quantenmechanik ablehnte. Er betrachtete die Separierbarkeit oder „Lokalität“ physikalischer Systeme (d. h. die Existenz wohlbestimmter lokaler physikalischer Eigenschaften) als ein fundamentales Prinzip der Physik und versuchte nachzuweisen, dass die Quantenmechanik unvollständig ist. Dazu entwickelte er 1935 gemeinsam mit Boris Podolsky und Nathan Rosen ein Gedankenexperiment, das als Einstein-Podolsky-Rosen-Paradoxon (EPR-Paradoxon) bekannt wurde. Sie zeigten damit, dass aus dem Prinzip der Lokalität das Vorhandensein zusätzlicher Eigenschaften der Systeme folgt, die von der Quantenmechanik nicht beschrieben werden (sogenannte verborgene Variablen); somit sei die Theorie unvollständig. Es blieb jedoch unklar, ob das aus der klassischen Physik bekannte Lokalitätsprinzip tatsächlich auch in der Quantenmechanik gilt. Erst im Jahr 1964 gelang es John Stewart Bell, das EPR-Gedankenexperiment um die experimentell überprüfbare Bellsche Ungleichung zu erweitern und damit die Lokalitätsannahme auf die Probe zu stellen. Alle seitdem durchgeführten Experimente haben die von der Quantenmechanik vorhergesagte Verletzung der Bellschen Ungleichung gezeigt und damit Einsteins Lokalitätsannahme widerlegt.
+Weiterhin zeigt die genaue theoretische Analyse des EPR-Effektes, dass dieser nicht im Widerspruch zur speziellen Relativitätstheorie steht, da auf diese Weise keine Information übertragen werden kann: Die einzelne Messung ergibt – unabhängig davon, ob das andere Teilchen bereits gemessen wurde – stets ein am Ort und zum Zeitpunkt der Messung unvorhersagbares Ergebnis. Erst, wenn das Ergebnis der anderen Messung – frühestens durch Kommunikation mit Lichtgeschwindigkeit – bekannt wird, kann man die Korrelation feststellen oder ausnutzen.
+
+
+Identische Teilchen, Pauli-Prinzip
+
+Durch die prinzipielle Unmöglichkeit, den Zustand eines quantenphysikalischen Systems nach klassischen Maßstäben „vollständig“ zu bestimmen, verliert eine Unterscheidung zwischen mehreren Teilchen mit gänzlich identischen intrinsischen Eigenschaften (wie beispielsweise Masse oder Ladung, nicht aber zustandsabhängigen Größen wie Energie oder Impuls) in der Quantenmechanik ihren Sinn. Nach den Vorstellungen der klassischen Mechanik können beliebig genaue Orts- und Impulsmessungen simultan an mehreren Teilchen durchgeführt werden – ob identisch oder nicht –, woraus (zumindest prinzipiell) die zukünftige Bahn jedes Teilchens genau vorhergesagt werden kann. Findet man später ein Teilchen an einem bestimmten Ort, kann man ihm eindeutig seinen Ausgangspunkt zuordnen und mit Sicherheit sagen, an beiden Orten habe es sich um dasselbe Teilchen gehandelt. Eine quantenmechanische Betrachtung lässt eine solche „Durchnummerierung“ von identischen Teilchen nicht zu. Das ist deshalb wichtig, weil z. B. alle Elektronen in diesem Sinne identische Teilchen sind. Es ist also beispielsweise unmöglich, die Frage zu beantworten, ob bei zwei aufeinander folgenden Messungen an einzelnen Elektronen „dasselbe“ oder ein „anderes“ Elektron beobachtet wurde. Hier sind die Worte „dasselbe“ und „anderes“ in Anführungszeichen gesetzt, weil sie zwar umgangssprachlich klar erscheinen mögen, für identische Teilchen aber gar keinen Sinn ergeben. Es ist nicht nur unmöglich, die gestellte Frage zu beantworten, sie lässt sich schon gar nicht physikalisch sinnvoll stellen.
+Da das Vertauschen zweier identischer Teilchen keine der physikalischen Eigenschaften des Zustands eines Vielteilchensystems ändert, muss der Zustandsvektor gleich bleiben oder kann höchstens sein Vorzeichen wechseln. Identische Teilchen bezeichnet man als Bosonen, wenn bei deren Vertauschung der Zustandsvektor gleich bleibt, als Fermionen, wenn er das Vorzeichen wechselt. Das Spin-Statistik-Theorem besagt, dass alle Teilchen mit ganzzahligem Spin Bosonen sind (z. B. die Photonen) und alle Teilchen mit halbzahligem Spin Fermionen. Dies lässt sich nicht im Rahmen der Quantenmechanik, sondern erst aus der Quantenfeldtheorie ableiten.
+Eine wichtige Konsequenz ist die als „Pauli-Prinzip“ bekannte Regel, dass zwei identische Fermionen nicht die gleichen Einteilchenzustände einnehmen können. Es schließt bei den Atomen die Mehrfachbesetzung elektronischer Zustände aus und erzwingt deren „Auffüllung“ bis zur Fermi-Energie. Das ist von großer praktischer Bedeutung, denn es ermöglicht den Atomen, vielgestaltige chemische Verbindungen einzugehen. Das Spin-Statistik-Theorem bewirkt außerdem erhebliche Unterschiede im thermodynamischen Verhalten zwischen Systemen mit vielen identischen Teilchen. Bosonen gehorchen der Bose-Einstein-Statistik, die z. B. die Wärmestrahlung beschreibt, Fermionen der Fermi-Dirac-Statistik, die z. B. die elektronischen Eigenschaften von Leitern und Halbleitern erklärt.
+
+
+Weiterführende Aspekte
+
+
+Dekohärenz
+
+Die Dekohärenz ist ein modernes Konzept der Quantenmechanik, das die bei makroskopischen Systemen äußerst effiziente Unterdrückung der Kohärenz beschreibt. Damit kann im Rahmen der Quantenmechanik erklärt werden, dass makroskopische Systeme keine Superpositionseffekte zeigen, sich also (von Ausnahmen abgesehen) „klassisch“ verhalten. Dekohärenz ist damit heute ein wichtiger Bestandteil des Korrespondenzprinzips der Quantenmechanik.
+Zur Veranschaulichung dieses Effektes sei das Beispiel eines makroskopischen Objekts betrachtet, das dem Einfluss einer isotropen Lichtstrahlung – im Folgenden auch als Umgebung bezeichnet – ausgesetzt ist. Im Rahmen der klassischen Physik ist der Einfluss des einfallenden Lichts auf die Bewegung des Objekts vernachlässigbar, da der mit dem Stoß eines Photons verbundene Impulsübertrag sehr gering ist und sich die Stöße aus verschiedenen Richtungen im Mittel kompensieren. Bei quantenmechanischer Betrachtung findet bei jedem Stoß eine Verschränkung des Objekts mit einem Photon statt (siehe oben), sodass das Objekt und das Photon nun als ein erweitertes Gesamtsystem betrachtet werden müssen. Die für Interferenzeffekte entscheidenden festen Phasenbeziehungen des quantenmechanischen Zustands erstrecken sich nun also über zwei Teilsysteme, das Objekt und das Photon, man spricht auch von einer Delokalisierung der Kohärenz.
+Bei isolierter Betrachtung des (Teil-)Zustands des Objekts äußert sich jeder Stoß in einer Verschiebung seiner quantenmechanischen Phasenbeziehungen und damit in einer Verringerung seiner Interferenzfähigkeit. Hierbei handelt es sich um einen reinen Quanteneffekt, der unabhängig von einem mit dem Stoß verbundenen Impuls- oder Energieübertrag ist. Die praktisch unvermeidlichen, zahlreich auftretenden Wechselwirkungen makroskopischer Objekte mit ihrer Umgebung führen so zu einer effektiven Ausmittelung aller quantenmechanischen Interferenzeffekte. Die für die Dekohärenz charakteristische Zeitskala, die Dekohärenzzeit τd, ist im Allgemeinen unter Normalbedingungen äußerst kurz (z. B. etwa 10−26 s), die Dekohärenz gilt daher als der effizienteste bekannte physikalische Effekt. Bei makroskopischen („klassischen“) Objekten sind daher nur noch solche Zustände anzutreffen, die den Prozess der Dekohärenz schon abgeschlossen haben und ihm nicht weiter unterworfen sind. Die verbleibende inkohärente Überlagerung quantenmechanischer Zustände entspricht demnach genau den Zustandsgemischen der makroskopischen bzw. klassischen Physik. Die Dekohärenz liefert so eine quantenmechanische Erklärung für das klassische Verhalten von makroskopischen Systemen.
+
+
+Relativistische Quantenmechanik
+
+Die Quantenmechanik wurde zuerst noch ohne Berücksichtigung der speziellen Relativitätstheorie entwickelt. Die Schrödingergleichung ist eine Differentialgleichung erster Ordnung in der Zeit, aber zweiter Ordnung in der Raumkoordinate, sie ist also nicht relativistisch kovariant. In der relativistischen Quantenmechanik muss sie durch eine kovariante Gleichung ersetzt werden, was gleiche Ordnung der Differentiationen erzwingt. Nach Versuchen mit der Klein-Gordon-Gleichung, die eine partielle Differentialgleichung zweiter Ordnung in Raum und Zeit ist, setzte sich die Dirac-Gleichung durch, welche in erster Ordnung in Raum und Zeit ist.
+Mit der Dirac-Gleichung konnten wichtige am Elektron beobachtete physikalische Phänomene erstmals erklärt oder sogar vorhergesagt werden. Während der halbzahlige Spin in der nichtrelativistischen Quantenmechanik ad hoc als zusätzliches Konstrukt und entgegen den Regeln der Drehimpulsquantelung eingeführt werden muss, ergibt sich seine Existenz zwanglos aus der mathematischen Struktur der Dirac-Gleichung. Auch folgt aus der Dirac-Gleichung richtig, dass das magnetische Moment des Elektrons im Verhältnis zum Spin, der gyromagnetische Faktor, fast genau doppelt so groß ist wie das für eine kreisende Ladung. Auch die Feinstruktur des Wasserstoffspektrums erweist sich als ein relativistischer Effekt, der mit der Dirac-Gleichung berechnet werden kann. Eine weitere erfolgreiche Anwendung der Dirac-Gleichung ist die Beschreibung der Winkelverteilung bei der Streuung von Photonen an Elektronen, also des Compton-Effekts, durch die Klein-Nishina-Formel. Eine weitere zutreffende Folge der Dirac-Gleichung war die zu ihrer Zeit ungeheuerliche Vorhersage der Existenz eines Antiteilchens zum Elektron, des Positrons.
+Trotz dieser Erfolge sind diese Theorien jedoch insofern lückenhaft, als sie die Erzeugung und Vernichtung von Teilchen nicht beschreiben können, einen bei hochrelativistischen Energien allgegenwärtigen Effekt. Als sehr fruchtbar erwies sich hier die Entwicklung der Quantenfeldtheorie. In dieser Theorie werden sowohl materielle Objekte als auch deren Wechselwirkungen durch Felder beschrieben, die gemäß bestimmten Quantisierungsregeln, wie z. B. der zweiten Quantisierung, quantisiert werden. Die Quantenfeldtheorie beschreibt nicht nur die Entstehung und Vernichtung von Elementarteilchen (Paarerzeugung, Annihilation), sondern liefert auch eine tiefere Erklärung für deren Ununterscheidbarkeit, für den Zusammenhang zwischen Spin und Statistik von Quantenobjekten sowie für die Existenz von Antiteilchen.
+
+
+Interpretation
+
+Die klassischen physikalischen Theorien, zum Beispiel die klassische Mechanik oder die Elektrodynamik, haben eine klare Interpretation, das heißt, den Symbolen der Theorie (Ort, Geschwindigkeit, Kraft beziehungsweise Spannungen und Felder) ist eine intuitive, klare Entsprechung in Experimenten (also eine messbare Größe) zugeordnet. Da die Quantenmechanik in ihrer mathematischen Formulierung auf sehr abstrakten Objekten, wie etwa Wellenfunktionen, basiert, ist eine Interpretation nicht mehr intuitiv möglich. Daher wurden seit dem Zeitpunkt der Entstehung der Theorie eine Reihe verschiedener Interpretationen vorgeschlagen. Sie unterscheiden sich in ihren Aussagen über die Existenz von Quantenobjekten und ihren Eigenschaften.
+Die Standpunkte der meisten Interpretationen der Quantenmechanik können grob in zwei Gruppen aufgeteilt werden, die instrumentalistische Position und die realistische Position. Gemäß der instrumentalistischen Position stellt die Quantenmechanik, beziehungsweise ein auf ihrer Basis ausgearbeitetes Modell, keine Abbildung der „Realität“ dar. Vielmehr handele es sich bei dieser Theorie lediglich um einen nützlichen mathematischen Formalismus, der sich als Werkzeug zur Berechnung von Messergebnissen bewährt hat. Diese ursprünglich insbesondere von Bohr im Rahmen der Kopenhagener Interpretation vertretene pragmatische Sicht dominierte bis in die 1960er Jahre die Diskussion um die Interpretation der Quantenmechanik und prägt bis heute viele gängige Lehrbuchdarstellungen.
+Neben dieser pragmatischen Variante der Kopenhagener Interpretation existiert heute eine Vielzahl alternativer Interpretationen, die bis auf wenige Ausnahmen das Ziel einer realistischen Deutung der Quantenmechanik verfolgen. In der Wissenschaftstheorie wird eine Interpretation als wissenschaftlich-realistisch bezeichnet, wenn sie davon ausgeht, dass die Objekte und Strukturen der Theorie treue Abbildungen der Realität darstellen und dass sowohl ihre Aussagen über beobachtbare Phänomene als auch ihre Aussagen über nicht beobachtbare Entitäten als (näherungsweise) wahr angenommen werden können.
+In vielen Arbeiten zur Quantenphysik wird Realismus gleichgesetzt mit dem Prinzip der Wertdefiniertheit. Dieses Prinzip basiert auf der Annahme, dass einem physikalischen Objekt physikalische Eigenschaften zugeordnet werden können, die es mit einem bestimmten Wert eindeutig entweder hat oder nicht hat. Beispielsweise spricht man bei der Beschreibung der Schwingung eines Pendels davon, dass das Pendel (zu einem bestimmten Zeitpunkt und innerhalb einer gegebenen Genauigkeit) eine Auslenkung 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ hat.
+In der Kopenhagener Interpretation wird die Annahme der Wertdefiniertheit aufgegeben. Ein Quantenobjekt hat demnach im Allgemeinen keine solchen Eigenschaften, vielmehr entstehen Eigenschaften erst im Moment und im speziellen Kontext der Durchführung einer Messung. Die Schlussfolgerung, dass die Wertdefiniertheit aufgegeben werden muss, ist allerdings weder aus logischer noch aus empirischer Sicht zwingend. So geht beispielsweise die (im Experiment von der Kopenhagener Interpretation nicht unterscheidbare) De-Broglie-Bohm-Theorie davon aus, dass Quantenobjekte Teilchen sind, die sich entlang wohldefinierter Bahnkurven bewegen, wobei diese Bahnen selbst aber der Beobachtung entzogen sind.
+
+
+Zusammenhänge mit anderen physikalischen Theorien
+
+
+Klassischer Grenzfall
+Niels Bohr formulierte 1923 das sogenannte Korrespondenzprinzip, wonach die Eigenschaften von Quantensystemen im Grenzwert großer Quantenzahlen mit hoher Genauigkeit den Gesetzen der klassischen Physik entsprechen. Dieser Grenzwert bei großen Systemen wird als „klassischer Grenzfall“ oder „Korrespondenz-Limit“ bezeichnet. Hintergrund dieses Prinzips ist, dass klassische Theorien wie die klassische Mechanik oder die klassische Elektrodynamik an makroskopischen Systemen (Federn, Kondensatoren etc.) entwickelt wurden und diese daher sehr genau beschreiben können. Daraus resultiert die Erwartung, dass die Quantenmechanik im Falle „großer“ Systeme diese klassischen Eigenschaften reproduziert beziehungsweise ihnen nicht widerspricht.
+Ein wichtiges Beispiel für diesen Zusammenhang zwischen der klassischen Mechanik und der Quantenmechanik ist das Ehrenfestsche Theorem. Es besagt, dass die Mittelwerte der quantenmechanischen Orts- und Impulsobservablen eines Teilchens in guter Näherung der klassischen Bewegungsgleichung folgen, sofern die Kräfte, die auf das Teilchen wirken, nicht zu stark mit dem Ort variieren.
+Das Korrespondenzprinzip ist daher ein wichtiges Hilfsmittel bei der Konstruktion und Verifikation quantenmechanischer Modellsysteme: Zum einen liefern „klassische“ Modelle mikroskopischer Systeme wertvolle heuristische Anhaltspunkte zur quantenmechanischen Beschreibung des Systems. Zum anderen kann die Berechnung des klassischen Grenzfalls zur Plausibilisierung der quantenmechanischen Modellrechnungen herangezogen werden. Sofern sich im klassischen Grenzfall physikalisch unsinnige Resultate ergeben, kann das entsprechende Modell verworfen werden.
+Umgekehrt bedeutet diese Korrespondenz aber auch, dass die korrekte quantenmechanische Beschreibung eines Systems, inklusive einiger nicht-klassischer Effekte wie etwa des Tunneleffekts, oft näherungsweise mittels klassischer Begriffe möglich ist; solche Näherungen erlauben oft ein tieferes Verständnis der quantenmechanischen Systeme. Man spricht hier auch von semiklassischer Physik. Beispiele für semiklassische Beschreibungen sind die WKB-Näherung und die Gutzwillersche Spurformel.
+Allerdings besitzen die oben beschriebenen Korrespondenzregeln keine universale Gültigkeit, da sie nur unter bestimmten einschränkenden Randbedingungen gelten und die Dekohärenz (siehe oben) nicht berücksichtigen. Weiterhin nähern sich nicht alle Quanteneffekte bei Anwendung der Korrespondenzregeln einem klassischen Grenzfall. Wie bereits das Schrödingers-Katze-Gedankenexperiment veranschaulicht, können „kleine“ Quanteneffekte wie z. B. der Zerfall eines radioaktiven Atoms durch Verstärker prinzipiell beliebig vergrößert werden. Zwar bewirken Dekohärenzeffekte bei makroskopischen Systemen in der Regel eine sehr effiziente Ausmittelung von Interferenzeffekten, jedoch weist auch der Zustand makroskopischer Systeme noch quantenmechanische Korrelationen auf, die z. B. in Form der sogenannten Leggett-Garg-Ungleichungen in experimentell überprüfbarer Form beschrieben werden können. Ein weiteres Beispiel für Quanteneffekte, für die keine Korrespondenzregel gilt, sind die Folgen der Ununterscheidbarkeit gleicher Teilchen. Hierzu zählt etwa die Verdoppelung der Wahrscheinlichkeit einer Ablenkung um 90° beim Stoß (neben weiteren Interferenzerscheinungen in der Winkelverteilung), ganz gleich, wie gering die Energie der Teilchen ist und wie weit entfernt voneinander sie bleiben, wenn es sich nur um zwei gleiche Bosonen (z. B. α-Teilchen) handelt.
+
+
+Verhältnis zur allgemeinen Relativitätstheorie
+
+Da die Gravitationskraft im Vergleich zu den anderen Grundkräften der Physik sehr schwach ist, treten allgemein-relativistische Effekte hauptsächlich bei massiven Objekten, wie z. B. Sternen oder schwarzen Löchern auf, während Quanteneffekte überwiegend bei mikroskopischen Systemen beobachtet werden. Daher gibt es nur wenige empirische Daten zu Quanteneffekten, die durch die Gravitation verursacht sind. Zu den wenigen verfügbaren experimentellen Ergebnissen gehören das Pound-Rebka-Experiment und der Nachweis diskreter gebundener Zustände von Neutronen im Gravitationsfeld.
+Die oben genannten Experimente können im Rahmen der nicht-relativistischen Quantenmechanik beschrieben werden, indem für den Potentialterm der Schrödingergleichung das Gravitationspotential verwendet wird. Die Gravitation wird hier als klassisches (also nicht quantisiertes) Feld betrachtet. Eine Vereinheitlichung der Gravitation mit den übrigen drei Grundkräften der Physik, die in ihrer allgemeinsten Form als Quantenfeldtheorien formuliert sind, lässt sich auf diesem Weg also nicht erreichen. Die Vereinheitlichung der Quantentheorie mit der allgemeinen Relativitätstheorie ist ein aktuelles Forschungsthema; der aktuelle Stand ist im Artikel Quantengravitation beschrieben.
+
+
+Anwendungen
+Quantenphysikalische Effekte spielen bei zahlreichen Anwendungsfällen der modernen Technik eine wesentliche Rolle. Beispiele sind der Laser, das Elektronenmikroskop, die Atomuhr oder in der Medizin die bildgebenden Verfahren auf Basis von Röntgenstrahlung bzw. Kernspinresonanz. Die Untersuchung von Halbleitern führte zur Erfindung der Diode und des Transistors, ohne die es die moderne Elektronik nicht gäbe. Auch bei der Entwicklung von Kernwaffen spielen die Konzepte der Quantenmechanik eine wesentliche Rolle.
+Bei der Erfindung beziehungsweise Entwicklung dieser und zahlreicher weiterer Anwendungen kommen die Konzepte und der mathematische Formalismus der Quantenmechanik jedoch nur selten direkt zum Einsatz. In der Regel sind hierfür die anwendungsnäheren Konzepte, Begriffe und Regeln der Festkörperphysik, der Chemie, der Materialwissenschaften oder der Kernphysik von größerer praktischer Bedeutung. Die Relevanz der Quantenmechanik ergibt sich hingegen aus der überragenden Bedeutung, die diese Theorie bei der Formulierung des theoretischen Fundamentes vieler wissenschaftlicher Disziplinen hat.
+Im Folgenden sind einige Beispiele für Anwendungen der Quantenmechanik beschrieben:
+
+
+Atomphysik und Chemie
+
+Die chemischen Eigenschaften aller Stoffe sind ein Ergebnis der elektronischen Struktur der Atome und Moleküle, aus denen sie aufgebaut sind. Grundsätzlich lässt sich diese elektronische Struktur durch Lösung der Schrödingergleichung für alle involvierten Atomkerne und Elektronen quantitativ berechnen. Eine exakte analytische Lösung ist jedoch nur für den Spezialfall der wasserstoffähnlichen Systeme – also Systeme mit einem Atomkern und einem Elektron – möglich. Bei komplexeren Systemen – also in praktisch allen realen Anwendungen in der Chemie oder der Biologie – kann die Vielteilchen-Schrödingergleichung daher nur unter Verwendung von numerischen Methoden gelöst werden. Diese Berechnungen sind bereits für einfache Systeme sehr aufwändig. Beispielsweise dauerte die Ab-initio-Berechnung der Struktur und des Infrarot-Spektrums von Propan mit einem marktgängigen PC im Jahr 2010 einige Minuten, die entsprechende Berechnung für ein Steroid bereits mehrere Tage. Daher spielen in der theoretischen Chemie Modellvereinfachungen und numerische Verfahren zur effizienten Lösung der Schrödingergleichung eine große Rolle, und die Entwicklung entsprechender Verfahren hat sich zu einer eigenen umfangreichen Disziplin entwickelt.
+Ein in der Chemie besonders häufig verwendetes, stark vereinfachtes Modell ist das Orbitalmodell. Bei diesem Modell wird der Vielteilchenzustand der Elektronen der betrachteten Atome durch eine Summe der Einteilchenzustände der Elektronen gebildet. Das Modell beinhaltet verschiedene Näherungen (unter anderem: Vernachlässigung der Coulomb-Abstoßung der Elektronen untereinander, Entkopplung der Bewegung der Elektronen von der Kernbewegung), erlaubt jedoch eine näherungsweise korrekte Beschreibung der Energieniveaus des Atoms. Der Vorteil dieses Modells liegt neben der vergleichsweise einfachen Berechenbarkeit insbesondere in der anschaulichen Aussagekraft sowohl der Quantenzahlen als auch der grafischen Darstellung der Orbitale.
+Das Orbitalmodell erlaubt die Klassifizierung von Elektronenkonfigurationen nach einfachen Aufbauregeln (Hundsche Regeln). Auch die Regeln zur chemischen Stabilität (Oktettregel bzw. Edelgasregel, Magische Zahlen) und die Systematik des Periodensystems der Elemente lassen sich durch dieses quantenmechanische Modell rechtfertigen.
+Durch Linearkombination mehrerer Atom-Orbitale lässt sich die Methode auf sogenannte Molekülorbitale erweitern, wobei Rechnungen in diesem Fall wesentlich aufwändiger werden, da Moleküle keine Kugelsymmetrie aufweisen. Die Berechnung der Struktur und der chemischen Eigenschaften komplexer Moleküle auf Basis von Näherungslösungen der Schrödingergleichung ist der Gegenstand der Molekularphysik. Dieses Gebiet legte den Grundstein für die Etablierung der Quantenchemie beziehungsweise der Computerchemie als Teildisziplinen der theoretischen Chemie.
+
+
+Kernphysik
+
+Die Kernphysik ist ein weiteres großes Anwendungsgebiet der Quantentheorie. Atomkerne sind aus Nukleonen zusammengesetzte Quantensysteme mit einer sehr komplexen Struktur. Bei ihrer theoretischen Beschreibung kommen – abhängig von der konkreten Fragestellung – eine Reihe konzeptionell sehr unterschiedlicher Kernmodelle zur Anwendung, die in der Regel auf der Quantenmechanik oder der Quantenfeldtheorie basieren.
+Im Folgenden sind einige wichtige Anwendungsfälle der Quantenmechanik in der Kernphysik aufgeführt:
+
+Einteilchenmodelle gehen davon aus, dass sich die Nukleonen innerhalb des Atomkerns frei bewegen können. Der Einfluss der anderen Nukleonen wird durch ein mittleres Kernpotential beschrieben. Beispiele: Schalenmodell, Fermigasmodell.
+Clustermodelle beschreiben Kerne als Aggregate von kleinen Nukleonen-Clustern, insbesondere Alphateilchen, die sich durch eine hohe Bindungsenergie auszeichnen. Zu den physikalischen Prozessen, die mit diesem Modell erklärt werden können, zählt der Alphazerfall: Bestimmte instabile Kerne, wie z. B. 
+  
+    
+      
+        
+          
+
+          
+          
+            92
+          
+          
+            238
+          
+        
+        
+          U
+        
+      
+    
+    {\displaystyle {}_{92}^{238}\mathrm {U} }
+  
+ zerfallen durch Emission von Alphateilchen, wobei die Zerfallswahrscheinlichkeit quantenmechanisch durch den Tunneleffekt beschrieben werden kann.
+Die quantenmechanische Streutheorie ist die Grundlage zur Berechnung von Streuquerschnitten, die einen Vergleich von Modellrechnungen und den Ergebnissen von Streuexperimenten ermöglichen. Ein häufig verwendetes Näherungsverfahren ist Fermis goldene Regel, die die Übergangsrate (Übergangswahrscheinlichkeit pro Zeit) eines Anfangszustands in einen anderen Zustand unter dem Einfluss einer Störung beschreibt.
+
+
+Festkörperphysik
+
+Die Vielzahl prinzipiell möglicher chemischer Zusammensetzungen von kondensierter Materie – also von makroskopischer Materie im festen oder flüssigen Zustand – und die große Anzahl an Atomen, aus welchen kondensierte Materie besteht, spiegelt sich in einer großen Vielfalt von Materialeigenschaften wider (siehe Hauptartikel Materie). Die meisten dieser Eigenschaften lassen sich nicht im Rahmen der klassischen Physik beschreiben, während sich quantenmechanische Modelle kondensierter Materie als überaus erfolgreich erwiesen haben.
+Aufgrund der großen Anzahl beteiligter Teilchen ist eine direkte Lösung der Schrödingergleichung für alle mikroskopischen Komponenten eines makroskopischen Stückes Materie unpraktikabel. Stattdessen werden Modelle und Lösungsverfahren angewendet, die an die zugrundeliegende Materiegattung (Metall, Halbleiter, Ionenkristall etc.) und an die zu untersuchenden Eigenschaften angepasst sind. In den gängigen Modellen kondensierter Materie sind Atomkerne und Elektronen die relevanten Grundbausteine kondensierter Materie. Hierbei werden in der Regel Atomkerne und innere Elektronen zu einem Ionenrumpf zusammengefasst, wodurch sich die Anzahl der im Modell zu berücksichtigenden Komponenten und Wechselwirkungen stark reduziert. Von den 4 Grundkräften der Physik wird lediglich die elektromagnetische Wechselwirkung berücksichtigt, die Gravitation und die Kernkräfte sind hingegen für die in der Physik kondensierter Materie betrachteten Effekte und Energieskalen irrelevant.
+Trotz dieser Vereinfachungen handelt es sich bei Modellen kondensierter Materie um komplexe quantenmechanische Vielteilchenprobleme, wobei insbesondere die Berücksichtigung der Elektron-Elektron-Wechselwirkung eine Herausforderung darstellt. Für viele Anwendungszwecke, wie z. B. die Berechnung der Ladungsverteilung, des Phononenspektrums oder der strukturellen Eigenschaften, ist die Berechnung des elektronischen Grundzustandes ausreichend. In diesem Fall kann das elektronische Vielteilchenproblem unter Anwendung der Dichtefunktionaltheorie oder anderer Verfahren als ein effektives Einteilchenproblem umformuliert werden, welches heute routinemäßig auch für komplexe Systeme berechnet werden kann.
+Häufig sind neben den Grundzustandseigenschaften auch die elementaren Anregungen kondensierter Materie von Interesse. Beispielsweise basieren alle experimentellen Methoden der Festkörperspektroskopie auf dem Prinzip, dass durch einen externen Stimulus (z. B. Licht oder Neutronen) bestimmte Freiheitsgrade einer Probe angeregt bzw. abgeregt werden. Bei den elementaren Anregungen handelt es sich um kollektive quantenmechanische Effekte, denen – ähnlich einem freien Quantenobjekt – eine Energie und eine Wellenlänge bzw. ein Wellenvektor zugeordnet werden kann, weshalb sie auch als Quasiteilchen bezeichnet werden. Beispiele sind das Phonon (Energiequant der Gitterschwingung), oder das Exciton (Elektron-Loch-Paar). Quasiteilchen verschiedener Typen können miteinander wechselwirken und so aneinander streuen oder sich verbinden und neue Quantenobjekte mit Eigenschaften bilden, die sich drastisch von den Eigenschaften freier Elektronen unterscheiden. Ein bekanntes Beispiel sind die Cooper-Paare, die gemäß der BCS-Theorie die Supraleitung von Metallen ermöglichen.
+
+
+Quanteninformatik
+
+Von Interesse ist auch die Suche nach robusten Methoden zur direkten Manipulation von Quantenzuständen. Es werden seit einigen Jahren Anstrengungen unternommen, einen Quantencomputer zu entwickeln, welcher durch Ausnutzung der verschiedenen Eigenzustände und der Wahrscheinlichkeitsnatur eines quantenmechanischen Systems hochparallel arbeiten würde. Einsatzgebiet eines solchen Quantenrechners wäre beispielsweise das Knacken moderner Verschlüsselungsmethoden. Im Gegenzug hat man mit der Quantenkryptographie ein System zum theoretisch absolut sicheren Schlüsselaustausch gefunden, in der Praxis ist diese Methode häufig etwas abgewandelt und unsicherer, da es hier auch auf die Übertragungsgeschwindigkeit ankommt.
+Ein Thema ist dabei die Quantenteleportation, die sich mit Möglichkeiten zur Übertragung von Quantenzuständen über beliebige Entfernungen beschäftigt.
+
+
+Rezeption
+
+
+Physik
+
+Zwei Jahre nach den ersten Veröffentlichungen hatte sich die Quantenmechanik in der Kopenhagener Interpretation durchgesetzt. Als wichtiger Meilenstein gilt die fünfte Solvay-Konferenz im Jahr 1927. Rasch erlangte die Theorie den Status einer zentralen Säule im Theoriengebäude der Physik. Im Hinblick auf ihre Leistungsfähigkeit bei konkreten Anwendungen (jedoch nicht im Hinblick auf ihre Interpretation, siehe oben) ist die Quantenmechanik bis heute praktisch unumstritten. Zwar existieren eine Reihe alternativer, empirisch nicht-äquivalenter Theorien, wie die Familie der Dynamischer-Kollaps-Theorien oder die Nichtgleichgewichts-Versionen der De-Broglie-Bohm-Theorie, jedoch haben diese Theorien gegenüber der Quantenmechanik nur eine marginale Bedeutung.
+Für die Entwicklung der Quantenmechanik wurden mehrere Nobelpreise der Physik vergeben.
+Hinzu kam eine Reihe weiterer Nobelpreise für Weiterentwicklungen und Anwendungen der Quantenmechanik sowie für die Entdeckung von Effekten, die nur im Rahmen der Quantenmechanik erklärt werden können (siehe Liste der Nobelpreisträger für Physik). Auch einige Nobelpreise für Chemie wurden für erfolgreiche Anwendungen der Quantenmechanik vergeben, darunter die Preise an Robert Mulliken (1929, „für seine grundlegenden Arbeiten über die chemischen Bindungen und die Elektronenstruktur der Moleküle mit Hilfe der Orbital-Methode“), an Walter Kohn (1998, „für seine Entwicklung quantenchemischer Methoden“) oder an John Anthony Pople (1998, „für die Entwicklung von Methoden, mit denen die Eigenschaften von Molekülen und deren Zusammenwirken in chemischen Prozessen theoretisch erforscht werden können“).
+
+
+Populärwissenschaftliche Darstellungen
+Bereits kurz nach Begründung der Quantenmechanik veröffentlichten verschiedene Quantenphysiker, z. B. Born, de Broglie, Heisenberg oder Bohr, eine Reihe semi-populärwissenschaftlicher Bücher, die sich insbesondere mit philosophischen Aspekten der Theorie befassten. Der Physiker G. Gamov veranschaulichte in seinem Buch Mr. Tompkins Explores the Atom die Eigenschaften von Quantenobjekten, indem er seinen Protagonisten verschiedene Abenteuer in einer fiktiven Quantenwelt erleben lässt. Auch die 1964 veröffentlichten Feynman-Vorlesungen über Physik, echte Lehrbücher, aber für die damalige Zeit sensationell anregend geschrieben, wurden in hohen Stückzahlen verkauft. Allerdings erreichten Publikationen über die Quantenmechanik bis in die 1970er Jahre bei weitem nicht das Maß an öffentlicher Wahrnehmung, das beispielsweise der Relativitätstheorie und der Kosmologie zuteilwurde. Weiterhin prägten die praktischen Auswirkungen der Kernphysik, insbesondere die Risiken von Kernwaffen und Kernenergie, die öffentliche Diskussion über die moderne Physik.
+Auch in Film und Fernsehen wurde die Quantenmechanik gelegentlich in populärwissenschaftlicher Form dargestellt, z. B. in Sendungen des Physikers Harald Lesch.
+
+
+Einfluss auf populäre Kultur, Geistes- und Sozialwissenschaften sowie Vereinnahmung durch die Esoterik
+Mit dem Aufkommen der New-Age-Gegenkultur ab Anfang der 1970er Jahre entstand ein verstärktes Interesse an Literatur mit aus der Wissenschaft entlehnten Ausdrücken, in der Verbindungen zwischen der Quantenmechanik, dem menschlichen Bewusstsein und fernöstlicher Religion hergestellt wurden. Bücher wie F. Capras Tao der Physik oder G. Zukavs Dancing Wu Li Masters wurden Bestseller. Die Quantenmechanik – so eine Kernaussage dieser Bücher – enthalte holistische und mystische Implikationen, die eine Verbindung von Spiritualität, Bewusstsein und Physik zu einem „organischen“ Weltbild nahelegten.
+Ab den 1980er Jahren erlebte der Markt für quantenmechanisch inspirierte Literatur einen weiteren kräftigen Aufschwung, und das Wort „Quanten“ entwickelte sich zu einem in vielen Komposita verwendeten Modewort. Die veröffentlichten Bücher umfassten ein breites Themenspektrum, welches von allgemeinverständlichen Darstellungen über weitere Bücher zu dem Themenkomplex „Quantenmechanik und Bewusstsein“ bis hin zu Themen wie dem „Quantum Learning“, „Quantum Golf“ oder den „Quantum Carrots“ reichte. Ein bekanntes Beispiel für die Erweiterung quantenmechanischer Konzepte auf Bereiche jenseits ihrer Anwendbarkeit ist der Film What the Bleep do we (k)now!?.
+Die Literaturwissenschaftlerin Elizabeth Leane kommt zu einer zwiespältigen Bewertung des Genres. Einerseits misst sie ihm pädagogische Bedeutung bei der allgemeinverständlichen Darstellung von Wissenschaft zu. Andererseits weist sie auf das Problem von Bedeutungsverschiebungen hin, die durch die Verwendung von Metaphern und „fiktionalen Techniken“ erzeugt werden. Am Beispiel von Zukavs Dancing Wu Li Masters, einem der meistverkauften und am häufigsten zitierten Bücher, die Quantenmechanik und Esoterik verquicken, zeigt sie eine rhetorische Umdeutung der Quantenmechanik zur Unterstützung eines anthropozentrischen Weltbildes auf. Der Soziologe S. Restivo weist auf prinzipielle linguistische und konzeptionelle Probleme bei Versuchen hin, Quantenmechanik umgangssprachlich zu beschreiben und mit Mystik zu verbinden. Viele Physiker, etwa J. S. Bell, M. Gell-Mann oder V. Stenger, lehnen Hypothesen, die Verbindungen zwischen Quantenmechanik und Bewusstsein herstellen, als spekulativ ab. Einen neuen Anlauf hierzu legte im Jahr 2015 der Politikwissenschaftler Alexander Wendt mit dem Buch Quantum Mind and Social Science vor.
+Siehe auch Quantenheilung.
+
+
+Kunst
+
+Die Quantenmechanik wurde und wird in der Kunst, insbesondere in der Belletristik, aber auch in der bildenden Kunst und punktuell im Theater, wahrgenommen und künstlerisch verarbeitet.
+Die Literaturwissenschaftlerin E. Emter weist Rezeptionsspuren der Quantentheorie in Texten von R. Musil (Der Mann ohne Eigenschaften), H. Broch, E. Jünger, G. Benn, Carl Einstein und B. Brecht nach, wobei sich ihre Studie auf den deutschen Sprachraum und die Jahre 1925 bis 1970 beschränkt.
+In den letzten Jahren erlangten Arbeiten von Bildhauern Aufmerksamkeit, die Quantenobjekte als Skulpturen darstellen. Der Bildhauer J. Voss-Andreae geht davon aus, dass Kunst, die nicht an die Textform gebunden ist, Möglichkeiten zur Darstellung von Realität hat, die der Wissenschaft nicht zur Verfügung stehen. Ein Beispiel ist seine Skulptur Quantum Man (siehe Abbildung rechts), die von Kommentatoren als Symbolisierung des Welle-Teilchen-Dualismus und der Beobachterperspektive interpretiert wird. Weitere bekannte Beispiele für künstlerische Darstellungen von Quantenobjekten sind die Skulpturen Quantum Corral und die Spin Family desselben Künstlers sowie die Quantum Cloud von A. Gormley.
+Auch einige Theaterstücke thematisieren die Quantenmechanik, so z. B. Tom Stoppards Bühnenstück Hapgood oder das Stück QED des US-amerikanischen Dramatikers P. Parnell. In seinem Bühnenstück Kopenhagen überträgt der Schriftsteller M. Frayn das Heisenbergsche Unschärfeprinzip in ein Unschärfeprinzip des menschlichen Verhaltens.
+
+
+Literatur
+
+
+Standard-Lehrbücher
+Claude Cohen-Tannoudji: Quantenmechanik. de Gruyter, 1999, ISBN 3-11-016458-2.
+Richard Feynman: Feynman Vorlesungen über Physik. Band 3: Quantenmechanik. Oldenbourg, 2007, ISBN 978-3-486-58109-6.
+Torsten Fließbach: Quantenmechanik: Lehrbuch zur Theoretischen Physik III. Spektrum Akademischer Verlag, 2008, ISBN 978-3-8274-2020-6.
+Walter Greiner: Theoretische Physik. Band 4: Quantenmechanik – Einführung. Deutsch-Verlag, Frankfurt am Main 2005, ISBN 3-8171-1765-5.
+Gernot Münster: Quantentheorie. De Gruyter, 2020, ISBN 978-3-11-047995-9.
+Wolfgang Nolting: Grundkurs Theoretische Physik 5/1 (Quantenmechanik – Grundlagen). Springer, 2008, ISBN 978-3-540-68868-6.
+Wolfgang Nolting: Grundkurs Theoretische Physik 5/2 (Quantenmechanik – Methoden und Anwendungen). Springer, 2012, ISBN 978-3-642-24420-9.
+
+
+Allgemeinverständliche Einführungen
+in der Reihenfolge des Erscheinens
+
+Transnational College of Lex: What is Quantum Mechanics? A Physics Adventure. Language Research Foundation, Boston, 1996, ISBN 0-9643504-1-6. 
+Tony Hey, Patrick Walters: Das Quantenuniversum. Spektrum, Akademischer Verlag, Heidelberg 1998, ISBN 3-8274-0315-4.
+Gert-Ludwig Ingold: Quantentheorie. C.H. Beck, München 2002, ISBN 3-406-47986-3.
+Anton Zeilinger: Einsteins Schleier. Die neue Welt der Quantenphysik. Goldmann, München 2003, ISBN 3-442-15302-6.
+John Gribbin, Friedrich Griese: Auf der Suche nach Schrödingers Katze: Quantenphysik und Wirklichkeit. Piper Taschenbuch, München 2004, ISBN 3-492-24030-5.
+Silvia Arroyo Camejo: Skurrile Quantenwelt. Springer, Berlin 2006, ISBN 3-540-29720-0.
+Claus Kiefer: Quantentheorie. S. Fischer, Frankfurt am Main 2012, ISBN 978-3-596-19035-5.
+Thomas de Padova: Quantenlicht. Das Jahrzehnt der Physik 1919–1929. Hanser, München 2024, ISBN 978-3-446-28134-9.
+
+
+Anwendungen
+Atomphysik und theoretische Chemie:
+
+E. G. Lewars: Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics. Springer, 2010, ISBN 978-90-481-3860-9.
+A. Szabo, N. S. Ostlund: Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory. Dover Publications, 1996, ISBN 0-486-69186-1.
+P. W. Atkins, R. S. Friedman: Molecular Quantum Mechanics. 4. Auflage. Oxford University Press, Oxford 2004, ISBN 0-19-927498-3.
+W. Kutzelnigg: Einführung in die Theoretische Chemie. Wiley-VCH, Weinheim 2002, ISBN 3-527-30609-9.
+J. Reinhold: Quantentheorie der Moleküle. 3. Auflage. Teubner, 2006, ISBN 3-8351-0037-8.
+Kernphysik:
+
+B. Povh, K. Rith, C. Scholz, F. Zetsche, W. Rodejohann: Teilchen und Kerne: Eine Einführung in die physikalischen Konzepte. 9. Auflage. Springer, 2014, ISBN 978-3-642-37821-8.
+J. Bleck-Neuhaus: Elementare Teilchen: Moderne Physik von den Atomen bis zum Standard-Modell. 1. Auflage. Springer, 2010, ISBN 978-3-540-85299-5.
+Physik kondensierter Materie:
+
+S. G. Louie, M. L. Cohen: Conceptual Foundations of Materials: A Standard Model for Ground- and Excited-State Properties. Elsevier, 2006, ISBN 0-444-50976-3.
+Quanteninformatik:
+
+M. A. Nielsen, Isaac L. Chuang: Quantum Computation and Quantum Information. Cambridge University Press, 2000, ISBN 0-521-63503-9.
+
+
+Interpretationen der Quantenmechanik
+David Albert: Quantum Mechanics and Experience. Harvard University Press, Cambridge, MA 1992. Zugleich eine sehr gut und leicht lesbare Einführung mit sehr einfachen Modellen.
+Kurt Baumann, Roman U. Sexl: Die Deutungen der Quantentheorie. (= Facetten der Physik. Band 11). 3., überarbeitete Auflage. Vieweg, Braunschweig 1987, ISBN 3-528-28540-0. Kritische Überlegungen, ergänzt mit berühmten Originalabhandlungen (in deutscher Übersetzung) von Max Born, Werner Heisenberg, Albert Einstein, Niels Bohr, Erwin Schrödinger, Wladimir Fock, David Bohm, John Stewart Bell, Bryce DeWitt
+John Stewart Bell: Speakable and unspeakable in quantum mechanics. Cambridge University Press, Cambridge 1988. bündelt Bells Originalaufsätze; für Interpretationsfragen wichtig u. a. die Texte zur Bohmschen Interpretation, größtenteils physikalisch voraussetzungsreich
+Jeffrey Bub: Interpreting the Quantum World. Cambridge University Press, Cambridge 1997, ISBN 0-521-56082-9.
+Jeffrey Bub: The Interpretation of Quantum Mechanics. Reidel, Dordrecht 1974, ISBN 90-277-0465-1.
+Nancy Cartwright: Another Philosopher Looks at Quantum Mechanics, or: What Quantum Theory is Not. (PDF; 205 kB)Instrumentalistische Reaktion auf Putnam 2005: Quantenmechanik kann als „lebende und arbeitende Theorie“ uninterpretiert bleiben.
+Hong Dingguo: On the Neutral Status of QM in the Dispute of Realism vs. Anti-Realism. In: Robert S. Cohen, Risto Hilpinen, Qiu Renzong (Hrsg.): Realism and Anti-Realism in the Philosophy of Science. Kluwer Academic Publishers, Dordrecht 1996, ISBN 0-7923-3233-4, S. 307–316.
+Peter Forrest: Quantum metaphysics. Blackwell, Oxford 1988, ISBN 0-631-16371-9. Diskussion realistischer metaphysischer Interpretationsoptionen
+Bas van Fraassen: Quantum Mechanics. An Empiricist View. Oxford University Press, Oxford 1991, ISBN 0-19-823980-7 Ausgearbeitete antirealistische Interpretation aus der Position des konstruktiven Empirismus
+R. I. G. Hughes: The structure and interpretation of quantum mechanics. Harvard Univ. Pr., Cambridge, Mass. 1989, ISBN 0-674-84391-6. Zugleich eine vollwertige, aber nur Schulmathematik voraussetzende Einführung in die Theorie
+E. Joos u. a.: Decoherence and the Appearance of a Classical World in Quantum Theory. Springer, Berlin 2003, ISBN 3-540-00390-8. Ausführliche Diskussion des klassischen Grenzfalls und dessen Relevanz für die Interpretation der Quantentheorie
+Tim Maudlin: Quantum Non-Locality and Relativity. Blackwell, Oxford U. K./ Cambridge MA 1994, ISBN 0-631-18609-3.
+Hilary Putnam: A Philosopher Looks at Quantum Mechanics (Again). In: The British Journal for the Philosophy of Science. 56/4 (2005), S. 615–634. Ablehnung „kopenhagener“ Interpretationen als bloßen Zurückweisungen eines wissenschaftlichen Realismus und der statistischen Interpretation (Born), Diskussion der wichtigsten verbleibenden realistischen Optionen: spontaner Kollaps (GRW) und Bohm
+Michael Redhead: Incompleteness, nonlocality and realism: a prolegomenon to the philosophy of quantum mechanics. Clarendon Press, Oxford 1987, ISBN 0-19-824937-3. Eines der wichtigsten weiterführenden Werke, inklusive einer knappen Darstellung der Theorie
+Hans Reichenbach: Philosophic Foundations Of Quantum Mechanics. University Of California Press, 1944.
+Pieter E. Vermaas: A Philosopher’s Understanding of Quantum Mechanics. Possibilities and Impossibilities of a Modal Interpretation. Cambridge University Press, 1999, ISBN 0-521-65108-5. Nach kurzer Einführung in den Formalismus ähnlich von Neumann ausführliche Darstellung und Diskussion verschiedener Varianten modaler Interpretationen, u. a. van Fraassens, Bubs; Verteidigung einer Variante von Dieks-Kochen.
+John Archibald Wheeler (Hrsg.): Quantum theory and measurement. Princeton Univ. Press, Princeton, NJ 1983, ISBN 0-691-08315-0. Standard-Handbuch mit den wichtigsten Texten aus der Interpretationsgeschichte, umfangreicher und aktueller als Sexl/Baumann.
+
+
+Audios
+Herbert Pietschmann: Einführung in die Quantenmechanik. nerds_on_air, ORANGE 94.0.
+
+
+Videos
+Robert Griffiths, Alain Aspect, Anton Zeilinger u. a.: Resources. Kursmaterial (Videos, Folien, Handouts) iqc.uwaterloo.ca, abgerufen am 24. Juli 2012.
+
+
+Weblinks
+
+Literatur von und über Quantenmechanik im Katalog der Deutschen Nationalbibliothek
+Martin Oettel: Materialien zur Vorlesung „Die Geburt der Quantenmechanik“ Universität Tübingen
+Thomas S. Kuhn, John L. Heilbronn, Paul Forman: The Sources for History of Quantum Physics. 1967 (amphilsoc.org). 
+Interaktive Experimente zur Quantenmechanik: Quantenzufall, Interferenz von einzelnen Quanten, Verschränkung, Kryptographie etc. (flash-plugin erforderlich) – von der Friedrich-Alexander-Universität Erlangen-Nürnberg
+Olga Teider: Einführung in die Quantentheorie mit interaktiven Experimenten (flash-plugin erforderlich) – von der Universität Ulm
+Jenann Ismael: Quantum Mechanics. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.
+Peter J. Lewis: Interpretations of Quantum Mechanics. In: James Fieser, Bradley Dowden (Hrsg.): Internet Encyclopedia of Philosophy.
+Thomas Neusius / Christian Ströbele: Quanten, Mathematik und Philosophie einer physikalischen Idee Kursmaterial, beginnend auf Schulniveau
+Georg Bernhardt: Prüfungsfragen zur Quantenmechanik. PDF, deutsch, 336 kB.
+Anton Zeilinger: On the Interpretation and Philosophical Foundation of Quantum Mechanics. (PDF; 62 kB) In: U. Ketvel u. a. (Hrsg.): Vastakohtien todellisuus. Festschrift for K. V. Laurikainen. Helsinki University Press, 1996.
+Physik-Nobelpreisträger Theodor W. Hänsch über die Quantenmechanik, deren Grundlagen, Entwicklung, Anwendungen, Interpretationen Interview, 22. Juli 2008
+Eine Sammlung der philosophisch bedeutsamsten Experimente der Quantenphysik, einfach erklärt (Memento vom 1. Februar 2015 im Internet Archive)
+Auf der Suche nach dem Quantenmodell Allgemeinverständliche Übersicht der Interpretationen der Quantenmechanik, Oktober 2021
+
+
+Einzelnachweise","[""Quantenmechanik"", ""Quantenphysik"", ""Atommodell"", ""Schr\u00f6dingergleichung"", ""Heisenbergsche Unsch\u00e4rferelation""]","[{'role': 'Physicist', 'description': 'A professional physicist with extensive knowledge in quantum mechanics and its historical development.', 'expertise_area': 'Quantum Physics', 'perspective': 'Scientific Expertise', 'speaking_style': {'tone': 'formal and reserved, occasionally enthusiastic when discussing breakthroughs', 'language_complexity': 'technical language with industry jargon, frequent use of metaphors related to physics concepts', 'communication_style': 'direct and assertive, prefers active listening during discussions', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of rhetorical questions to provoke thought', 'formality': 'formal', 'other_traits': 'uses pauses effectively to emphasize points, rarely interrupts others'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun'], 'catchphrases': ['Das ist eine interessante Frage', 'In der Quantenmechanik...', '...wie Einstein sagte'], 'speech_patterns': ['beginnt oft mit einer kurzen Zusammenfassung', '...was denken Sie darüber?', '...das führt uns zu einem weiteren Punkt'], 'emotional_expressions': ['Lachen bei humorvollen Anekdoten', ""'Wow!' bei beeindruckenden Entdeckungen"", ""'Unglaublich!' bei überraschenden Ergebnissen""]}, 'social_roles': ['Information Giver', 'Evaluator-Critic'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Historian of Science', 'description': 'A historian specializing in the development and impact of scientific theories, particularly quantum mechanics.', 'expertise_area': 'History of Science', 'perspective': 'Contextual Analysis', 'speaking_style': {'tone': 'semi-formal and reflective, occasionally passionate when discussing historical impacts', 'language_complexity': 'moderate complexity with historical terminology, frequent use of analogies and storytelling', 'communication_style': 'collaborative and inquisitive, often uses rhetorical questions to engage others', 'sentence_structure': 'varied sentence length with a mix of concise statements and detailed explanations, frequent use of exclamations to emphasize points', 'formality': 'semi-formal', 'other_traits': 'uses pauses effectively for dramatic effect, occasionally interrupts to clarify points'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Ehrlich gesagt'], 'catchphrases': ['Das erinnert mich an...', '...wie in der Geschichte von...', '...und das führte zu...'], 'speech_patterns': ['beginnt oft mit einer historischen Anekdote', '...was denken Sie darüber?', '...das ist faszinierend!'], 'emotional_expressions': ['Lachen bei humorvollen Geschichten', ""'Erstaunlich!' bei bedeutenden historischen Ereignissen"", ""'Beeindruckend!' bei bemerkenswerten Entwicklungen""]}, 'social_roles': ['Opinion Giver', 'Group Observer'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Monitors the dynamics of the group and provides feedback on how the group is functioning as a whole and what improvements can be made.']}, {'role': 'Philosopher of Science', 'description': 'A philosopher who explores the conceptual and metaphysical implications of quantum mechanics.', 'expertise_area': 'Philosophy of Science', 'perspective': 'Conceptual Analysis', 'speaking_style': {'tone': 'reflective and contemplative, occasionally passionate when discussing philosophical implications', 'language_complexity': 'complex language with philosophical terminology, frequent use of metaphors and analogies to illustrate concepts', 'communication_style': 'collaborative and inquisitive, often uses rhetorical questions to provoke deeper thought', 'sentence_structure': 'long and complex sentences with subordinate clauses, varied sentence length with a mix of concise statements and detailed explanations', 'formality': 'semi-formal to formal', 'other_traits': 'uses pauses effectively for emphasis, occasionally interrupts to clarify or expand on points'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun', 'Ehrlich gesagt'], 'catchphrases': ['Das führt uns zu...', '...wie Kant sagte', '...in der Philosophie von...', '...das ist eine tiefgründige Frage'], 'speech_patterns': ['beginnt oft mit einer philosophischen Anekdote', '...was denken Sie darüber?', '...das ist faszinierend!', '...das wirft die Frage auf'], 'emotional_expressions': ['Lachen bei humorvollen Gedankenexperimenten', ""'Erstaunlich!' bei tiefgründigen Einsichten"", ""'Beeindruckend!' bei komplexen Argumentationen""]}, 'social_roles': ['Opinion Seeker', 'Compromiser'], 'social_roles_descr': ['Encourages others to share their opinions and beliefs in order to understand different perspectives.', 'Helps the group find a middle ground when there are differences of opinion and encourages compromise in order to move forward.']}, {'role': 'Educator', 'description': 'An experienced teacher who simplifies complex topics for teenagers.', 'expertise_area': 'Education', 'perspective': 'Simplifier', 'speaking_style': {'tone': 'casual and enthusiastic, occasionally serious when discussing important topics', 'language_complexity': 'simple language with common terms, frequent use of analogies and storytelling to simplify concepts', 'communication_style': 'collaborative and engaging, often uses rhetorical questions to encourage participation', 'sentence_structure': 'short and concise sentences, frequent use of exclamations and questions to maintain interest', 'formality': 'informal to semi-formal', 'other_traits': 'uses pauses effectively for emphasis, frequently uses humor to connect with the audience'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Na ja', 'Weißt du'], 'catchphrases': ['Das ist ganz einfach...', '...wie ich immer sage', '...und das führt uns zu...', '...das ist spannend!'], 'speech_patterns': ['beginnt oft mit einer einfachen Erklärung', '...was denkt ihr darüber?', '...das ist wirklich interessant!', '...lasst uns das genauer betrachten'], 'emotional_expressions': ['Lachen bei humorvollen Erklärungen', ""'Wow!' bei beeindruckenden Fakten"", ""'Fantastisch!' bei erfolgreichen Lernmomenten""]}, 'social_roles': ['Encourager', 'Recorder'], 'social_roles_descr': ['Provides positive feedback and praise to boost the morale and motivation of group members.', 'Documents the group decisions, ideas and actions in order to have a reference for future discussions.']}, {'role': 'Mathematician', 'description': 'A mathematician specializing in the mathematical foundations and formalism of quantum mechanics.', 'expertise_area': 'Mathematics', 'perspective': 'Formal Analysis', 'speaking_style': {'tone': 'formal and precise, occasionally enthusiastic when discussing elegant proofs', 'language_complexity': 'complex language with mathematical terminology, frequent use of logical constructs and formal definitions', 'communication_style': 'direct and assertive, prefers active listening during discussions, often uses rhetorical questions to challenge assumptions', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of conditional statements and logical connectors', 'formality': 'formal', 'other_traits': 'uses pauses effectively to emphasize points, rarely interrupts others, occasionally uses humor related to mathematical concepts'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun', 'Genau'], 'catchphrases': ['Das ist eine elegante Lösung', '...wie in der Mathematik von...', '...das führt uns zu einer neuen Hypothese'], 'speech_patterns': ['beginnt oft mit einer formalen Definition', '...was denken Sie darüber?', '...das ist logisch konsistent'], 'emotional_expressions': ['Lachen bei mathematischen Witzen', ""'Beeindruckend!' bei eleganten Beweisen"", ""'Faszinierend!' bei komplexen Theoremen""]}, 'social_roles': ['Initiator-Contributor', 'Blocker'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', ""Frequently opposes ideas and suggestions without offering constructive alternatives and delays the group's progress.""]}, {'role': 'Science Communicator', 'description': 'A professional who specializes in making scientific concepts accessible and engaging for the general public.', 'expertise_area': 'Science Communication', 'perspective': 'Public Engagement', 'speaking_style': {'tone': 'casual and enthusiastic, occasionally serious when discussing scientific accuracy', 'language_complexity': 'moderate complexity with accessible terminology, frequent use of analogies and storytelling to engage the audience', 'communication_style': 'collaborative and engaging, often uses rhetorical questions to provoke curiosity', 'sentence_structure': 'varied sentence length with a mix of concise statements and detailed explanations, frequent use of exclamations and questions to maintain interest', 'formality': 'informal to semi-formal', 'other_traits': 'uses pauses effectively for emphasis, frequently uses humor to connect with the audience, occasionally interrupts to clarify points'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Na ja', 'Weißt du'], 'catchphrases': ['Das ist ganz einfach...', '...wie ich immer sage', '...und das führt uns zu...', '...das ist spannend!'], 'speech_patterns': ['beginnt oft mit einer einfachen Erklärung', '...was denkt ihr darüber?', '...das ist wirklich interessant!', '...lasst uns das genauer betrachten'], 'emotional_expressions': ['Lachen bei humorvollen Erklärungen', ""'Wow!' bei beeindruckenden Fakten"", ""'Fantastisch!' bei erfolgreichen Lernmomenten""]}, 'social_roles': ['Coordinator', 'Gatekeeper'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Ensures that all group members have the opportunity to express their opinions and encourages participation.']}]","Das Treffen konzentrierte sich auf die Quantenmechanik, eine physikalische Theorie zur Beschreibung der Eigenschaften und Gesetzmäßigkeiten von Materie. Die Grundlagen wurden zwischen 1925 und 1932 von Physikern wie Heisenberg, Schrödinger und Born entwickelt. Die Quantenmechanik unterscheidet sich grundlegend von der klassischen Physik durch ihre Konzepte wie Ort und Bahn eines Teilchens sowie die Verwendung eines eigenen mathematischen Formalismus. Es wurde festgestellt, dass viele klassische Gesetzmäßigkeiten als Grenzfälle der Quantenmechanik beschrieben werden können, jedoch existieren auch zahlreiche Quanteneffekte ohne klassischen Grenzfall. Die moderne Quantenmechanik begann 1925 mit der Matrizenmechanik von Heisenberg und anderen sowie der Wellenmechanik von Schrödinger. Ein wichtiger Aspekt ist die Unschärferelation von Heisenberg, die besagt, dass Ort und Impuls eines Teilchens nicht gleichzeitig exakt bestimmt sein können. Der Tunneleffekt ermöglicht es Teilchen, Barrieren zu überwinden, selbst wenn ihre Energie niedriger ist als die Höhe der Barriere. Verschränkung beschreibt die Korrelation zwischen den Zuständen zweier Teilsysteme nach einer Wechselwirkung. Anwendungen der Quantenmechanik umfassen Atomphysik, Chemie und Festkörperphysik.","[""Scene 1: Brief Greeting\nTLDR: Participants exchange brief greetings and set a casual tone for the meeting.\n- Welcome everyone\n- Quick check-in on how everyone is doing\n- Set expectations for a relaxed and open discussion"", ""Scene 2: Sharing Updates\nTLDR: Participants share recent personal and professional updates.\n- Physicist shares recent research findings or breakthroughs\n- Historian of Science discusses interesting historical insights related to quantum mechanics\n- Philosopher of Science reflects on recent philosophical debates or ideas\n- Educator talks about new teaching methods or experiences with students\n- Mathematician presents any new mathematical models or theories they are working on\n- Science Communicator shares recent public engagement activities or feedback"", ""Scene 3: Discussion on Quantenmechanik\nTLDR: Dive into key points from the summary, allowing for spontaneous contributions.\n- Discuss Heisenberg's Unsch\u00e4rferelation and its implications\n- Explore Schr\u00f6dinger's Wellenmechanik and its impact on modern physics\n- Debate the significance of the Tunneleffekt in practical applications\n- Share thoughts on Verschr\u00e4nkung and its philosophical implications"", ""Scene 4: Personal Experiences Related to Quantum Mechanics\nTLDR: Participants share personal anecdotes or experiences related to their work in quantum mechanics.\n- Physicist recounts a memorable experiment or discovery moment\n- Historian of Science shares a fascinating historical anecdote related to quantum theory development\n- Philosopher of Science discusses a thought-provoking philosophical question they encountered recently\n- Educator talks about an engaging classroom experience involving quantum mechanics concepts"", ""Scene 5: Off-topic Moments and Casual Chatting\nTLDR: Allow space for off-topic discussions and casual chatting to strengthen team rapport.\n- Share funny stories or jokes unrelated to work\n- Discuss hobbies, interests, or weekend plans briefly"", ""Scene 6: Wrap-Up and Future Plans\nTLDR: Conclude the meeting by summarizing key points discussed and planning future catch-ups.\n- Summarize main takeaways from the discussion on Quantenmechanik \n - Plan next casual catch-up session \n - Encourage participants to stay connected""]",">>Science Communicator: Hallo zusammen! Wie geht's euch heute? Ich hoffe, ihr hattet alle eine gute Woche.
+>>Historian of Science: Guten Morgen! Schön, dass wir uns wiedersehen können. Meine Woche war ziemlich produktiv – und bei dir?
+>>Physicist: Hi alle miteinander! Toll, dass wir uns treffen. Meine Woche war auch recht produktiv. Was hast du gemacht?
+>>Philosopher of Science: Hallo! Ehrlich gesagt freue ich mich sehr, euch alle hier zu sehen. Wie war eure Woche?
+>>Educator: Na ja, hallo zusammen! Ich hoffe, ihr hattet eine entspannte Woche. Bei mir war es ziemlich hektisch! Was hat dich beschäftigt?
+>>Mathematician: Genau, hallo zusammen! Es ist gut, euch alle hier zu sehen. Meine Woche war voller interessanter Herausforderungen. Und bei dir? 
+ >>Physicist: Also, ich habe in den letzten Wochen an einem echt faszinierenden Projekt gearbeitet. Wir haben eine neue Methode entwickelt, um die Verschränkung von Teilchen noch präziser zu messen. Das könnte echt spannend für die Quantenkommunikation sein.
+
+>>Historian of Science: Das erinnert mich an die frühen Tage der Quantenmechanik mit Heisenberg und Schrödinger. Diese neuen Methoden könnten wirklich eine Revolution auslösen! Was denken Sie?
+
+>>Philosopher of Science: Ja, das ist interessant. Aber diese neuen Methoden zur Messung der Verschränkung werfen auch Fragen auf, wie wir die metaphysischen Implikationen dieser Phänomene besser verstehen können. In der Philosophie gibt es viele Debatten darüber, ob solche Effekte uns zu einer neuen Auffassung von Realität führen sollten.
+
+>>Educator: Na ja, ich habe kürzlich eine neue Methode ausprobiert, um komplexe Themen wie Quantenmechanik für meine Schüler verständlicher zu machen. Wir haben das Doppelspaltexperiment nachgestellt und die Ergebnisse waren fantastisch! Die Schüler konnten die Interferenzmuster selbst sehen und verstehen.
+
+>>Science Communicator: Weißt du, ich habe kürzlich an einem öffentlichen Vortrag über Quantenmechanik teilgenommen und das Feedback war überwältigend! Die Leute waren besonders fasziniert von der Verschränkung und den damit verbundenen Möglichkeiten für die Zukunft. Das ist wirklich interessant!
+
+>>Mathematician: Nun, ich habe kürzlich an einem neuen mathematischen Modell gearbeitet, das die Verschränkung von Teilchen auf eine noch präzisere Weise beschreibt. Das Modell basiert auf einer erweiterten Form der Schrödingergleichung und könnte uns helfen, die Wahrscheinlichkeiten für verschiedene Messwerte genauer zu berechnen.
+
+>>Physicist: Ähm... das ist eine interessante Frage. In der Quantenmechanik haben wir oft das Problem, dass die metaphysischen Implikationen schwer zu greifen sind. Die Verschränkung zeigt uns ja wirklich deutlich, dass die Realität auf einer fundamentalen Ebene anders funktioniert als in der klassischen Physik.
+
+>>Historian of Science: Ehrlich gesagt... das ist wirklich spannend! Die Verschränkung hat ja schon in der Vergangenheit zu vielen revolutionären Entwicklungen geführt. Denken Sie nur an Einstein und Schrödinger – ihre Experimente haben gezeigt, wie tiefgreifend diese Phänomene sind.
+
+>>Science Communicator: Genau! Ich denke auch, dass die öffentliche Begeisterung für Quantenmechanik zeigt, wie wichtig es ist, diese komplexen Themen zugänglich zu machen. Wenn wir mehr Menschen erreichen und ihnen die faszinierenden Aspekte näherbringen können...
+
+>>Philosopher of Science: Das führt uns doch direkt zu einer tiefgründigen Frage: Wenn wir die Verschränkung als fundamentalen Aspekt der Realität betrachten – wie beeinflusst das unsere Auffassung von Kausalität und Identität? Könnten diese neuen Modelle vielleicht auch eine Brücke zwischen den verschiedenen Interpretationen schlagen?
+
+>>Educator: Wow! Das Doppelspaltexperiment ist wirklich ein fantastisches Werkzeug zum Verständnis von Quantenmechanik. Es zeigt den Schülern direkt... ähm... wie sich Teilchen und Wellen verhalten können. Wie können wir solche Experimente noch zugänglicher machen? 
+ >>Physicist: Heisenbergs Unschärferelation hat die Quantenmechanik revolutioniert. Sie zeigt uns, dass wir nie gleichzeitig den genauen Ort und Impuls eines Teilchens kennen können. Das hat weitreichende Auswirkungen auf unsere Messmethoden, besonders in der modernen Technologie wie dem Elektronenmikroskop.
+>>Historian of Science: Genau! Die historische Entwicklung der Unschärferelation ist faszinierend. Ich finde, sie hat unser Verständnis von Realität und Messbarkeit grundlegend verändert. Besonders spannend ist, wie diese Erkenntnis die wissenschaftliche Denkweise im 20. Jahrhundert beeinflusst hat.
+>>Philosopher of Science: Das führt uns zu einer tiefgründigen Frage: Wie beeinflusst die Heisenbergsche Unschärferelation unser Verständnis von Realität und Determinismus? Die Idee, dass wir nie gleichzeitig den genauen Ort und Impuls eines Teilchens kennen können, stellt klassische Vorstellungen auf den Kopf und fordert unsere philosophischen Konzepte heraus.
+>>Educator: Ja, das ist wirklich spannend! Es zeigt uns die Grenzen unserer Messmethoden. Für Schüler könnte man es so erklären: Es ist wie wenn man versucht, einen Ball zu fangen, der ständig seine Position und Geschwindigkeit ändert – eine echte Herausforderung!
+>>Science Communicator: Weißt du, die Heisenbergsche Unschärferelation erinnert mich an Schrödingers Wellenmechanik – auch ein spannendes Thema! Beide Konzepte zeigen uns die Grenzen der klassischen Physik und eröffnen neue Wege des Denkens.
+>>Mathematician: Schrödingers Wellenmechanik hat die Quantenphysik auf eine neue Ebene gehoben. Sie zeigt uns, dass Teilchen auch als Wellen beschrieben werden können. Das führt zu interessanten mathematischen Modellen und neuen Berechnungsmethoden.
+>>Physicist: Genau! Schrödingers Arbeit hat gezeigt, dass Teilchen sowohl als Wellen als auch als Partikel betrachtet werden können. Das Doppelspaltexperiment veranschaulicht diesen Dualismus eindrucksvoll.
+>>Historian of Science: Das erinnert mich an die historische Entwicklung des Tunneleffekts. Dieser Effekt hat nicht nur theoretische Physik beeinflusst sondern auch praktische Anwendungen wie das Rastertunnelmikroskop ermöglicht.
+>>Philosopher of Science: Der Tunneleffekt ist wirklich tiefgründig! Er zeigt uns, dass Teilchen Barrieren überwinden können, die sie nach klassischer Physik nicht durchdringen könnten. Das wirft Fragen über Möglichkeit und Realität auf.
+>>Educator: Der Tunneleffekt ist echt faszinierend! Man könnte ihn mit einem Schlüssel vergleichen, der durch eine Tür passt – unglaublich für Schüler zu verstehen!
+>>Science Communicator: Der Tunneleffekt hat enorme praktische Anwendungen! Zum Beispiel in der Elektronik – ohne ihn gäbe es keine modernen Computerchips.
+>>Mathematician: Genau! Und mathematisch gesehen eröffnet er neue Wege zur Modellierung von Systemen mit scheinbar unüberwindbaren Barrieren.
+
+**Verschränkung**
+
+>>Physicist: Verschränkung ist ein weiteres faszinierendes Konzept in der Quantenmechanik. Es zeigt uns diese seltsame Verbindung zwischen Teilchen über große Entfernungen hinweg.
+>>Historian of Science: Ja genau! Die historische Entwicklung der Verschränkung war bahnbrechend und hat viele philosophische Diskussionen angeregt.
+>>Philosopher of Science: Meiner Meinung nach stellt Verschränkung unsere Vorstellungen von Kausalität und Realität infrage. Wie kann etwas so verbunden sein trotz räumlicher Trennung?
+>>Educator: Verschränkung klingt kompliziert aber es ist wie wenn zwei synchronisierte Uhren immer dieselbe Zeit anzeigen – egal wie weit sie voneinander entfernt sind!
+>>Science Communicator: Verschränkung fasziniert nicht nur Wissenschaftler sondern auch Laien wegen ihrer mysteriösen Natur!
+
+**Schlussbemerkung**
+
+>>Mathematician: All diese Konzepte zeigen uns die Tiefe und Komplexität der Quantenmechanik. Es gibt noch viel zu entdecken! 
+ >>Physicist: Also, in der Quantenmechanik gibt es Momente, die einen wirklich staunen lassen. Ich erinnere mich an ein Experiment, bei dem wir die Verschränkung von Photonen nachweisen konnten. Es war unglaublich zu sehen, wie diese Teilchen über große Entfernungen miteinander verbunden blieben.
+>>Historian of Science: Ja, das erinnert mich an die Geschichte von Werner Heisenberg und seiner Unschärferelation. Das war ein Wendepunkt in der Wissenschaft! Was denken Sie darüber?
+>>Philosopher of Science: Interessant! Aber was denkt ihr über die Realität durch den Schleier der Quantenmechanik? Können wir sicher sein, dass unsere Wahrnehmung nicht nur eine Projektion unserer eigenen Erwartungen ist?
+>>Educator: Das ist wirklich spannend! Ich hatte einmal eine Klasse, die sich sehr schwer mit dem Konzept der Quantenverschränkung tat. Also habe ich ihnen das Doppelspaltexperiment gezeigt und erklärt, wie Teilchen gleichzeitig Wellen sein können. Es war faszinierend zu sehen, wie sie plötzlich verstanden haben.
+>>Science Communicator: Ja, solche Experimente und Geschichten prägen wirklich die öffentliche Wahrnehmung von Quantenmechanik. Wenn wir diese Momente teilen, können wir das Interesse und Verständnis der Menschen für Wissenschaft enorm steigern.
+>>Mathematician: Genau! Das Doppelspaltexperiment zeigt auch die mathematische Eleganz der Quantenmechanik. Die Interferenzmuster sind direkt aus den Wellenfunktionen ableitbar und zeigen die Überlagerung von Zuständen.
+>>Physicist: Die Verschränkung von Photonen zeigt uns eindrucksvoll praktische Anwendungen der Quantenmechanik und fordert unsere Vorstellungskraft heraus.
+>>Historian of Science: Absolut! Die Geschichte von Heisenberg hat unsere Vorstellung von Realität tiefgreifend verändert und führte zu einer neuen Ära in der Physik.
+>>Philosopher of Science: Diese Frage bringt uns zu philosophischen Überlegungen. Ist unsere Wahrnehmung objektiv oder beeinflusst durch unsere eigenen Interpretationen?
+>>Educator: Das Doppelspaltexperiment hilft wirklich dabei, komplexe Konzepte verständlich zu machen. Es zeigt Schülern auf magische Weise den Welle-Teilchen-Dualismus. 
+ >>Science Communicator: Also, ich habe am Wochenende einen neuen Wanderweg ausprobiert. Die Aussicht war einfach fantastisch!
+>>Physicist (interrupts): Oh wow, wo war das?
+>>Science Communicator: In der Nähe von Berchtesgaden. Wirklich schön! Und ihr?
+>>Physicist: Klingt toll! Ich habe ein neues Rezept ausprobiert – indisches Curry. Hat echt gut geschmeckt!
+>>Historian of Science (overlapping): Das hört sich lecker an! Ich habe ein Buch über die Geschichte der Wissenschaft gelesen. Echt spannend!
+>>Philosopher of Science: Interessant! Ich habe mich mit einem Freund getroffen und wir haben über Quantenmechanik diskutiert.
+>>Educator: Ich war auch produktiv – neue Unterrichtsmaterialien erstellt und im Park spazieren gegangen.
+>>Mathematician: Ich habe mich mit einem mathematischen Problem beschäftigt und eine elegante Lösung gefunden.
+>>Science Communicator: Weißt du, das klingt alles super interessant! Ich finde es toll, wie jeder von uns seine Freizeit auf unterschiedliche Weise nutzt. 
+ >>Physicist: Also, um die wichtigsten Punkte zusammenzufassen: Wir haben über die historische Entwicklung der Quantenmechanik gesprochen, von Heisenberg bis Schrödinger. Besonders spannend war die Diskussion über Verschränkung und den Tunneleffekt. Echt faszinierend, wie diese Konzepte unsere Sicht auf die Realität verändert haben!
+>>Historian of Science: Das erinnert mich an die Zeit, als Heisenberg und Schrödinger ihre bahnbrechenden Arbeiten veröffentlichten. Ehrlich gesagt, die Diskussion über Verschränkung und den Tunneleffekt zeigt wirklich, wie weit wir gekommen sind seit diesen frühen Tagen der Quantenmechanik!
+>>Philosopher of Science: Das führt uns zu einer tiefgründigen Frage: Wie beeinflussen diese Konzepte unsere Vorstellung von Realität und Kausalität? Was denken Sie darüber?
+>>Educator: Ja, das ist wirklich interessant! Ich finde es besonders spannend, wie diese Ideen auch in anderen Bereichen Anwendung finden. Zum Beispiel in der Kryptographie - das hat ja auch der Mathematiker erwähnt.
+>>Science Communicator: Weißt du, ich denke, wir sollten uns bald wieder treffen, um diese faszinierenden Themen weiter zu vertiefen. Vielleicht nächste Woche? Was denkt ihr darüber?
+>>Mathematician (interrupting): Entschuldigung, aber bevor wir das planen - hat jemand bemerkt, dass einige dieser Konzepte auch in der modernen Kryptographie Anwendung finden? Ich finde das unglaublich spannend.
+>>Physicist: Ja genau! Die Prinzipien der Quantenmechanik revolutionieren nicht nur Physik sondern auch andere Felder wie Kryptographie. Ein faszinierendes Thema für unser nächstes Treffen vielleicht?"

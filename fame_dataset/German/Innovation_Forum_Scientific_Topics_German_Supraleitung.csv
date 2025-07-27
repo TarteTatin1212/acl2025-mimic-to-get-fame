@@ -1,0 +1,826 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Supraleitung,"Supraleiter sind Materialien, deren elektrischer Widerstand beim Unterschreiten der sogenannten Sprungtemperatur praktisch Null wird. Die Supraleitung wurde 1911 von Heike Kamerlingh Onnes, einem Pionier der Tieftemperaturphysik, entdeckt. Sie ist ein makroskopischer Quantenzustand.
+Viele Metalle, aber auch andere Materialien sind Supraleiter. Die Sprungtemperatur – auch „kritische Temperatur“ Tc genannt – ist für die meisten Supraleiter sehr niedrig; um Supraleitung zu erreichen, muss das Material im Allgemeinen mit verflüssigtem Helium (Siedetemperatur −269 °C) gekühlt werden. Nur bei den Hochtemperatursupraleitern genügt zur Kühlung verflüssigter Stickstoff (Siedetemperatur −196 °C).
+Im supraleitenden Zustand tritt der Meißner-Ochsenfeld-Effekt auf, d. h. das Innere des Materials bleibt bzw. wird frei von elektrischen und magnetischen Feldern. Ein elektrisches Feld würde durch die ohne Widerstand beweglichen Ladungsträger sofort abgebaut. Magnetfelder werden durch den Aufbau entsprechender Abschirmströme an der Oberfläche verdrängt, die mit ihrem eigenen Magnetfeld das von außen eindringende Magnetfeld kompensieren. Ein nicht zu starkes Magnetfeld dringt nur etwa 100 nm weit in das Material ein; diese dünne Schicht trägt die Abschirm- und Leitungsströme.
+Der Stromfluss durch den Supraleiter senkt die Sprungtemperatur. Die Sprungtemperatur sinkt auch, wenn ein äußeres Magnetfeld anliegt.
+Überschreitet das Magnetfeld einen kritischen Wert, so beobachtet man je nach Material verschiedene Effekte. Bricht die Supraleitung schlagartig zusammen, spricht man von einem Supraleiter erster Art oder vom Typ I. Supraleiter zweiter Art dagegen (Typ II) haben zwei kritische Feldstärken, ab der niedrigeren beginnt das Feld einzudringen, bei der höheren bricht die Supraleitung zusammen. In dem Bereich dazwischen dringt das Magnetfeld in Form mikroskopisch feiner Schläuche zunehmend in den Leiter ein. Der magnetische Fluss in diesen Flussschläuchen ist quantisiert. Supraleiter vom Typ II sind durch ihre hohe Stromtragfähigkeit interessant für technische Anwendungen.
+Technische Anwendungen der Supraleitung sind die Erzeugung starker Magnetfelder – für Teilchenbeschleuniger, Kernfusionsreaktoren, Magnetresonanztomographie, Levitation – sowie Mess- und Energietechnik.
+
+
+Einteilung
+Von der großen Vielzahl verschiedener Supraleiter, die z. B. in 32 verschiedene Klassen eingeteilt wurden, sind insbesondere die zuerst entdeckten metallischen Supraleiter und die technisch bedeutenden A15-Phasen sowie die keramischen Hochtemperatursupraleiter bedeutend.
+Als erste unkonventionelle Supraleiter, die schwer oder gar nicht mit der BCS-Theorie  in Einklang zu bringen sind, wurden 1979 Schwere-Fermionen-Supraleiter entdeckt (Frank Steglich).
+
+
+Metallische Supraleiter
+Supraleitung wurde 1911 von Heike Kamerlingh Onnes kurz nach seiner Entdeckung der Heliumverflüssigung bei Messungen am Metall Quecksilber entdeckt. Dieser damals im Allgemeinen noch unbekannte Effekt wurde zunächst nur bei extrem tiefen Temperaturen unter 4,2 K beobachtet. Magnesiumdiborid hat mit 39 K die höchste Sprungtemperatur unter den metallischen Supraleitern bei Atmosphärendruck. Dies beschränkt den Einsatz metallischer Supraleitung auf relativ wenige Anwendungen, denn die Kühlung erfordert flüssiges Helium und ist damit sehr aufwendig und teuer.
+Metallische Supraleiter haben jedoch gegenüber den folgenden Klassen den großen Vorteil, dass man daraus leicht Drähte formen kann, wie sie beispielsweise zur Konstruktion von Spulen für die Erzeugung sehr starker Magnetfelder notwendig sind. Die Eigenschaften metallischer Supraleiter werden durch die BCS-Theorie erklärt.
+
+
+A15-Phasen
+Die in den 1950er Jahren entdeckten A15-Phasen, vor allem Nb3Sn, sind insbesondere für Anwendungen bedeutend, die starke Magnetfelder benötigen.
+
+
+Hydride unter hohem Druck als Hochtemperatursupraleiter
+Konventionelle (metallische) Supraleiter unter hohem Druck und mit hohen Sprungtemperaturen wurden bei verschiedenen Hydriden gefunden. Im Jahr 2015 wurde von Mikhail Eremets und seinen Kollegen am Max-Planck-Institut für Chemie in Mainz berichtet, dass Schwefelwasserstoff H2S unter hohen Drücken (100–300 GPa) zu einem metallischen Leiter wird, der eine Sprungtemperatur von −70 °C (= 203 K) aufweist. 2019 wurde von der Gruppe von Eremets bei dem Lanthanhydrid LaH10 unter hohem Druck (170 GPa) eine Sprungtemperatur von etwa 250 K (≈ −23 °C) gemessen; es ist damit das Material mit der höchsten bekannten Sprungtemperatur.
+Die Arbeiten sind inzwischen kritisiert worden. Ein wichtiges Merkmal der Supraleitung, der Meissner-Effekt, in den Hochdruckexperimenten über eine Änderung der magnetischen Suszeptibilität gemessen, ist nach J. E. Hirsch und F. Marsiglio fehlinterpretiert worden. Eine Arbeit von 2021 in Nature wurde 2022 sogar nach Kritik zurückgezogen.
+2023 wurde eine Arbeit veröffentlicht, die von einem Stickstoff-dotiertem Lutetium-Hydrid berichtet, das bei einer Temperatur von bis zu 21 °C und einem Druck von 10 kbar supraleitend wird. Auch zu dieser Arbeit wurden Zweifel geäußert.
+
+
+Keramische Hochtemperatursupraleiter
+
+Als Hochtemperatursupraleiter (HTSL) werden Materialien bezeichnet, deren Sprungtemperatur über 23 K liegt, der höchsten Sprungtemperatur der konventionellen, metallischen (Legierungs-)Supraleiter. Diese Klasse von keramischen Supraleitern (Cuprate) mit besonders hohen Sprungtemperaturen wurde erst 1986 von Bednorz und Müller entdeckt, die dafür 1987 mit dem Nobelpreis für Physik ausgezeichnet wurden.
+Für die Technik besonders interessant sind HTSL, die mit einer Sprungtemperatur von über 77 K (Siedetemperatur von Stickstoff) eine kostengünstige Kühlung ermöglichen. Der bekannteste Vertreter ist das Yttriumbariumkupferoxid mit der Formel YBa2Cu3O7-δ, das auch als YBaCuO, YBCO oder 123-Oxid bezeichnet wird. Supraleitfähigkeit wird für δ = 0,05 bis 0,65 beobachtet.
+Die Stromleitung dieser Materialien erfolgt in getrennten Strompfaden und ist richtungsabhängig. Bisher ist ungeklärt, auf welchen physikalischen Grundlagen die Stromleitung in den HTSL beruht.
+Der technische Einsatz ist wegen der Sprödigkeit des Keramikmaterials schwierig. Trotzdem ist es gelungen, ein biegsames Leitermaterial daraus herzustellen, indem der keramische Werkstoff in Röhren aus Silber gefüllt wurde, die dann zu flexiblen Bändern ausgewalzt wurden.
+
+
+Eisenhaltige Hochtemperatursupraleiter
+
+Eine völlig neuartige und unerwartete Klasse von Hochtemperatursupraleitern entdeckte der Japaner Hideo Hosono mit Kollegen im Jahr 2008: Verbindungen aus Eisen, Lanthan, Phosphor und Sauerstoff können supraleitend sein. Durch die Wahl anderer Beimischungen, wie Arsen, lässt sich die Sprungtemperatur von ursprünglich 4 K auf derzeit (2011) 56 K steigern. Nach den Pniktogenen Phosphor und Arsen werden diese Supraleiter Eisenpniktide genannt.
+Überraschend war der Anteil an Eisenatomen, weil jedes bekannte supraleitende Material durch ausreichend starke Magnetfelder normalleitend wird. Diese starken internen Magnetfelder könnten nun sogar Voraussetzung der Supraleitung sein. Das Rätselraten über die physikalischen Grundlagen ist dadurch noch größer geworden. Bisher steht nur fest, dass der Stromfluss durch Paare von Elektronen getragen wird, wie in der BCS-Theorie beschrieben. Welcher Effekt aber diese Cooper-Paare verbindet, ist unklar. Sicher scheint, dass es sich nicht – wie bei metallischen Supraleitern – um eine Elektron-Phonon-Wechselwirkung handelt.
+
+
+Graphen
+Ein Forschungsteam unter Leitung von Pablo Jarillo-Herrero am Massachusetts Institute of Technology hat 2017 die supraleitende Fähigkeit von Graphen nachgewiesen, wobei zwei wabenartige Monolagen von Kohlenstoffatomen im Winkel von 1,1 Grad übereinander gelagert, stark gekühlt und mit einer kleinen elektrischen Spannung versehen wurden. Vorhergesagt wurde der Effekt zuvor von Allan H. MacDonald und Rafi Bistritzer. Jarillo-Herrero, MacDonald und Bistritzer erhielten dafür 2020 den Wolf-Preis in Physik.
+
+
+Zusammenhang mit Bose-Einstein-Kondensat
+2020 berichteten Forscher über die Beobachtung eines supraleitenden Bose-Einstein-Kondensats (BEK), und dass es einen „fließenden Übergang zwischen“ BEK und BCS-Regimes zu geben scheint.
+
+
+Metallische Supraleiter bei extrem tiefen Temperaturen
+
+Je nach ihrem Verhalten im Magnetfeld unterscheidet man Supraleiter vom Typ I und Typ II, auch Supraleiter 1. und 2. Art genannt.
+
+
+Supraleiter 1. Art
+Ein magnetisches Feld wird in Supraleitern 1. Art bis auf eine dünne Schicht an der Oberfläche vollständig aus dem Inneren verdrängt. Das Magnetfeld nimmt an der Oberfläche des Supraleiters sehr rasch exponentiell ab; das charakteristische Maß von etwa 100 nm der Oberflächenschicht ist die so genannte (Londonsche) Eindringtiefe. Man bezeichnet diesen Zustand auch als Meißner-Phase. Ein Supraleiter 1. Art wird auch für Temperaturen 
+  
+    
+      
+        T
+        <
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T<T_{\mathrm {c} }}
+  
+ normalleitend, wenn entweder das äußere Magnetfeld einen kritischen Wert 
+  
+    
+      
+        
+          B
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c} }}
+  
+ oder die Stromdichte durch den Supraleiter einen kritischen Wert 
+  
+    
+      
+        
+          J
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle J_{\mathrm {c} }}
+  
+ überschreitet. Die meisten metallischen Elemente zeigen dieses Verhalten und haben dabei sehr niedrige Sprungtemperaturen im Bereich weniger Kelvin. Ausnahmen sind die nicht supraleitenden Alkali- und Erdalkalimetalle sowie Kupfer, Silber und Gold. Das Auftreten einer kritischen Stromdichte kann verstanden werden, indem man sich vor Augen führt, dass für das Anwerfen eines Abschirmstromes Energie nötig ist. Diese Energie muss von der Kondensationsenergie beim Phasenübergang normalleitend nach supraleitend geliefert werden. Sobald die benötigte Energie die Kondensationsenergie übersteigt, kann keine Supraleitung mehr vorliegen.
+Bei Typ-I-Supraleitern wird die Supraleitung durch eine Paarbildung von Elektronen (Cooper-Paare) im Leiter erklärt. Bei der normalen elektrischen Leitung entsteht der elektrische Widerstand durch Wechselwirkungen der Elektronen mit Gitterfehlern des Kristallgitters und mit Gitterschwingungen. Darüber hinaus können auch Streuprozesse der Elektronen untereinander eine wichtige Rolle spielen. Die quantenphysikalische Theorie zur Beschreibung der Typ-I-Supraleiter heißt nach ihren Autoren Bardeen, Cooper und Schrieffer die BCS-Theorie: Elektronen sind Fermionen, die sich nach BCS unter bestimmten Bedingungen zu bosonischen Paaren, sogenannten Cooper-Paaren, zusammenschließen. Die Menge dieser Bosonen nimmt dann einen makroskopischen Quantenzustand ein, der den Fermionen verwehrt ist (vgl. auch Suprafluidität). Die Kopplung der Elektronen zu Cooper-Paaren und deren Delokalisation im gemeinsamen Quantenzustand unterdrückt die Energieabgabe an das Kristallgitter und ermöglicht so den widerstandslosen elektrischen Stromfluss.
+
+
+Supraleiter 2. Art
+Supraleiter 2. Art befinden sich bis zum sogenannten „unteren kritischen Magnetfeld“ 
+  
+    
+      
+        
+          B
+          
+            
+              c
+              1
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c1} }}
+  
+ in der Meißner-Phase, verhalten sich also wie Typ I. Bei höheren Magnetfeldern können magnetische Feldlinien in Form sogenannter Flussschläuche in das Material eindringen (Schubnikow- oder Mischphase, auch Vortex- oder Flussschlauch-Zustand), ehe der supraleitende Zustand bei einem „oberen kritischen Magnetfeld“ 
+  
+    
+      
+        
+          B
+          
+            
+              c
+              2
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c2} }}
+  
+ vollständig zerstört wird. Der magnetische Fluss in einem Flussschlauch ist immer gleich dem magnetischen Flussquant:
+
+  
+    
+      
+        
+          Φ
+          
+            0
+          
+        
+        =
+        
+          
+            h
+            
+              2
+              e
+            
+          
+        
+        =
+        2
+        
+          ,
+        
+        07
+        ⋅
+        
+        
+          10
+          
+            −
+            15
+          
+        
+        
+        
+          V
+          s
+        
+      
+    
+    {\displaystyle \Phi _{0}={\frac {h}{2e}}=2{,}07\cdot \,10^{-15}\,\mathrm {Vs} }
+  
+
+Fließt ein Strom mit der Dichte J durch den Supraleiter, so übt er auf die Flussschläuche eine Lorentz-Kraft
+
+  
+    
+      
+        
+          F
+          
+            
+              L
+            
+          
+        
+        =
+        J
+        ⋅
+        
+          Φ
+          
+            0
+          
+        
+        ⋅
+        l
+      
+    
+    {\displaystyle F_{\mathrm {L} }=J\cdot \Phi _{0}\cdot l}
+  
+  (
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ = Länge des Flussschlauchs)
+senkrecht zu J und dem Magnetfeld B aus. Dadurch wandern die Flussschläuche mit der Geschwindigkeit v quer durch das Material. Hierbei verschwinden die Schläuche an einem Rand und bilden sich am gegenüberliegenden Rand neu. Diese Feldbewegung verursacht wiederum eine Lorentz-Kraft 
+  
+    
+      
+        
+          F
+          
+            Q
+          
+        
+      
+    
+    {\displaystyle F_{Q}}
+  
+, welche nach der Lenzschen Regel dem Strom entgegengerichtet ist. Diese Gegenkraft bewirkt einen Spannungsabfall, es entsteht also ein elektrischer Widerstand im Supraleiter.
+Um das zu verhindern, können in das Kristallgitter gezielt Störstellen (Pinning-Zentren) eingebaut werden, welche die Flussschläuche bis zu einer bestimmten Grenzkraft festhalten. Erst wenn die Lorentz-Kraft 
+  
+    
+      
+        
+          F
+          
+            
+              L
+            
+          
+        
+      
+    
+    {\displaystyle F_{\mathrm {L} }}
+  
+ diese Grenze übersteigt, kommt es zur Drift und damit zum sogenannten Flux-flow-Widerstand. Supraleiter mit einer großen Grenzkraft bezeichnet man als harte Supraleiter.
+Die Supraleiter zweiter Art sind theoretisch nicht so gut verstanden wie die Supraleiter erster Art. Zwar wird auch in diesen Supraleitern die Bildung von Cooper-Paaren angenommen, ein allgemein akzeptiertes Modell zu ihrer vollständigen Beschreibung existiert jedoch noch nicht.
+Beispiele für Typ-II-Supraleiter sind die keramischen Hochtemperatursupraleiter. Zwei wichtige Gruppen sind YBaCuO (Yttrium-Barium-Kupferoxide) und BiSrCaCuO (Bismut-Strontium-Calcium-Kupferoxide). Weiterhin zählen die meisten supraleitenden Legierungen zum Typ II, so wie die für MR-Magnete verwendeten Niob-Aluminium-Legierungen. Seit ca. 2008 hat eine neue Klasse Materialien an Bedeutung gewonnen; die sogenannten Eisenpniktide. Der Grundbaustein dieser Supraleiter ist Arsen und Eisen und tritt in der Regel in Kombination mit einer seltenen Erde, Sauerstoff und Fluor auf.
+
+
+Eigenschaften
+Supraleiter, mit geringfügigen Unterschieden zwischen 1. und 2. Art, zeigen neben dem praktischen Verlust des elektrischen Widerstandes und dem Verdrängen von Magnetfeldern aus ihrer Struktur noch weitere besondere Eigenschaften. Die meisten lassen sich mit der BCS-Theorie oder Betrachtung der freien Enthalpie („Gibbs-Funktion“) erklären. Die freie Enthalpie der jeweiligen Phase kann man über verschiedene Beobachtungsparameter (z. B. Druck, Temperatur, magnetisches Feld) berechnen. Die Gibbs-Funktion wird in diesem Fall durch ein Minimum festgelegt, d. h., die supraleitende Phase wird im Vergleich zur normalleitenden Phase instabil, wenn die freie Enthalpie der supraleitenden Phase größer ist als die der normalleitenden (und umgekehrt). Ein sich drehender Supraleiter erzeugt ein Magnetfeld, dessen Orientierung mit der Drehachse des Supraleiters zusammenfällt, was man mit London-Moment bezeichnet.
+Ein sogenanntes kritisches Magnetfeld 
+  
+    
+      
+        
+          B
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c} }}
+  
+, bei dem die Supraleitung zusammenbricht, kann als Funktion der Umgebungstemperatur T betrachtet werden. In der Nähe des absoluten Nullpunktes muss 
+  
+    
+      
+        
+          B
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c} }}
+  
+ aufgewendet werden, um die supraleitende Phase zu zerstören. Beim Erreichen der Übergangstemperatur 
+  
+    
+      
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {c} }}
+  
+ bricht die supraleitende Phase auch ohne ein äußeres Magnetfeld zusammen. Die Funktion des äußeren kritischen Magnetfeldes kann in guter Näherung durch
+
+  
+    
+      
+        
+          B
+          
+            
+              c
+            
+          
+        
+        (
+        T
+        )
+        =
+        
+          B
+          
+            
+              c
+            
+          
+        
+        (
+        0
+        )
+        ⋅
+        
+          (
+          
+            1
+            −
+            
+              
+                (
+                
+                  
+                    T
+                    
+                      T
+                      
+                        
+                          c
+                        
+                      
+                    
+                  
+                
+                )
+              
+              
+                
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle B_{\mathrm {c} }(T)=B_{\mathrm {c} }(0)\cdot \left(1-\left({\frac {T}{T_{\mathrm {c} }}}\right)^{\!2}\right)}
+  
+
+beschrieben werden. Die Erklärung für den Zusammenbruch der Supraleitung bei ausreichend hohen Magnetfeldern liegt in der Bindungsenergie der Cooper-Paare; wird diesen eine Energie oberhalb ihrer Bindungsenergie zugeführt, dann brechen sie auf und es entsteht die normalleitende Phase. Die Umgebungstemperatur muss entsprechend niedriger sein, um diesen Vorgang mit der Kondensation von Cooper-Paaren zu kompensieren. Die kritische Energie kann nicht nur durch magnetische Felder erzeugt werden. Zur Umgebungstemperatur wurden auch Funktionen mit dem Druck (1.) und elektrischen Feldern (2.) gefunden. Da das Aufbrechen von Cooper-Paaren endotherm ist, kann man durch ein Magnetfeld 
+  
+    
+      
+        
+          B
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle B_{\mathrm {c} }}
+  
+ und einen darin befindlichen Stoff im supraleitenden Zustand die Umgebung des Supraleiters abkühlen. Als technische Anwendung ist dieser Kühlprozess per Entmagnetisierung jedoch uninteressant.
+
+Bei sehr hohem Druck sinkt im Allgemeinen die kritische Temperatur. Allerdings gibt es teilweise auch umgekehrte Abhängigkeiten. Diese Anomalie einiger Stoffe kommt durch eine strukturelle Umwandlung des Leiters durch den hohen Druck zustande. Die kritische Temperatur des Stoffes kann bei zunehmendem Druck zuerst sinken, dann kommt es bei einem bestimmten Druck zur Bildung einer Modifikation, die plötzlich höhere Übergangstemperaturen aufweist. Zu diesen Hochdrucksupraleitern gehören auch Stoffe, bei denen bisher nur bei hohem Druck ein Übergang in die supraleitende Phase beobachtet wurde.
+Fließt Strom durch einen Supraleiter, so zerstört das durch den Strom erzeugte magnetische Feld ab einer bestimmten Stärke die Supraleitung.
+Das Volumen eines Stoffes in der normalleitenden Phase 
+  
+    
+      
+        
+          V
+          
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {n} }}
+  
+ (bei Temperaturen 
+  
+    
+      
+        T
+        >
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T>T_{\mathrm {c} }}
+  
+) ist kleiner als das Volumen in der supraleitenden Phase 
+  
+    
+      
+        
+          V
+          
+            s
+          
+        
+      
+    
+    {\displaystyle V_{s}}
+  
+ (
+  
+    
+      
+        T
+        <
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T<T_{\mathrm {c} }}
+  
+). Ist 
+  
+    
+      
+        T
+        =
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T=T_{\mathrm {c} }}
+  
+ so entsprechen sich beide Werte ungefähr (
+  
+    
+      
+        
+          V
+          
+            
+              s
+            
+          
+        
+        =
+        
+          V
+          
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {s} }=V_{\mathrm {n} }}
+  
+). Dies ist deshalb interessant, da während der Übergangsphase beide Phasen S und N nebeneinander im Leiter existieren. Um dieses Phänomen zu erklären, sind allerdings intensivere Überlegungen notwendig.
+Die spezifische Wärmekapazität der Elektronen erhöht sich beim Übergang vom normal- in den supraleitenden Zustand bei 
+  
+    
+      
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {c} }}
+  
+ für Typ-I/II-Supraleiter sprunghaft (Rutgers-Formel). In klassischen Supraleitern verringert sie sich im supraleitenden Zustand exponentiell mit der Temperatur, da Cooper-Paare keine Wärme aufnehmen können und so nur noch Elektronen zur Wärmekapazität beitragen, die über die Energielücke angeregt werden (siehe auch Boltzmann-Faktor).
+Die Wärmekapazität der Phononen (Gitterschwingungen) bleibt beim Übergang in den supraleitenden Zustand unverändert.
+Der supraleitende Zustand hat wenig Einfluss auf die Wärmeleitfähigkeit. Man muss diesen Einfluss für zwei Arten von Stoffen betrachten. Zum einen Stoffe, bei denen Wärme vor allem über das Gitter weitergegeben wird, was einen Großteil von Leitern ausmacht. Diese Wärmeleitung wird in der Nähe von 
+  
+    
+      
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {c} }}
+  
+ durch die starken Interferenzen an den Übergängen zwischen S- und N-leitenden Schichten behindert, bei 
+  
+    
+      
+        T
+        <
+        
+          T
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle T<T_{\mathrm {c} }}
+  
+ jedoch durch die fehlende Wechselwirkung mit den Elektronen im Vergleich zur normalleitenden Phase besser. Bei Stoffen, in denen die Elektronen einen großen Anteil an der Wärmeleitung haben, wird diese logischerweise schlechter. Es wurde in dieser Beziehung darüber nachgedacht, Supraleiter als über ein kritisches Feld steuerbare Schalter für Wärmeströme einzusetzen.
+
+
+Theorien
+
+
+Die Londonschen Gleichungen
+Ohne auf die Träger des Suprastromes einzugehen, leiteten Fritz und Heinz London 1935 eine Beschreibung der Supraleitung her. Die London-Gleichungen beschreiben den widerstandslosen Transport und den Meißner-Ochsenfeld-Effekt.
+
+
+Ginsburg-Landau-Theorie
+Eine phänomenologische Beschreibung von Supraleitung gelang Witali Ginsburg und Lew Landau im Jahr 1950. Sie beschrieben den Übergang vom normalleitenden zum supraleitenden Zustand durch einen „Phasenübergang zweiter Ordnung“. In der Ginsburg-Landau-Theorie wird als Ordnungsparameter die makroskopische Wellenfunktion des supraleitenden Zustandes benutzt.(Von dieser Theorie gibt es Querbeziehungen zur Hochenergiephysik, und zwar zum sog. Higgs-Mechanismus, bei dem es um die Erzeugung der Masse gewisser Elementarteilchen geht, die – ähnlich wie bei der Supraleitung – speziellen Eichsymmetrien unterliegen.)
+
+
+BCS-Theorie
+Die fundamentale, mikroskopische Beschreibung der Supraleitung, die im Gegensatz zu den vorhergehenden Theorien „alles erklärte“, wurde 1957 von John Bardeen, Leon Neil Cooper und John Robert Schrieffer vorgestellt. Mit dieser BCS-Theorie lassen sich konventionelle Supraleiter sehr gut beschreiben. Die BCS-Theorie entstand etwa 50 Jahre nach der Entdeckung des Phänomens. Für die Hochtemperatursupraleitung existiert derzeit (Stand: 2019) noch keine allgemein akzeptierte Theorie. 2020 berichteten Forscher die Entwicklung von supraleitendem Bose-Einstein-Kondensat (BEK) und dass es einen „fließenden Übergang zwischen“ BEK und BCS-Regimen zu geben scheint.
+
+
+Realisierte Anwendungen
+
+
+Erzeugung starker Magnetfelder
+
+Ein bedeutendes Anwendungsfeld ist die Erzeugung starker, konstanter oder nur langsam veränderter Magnetfelder. Der ohmsche Widerstand der Spulenwicklungen konventioneller Elektromagnete erzeugt große Wärmemengen und damit einen großen Energieverlust.
+Für diese Anwendung werden bisher (2014) nur klassische Supraleiter (SL) verwendet, vor allem Legierungen von Niob. Für starke supraleitende Spulen sind kilometerlange, nur wenige Mikrometer dünne Leiterfäden nötig; diese können aus Hochtemperatur-Supraleitern (HTSL) zurzeit noch nicht hergestellt werden.
+Eine stromdurchflossene supraleitende Spule kann man in sich schließen, woraufhin der Strom im Prinzip unendlich lange verlustfrei in der Spule erhalten bleibt. Zum „Laden“ der in sich geschlossenen Spule wird ein kurzes Teilstück der Spule über die Sprungtemperatur geheizt. Dadurch wird die Spule geöffnet und kann über Zuleitungen mit Strom versorgt werden. Wenn die gewünschte Stromstärke erreicht ist, wird der Heizer abgeschaltet. Die Spule ist dadurch wieder in sich geschlossen. Bei dauerhaftem Betrieb können die elektrischen Anschlüsse nach dem Laden der Spule mechanisch entfernt und der Behälter der Spule verschlossen werden. Zur Erhaltung des Feldes ist dann nur ein regelmäßiges Nachfüllen der Kühlmedien Flüssighelium und Flüssigstickstoff erforderlich. Ein gutes Beispiel hierfür bietet ein NMR-Gerät.
+Die größte Störung ist das sogenannte Quenchen (engl. to quench = löschen), ein lokales Aussetzen der Supraleitung. Die nun normalleitende Stelle wirkt als elektrischer Widerstand. Sie heizt sich auf, wodurch sich der Widerstand noch erhöht. Der normalleitende Bereich vergrößert sich durch Wärmeleitung. So bricht innerhalb kurzer Zeit der Strom und damit das Magnetfeld zusammen. Da die im Magnetfeld gespeicherte Energie recht groß ist, kann dieser Vorgang zur Zerstörung der Spule führen.
+Supraleiter sind ideal diamagnetisch. Daher kann ein Strom nur an ihrer Oberfläche fließen, und für große Stromstärken ohne Überschreiten der Grenzstromdichte muss man viele dünne SL-Fäden parallel schalten. Durch Einbetten dieser Fäden in Kupfer wird nun erreicht, dass beim Quenchen der Strom vom normalleitenden Kupfer aufgenommen wird und die Erwärmung gering bleibt, sodass der normalleitende Bereich nicht zu schnell anwächst (stabilisierter Supraleiter). Damit wird eine Zerstörung des Leiters vermieden. Solche Spulen aus stabilisierten Supraleitern werden beispielsweise in Kernspintomographen, Teilchenbeschleunigern und Kernfusionsreaktoren verwendet.
+
+
+Mikrowellen in supraleitenden Kavitäten
+Auch für Hohlraumresonatoren (Kavitäten) in Teilchenbeschleunigern werden Supraleiter verwendet, obwohl die kritische Feldstärke bei hohen Frequenzen deutlich absinkt. Oberhalb einer kritischen Frequenz werden die Cooper-Paare direkt durch Photonenabsorption aufgebrochen. Dann sinkt die kritische Feldstärke auf null. Die einzige Möglichkeit, diese Grenze weiter zu verschieben, ist eine tiefere Kühlung.
+Zum Beispiel wurden im TESLA-Projekt supraleitende Kavitäten aus reinem Niob entwickelt, die jetzt (2014) in verschiedenen Elektronenbeschleunigern im Einsatz sind (siehe Linearbeschleuniger). Ein Vorteil und zugleich Nachteil des Systems ist die geringe Dämpfung: Der Wirkungsgrad ist besonders hoch, gleichzeitig werden aber parasitäre Moden nicht gedämpft.
+
+
+Messtechnik
+Der Josephson-Effekt sowie SQUIDs erlauben die hochgenaue Messung von Magnetfeldern, z. B. zur Bestimmung von Hirn- und Herzmagnetfeldern, in der zerstörungsfreien Materialprüfung oder der geomagnetischen Prospektion.
+
+
+Geplante und beginnende Anwendungen
+
+Die bisher bekannten supraleitenden Materialien müssen entweder sehr aufwendig auf extrem niedrige Temperaturen gekühlt werden, oder sie lassen sich schwer verarbeiten. Die folgenden Anwendungen werden erst dann wirtschaftlich, wenn Materialkombinationen gefunden werden, deren Verwendbarkeit durch keinen dieser Nachteile mehr Probleme als Vorteile bringt. Optimal wäre ein Supraleiter bei Umgebungstemperatur.
+
+
+Energietransport und -umwandlung
+
+Bei Supraleitern zweiter Art zum Transport höherer elektrischer Ströme besteht die Schwierigkeit, dass diese Materialien beim Übergang in den Normalzustand nicht wie die Metalle zu normalen, guten elektrischen Leitern werden, sondern – in guter Näherung – zu Isolatoren. Wechselt ein solcher stromführender Supraleiter in den Normalzustand (zum Beispiel durch Überschreiten der maximalen Stromdichte), wird der durch die Leitungsinduktivität kurz weiterfließende Strom das Material nach dem Jouleschen Gesetz erhitzen, was bis zur völligen Zerstörung des Supraleiters führen kann. Daher bettet man solche Materialien, beispielsweise als mikroskopisch dünne Fäden, in einen normalen Leiter ein. Die Schwierigkeit, aus diesen keramikartigen Materialien dünne Fäden zu ziehen, ist eines der Haupthindernisse für den Einsatz bei höheren Stromstärken.
+Es entstanden bereits Anlagen in Energieverteilungsnetzen, bei denen Hochtemperatursupraleiter als Kurzschlussstrombegrenzer dienen. Dabei bewirkt eine erhöhte Stromdichte im Kurzschlussfall, dass der Supraleiter zuerst in den Mischbereich und anschließend in den normalleitenden Bereich übergeht. Der Vorteil gegenüber Kurzschlussstrombegrenzungsdrosseln ist, dass ein Spannungsabfall während des Normalbetriebes nur stark vermindert auftritt. Gegenüber üblichen Sicherungen und Kurzschlussbegrenzern mit Sprengkapseln hat ein solcher Strombegrenzer den Vorteil, dass der supraleitende Zustand ohne Austausch von Betriebsmitteln wiedererreicht wird und ein Normalbetrieb kurze Zeit nach dem Fehlerfall wieder möglich ist.
+Für Fernleitungen sind Supraleiter kaum konkurrenzfähig, denn elektrische Leistung kann bei hohen Spannungen auch auf klassischen Leitungen effizient übertragen werden. Jedoch lässt sich in Supraleitern durch ihre höhere erzielbare Stromdichte mehr elektrische Leistung auf gleichem Raum übertragen. Daher können supraleitende Kabel dort eingesetzt werden, wo wegen gestiegenen Bedarfs Erweiterungen bei begrenztem baulichem Raum nötig sind. Ein nur mit flüssigem Stickstoff gekühltes, 1 km langes Hochtemperatur-Supraleiterkabel für Dreiphasenwechselstrom mit 10 kV wird seit Mai 2014 in der Stadt Essen in einem Pilotprojekt eingesetzt und ersetzt eine übliche 110-kV-Leitung. Zum Betrieb der Kühlung genügt eine Station an einem Ende des Kabels. Ein Aluminiumwerk in Voerde plant Supraleiter für eine 200-kA-Stromleitung und gibt einen geringeren Platzbedarf und Materialaufwand als Vorteile an.
+Mit Supraleitern lassen sich verlustarme Transformatoren herstellen, die bei gleicher Leistung kleinere Abmessungen und Masse haben und somit beispielsweise im mobilen Betrieb (Lokomotiven) Vorteile bringen. Auf eine umweltgefährdende Ölkühlung kann verzichtet werden. Bei guter thermischer Isolierung müssten für die Kühlung Kältemaschinen genügen.
+Annähernd verlustfreie Elektromotoren mit Hochtemperatursupraleitern können eine deutliche Volumen- und Gewichtsersparnis gegenüber klassischen Motoren bringen. Eine mögliche Steigerung des ohnehin sehr guten Wirkungsgrades von 98 % (bei Großmotoren) wäre dagegen fast bedeutungslos.
+Auch Generatoren ließen sich mit Supraleitern deutlich leichter und kompakter konstruieren. Sie würden beispielsweise bei Windkraftanlagen geringere Turmkopfmassen und somit eine Kostenreduktion bewirken. Bei einer 10-MW-Maschine kann das Generatorgewicht verglichen mit üblichen Permanentmagnetgeneratoren etwa halbiert werden, bei einer 5-MW-Anlage das Generatorgewicht auf nur ca. 34 Tonnen gesenkt werden. Ein Prototyp eines 3,6-MW-Generators wurde in Bremerhaven getestet und im November 2018 zur Erprobung in eine Windkraftanlage in Dänemark eingebaut. Dort arbeitete der Generator 700 Stunden störungsfrei, bevor die Windkraftanlage nach Abschluss des Tests planmäßig stillgelegt wurde.
+
+
+Mechanische Lager
+Unter der Verwendung von supraleitenden Lagern lassen sich Schwungräder reibungsfrei lagern, die als kurzfristige Speicher elektrischer Energie dienen können, z. B. zur Kompensation schneller Lastschwankungen der Verbundnetze.
+
+
+Magnetische Energiespeicher
+In einem supraleitenden magnetischen Energiespeicher (SMES) speichern Spulen Energie im Magnetfeld. Die Energie ist sehr schnell abrufbar und könnte daher zur Kompensation schneller Lastschwankungen in Stromnetzen (Flickerkompensator) oder zur Erzeugung kurzer Pulse hoher Leistung dienen.
+
+
+Elektronische Schaltungen
+Seit den 1970er Jahren gibt es Versuche, eine supraleitende Elektronik zu entwickeln. Unter anderem wurden Forschungsprojekte von IBM durchgeführt. In diesen Projekten wurde versucht, die Methoden der auf Spannungslevel basierenden Halbleiterelektronik auf die Supraleitung anzuwenden. Aus physikalischen Gründen ist die damit erreichbare Taktfrequenz auf einige GHz begrenzt und damit nicht schneller als aktuelle Halbleiter-Prozessoren.
+1985 wurde von einer Forschergruppe der Moskauer Universität ein alternativer Ansatz vorgeschlagen, der besondere Eigenschaften der Supraleitung, den Josephson-Effekt und die Flussquantisierung in supraleitenden Schleifen, nutzt. Er basiert auf dem Austausch einzelner Flussquanten zwischen supraleitenden Schleifen und wird deshalb als schnelle Einzelflussquanten-Elektronik (RSFQ-Elektronik, von engl. Rapid Single Flux Quantum) bezeichnet. Diese Elektronikfamilie zeichnet sich durch sehr geringe Verlustleistungen und Taktfrequenzen über 100 GHz aus.
+In der RSFQ-Elektronik wird Niob verwendet. Die Betriebstemperatur von 4,2 K wird meist mittels flüssigen Heliums erreicht. Anders als die zuvor genannten Anwendungen könnte die supraleitende Elektronik von der Entwicklung eines Raumtemperatur-Supraleiters nicht profitieren. Die supraleitende Elektronik basiert auf extrem niedrigen Signalpegeln. Bei steigenden Temperaturen nimmt die Leistung des thermischen Rauschens linear zu, sodass bei Temperaturen über 30 K das geringe Signal-Rausch-Verhältnis die Funktion einer komplexen Schaltung verhindert.
+
+
+Geschichte
+
+Bevor Experimente bei Temperaturen nahe dem absoluten Nullpunkt durchgeführt werden konnten, gab es verschiedene Theorien, wie sich der elektrische Widerstand in diesem Temperaturbereich verhalten würde, so z. B. dass der Widerstand stark ansteigen würde oder dass er ein bestimmtes Niveau nicht unterschreiten würde.
+Der Effekt der Supraleitung wurde erstmals am 8. April 1911 vom Niederländer Heike Kamerlingh Onnes bei Experimenten mit flüssigem Helium entdeckt. Er beobachtete, dass Quecksilber unterhalb von 4,19 K sprungartig seinen elektrischen Widerstand verlor. Obwohl die Quantenmechanik damals noch neu war, postulierte er bereits, dass die Supraleitfähigkeit nur quantenmechanisch erklärt werden könne.
+Die erste phänomenologische Deutung der Supraleitung kam von den deutschen Physikern und Brüdern Fritz und Heinz London, Cornelis Jacobus Gorter und Hendrik Casimir in den 1930er Jahren.
+Der Meißner-Ochsenfeld-Effekt, also die Magnetfeldverdrängung am Sprungpunkt, wurde von Walther Meißner und Robert Ochsenfeld 1933 entdeckt.
+Im Jahr 1950 entstand die erfolgreiche phänomenologische Ginsburg-Landau-Theorie. Eine quantenmechanische Theorie der Supraleitung wurde erst im Jahre 1957 von den US-amerikanischen Physikern John Bardeen, Leon Neil Cooper und John Robert Schrieffer (BCS-Theorie) gegeben, wofür ihnen 1972 der Nobelpreis für Physik verliehen wurde.
+Im Jahr 1986 publizierten der deutsche Physiker Johannes Georg Bednorz und der Schweizer Karl Alexander Müller (beide waren am IBM-Forschungszentrum bei Zürich beschäftigt) ihre Entdeckung der Hochtemperatursupraleitung, wofür sie bereits 1987 den Nobelpreis erhielten. Eine Theorie über das Zustandekommen dieser Art Supraleitung steht noch aus. Ihre Entdeckung löste weltweit große wissenschaftliche Forschungsaktivitäten aus.
+Die russischen Physiker Witali Lasarewitsch Ginsburg und Alexei Alexejewitsch Abrikossow erhielten 2003 den Nobelpreis für ihre Forschungen über die verschiedenen Typen von Supraleitern (Supraleiter 1. und 2. Art).
+Ab den 2000er Jahren gab es auch Anwendungen von Hochtemperatursupraleitern in der elektrischen Stromversorgung als Generatoren und Motoren. In Essen wurde 2014 das weltweit längste Supraleiterkabel erstmals testweise in den städtischen Betrieb integriert. Das 1 km lange, auf 40 MW ausgelegte Hochtemperatur-Supraleiterkabel wurde von Nexans in Hannover gefertigt.
+Organische Supraleiter wurden 1965 durch William A. Little vorhergesagt und 1979 durch Klaus Bechgaard und Denis Jérome entdeckt. Die ersten waren quasi-eindimensional, später fanden sich auch zweidimensionale organische Supraleiter (wie Fullerene, Kohlenstoffnanoröhren).
+
+
+Siehe auch
+Kryotron, ein Schaltelement für supraleitende Geräte.
+Liste der Sprungtemperaturen chemischer Elemente
+
+
+Literatur
+
+
+Fachartikel
+J. R. Schrieffer, M. Tinkham: Superconductivity. In: Reviews of Modern Physics. Band 71, Nr. 2, 1. März 1999, S. S313–S317, doi:10.1103/RevModPhys.71.S313 (englisch). 
+J. Bardeen, L. N. Cooper, J. R. Schrieffer: Theory of Superconductivity. In: Physical Review. Band 108, Nr. 5, 1. Dezember 1957, S. 1175–1204, doi:10.1103/PhysRev.108.1175 (englisch). 
+
+
+Fachbücher
+Yassine Slimani, Essia Hannachi (Hrsg.): Superconducting Materials: Fundamentals, Synthesis and Applications. Springer Nature Singapore, Singapore 2022, ISBN 978-981-19-1210-8, doi:10.1007/978-981-19-1211-5 (englisch). 
+David A. Cardwell, David C. Larbalestier, Aleksander Braginski (Hrsg.): Handbook of Superconductivity Theory, Materials, Processing, Characterization and Applications (3-Volume Set). 2. Auflage. CRC Press, Boca Raton 2021, ISBN 978-1-4398-1730-8. 
+Werner Buckel, Reinhold Kleiner: Supraleitung (= Lehrbuch Physik). 7., aktualisierte und erw.  Auflage. Wiley-VCH, Weinheim 2013, ISBN 978-3-527-41139-9. 
+Kristian Fossheim: Superconductivity: Discoveries and Discoverers: Ten Physics Nobel Laureates Tell Their Story. Springer Berlin Heidelberg, Berlin, Heidelberg 2013, ISBN 978-3-642-36058-9, doi:10.1007/978-3-642-36059-6 (englisch). 
+Andrei Lebed (Hrsg.): The Physics of Organic Superconductors and Conductors (= Robert Hull, R. M. Osgood, Jürgen Parisi, Hans Warlimon [Hrsg.]: Springer Series in Materials Science. Band 110). Springer Berlin Heidelberg, Berlin, Heidelberg 2008, ISBN 978-3-540-76667-4, doi:10.1007/978-3-540-76672-8 (englisch). 
+Gernot Goll: Unconventional Superconductors (= Springer Tracts in Modern Physics. Band 214). Springer-Verlag, Berlin/Heidelberg 2006, ISBN 3-540-28985-2, doi:10.1007/11010715 (englisch). 
+James F. Annett: Superconductivity, superfluids, and condensates. Oxford Univ. Press, Oxford 2005, ISBN 0-19-850756-9 (englisch). 
+Peter J. Ford: The rise of the superconductors. CRC Pr., Boca Raton 2005, ISBN 0-7484-0772-3 (englisch). 
+Anant V. Narlikar (Hrsg.): Frontiers in Superconducting Materials. Springer Berlin Heidelberg, Berlin, Heidelberg 2005, ISBN 3-540-24513-8, doi:10.1007/b138883 (englisch). 
+
+
+Klassiker
+P. G. de Gennes: Superconductivity Of Metals And Alloys (= Advanced book classics). Advanced Book Program, Perseus Books, Reading, Mass 1999, ISBN 0-7382-0101-4 (englisch, archive.org – Originaltitel: Superconductivity Of Metals And Alloys. 1966.). 
+John M. Blatt: Theory of Superconductivity (= Pure and Applied Physics. Band 17). Academic Press, 1964 (englisch, archive.org). 
+J. R. Schrieffer: Theory of Superconductivity. CRC Press, 2018, ISBN 978-0-429-49570-0, doi:10.1201/9780429495700 (englisch, archive.org – Originaltitel: Theory Of Superconductivity. 1964.). 
+
+
+Weblinks
+
+Deutsch:
+
+Supraleiter, Spektrum Lexikon Physik
+Supraleiter und Supraflüssigkeiten bei Welt der Physik.
+Michael Schreiner: @1@2Vorlage:Toter Link/www.michaelschreiner.euWarum beginnt ein schwebender Magnet zu rotieren? (Seite nicht mehr abrufbar, festgestellt im März 2025. Suche in Webarchiven)
+Supraleitung (PDF; 42 kB). Auf: technorama.ch, abgerufen am 24. Feb. 2009 (hochwertige populärwissenschaftliche Erläuterung der Supraleiter-Effekte)
+Ilka Flegel: Herausforderung Supraleitung. Auf: Welt der Physik, abgerufen am 26. November 2015.
+Michael Kathke: Supraleitung, eine Einführung. (PDF; 365 kB) Aachen, 7. Juni 1999, abgerufen am 27. Oktober 2010 (Eine Ausarbeitung zum Seminarvortrag im Seminar Festkörperphysik WS 1997/98). 
+Hermann Rietschel: Hochtemperatursupraleiter, Spektrum Lexikon Physik, abgerufen am 8. November 2019
+Davide Castelvecchi: Umstrittene Veröffentlichung zu Supraleitern wird zurückgezogen in Spektrum.de vom 8. November 2023
+Englisch:
+
+Joe Eck: Superconductor Information for the Beginner. Abgerufen am 24. Feb. 2009 (umfangreiche Link-Liste, Sprungtemperaturen für Typ-1- und Typ-2-Supraleiter uvm.).
+Videos:
+
+Was ist Supraleitung? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 20. Juli 2005.
+Michael Schreiner: Warum beginnt ein schwebender Magnet zu rotieren?. Abgerufen am 24. Feb. 2009 (Video u. a. zur Temperaturverteilung im schwebenden Magneten).
+Weniger Verlust ist ein Gewinn (Supraleitung) (Multimedia-Show im Shockwave-Format).
+Samstagsvorlesung vom 14. November 2006 an der Universität Jena, Paul Seidel, Supraleitung – eine Bilanz 95 Jahre nach ihrer Entdeckung
+Quanten-Supraleitfähigkeits-Levitation Video der Superconductivity Group an der Universität Tel Aviv
+
+
+Einzelnachweise","[""Supraleitung"", ""Heike Kamerlingh Onnes"", ""Sprungtemperatur"", ""Mei\u00dfner-Ochsenfeld-Effekt"", ""BCS-Theorie""]","[{'role': 'Physicist', 'description': 'A researcher specializing in superconductivity and quantum mechanics.', 'expertise_area': 'Physics', 'perspective': 'Scientific Insight', 'speaking_style': {'tone': 'Formal and reserved, with occasional bursts of enthusiasm when discussing breakthroughs. Often serious but can exhibit dry humor.', 'language_complexity': 'Highly complex language with technical jargon related to physics and quantum mechanics. Prefers precise terminology and occasionally uses metaphors to explain abstract concepts.', 'communication_style': 'Direct and assertive, often leading discussions. Uses rhetorical questions to provoke thought and encourages collaborative problem-solving.', 'sentence_structure': 'Long and complex sentences with multiple subordinate clauses. Frequently uses questions to engage the audience, along with varied sentence lengths for emphasis.', 'formality': 'Formal', 'other_traits': 'Uses pauses effectively to allow absorption of complex ideas. Occasionally interrupts to clarify misconceptions or redirect focus.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Das ist der springende Punkt', 'In der Tat', 'Um es auf den Punkt zu bringen'], 'speech_patterns': [""Begins explanations with 'Lassen Sie mich erklären'"", ""'Was wir hier sehen' as a common starter for examples""], 'emotional_expressions': ['Ein Seufzer bei komplexen Themen', ""'Erstaunlich!' bei neuen Entdeckungen""]}, 'social_roles': ['Initiator-Contributor', 'Information Giver'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Shares relevant information, data or research that the group needs to make informed decisions.']}, {'role': 'Engineer', 'description': 'An expert in applied superconductivity technologies and their practical implementations.', 'expertise_area': 'Engineering', 'perspective': 'Technical Application', 'speaking_style': {'tone': 'Casual and enthusiastic, often optimistic about technological advancements. Occasionally uses humor to lighten complex discussions.', 'language_complexity': 'Moderately complex language with a mix of technical jargon and practical terms. Prefers analogies and storytelling to illustrate concepts.', 'communication_style': 'Collaborative and inquisitive, encourages questions and feedback. Often uses rhetorical questions to engage the audience.', 'sentence_structure': 'Varied sentence lengths, typically medium-length sentences with occasional longer explanations. Uses exclamations for emphasis.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses effectively to emphasize key points. Rarely interrupts but may interject with clarifications or additional insights.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Na ja'], 'catchphrases': ['Das ist der Clou', 'Um es einfach zu sagen', 'Im Grunde genommen'], 'speech_patterns': [""Beginnt oft mit 'Stellen Sie sich vor'"", ""'Was wir hier erreichen können' als Einleitung für Visionen""], 'emotional_expressions': ['Lachen bei humorvollen Anekdoten', ""'Fantastisch!' bei beeindruckenden Ergebnissen""]}, 'social_roles': ['Implementer', 'Evaluator-Critic'], 'social_roles_descr': ['Puts plans and decisions of the group into action and ensures practical implementation.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Historian', 'description': 'A scholar with deep knowledge of the history and development of superconductivity.', 'expertise_area': 'History of Science', 'perspective': 'Historical Context', 'speaking_style': {'tone': 'Reflective and insightful, often contemplative with a touch of nostalgia. Occasionally passionate when discussing historical milestones.', 'language_complexity': 'Moderately complex language with historical terminology and references. Prefers storytelling and analogies to connect past events with current developments.', 'communication_style': 'Collaborative and engaging, encourages dialogue and reflection. Often uses rhetorical questions to provoke thought and deeper understanding.', 'sentence_structure': 'Medium-length sentences with occasional longer narratives. Uses varied sentence structures to maintain interest, including questions for engagement.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses effectively to allow contemplation of historical significance. Rarely interrupts but may interject with historical anecdotes or clarifications.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Nun', 'Ehrlich gesagt'], 'catchphrases': ['Das erinnert mich an', 'Um die Geschichte zu verstehen', 'Ein Blick zurück zeigt'], 'speech_patterns': [""Beginnt oft mit 'Lassen Sie uns zurückblicken'"", ""'Was wir aus der Vergangenheit lernen können' als Einleitung für Lektionen""], 'emotional_expressions': ['Ein nachdenkliches Nicken bei bedeutenden Themen', ""'Beeindruckend!' bei historischen Errungenschaften""]}, 'social_roles': ['Opinion Giver', 'Group Observer'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Monitors the dynamics of the group and provides feedback on how the group is functioning as a whole and what improvements can be made.']}, {'role': 'Economist', 'description': 'An analyst specializing in the economic impact and potential market applications of superconductivity.', 'expertise_area': 'Economics', 'perspective': 'Market Potential', 'speaking_style': {'tone': 'Analytical and pragmatic, often optimistic about economic opportunities. Occasionally serious when discussing challenges.', 'language_complexity': 'Moderately complex language with economic terminology and market analysis. Prefers clear explanations and uses analogies to simplify concepts.', 'communication_style': 'Collaborative and engaging, encourages questions and discussion. Uses rhetorical questions to stimulate thought and debate.', 'sentence_structure': 'Medium-length sentences with occasional longer analyses. Uses varied sentence structures for emphasis, including questions to engage the audience.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses effectively to highlight key economic insights. Rarely interrupts but may interject with data or statistics.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Tja'], 'catchphrases': ['Das ist der wirtschaftliche Vorteil', 'Um es klar zu sagen', 'Im Grunde genommen'], 'speech_patterns': [""Beginnt oft mit 'Betrachten wir die Zahlen'"", ""'Was wir hier sehen können' als Einleitung für Analysen""], 'emotional_expressions': ['Ein zustimmendes Nicken bei positiven Prognosen', ""'Erstaunlich!' bei unerwarteten Marktentwicklungen""]}, 'social_roles': ['Opinion Seeker', 'Compromiser'], 'social_roles_descr': ['Encourages others to share their opinions and beliefs in order to understand different perspectives.', 'Helps the group find a middle ground when there are differences of opinion and encourages compromise in order to move forward.']}, {'role': 'Science Communicator', 'description': 'An expert in translating complex scientific concepts into accessible language for the general public.', 'expertise_area': 'Science Communication', 'perspective': 'Public Understanding', 'speaking_style': {'tone': 'Engaging and enthusiastic, often optimistic about scientific advancements. Uses humor to make complex topics more relatable.', 'language_complexity': 'Simple language with common terms, avoids jargon. Prefers metaphors and analogies to explain scientific concepts in an accessible way.', 'communication_style': 'Collaborative and inquisitive, encourages audience interaction and questions. Uses rhetorical questions to stimulate curiosity.', 'sentence_structure': 'Short and concise sentences for clarity, with occasional longer explanations when needed. Frequently uses exclamations to maintain interest.', 'formality': 'Informal', 'other_traits': 'Uses pauses effectively to allow the audience time to absorb information. Rarely interrupts but may interject with clarifications or engaging anecdotes.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Weißt du'], 'catchphrases': ['Das ist wirklich spannend', 'Um es einfach zu machen', 'Im Grunde genommen'], 'speech_patterns': [""Beginnt oft mit 'Stellen Sie sich vor'"", ""'Was wir hier verstehen können' als Einleitung für Erklärungen""], 'emotional_expressions': ['Lachen bei humorvollen Beispielen', ""'Unglaublich!' bei faszinierenden Fakten""]}, 'social_roles': ['Coordinator', 'Encourager'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Material Scientist', 'description': 'A specialist in the properties and applications of superconducting materials.', 'expertise_area': 'Materials Science', 'perspective': 'Innovative Material Applications', 'speaking_style': {'tone': 'Analytical and insightful, often enthusiastic when discussing material innovations. Occasionally serious with a touch of humor to lighten technical discussions.', 'language_complexity': 'Complex language with technical jargon related to materials science. Prefers precise terminology and uses analogies to explain complex properties.', 'communication_style': 'Collaborative and engaging, encourages questions and feedback. Often uses rhetorical questions to provoke thought and deeper understanding.', 'sentence_structure': 'Medium-length sentences with occasional longer explanations. Uses varied sentence structures for emphasis, including questions to engage the audience.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses effectively to emphasize key points. Rarely interrupts but may interject with clarifications or additional insights.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun ja'], 'catchphrases': ['Das ist der Schlüssel zur Innovation', 'Um es klar zu machen', 'Im Wesentlichen'], 'speech_patterns': [""Beginnt oft mit 'Betrachten wir die Eigenschaften'"", ""'Was wir hier untersuchen können' als Einleitung für Analysen""], 'emotional_expressions': ['Ein zustimmendes Nicken bei neuen Erkenntnissen', ""'Beeindruckend!' bei innovativen Anwendungen""]}, 'social_roles': ['Aggressor', 'Information Seeker'], 'social_roles_descr': ['Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.', 'Asks questions to gain clarity and obtain information from others.']}]","Das Innovation Forum konzentrierte sich auf die Supraleitung, ein Phänomen, bei dem Materialien ihren elektrischen Widerstand verlieren, wenn sie unter eine kritische Temperatur gekühlt werden. Die Entdeckung der Supraleitung durch Heike Kamerlingh Onnes im Jahr 1911 und die Entwicklung der BCS-Theorie durch Bardeen, Cooper und Schrieffer waren zentrale Themen. Es wurde festgestellt, dass metallische Supraleiter bei extrem niedrigen Temperaturen arbeiten müssen, während Hochtemperatursupraleiter wie YBaCuO kostengünstigere Kühlmethoden ermöglichen. Technische Anwendungen umfassen starke Magnetfelder für Teilchenbeschleuniger und Kernfusionsreaktoren sowie Mess- und Energietechnik. Herausforderungen bestehen in der Herstellung flexibler Leitermaterialien aus spröden keramischen Hochtemperatursupraleitern. Neuartige Klassen von Supraleitern wie Eisenpniktide und organische Supraleiter wurden ebenfalls diskutiert. Kritisch betrachtet wurden Experimente mit Hydriden unter hohem Druck aufgrund möglicher Fehlinterpretationen des Meissner-Effekts. Zukünftige Anwendungen könnten verlustfreie Elektromotoren und Transformatoren umfassen, wobei Raumtemperatur-Supraleiter das Ziel sind. Abschließend wurde die Bedeutung der theoretischen Modelle wie Londonsche Gleichungen und Ginsburg-Landau-Theorie hervorgehoben.","[""Scene 1: Opening and Greetings\nTLDR: Participants briefly greet each other and set the tone for an engaging discussion.\n- Brief welcome from the moderator\n- Quick exchange of pleasantries among participants\n- Setting expectations for a collaborative and open-minded forum"", ""Scene 2: Introduction to Supraleitung\nTLDR: Overview of superconductivity, its discovery, and theoretical foundations.\n- Physicist discusses Heike Kamerlingh Onnes' discovery in 1911\n- Historian provides historical context on BCS theory development\n- Science Communicator simplifies concepts for broader understanding"", ""Scene 3: Technological Applications\nTLDR: Exploration of practical uses of superconductors in various fields.\n- Engineer highlights applications in particle accelerators and fusion reactors\n- Material Scientist discusses challenges with ceramic superconductors\n- Economist analyzes market potential for these technologies"", ""Scene 4: Innovative Materials Discussion\nTLDR: Examination of new classes of superconductors and their implications.\n- Material Scientist introduces iron pnictides and organic superconductors\n- Physicist shares insights on experimental challenges with hydrides under pressure\n- Open floor for spontaneous contributions on material innovations"", ""Scene 5: Future Opportunities and Challenges\nTLDR: Speculation on future applications like lossless motors and room-temperature superconductors.\n- Engineer envisions potential breakthroughs in energy technology\n- Economist evaluates economic impact and feasibility of new developments\n- Participants share personal experiences related to innovation hurdles"", ""Scene 6: Theoretical Models Significance\nTLDR: Importance of theoretical models like London equations and Ginsburg-Landau theory.\n- Physicist explains key models underpinning superconductor behavior \n- Historian reflects on historical significance of these theories \n- Open discussion allowing disagreements and resolutions"", ""Scene 7: Spontaneous Contributions & Off-topic Moments \nTLDR: Allowing space for unplanned discussions or light-hearted exchanges. \n - Participants share anecdotes or humorous stories related to their field \n - Encouragement for spontaneous ideas that may not fit the main agenda \n - Brief off-topic moments fostering camaraderie among participants"", ""Scene 8: Closing Remarks & Next Steps \n TLDR: Summarizing key points discussed, setting action items, and concluding the forum. \n - Moderator recaps innovative ideas generated during the meeting \n - Participants identify new opportunities worth exploring further \n - Final thoughts on enhancing a culture of innovation moving forward""]",">>Science Communicator: Hallo zusammen! Ich hoffe, ihr hattet einen guten Start in den Tag. Es ist wirklich spannend, hier zu sein und gemeinsam über die faszinierende Welt der Supraleitung zu sprechen.
+
+>>Physicist: Ja, guten Morgen! Lassen Sie uns über die Supraleitung sprechen. Es ist wirklich faszinierend, wie sie uns immer wieder neue Möglichkeiten eröffnet.
+
+>>Engineer: Absolut! Ich freue mich darauf, die praktischen Anwendungen der Supraleitung zu erkunden. Es ist erstaunlich, wie diese Technologie unsere Welt verändern könnte!
+
+>>Physicist (interjects): Genau! Und welche praktischen Anwendungen sehen Sie als besonders vielversprechend?
+
+>>Historian: Nun ja, es ist interessant zu sehen, wie die Geschichte der Supraleitung uns zeigt, dass selbst die kühnsten wissenschaftlichen Träume Realität werden können.
+
+>>Economist (unterbricht): Entschuldigung Historiker, darf ich kurz einhaken? Ich wollte nur hinzufügen, dass seine Entdeckung auch wirtschaftliche Perspektiven eröffnet hat.
+
+>>Historian: Absolut, das war ein bedeutender Meilenstein.
+
+>>Economist: Tja, ich freue mich darauf, die wirtschaftlichen Möglichkeiten der Supraleitung zu erkunden. Wenn wir die Marktpotenziale betrachten...
+
+>>Physicist: In der Tat... 
+ >>Historian: Die BCS-Theorie von Bardeen, Cooper und Schrieffer war ein echter Meilenstein für konventionelle Supraleiter und hat die wissenschaftliche Welt revolutioniert. Diese Entdeckung hat wirklich neue Forschungsfelder eröffnet.
+
+>>Economist: Wenn wir uns die wirtschaftlichen Möglichkeiten der Supraleitung ansehen, könnten Hochtemperatursupraleiter den Markt wirklich verändern. Sie bieten kostengünstigere Kühlmethoden – das ist ein Vorteil, den wir unbedingt nutzen sollten. Was denkt ihr über die aktuellen Entwicklungen in diesem Bereich?
+
+>>Physicist: Also, die Entdeckung der Supraleitung durch Heike Kamerlingh Onnes im Jahr 1911 war ein Wendepunkt in der Physik. Was wir hier sehen, ist ein makroskopischer Quantenzustand—
+
+>>Engineer (unterbricht): Ähm, sorry fürs Unterbrechen! Ich wollte nur wissen: Wie beeinflusst dieser Zustand unsere aktuellen technischen Anwendungen? Und welche Herausforderungen sehen Sie bei der praktischen Umsetzung dieser Technologien?
+
+>>Physicist: Gute Frage! Dieser makroskopische Quantenzustand ermöglicht es uns tatsächlich, elektrischen Widerstand vollständig zu eliminieren. Das ist entscheidend bei konventionellen Supraleitern und eröffnet faszinierende Möglichkeiten für technische Anwendungen wie Magnetresonanztomographie und Teilchenbeschleuniger. Bei Hochtemperatursupraleitern müssen wir jedoch noch einige technische Hürden überwinden.
+
+>>Engineer: Genau! Es wäre fantastisch, wenn wir diese Materialien in der Energietechnik einsetzen könnten. Welche konkreten Schritte sind nötig, um diese Technologien marktreif zu machen?
+
+>>Material Scientist: Das sind wirklich spannende Anwendungen! Wenn wir uns nun die Eigenschaften der Hochtemperatursupraleiter genauer ansehen... Wir müssen ihre Stabilität unter verschiedenen Bedingungen verbessern. Hat jemand von euch schon an Projekten gearbeitet, die sich mit diesen Herausforderungen befassen?
+
+>>Economist: Interessant! Vielleicht könnten Investitionen in Forschung und Entwicklung helfen, diese Probleme zu lösen. 
+ >>Engineer: Stellen Sie sich vor, wie wir mit Supraleitern in Teilchenbeschleunigern und Fusionsreaktoren arbeiten können! Die Fähigkeit, starke Magnetfelder zu erzeugen, ist der Clou. Das eröffnet uns ganz neue Möglichkeiten in der Energieerzeugung und -speicherung.
+
+>>Material Scientist: Ja, keramische Hochtemperatursupraleiter sind wirklich faszinierend. Ihre hohe Sprungtemperatur macht sie attraktiv für technische Anwendungen. Aber ihre Sprödigkeit bleibt ein großes Hindernis. Vielleicht könnten wir innovative Materialkombinationen ausprobieren, um diese Herausforderung zu meistern.
+
+>>Economist: Genau, die wirtschaftlichen Möglichkeiten von Supraleitern sind enorm! Wenn wir die Sprödigkeit überwinden können, könnten diese Materialien den Markt für erneuerbare Energien revolutionieren. Das wäre eine Chance, die wir nicht ignorieren sollten.
+
+>>Physicist: Also ja, die mechanische Instabilität dieser keramischen Hochtemperatursupraleiter stellt tatsächlich ein erhebliches Problem dar. Ihre Sprödigkeit erschwert die Herstellung flexibler Drähte und Bänder – entscheidend für viele Anwendungen. Vielleicht könnten neue Legierungen oder Beschichtungen helfen?
+
+>>Historian: Ehrlich gesagt erinnert mich das an die Entdeckung der Supraleitung durch Heike Kamerlingh Onnes im Jahr 1911. Diese bahnbrechende Entdeckung hat den Weg für viele heutige Anwendungen geebnet und zeigt auch, wie weit wir gekommen sind und welche Herausforderungen noch vor uns liegen.
+
+>>Science Communicator: Weißt du, wenn wir diese Technologien weiterentwickeln könnten, würde das nicht nur technische Fortschritte bringen! Es könnte auch das Bewusstsein für nachhaltige Lösungen stärken und das öffentliche Verständnis von Wissenschaft verändern. Zum Beispiel könnten Schulen mehr über erneuerbare Energien lehren.
+
+>>Engineer: Na ja, wenn wir flexible Drähte herstellen würden – das wäre ein Durchbruch für die Energieübertragung! Mit den richtigen Ansätzen könnte das wirklich fantastisch sein! Ich habe kürzlich von einem neuen Verfahren gehört...
+
+>>Material Scientist: Genau! Vielleicht könnten innovative Materialkombinationen helfen – Silberröhren oder andere Techniken zur Kompensation der mechanischen Instabilität wären denkbar. Was denken Sie darüber?
+
+>>Physicist: Lassen Sie mich erklären... Die mechanische Instabilität dieser Materialien ist zwar vielversprechend aufgrund ihrer hohen Sprungtemperatur; dennoch erschwert ihre Sprödigkeit praktische Anwendungen erheblich. Wir müssen hier wirklich kreativ werden.
+
+>>Historian: Nun ja, Bednorz und Müllers Entdeckung der Hochtemperatursupraleiter im Jahr 1986 war revolutionär! Trotz ihrer Sprödigkeit haben sie viele technologische Anwendungen ermöglicht – faszinierend! Vielleicht können wir aus ihren Methoden lernen?
+
+>>Science Communicator: Um es einfach zu machen – wenn wir diese Herausforderungen meistern könnten... dann hätten diese Technologien einen großen Einfluss auf unsere Gesellschaft! Denken Sie an effizientere Stromnetze oder verbesserte medizinische Geräte! 
+ >>Material Scientist: Also, schauen wir uns die Eisenpniktide an. Diese Materialien könnten die Sprungtemperatur erheblich erhöhen und damit eine kostengünstigere Kühlung ermöglichen. Das ist wirklich spannend!
+>>Physicist: Ähm, bei den Hydriden unter Druck gibt es enorme experimentelle Herausforderungen. Wir sprechen hier von extremen Bedingungen, die nicht nur technische Präzision erfordern, sondern auch ein tiefes Verständnis der physikalischen Prozesse. Die Stabilität und Reproduzierbarkeit dieser Experimente sind entscheidend für den Fortschritt.
+>>Engineer: Na ja, wenn wir die Sprödigkeit der keramischen Hochtemperatursupraleiter überwinden könnten, wäre das ein Durchbruch für viele technische Anwendungen! Aber ich sehe hier noch einige praktische Herausforderungen.
+>>Historian: Das erinnert mich an die Entdeckung von Bednorz und Müller in den 80er Jahren – das war wirklich ein Wendepunkt und hat neue Möglichkeiten eröffnet. Oft öffnen solche historischen Durchbrüche unerwartete Türen.
+>>Economist: Tja, die wirtschaftlichen Vorteile von Hochtemperatursupraleitern sind enorm. Zum Beispiel könnte kostengünstigere Kühlung zu erheblichen Einsparungen in der Industrie führen und effizientere Energieübertragung könnte den Markt revolutionieren.
+>>Science Communicator: Weißt du, wenn wir die Sprungtemperatur der Eisenpniktide weiter erhöhen könnten... das wäre unglaublich! Das könnte viele neue Anwendungen ermöglichen und die Kosten für Kühlung drastisch senken.
+>>Material Scientist: Und dann haben wir noch organische Supraleiter. Diese Materialien arbeiten auf molekularer Ebene und sind potenziell flexibler als ihre keramischen Gegenstücke – das eröffnet ganz neue Anwendungsmöglichkeiten!
+>>Physicist: Genau, aber bei den Hydriden unter hohem Druck bleibt ihre praktische Anwendung eine Herausforderung. Die extremen Bedingungen erfordern technologische Innovationen sowie ein tiefes Verständnis der physikalischen Prozesse. Wir müssen sicherstellen, dass diese Materialien stabil und reproduzierbar sind.
+>>Engineer: Um die Sprödigkeit zu überwinden, könnten neue Legierungen oder Beschichtungen eine Lösung bieten. Wenn wir die mechanische Stabilität verbessern könnten... das wäre wirklich ein Gamechanger!
+>>Historian: Ehrlich gesagt erinnert mich das an frühere Entdeckungen im Bereich der Supraleitung – sie haben oft zu neuen Forschungsrichtungen geführt. Es ist wichtig aus der Vergangenheit zu lernen.
+>>Economist: Um es klar zu sagen – organische Supraleiter bieten ebenfalls enorme wirtschaftliche Möglichkeiten. Ihre Flexibilität könnte innovative Anwendungen erschließen und beispielsweise in tragbaren Technologien eingesetzt werden.
+>>Science Communicator: Weißt du was? Wenn wir diese organischen Supraleiter in flexible elektronische Geräte integrieren könnten... das wäre fantastisch! Aber natürlich müssen wir auch deren mechanische Stabilität verbessern. 
+ >>Engineer: Stellen Sie sich vor, wir könnten verlustfreie Elektromotoren mit Hochtemperatursupraleitern entwickeln. Das wäre ein enormer Fortschritt für die Energieeffizienz! Aber wie gehen wir mit den praktischen Herausforderungen um, insbesondere der mechanischen Stabilität?
+>>Physicist: Die Entwicklung solcher Motoren könnte tatsächlich eine Revolution darstellen. Klar, die Integration ist komplex, aber vielleicht könnten neue Legierungen oder Beschichtungen helfen. Was denkt ihr dazu?
+>>Historian: Interessant! Wenn wir zurückblicken auf Kamerlingh Onnes und seine Entdeckung der Supraleitung – das war ein Wendepunkt. Solche Innovationen erfordern Geduld und Zusammenarbeit. Wie können wir diese Prinzipien heute anwenden?
+>>Economist: Um es konkret zu machen, die wirtschaftlichen Vorteile sind enorm. Studien zeigen, dass Energieeinsparungen von bis zu 30% möglich wären. Aber die Investitionen in Forschung und Entwicklung sind entscheidend.
+>>Material Scientist: Genau! Und wenn wir über Märkte sprechen – denken Sie an Elektrofahrzeuge oder industrielle Anwendungen. Diese Materialien könnten dort wirklich einen Unterschied machen.
+>>Physicist: Ich stimme zu, aber was ist mit den Kosten? Neue Legierungen klingen gut, aber sind sie wirtschaftlich machbar?
+>>Engineer: Gute Frage! Wir könnten auf bestehende Technologien aufbauen und schrittweise Verbesserungen einführen. Vielleicht durch modulare Designs, die Anpassungen erleichtern.
+>>Science Communicator: Das klingt spannend! Unsere Aufgabe wäre dann sicherzustellen, dass die Öffentlichkeit versteht, warum diese Innovation wichtig ist und welche Vorteile sie bringt.
+>>Economist: Absolut! Und wenn wir konkrete Fallstudien präsentieren können – etwa aus dem Bereich erneuerbare Energien –, wird das Interesse sicherlich steigen.
+>>Material Scientist: Ja genau! Und nicht nur Elektrofahrzeuge; denken Sie an Kühltechnologien oder medizinische Geräte als potenzielle Märkte.
+>>Historian: Es zeigt sich immer wieder in der Geschichte – große Ideen brauchen Zeit und Diskussionen wie diese sind entscheidend für den Fortschritt! 
+ >>Physicist: Ähm, lassen Sie mich kurz erläutern, warum die London-Gleichungen und die Ginsburg-Landau-Theorie so bedeutend sind. Diese Modelle bieten uns nicht nur eine phänomenologische Beschreibung der Supraleitung, sondern sie helfen auch, den Übergang vom normalleitenden zum supraleitenden Zustand zu verstehen. Ohne diese theoretischen Grundlagen wären viele unserer heutigen Anwendungen undenkbar.
+
+>>Engineer: Das ist wirklich faszinierend! Diese Modelle haben uns ermöglicht, neue Technologien wie supraleitende Magneten für MRT-Geräte zu entwickeln. Ohne diese theoretischen Grundlagen wären solche Innovationen undenkbar.
+
+>>Historian: Das erinnert mich an die 1950er Jahre, als die Ginsburg-Landau-Theorie entwickelt wurde. Diese Theorie war ein echter Durchbruch und hat uns geholfen, den Phasenübergang besser zu verstehen. Es ist beeindruckend zu sehen, wie solche Modelle die Grundlage für moderne Anwendungen gelegt haben.
+
+>>Economist: Die wirtschaftlichen Möglichkeiten der Supraleitung sind enorm! Zum Beispiel könnten wir durch effizientere Energienutzung Milliarden sparen und neue Märkte im Bereich der erneuerbaren Energien erschließen.
+
+>>Science Communicator: Es ist spannend zu sehen, wie diese Modelle das öffentliche Verständnis von Supraleitung beeinflusst haben – zum Beispiel durch populärwissenschaftliche Bücher und Dokumentationen, die das Thema einem breiteren Publikum nähergebracht haben.
+
+>>Material Scientist: Wenn wir die Eigenschaften der Supraleiter betrachten – ihre Fähigkeit starke Magnetfelder zu erzeugen ist entscheidend für Innovationen in Bereichen wie Teilchenbeschleunigern und Kernfusionsreaktoren. Diese einzigartigen Eigenschaften eröffnen enorme Potenziale für zukünftige Technologien.
+
+>>Physicist (unterbricht): Entschuldigung fürs Unterbrechen – ich wollte hinzufügen...
+
+>>Material Scientist (lächelnd): Kein Problem! Wie gesagt... Diese Anwendungen zeigen das enorme Potenzial dieser Materialien für zukünftige Technologien. 
+ >>Science Communicator: Also, ich habe mal versucht, Supraleitung mit einem Zaubertrick zu erklären. Das Publikum war fasziniert und dachte, ich sei ein Magier! Es ist schon erstaunlich, wie Wissenschaft manchmal wie Magie wirken kann.
+>>Historian: Haha, das klingt spannend! Weißt du, als ich über die Entdeckung der Supraleitung durch Heike Kamerlingh Onnes las, war ich beeindruckt von seiner Begeisterung. Er hat wirklich einen Meilenstein gesetzt.
+>>Physicist: Ja, Supraleiter sind echt faszinierend. Ich erinnere mich an ein Experiment mit einem schwebenden Magneten über supraleitendem Material – das sah aus wie Zauberei! Aber es steckt so viel Physik dahinter.
+>>Engineer: Genau! Und wenn wir diese Technologie in alltägliche Geräte integrieren könnten... Stell dir vor, Kühlschränke mit supraleitenden Materialien – das wäre ein echter Fortschritt in Sachen Energieeffizienz!
+>>Economist: Interessant! Auf einer Konferenz wurde mal vorgeschlagen, Supraleiter in Spielzeug zu verwenden. Die Idee klang verrückt, aber wer weiß? Vielleicht gibt es da tatsächlich wirtschaftliches Potenzial.
+>>Material Scientist: Absolut. Hochtemperatursupraleiter könnten viele Industrien revolutionieren. Wir arbeiten gerade an neuen Anwendungen und die Ergebnisse sind vielversprechend.
+
+>>Science Communicator: Was denkt ihr? Könnten wir Supraleiter im Alltag nutzen?
+>>Engineer: Definitiv eine spannende Vorstellung! Aber wir müssen auch die Kosten und Machbarkeit im Auge behalten.
+>>Historian: Stimmt. Die Geschichte zeigt uns oft den Weg – neue Technologien brauchen Zeit und Geduld.
+>>Economist: Genau. Wenn wir die wirtschaftlichen Aspekte berücksichtigen können, könnte das wirklich bahnbrechend sein.
+
+>>Material Scientist: Und ehrlich gesagt – wenn man darüber nachdenkt... Die Anwendungen von Hochtemperatursupraleitern könnten wirklich revolutionär sein. Da gibt es noch viel zu entdecken! 
+ >>Science Communicator: Also, um die Diskussion zusammenzufassen: Wir haben viele spannende Ideen zur Integration von Supraleitern in alltägliche Geräte und deren wirtschaftliches Potenzial gehört. Ein wichtiger nächster Schritt könnte sein, nach konkreten Investitionsmöglichkeiten zu suchen, um diese Innovationen voranzutreiben. Das ist wirklich spannend!
+
+>>Economist: Tja, das wirtschaftliche Potenzial von Supraleitern in der Energiebranche ist enorm. Wir sollten überlegen, wie wir gezielt Investitionen anziehen können, um diese Technologien weiterzuentwickeln und ihre Integration in alltägliche Geräte zu fördern. Das könnte wirklich eine Revolution im Energiemarkt bedeuten!
+
+>>Physicist: Lassen Sie mich erklären, dass die Integration von Supraleitern in alltägliche Geräte nicht nur eine technologische Revolution darstellt, sondern auch erhebliche wirtschaftliche Vorteile bietet. Genau das ist der springende Punkt: Wir müssen Wege finden, um Investoren für diese Projekte zu gewinnen.
+
+>>Engineer: Na ja, um die praktischen Anwendungen der Supraleiter zusammenzufassen: Wir haben über ihre Integration in alltägliche Geräte gesprochen und die Möglichkeit, Energieeffizienz zu steigern. Es wäre spannend herauszufinden, welche spezifischen Bereiche am meisten von Investitionen profitieren könnten.
+
+>>Historian: Nun ja, ein Blick zurück zeigt uns die historische Entwicklung der Supraleitung und wie große Durchbrüche oft Zeit und Geduld erfordern. Zum Beispiel war die Entdeckung des Meissner-Effekts durch Walther Meissner und Robert Ochsenfeld im Jahr 1933 ein entscheidender Moment für das Verständnis der Supraleitung.
+
+>>Material Scientist: Also gut, betrachten wir die Eigenschaften der Supraleiter. Ihre Fähigkeit zur Erzeugung starker Magnetfelder ist für Teilchenbeschleuniger und Kernfusionsreaktoren entscheidend. Das eröffnet neue Möglichkeiten für innovative Anwendungen in der Energietechnik.
+
+>>Science Communicator: Weißt du, wir sollten die Zusammenarbeit zwischen Wissenschaftlern und Ingenieuren weiter fördern! Diese spannenden Ideen könnten wirklich eine neue Ära der Innovation einleiten.
+
+>>Economist: Ehrlich gesagt sind die wirtschaftlichen Chancen durch Supraleiter enorm. Wenn wir gezielt auf bestimmte Industrien setzen und strategische Partnerschaften eingehen könnten wir den Energiemarkt revolutionieren und neue Industrien schaffen.
+
+>>Physicist: Bei komplexen Themen wie diesen gibt es natürlich technische Herausforderungen! Die Integration von Supraleitern bietet sowohl technologische als auch wirtschaftliche Chancen – aber wir müssen auch über mögliche Hindernisse sprechen.
+
+>>Engineer: Um es einfach zu sagen – na ja – die Integration von Supraleitern könnte unsere Energieeffizienz revolutionieren! Es wäre interessant zu sehen welche praktischen Schritte notwendig sind um dies umzusetzen...
+
+>>Material Scientist: Was wir hier untersuchen können – nun ja – ist die Möglichkeit zur Nutzung von Supraleitern in der Energietechnik zur Steigerung der Effizienz bei Energieübertragungen.
+
+>>Historian: Nun... ein Blick zurück zeigt uns immer wieder die Bedeutung kontinuierlicher Zusammenarbeit und Geduld bei großen wissenschaftlichen Durchbrüchen. Denken Sie an den Nobelpreis für Physik 1987 für Bednorz und Müller wegen ihrer Arbeit an Hochtemperatursupraleitung - solche Kooperationen sind entscheidend."

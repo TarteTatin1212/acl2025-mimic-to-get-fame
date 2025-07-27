@@ -1,0 +1,307 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Nanotechnologie,"Der Sammelbegriff Nanotechnologie, oft auch Nanotechnik (altgriechisch νᾶνος nános ‚Zwerg‘), gründet auf der allen Nano-Forschungsgebieten zu Grunde liegenden gleichen Größenordnung der Nanopartikel vom Einzel-Atom bis zu einer Strukturgröße von 100 Nanometern (nm): Ein Nanometer ist ein Milliardstel Meter (10−9 m). Diese Größenordnung bezeichnet einen Grenzbereich, in dem die Oberflächeneigenschaften gegenüber den Volumeneigenschaften der Materialien eine immer größere Rolle spielen. Die Vermutung ist, dass in dieser Größe Quanteneffekte ausschlaggebend sind. 
+In Nanopartikeln sind relativ wenige Atome agglomeriert, womit sich die Zahl an Elektronen gegenüber größeren Objekten desselben Materials signifikant verkleinert. Typischerweise vergrößert sich der Abstand zwischen den einzelnen Energieniveaus und die Annahme eines quasi kontinuierlichen Energiespektrums (wie z. B. bei der Bandtheorie im Festkörper) ist keine gute Näherung mehr. Darauf beruht u. a. der Volumeneffekt, auf dem wiederum viele vom normalen Material abweichende Eigenschaften beruhen wie Löslichkeit, Farbe, Transparenz und Leitfähigkeit. Eine weitere wichtige Eigenschaft ist die durch den Volumeneffekt hervorgerufene Schmelzpunkterniedrigung mit abnehmenden Partikelradius.
+Weiterhin wird die Aufnahme in den Körper und die Mobilität in Organismen bei kleineren Partikeln erhöht, was zur Folge haben kann, dass die Blut-Hirn-Schranke überwunden werden kann. Auch können Nanopartikel von der Lunge in die Blutbahn gelangen.
+Mit dem Begriff wird heute die entsprechende Forschung in der Cluster-, Halbleiter- und Oberflächenphysik, der Oberflächen- und anderen Gebieten der Chemie sowie in Teilbereichen des Maschinenbaus und der Lebensmitteltechnologie (Nano-Food) bezeichnet.
+Schon heute spielen Nanomaterialien eine wichtige Rolle. Sie werden zumeist auf chemischem Wege oder mittels mechanischer Methoden hergestellt. Einige davon sind kommerziell verfügbar und werden in handelsüblichen Produkten eingesetzt, andere sind wichtige Modellsysteme für die physikalisch-chemische und materialwissenschaftliche Forschung.
+Ebenfalls bedeutend ist die Nanoelektronik. Deren Zugehörigkeit zur Nanotechnologie wird in der wissenschaftlichen und forschungspolitischen Praxis nicht einheitlich gesehen. Unklar und unerforscht sind in vielen Bereichen die Wirkungen und der Einfluss der meist künstlich hergestellten Teilchen auf die Umwelt.
+Eine Entwicklungsrichtung der Nanotechnologie kann als Fortsetzung und Erweiterung der Mikrotechnik angesehen werden (Top-down-Ansatz), doch erfordert eine weitere Verkleinerung von Mikrometerstrukturen meist völlig unkonventionelle neue Ansätze. Die Chemie folgt in der Nanotechnologie oft dem entgegengesetzten Ansatz: bottom-up. Chemiker, die üblicherweise in molekularen, d. h. Sub-Nanometer-Dimensionen arbeiten, bauen aus einer Vielzahl von einzelnen Moleküleinheiten größere nanoskalige Molekülverbunde auf. Ein Beispiel dazu sind Dendrimere.
+Ein kleiner Zweig der Nanotechnologie beschäftigt sich mit Nanomaschinen (siehe molekulare Maschine) oder Nanobots.
+
+
+Ursprünge der Nanotechnologie
+Als Vater der Nanotechnologie gilt Richard Feynman auf Grund seines im Jahr 1959 gehaltenen Vortrages „There’s Plenty of Room at the Bottom“ (Ganz unten ist eine Menge Platz), auch wenn erst Norio Taniguchi den Begriff „Nanotechnologie“ 1974 erstmals gebrauchte:
+
+Nanotechnologie im Sinne dieser Definition ist die Veränderung von Materialien, sei es Atom für Atom oder Molekül für Molekül. Das schließt ein, dass die kritischen Eigenschaften von Materialien oder Geräten im Nanometerbereich liegen können, und dass diese Materialien und Geräte aus einzelnen Atomen bzw. Molekülen konstruiert werden. Heute wird Nanotechnologie aber nur noch selten in diesem engen Sinn benutzt, heute schließt man (wie oben erläutert) auch die Herstellung von Nanomaterialien auf chemischem Wege in diesen Begriff mit ein.
+Unabhängig von Taniguchi machte 1986 Eric Drexler den Begriff weithin bekannt. Er inspirierte mit seinem Buch Engines of Creation viele heutzutage bekannte Wissenschaftler und Mediziner, darunter auch Richard E. Smalley (Fullerene), dazu, Nanotechnologie zu studieren. Drexlers Definition von Nanotechnologie ist strenger als die Taniguchis: Sie beschränkt sich auf die Konstruktion von komplexen Maschinen und Materialien aus einzelnen Atomen.
+
+Nach dieser Definition fällt die heutige Nanotechnologie also nicht unter das, was Drexler als Nanotechnologie ansieht. Dies veranlasste Drexler im Verlauf der 1990er Jahre dazu, seine Vorstellung von Nanotechnologie zur Abgrenzung in Molekulare Nanotechnologie (MNT) umzubenennen, denn vielfach wurde und wird der Begriff zur Bezeichnung aller Arbeiten verwandt, die sich mit Nanostrukturen befassen, auch wenn dabei gewöhnliche chemische, pharmazeutische oder physikalische Methoden verwendet werden.
+Tatsächlich stehen derzeit viele Wissenschaftler Drexlers Vision von Nanotechnologie skeptisch bis offen ablehnend gegenüber. Wenn es auch nach Ansicht der Verfechter der MNT ihren Gegnern bisher nicht gelungen ist, überzeugende wissenschaftliche Argumente gegen die Umsetzbarkeit von MNT vorzubringen, halten viele doch die Machbarkeit für wenig wahrscheinlich; auch wenn Drexler mit Nanosystems 1991 ein Lehrbuch zu MNT herausgegeben hat, das auf Basis seiner Doktorarbeit am Massachusetts Institute of Technology (MIT) in wissenschaftlicher Form die zu ihrer Verwirklichung nötigen Schritte beschreibt. Über die Jahre wurden zwar einige Annahmen Drexlers experimentell bestätigt, doch es bleiben viele Vorbehalte, die einer Verwirklichung entgegenstehen: Selbst wenn es gelänge, beispielsweise einen Nanomotor aus Metall herzustellen, wäre er nicht lange funktionsfähig: Schon der Wasserfilm, der aufgrund der Kondensation von Luftfeuchtigkeit an der Metalloberfläche entsteht, würde den Motor lahmlegen. Metalle wie Eisen, Stahl oder Aluminium bilden an Luft einen dünnen Oxidfilm, der bei gewöhnlichen Werkstücken nicht stört. Die Oxidation von Nanometallen führt aber in der Regel zur vollständigen Umwandlung in das Oxid. Ein Nanomotor aus Metall würde also durch Luftsauerstoff quasi verbrannt. Man könnte also nur einen Motor bauen, der aus einem Stoff besteht, der durch Wasser nicht oxidiert.
+Wenn man Makromoleküle in Vakuum oder in Luft im Abstand von weniger als einigen Atomdurchmessern aneinander vorbeibewegen wollte, dann würden sie durch die Van-der-Waals-Kräfte aneinander kleben bleiben. Wenn man aber die Makromoleküle in Wasser oder in eine andere geeignete Flüssigkeit einbettet, dann übernimmt die Flüssigkeit die Van-der-Waals-Kräfte, und man kann die Makromoleküle reibungsarm aneinander vorbeibewegen. Auf diese Weise funktionieren lebende Zellen, und der Geißel-Antrieb der Bakterien erreicht 50 Umdrehungen pro Sekunde. Einzelne Atome oder Moleküle rein mechanisch festzuhalten oder loszulassen wird ebenfalls durch die Van-der-Waals-Kräfte erschwert, was als das „Klebrige-Finger-Problem“ bezeichnet wurde. Dieses Problem, und auch die rein mechanische Herstellung von kovalenten Bindungen, wurde durch das Anlegen einer elektrischen Spannung bewältigt, was hier gezeigt wurde.
+Ein Beispiel für die Verwendung von Nanotechnologie im 4. Jahrhundert n. Chr. ist der Lykurgosbecher. Der optisch dichroitische Effekt konnte zu der Zeit nicht erklärt werden, beruht jedoch auf im Glas dispergierten Nanopartikeln aus Gold und Silber. Der Herstellungsprozess ist bis heute nicht vollständig verstanden.
+
+
+Nanotechnologie als Trendwort
+Nanotechnologie im Sinne Drexlers zieht ihre Faszination aus ihrer zwiespältigen Natur. So behaupten ihre Befürworter, die ausgereifte MNT ermögliche einerseits materiellen Reichtum für die gesamte Menschheit, die Besiedelung des Weltraums und individuelle Quasi-Unsterblichkeit; andererseits biete sie die Möglichkeit der Katastrophe für die gesamte Menschheit durch Kriege, globale Terroranschläge, einen unüberwindbaren Polizeistaat und totale Verfremdung des heutigen Menschenbilds durch Gentechnik. Diese sehr gegensätzlichen Aspekte machen Nanotechnologie in Drexlers Sinn vor allem für die Literatur interessant. Zahlreiche Autoren der Science-Fiction haben Nanotechnologie als Element in ihre Geschichten aufgenommen und als Buch oder Film umgesetzt. Dabei werden häufig die negativen Aspekte der Technologie beleuchtet und verarbeitet. Ein Beispiel für Lebewesen in Film und Fernsehen, die unter anderem Nanotechnik einsetzen, sind die Borg.
+Die meisten Wissenschaftler halten Drexlers Visionen für überzogen. Manche betrachten ihn trotz seiner Studien eher als einen mehr oder weniger guten Science-Fiction-Autor.
+Nanotechnologie wurde auch als politisches Projekt beschrieben. Die Unschärfe des Begriffs würde demnach überhaupt erst die Anziehungskraft der Nanotechnologie ausmachen.
+
+
+Vorbilder in der Natur
+
+Effekte wie sie viele Nanotechnologien nutzen, kommen häufig in der Natur vor. So sind an Fliegenbeinen nanometergroße Haare, die der Grund dafür sind, dass diese Insekten an Decken und Wänden laufen können. Das bekannteste Beispiel für Nanotechnologie ist der Lotoseffekt: Feine Nanostrukturen sorgen dafür, dass Wasser auf dem Blatt der Lotosblume abperlt und die Haftung von Schmutzpartikeln minimiert wird. Die Flügel des Glasflügelfalters erscheinen transparent und reflektieren durch unregelmäßige Nanosäulen nur einen Bruchteil der infraroten bis ultravioletten Strahlung. Auch sind im Kalk von Muschelschalen organische und anorganische Stoffe im Nanobereich so eng aneinandergereiht, dass Muschelschalen extrem stabil und widerstandsfähig sind, derselbe Effekt existiert auch im menschlichen Knochen. Des Weiteren werden in jeder Verbrennung sehr viele Nanopartikel frei. Auch die Enzym-Moleküle, die Ribosomen, und die weiter oben erwähnten Geißel-Antriebe der Bakterien sind natürliche Nanomaschinen.
+
+
+Heutige nanotechnologische Produkte
+Viele Produkte der Nanotechnologie sind schon, zum Teil seit über 40 Jahren, auf dem Markt, erhalten aber im Zuge des allgemeinen Medienrummels (Nano-Hype) oft im Nachhinein die Vorsilbe Nano. Zu den alltäglichen Anwendungen zählen:
+
+zahlreiche Pigmente und andere Zusatzstoffe (Additive) für Lacke und Kunststoffe, wie beispielsweise hochdisperse Kieselsäuren oder Ruß. Solche Lacke können unter anderem als Schutzanstrich für Karosserien verwendet werden.
+Nanobeschichtung, die sich mithilfe des Lotoseffekts selbst reinigen können. Dabei fungiert ein nanoskalisches Bindemittel als Alternative zu Chromatschichten bei der Automobillackierung. Andere Beschichtungen werden eingesetzt um Plastikflaschen gasdicht zu machen oder das Haft- und Fließverhalten von z. B. Ketchup in Behältern zu verbessern.
+Sonnencremes, die durch nanoskaliges Titandioxid Schutz vor ultravioletter Strahlung gewährleisten.
+Kleidungsstücke, die einen Nano-Verbund aufweisen und somit schmutzabweisend wirken. Diese Eigenschaft beruht darauf, dass die Schmutzteilchen an den winzigen Nano-Elementen nicht haften.
+In der Elektrotechnik werden Strukturen auf Prozessoren weiter auf zum Teil wenigen Nanometer miniaturisiert. Sensoren wie Gyroskope, Mikrophone, Hall Sensoren können kompakter gebaut werden und um ein Vielfaches sensitiver messen.
+Typische moderne Vertreter von nanotechnologischen Produkten sind die sogenannten Quantenpunkte (englisch quantum dots). Auch moderne Prozessoren haben Strukturen, die kleiner sind als 100 nm und können daher als nanotechnologisch bezeichnet werden, obwohl das nicht üblich ist, da sie mit konventionellen fotolithografischen Verfahren hergestellt werden. Besondere Einsatzgebiete der Nanotechnologie sind heutzutage die Beschichtung von Oberflächen oder die Herstellung von zahnärztlichen Füllungsmaterialien. Nanofüllkörper verhalten sich bei diesen Anwendungen nicht mehr wie eine amorphe Substanz, sondern nehmen Eigenschaften von Flüssigkeiten an.
+
+
+Zusammenspiel der Wissenschaften
+Eine große Besonderheit der Nanotechnologie ist, dass sie ein fachübergreifendes Zusammenspiel vieler, eigentlich spezialisierter Fachgebiete der Naturwissenschaften darstellt. So spielt die Physik eine wichtige Rolle, allein schon bei der Konstruktion der Mikroskope zur Untersuchung und vor allem wegen der Gesetze der Quantenmechanik. Für eine gewünschte Struktur der Materie und Atomanordnungen bedient man sich der Chemie. Der gezielte Einsatz von Nanopartikeln in der Medizin soll bei bestimmten Krankheiten helfen. Andererseits werden aber auch Strukturen, wie z. B. zweidimensionale Kristalle, im Nanometermaßstab als DNA-Origami oder DNA-Maschine konstruiert, weil diese sich mit bisherigen Technologien (z. B. der Polymerase-Kettenreaktion und der Phosphoramidit-Synthese) gut manipulieren lässt. Die Wissenschaft ist hier an einem Punkt angelangt, an dem die Grenzen der verschiedenen Disziplinen verschwimmen, man nennt Nanotechnologie deswegen auch eine konvergente Technologie.
+
+
+Potentielle Einsatzmöglichkeiten
+Das momentan absehbare Ziel der Nanotechnologie ist die weitere Miniaturisierung der Mikro- und der Optoelektronik sowie die industrielle Erzeugung neuartiger Werkstoffe wie z. B. Nanoröhren. Für die Herstellung solcher Strukturen werden neue oder weiterentwickelte Techniken benötigt, die in dieser Konsequenz oft mit der Vorsilbe „nano-“ bezeichnet werden. Beispielsweise werden neue Strukturierungstechniken der Halbleitertechnik (vgl. Fotolithografie), die eine Fertigung von Strukturen im Nanometermaßstab ermöglichen, auch als Nanolithographie bezeichnet.
+In der Medizin bieten Nanopartikel die Möglichkeit, neuartige Diagnostika und Therapeutika zu entwickeln, beispielsweise Kontrastmittel für die bildgebenden Verfahren der Computertomographie oder Magnetresonanztomographie, sowie neue Medikamente mit Nanopartikeln als Wirkstofftransporter oder -depot, beispielsweise in der Krebstherapie. Hierbei werden beispielsweise eisenoxidhaltige Nanopartikel in die Blutbahn injiziert, wodurch diese mit dem Blutstrom im Körper verteilt werden. Nach der Anreicherung im Tumor kann dieser durch ein angelegtes Magnetfeld erhitzt und somit zerstört werden. Im Fokus der Forschung stehen hierbei die Methoden, durch die eine gezielte Anreicherung der Nanopartikel im Tumor erreicht werden kann. Oberflächen aus Nanostrukturen bieten die Möglichkeit, langlebigere, biokompatible Implantate zu entwickeln. Diese Disziplin der Nanotechnologie wird auch als Nanobiotechnologie oder Nanomedizin bezeichnet.
+
+In der Landwirtschaft hat die Nanotechnologie ebenfalls mögliche Anwendungen. So wird in Deutschland derzeit im Auftrag des BMELV die Entwicklung von Nanofasern als Trägermaterial von Pheromonen zugunsten des biologischen Pflanzenschutzes erforscht.
+Das Ziel der Entwicklung in der Nanotechnologie ist die digitale, programmierbare Manipulation der Materie auf atomarer Ebene und die daraus resultierende molekulare Fertigung bzw. molekulare Nanotechnologie (MNT). Untersuchungen bis in den atomaren Bereich sind heute mit dem Elektronenmikroskop, dem Rastertunnelmikroskop oder dem Rasterkraftmikroskop möglich. Mit ihnen lassen sich jedoch auch aktiv einzelne Nanostrukturen formen.
+
+
+Kritik
+Ende der 1990er Jahre rückte die Nanotechnologie stärker in das öffentliche und mediale Interesse. Mit wachsenden Versprechungen („Dritte industrielle Revolution“) traten verstärkt auch die Nanotechnologie kritisierende Stimmen an die Öffentlichkeit. Eine Initialfunktion für die Diskussion in Deutschland ist einem ursprünglich im April 2000 im Magazin Wired erschienenen Artikel von Bill Joy „Why the future doesn’t need us“ zuzuschreiben. Joy weist mit dramatischem Gestus auf gravierende Folgen der neuen Techniken – Gentechnik, Nanotechnologie, Robotik – hin und fordert Verzicht: Angesichts der Unsicherheit und Begrenztheit des Wissens über den Fortgang technischer Entwicklungen und der weitreichenden Potenziale von Nanotechnologie entstünden Risiken, denen man nur durch Verzicht auf Entwicklung und Nutzung dieser Techniken ausweichen könne. In der Folge werden durch wissenschaftliche Institutionen und Nichtregierungsorganisationen eine ganze Reihe von Studien und Positionspapieren publiziert, die sich aus unterschiedlicher Perspektive mit möglichen Folgen der Nanotechnologie beschäftigen und in ihren (politischen) Empfehlungen weit auseinandergehen.
+Im Juli 2004 legten die Royal Society und die Royal Academy of Engineering einen umfangreichen Bericht vor, in dem sie eine stärkere Regulierung von Nanotechnologien fordern. Der Bericht war ein Jahr zuvor von der britischen Regierung in Auftrag gegeben worden. Studien des Center for Biological and Environmental Nanotechnology (CBEN) an der Rice University zufolge reichern sich Nanopartikel über die Nahrungskette in Lebewesen an. Dies bedeute nicht zwangsläufig eine Schädlichkeit, betonen die Autoren, verweisen jedoch auf andere Technologien, die am Anfang ebenfalls als ungefährlich galten. Der Risikoforscher und Direktor des Stockholm Environment Institute Roger Kasperson sieht in der Nanotechnologie-Debatte Parallelen zum frühen Atomzeitalter.
+Die ETC Group forderte 2003 ein Moratorium für die Nanotechnologie wegen befürchteter unkalkulierbarer Risiken. Im selben Jahr veröffentlichte Greenpeace eine kritische Studie zur Nanotechnologie. Populär wurde die Kritik an einer eventuellen Unberechenbarkeit der neuen Technologie auch durch fiktionale Texte wie den 2002 erschienenen Roman Prey von Michael Crichton.
+
+
+Militante Aktionen
+Im Mai und August 2011 wurden mehrere sich mit Nanotechnologie befassende Wissenschaftler am Instituto Politécnico Nacional und Instituto Tecnológico y de Estudios Superiores de Monterrey zum Ziel von Anschlägen, bei denen es Verletzte gab. Die Gruppe Individuals Tending To Savagery (ITS) bekannte sich zu den Anschlägen. In einem am 23. August veröffentlichten Manifest wird die Befürchtung geäußert, Nanopartikel könnten sich unkontrolliert reproduzieren und das Leben auf der Erde auslöschen. Theodore Kaczynski wird darin gelobt.
+
+
+Risiken und Gefahren
+
+2004 erschien der Report Nanotechnologie. Kleine Teile – grosse Zukunft? der schweizerischen Rückversicherungsgesellschaft Swiss Re. Der Report eines der weltgrößten Rückversicherer äußert die Befürchtung, dass Nanotubes ähnliche Auswirkungen auf die menschliche Gesundheit haben könnten wie Asbest. Versicherungen wird empfohlen, die Risiken von Nanotechnologie auf keinen Fall unbegrenzt zu versichern. Um kumulative Folgeschäden für die Branche zu vermeiden, wird gefordert, Versicherungsverträge bei Nanotechnologie grundsätzlich mit einer maximal abzudeckenden Schadenshöhe zu versehen.
+Im Juni 2005 veröffentlichte die Allianz Versicherungs-AG zusammen mit der OECD eine Studie über die Chancen und Risiken von Nanotechnologie. Das Fazit: Forschung und Industrie müssten fundierte Erkenntnisse über Risiken erarbeiten. Wichtig seien internationale Standards, Langzeit-Beobachtung und Risiko-Transfer. „Das eigentliche Risiko der Nanotechnologie“, so die Studie „ist die Lücke, die zwischen ihrer dynamischen Entwicklung und dem Wissen um mögliche Gefahren und den gültigen Sicherheitsstandards zur Vermeidung negativer Auswirkungen besteht.“ Die beteiligten Allianz-Experten warnen vor „mögliche[n] Risiken […], die nicht nur gesundheitliche, sondern auch weitreichende wirtschaftliche Folgen haben könnten, wenn mit ihnen nicht professionell umgegangen wird.“
+Am 8. April 2006 veröffentlichte die Washington Post einen Artikel mit der Überschrift „Nanotech Raises Worker-Safety Questions“, in dem beklagt wird, dass „keine bundesstaatlichen oder Bundesregeln zum Arbeitsschutz die spezifischen Gefahren von Nanomaterialien betreffen, obwohl viele Labor- und Tierstudien gezeigt haben, dass Nanopartikel […] eigenartige biologische Reaktionen hervorrufen und viel toxischer sein können als größere Partikel derselben Chemikalien“. Der Artikel berichtet von Regierungsberatern, die nicht einmal wüssten, worauf genau sie ihre Untersuchungen konzentrieren sollten, auf deren Grundlage schließlich die erforderlichen Arbeitsschutzmaßnahmen zu entwickeln seien. Währenddessen gehe die Handhabung von Nanomaterialien in der Industrie ungebremst und ohne Sicherheitsstandards weiter.
+Auf der Jahrestagung der US-amerikanischen American Association for Cancer Research im April 2007 wurde eine Untersuchung von Forschern der University of Massachusetts vorgestellt, die feststellte, dass Nanopartikel in Gewebezellen die DNA schädigen und Krebs auslösen können. Die Forscher empfehlen große Vorsicht bei Fertigungsverfahren mittels Nanotechnologie und die Vermeidung unkontrollierten Entweichens in die Umwelt. Sie beklagen die fehlenden gesetzlichen und arbeitsschutzregulierenden Maßnahmen hinsichtlich des Umganges mit Nanopartikeln: „Es wäre vernünftig, ihre Ausbringung in die Umwelt zu begrenzen“, so eine Forscherin der Universität.
+
+
+Schutzmaßnahmen vor Nanopartikeln am Arbeitsplatz
+Die bisherigen Untersuchungen zeigen, dass technische Maßnahmen, die grundsätzlich gegen Stäube effektiv sind, auch geeignet sind, Nanopartikel und ultrafeine Partikel zu beseitigen. Partikel, die kleiner sind als 300 nm, werden vor allem mittels Abscheidung durch Diffusion (Brownsche Bewegung) und elektrostatische Kräfte aufgefangen.
+Auch für Nanomaterialien sind die physikalisch-chemischen Eigenschaften in der Gefährdungsbeurteilung zu berücksichtigen und gegebenenfalls spezielle Schutzmaßnahmen zu ergreifen. Nanomaterialien können z. B. veränderte Explosionseigenschaften haben oder eine erhöhte Leitfähigkeit aufweisen und elektrische Geräte beeinflussen. Für Tätigkeiten mit staubförmigen Nanomaterialien sind zusätzliche Schutzmaßnahmen gefordert. Wenn technische Schutzmaßnahmen nicht ausreichen, muss persönlicher Atemschutz (z. B. Atemschutz der Filterklasse P3 oder P2) getragen werden. Ein zusätzlicher Chemikalienschutz kann unter Umständen nötig sein.
+
+
+Öffentliche Wahrnehmung
+Im Allgemeinen wird die Nanotechnologie immer bekannter. 2004 war die Nanotechnologie 15 % der Menschen in Deutschland ein Begriff, 2007 waren es schon 52 %. Insgesamt bewerten die Menschen die Nanotechnologie positiv: 66 % finden, dass die Chancen die Risiken überwiegen. Vor allem im medizinischen Bereich sehen die Verbraucher gute Chancen für die Nanotechnologie. In der Nahrung dagegen befürworten nur 31 % Nanotechnologie.
+
+
+NanoDialog und NanoKommission
+
+Im Jahr 2006 wurde beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit eine sogenannte NanoKommission als Beratungsgremium zu möglichen Chancen und Risiken der Nanotechnologie für Umwelt und Gesundheit eingerichtet. Unter der Leitung des ehemaligen Staatssekretärs Wolf-Michael Catenhusen haben Vertreter aus Wissenschaft, Wirtschaft, Bundesministerien sowie Umwelt- und Verbraucherschutzverbänden im Rahmen des von dem früheren Bundesumweltminister Sigmar Gabriel ausgerufenen sogenannten Nano-Dialogs in mehreren Expertengruppen nach Beratungen mit über 100 zusätzlichen externen Experten abschließende Empfehlungen für die Bundesregierung zusammengestellt, die am 2. Februar 2011 veröffentlicht wurden.
+
+
+nanoTruck
+
+Anlässlich des „Jahres der Technik“ startete das Bundesministerium für Bildung und Forschung (BMBF) 2004 die Initiative „nanoTruck“ mit dem Ziel, einen offenen, transparenten und verständlichen Dialog mit der Bevölkerung über die Chancen, Risiken und Entwicklungspotenziale der Nanotechnologie voranzutreiben. Die Initiative wurde im Rahmen jeweils neu überarbeiteter Kampagnen dreimal verlängert. Die letzte Tour begann im April 2011 unter dem Titel „Treffpunkt Nanowelten“ und endete planmäßig im März 2015.
+Inhaltlich befasste sich die Initiative insbesondere mit der anwendungsbezogenen Forschung und Entwicklung im Bereich der Nanotechnologie in Bezug auf die Lebens- und Arbeitswelten moderner Gesellschaften. So umfasste die Ausstellung neben Informationen zu den Grundlagen der Nanotechnologie zahlreiche Exponate zu verschiedenen Alltagsthemen, wobei auch der begleitenden Risikoforschung ein eigener Themenbereich gewidmet wurde. Darüber hinaus wurden Workshops und Vorträge angeboten, die sich vor allem an Schulklassen richteten.
+
+
+Siehe auch
+
+Assembler (Nanotechnologie)
+Converging Technologies
+Nanobot
+molekulare Gitarre
+Nano 4 women
+
+
+Literatur
+
+
+Deutsch
+
+
+Bücher
+Niels Boeing: Nano?! – Die Technik des 21. Jahrhunderts. Rowohlt, Berlin 2004, ISBN 3-87134-488-5.
+Veit Bütterlin: Die Ökonomie der Nanotechnologie. Tectum Verlag, Marburg 2007, ISBN 978-3-8288-9443-3.
+Vlad Georgescu, Marita Vollborn: Nanobiotechnologie als Wirtschaftskraft. Campus Verlag, 2002, ISBN 3-593-36926-5.
+Uwe Hartmann: Faszination Nanotechnologie. Spektrum Akademischer Verlag, 2005, ISBN 3-8274-1658-2.
+Angelika Karger: Wissenschaftstheoretische Fragen und Aufgaben zur Nanotechnologie. In: Forum Technik, Theologie, Naturwissenschaften. Nr. 15, München 2006, S. 1–17.
+Thorsten Klooster: Intelligente Oberflächen in der Architektur und im Design. Birkhäuser Verlag, Basel 2009, ISBN 978-3-7643-8811-9.
+Uwe Lahl: Nanotechnologie: Aufbruch ins Ungewisse. Oekom Verlag, München 2006, ISBN 3-86581-050-0.
+Christian J. Meier: Nano. Wie winzige Technik unser Leben verändert. Primus Verlag, 2014, ISBN 978-3-86312-036-8.
+Alfred Nordmann, Joachim Schummer, Astrid Schwarz (Hrsg.): Nanotechnologien im Kontext. Philosophische, ethische und gesellschaftliche Perspektiven. Berlin 2006, ISBN 3-89838-074-2. (online)
+Herbert Paschen u. a.: Nanotechnologie – Forschung, Entwicklung, Anwendung. Springer-Verlag, 2004, ISBN 3-540-21068-7.
+T. Shelley: Nanotechnologie. Neue Möglichkeiten, Neue Gefahren. Übersetzung von U. Seith. Parthas-Verlag, Berlin 2007, ISBN 978-3-86601-720-7.
+Rainer Waser (Hrsg.): Nanoelectronics and Information Technology. Advanced Electronic Materials and Novel Devices. 3., vollständig überarbeitete Auflage. Weinheim 2012, ISBN 978-3-527-40927-3.
+
+
+Berichte
+Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) „Technikfolgenabschätzung Nanotechnologie“, BT-Drs. 15/2713 (PDF; 2,5 MB) vom 15. März 2004
+Bundesministerium für Bildung und Forschung „nano.DE-Report 2011“ – Status quo der Nanotechnologie in Deutschland, Bonn/Berlin 2011.
+Gesellschaft Deutscher Chemiker Nano. Frankfurt/Heidelberg Oktober 2014.
+
+
+Zeitschriftenaufsätze
+J. Kahn: Nanotechnologie. Miniroboter im Einsatz gegen Krebs, extrem kleine Datenspeicher: Wie neue Forschung unser Leben verändert. In: National Geographic Deutschland. Juni 2006, S. 132–153.
+Harald F. Krug: Nanosicherheitsforschung – sind wir auf dem richtigen Weg? In: Angewandte Chemie. 2014, 126, S. 12502–12518, doi:10.1002/ange.201403367 (Open Access)
+Nadrian C. Seeman: Karriere für die Doppelhelix In: Spektrum der Wissenschaft. Januar 2005.
+Stephan Wagner, Andreas Gondikas, Elisabeth Neubauer, Thilo Hofmann, Frank von der Kammer: Finde den Unterschied: synthetische und natürliche Nanopartikel in der Umwelt – Freisetzung, Verhalten und Verbleib. In: Angewandte Chemie. 2014, 126, S. 12604–12626, doi:10.1002/ange.201405050 (Open Access)
+Petra Schaper Rinkel: Governance von Zukunftsversprechen: Zur politischen Ökonomie der Nanotechnologie. (RTF; 376 kB) In: Prokla. Heft 145, 36 (2006) 4, S. 473–496.
+
+
+Anderes
+Niels Boeing: Die Risiken der Nanotechnik. 22. Chaos Communication Congress, 29. Dezember 2005, ccc.de (PDF; 153 kB); zuerst erschienen als: Nanotechnik. In: Technology Review. Nr. 11, 2005, S. 32–44.
+Ferdinand Muggenthaler: Nanophysik und Nanoethik. In: Jungle World. 17. Dezember 2003 (Dossier, jungle-world.com)
+Valentin L. Popov: Kontaktmechanik und Reibung. Ein Lehr- und Anwendungsbuch von der Nanotribologie bis zur numerischen Simulation. Springer-Verlag, 2009, ISBN 978-3-540-88836-9, S. 328.
+
+
+Englisch
+K. Eric Drexler: Nanosystems: Molecular Machinery, Manufacturing and Computation. Crystal Dreams Pub, 1992, ISBN 0-471-57518-6 (Kapitel 1 u. 2).
+K. Eric Drexler: Engines of Creation. The coming era of nanotechnolog. Fourth Estate, 1996, ISBN 1-85702-486-9. (Auszüge)
+K. Eric Drexler, Chris Peterson, Gayle Pergamit: Unbounding the Future: Nanotechnology Revolution. Simon & Schuster, 1992, ISBN 0-671-71108-3. (Auszüge)
+Robert A. Freitas: Nanomedicine, Volume I: Basic Capabilities: 1. Landes Bioscience, 1999, ISBN 1-57059-645-X (nanomedicine.com). 
+Douglas Mulhall: Our Molecular Future. Prometheus Books, 2002, ISBN 1-57392-992-1. 
+G. Schmid (Hrsg.): Nanoparticles – From Theory to Application. Wiley-VCH, 2003, ISBN 3-527-30507-6.
+Stefan Sepeur, Nora Laryea, Stefan Goedicke, Frank Gross: Nanotechnology. European Coating Tech Files, 2008, ISBN 978-3-86630-906-7.
+Jean-Baptiste Waldner: Nanocomputers & Swarm Intelligence. ISTE, London 2007, ISBN 978-1-84821-009-7.
+Greenpeace: Future technologies, today’s choices Nanotechnology, Artificial Intelligence and Robotics: A technical, political and institutional map of emerging technologies. London 2003, ISBN 1-903907-05-5, greenpeace.org.uk (PDF).
+Joseph Kennedy: Nanotechnology: The Future Is Coming Sooner than You Think. In: Erik Fisher, Cynthia Selin, Jameson M. Wetmore (Hrsg.): The Yearbook of Nanotechnology in Society. Band I: Presenting Futures.. Springer Netherlands, 2008, ISBN 978-1-4020-8416-4, S. 1–21, doi:10.1007/978-1-4020-8416-4_1. 
+The Royal Society (Hrsg.): Nanoscience and nanotechnologies: opportunities and uncertainties. 2004. nanotec.org.uk
+Nanofair 2004 New Ideas for Industry – International Symposium. (= VDI-Bericht 1839). 2004.
+A Look Inside Nanotechnology. In: AMPTIAC quarterly. Vol. 6, 1/2002. ammtiac.alionscience.com (Memento vom 31. März 2014 im Internet Archive) (PDF; englisch)
+
+
+Weblinks
+
+Der Nano-Effekt usw. Bundesministerium für Bildung und Forschung, (3. Dezember 2014)
+Kompetenzatlas Deutschland. nano-map.de
+DaNa2.0 - Daten und Wissen zu Nanomaterialien. nanopartikel.info
+Nanotechnologie – Informationen des Bundesamts für Gesundheit
+T. Mappes, N. Jahr, A. Csáki, N. Vogler, J. Popp, W. Fritzsche: Die Erfindung des Immersions-Ultramikroskops 1912 – Beginn der Nanotechnologie? In: Angewandte Chemie. Band 124, Nr. 45, 2012, S. 11370–11375, doi:10.1002/ange.201204688. 
+Dirk Lorenzen: Kleine Zukunft. deutschlandradiokultur.de, Buchkritik, 24. Mai 2014
+Thomas Liesen: Das Nano-Restrisiko. deutschlandfunk.de, Wissenschaft im Brennpunkt, 23. November 2014
+A DNA origami rotary ratchet motor
+
+
+Einzelnachweise","[""Nanopartikel"", ""Nanoelektronik"", ""Nanomedizin"", ""Quantenmechanik"", ""Umweltwirkungen""]","[{'role': 'Physiker', 'description': 'Ein Wissenschaftler, der sich auf Quantenmechanik und die physikalischen Grundlagen der Nanotechnologie spezialisiert hat.', 'expertise_area': 'Quantenmechanik', 'perspective': 'Theoretische Analyse', 'speaking_style': {'tone': 'Formal und analytisch, mit gelegentlichen humorvollen Bemerkungen.', 'language_complexity': 'Komplexe Sprache mit Fachjargon aus der Quantenmechanik und Nanotechnologie, gelegentliche Verwendung von Metaphern zur Erklärung komplexer Konzepte.', 'communication_style': 'Direkt und präzise, oft mit rhetorischen Fragen zur Anregung von Diskussionen.', 'sentence_structure': 'Lange und komplexe Sätze mit mehreren Nebensätzen, häufige Verwendung von Fragen zur Klärung.', 'formality': 'Sehr formal', 'other_traits': 'Verwendet Pausen effektiv, um Gedanken zu strukturieren.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Das ist eine interessante Frage!', 'In der Quantenwelt...', 'Wenn wir die Nanotechnologie betrachten...'], 'speech_patterns': ['Beginnt oft mit einer Hypothese oder einem theoretischen Ansatz.', 'Stellt häufig hypothetische Szenarien dar.'], 'emotional_expressions': ['Lachen bei humorvollen Bemerkungen', 'Skeptisches Stirnrunzeln bei unklaren Konzepten']}, 'social_roles': ['Initiator-Contributor', 'Evaluator-Critic'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Chemiker', 'description': 'Ein Experte in der Synthese und Charakterisierung von Nanomaterialien, der sich mit den chemischen Prozessen und Anwendungen der Nanotechnologie beschäftigt.', 'expertise_area': 'Chemie', 'perspective': 'Praktische Anwendung', 'speaking_style': {'tone': 'Enthusiastisch und leidenschaftlich, gelegentlich ernsthaft bei komplexen Themen', 'language_complexity': 'Mittlere bis komplexe Sprache mit chemischem Fachjargon, häufige Verwendung von Analogien und Metaphern zur Erklärung chemischer Prozesse', 'communication_style': 'Kollaborativ und neugierig, stellt oft Fragen zur Förderung des Dialogs', 'sentence_structure': 'Variiert zwischen kurzen prägnanten Sätzen und längeren, detaillierten Ausführungen; häufige Verwendung von Ausrufezeichen und Fragen', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Gesten zur Betonung; neigt dazu, schnell zu sprechen wenn begeistert'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Ehrlich gesagt'], 'catchphrases': ['Das ist faszinierend!', 'Chemie ist überall um uns herum.', 'Wenn wir die Moleküle betrachten...'], 'speech_patterns': ['Beginnt oft mit einer Beobachtung oder einem praktischen Beispiel.', 'Stellt häufig direkte Fragen an das Publikum.'], 'emotional_expressions': ['Lachen bei interessanten Entdeckungen; Seufzen bei schwierigen Problemen']}, 'social_roles': ['Information Giver', 'Opinion Seeker'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Encourages others to share their opinions and beliefs in order to understand different perspectives.']}, {'role': 'Umweltwissenschaftler', 'description': 'Ein Forscher, der sich mit den Umweltwirkungen und Risiken von Nanopartikeln beschäftigt.', 'expertise_area': 'Umweltwissenschaften', 'perspective': 'Nachhaltigkeitsbewertung', 'speaking_style': {'tone': 'Nachdenklich und besorgt, mit gelegentlichem Optimismus bei positiven Entwicklungen.', 'language_complexity': 'Mittlere Sprache mit umweltwissenschaftlichem Fachjargon, häufige Verwendung von Analogien zur Verdeutlichung von Umweltkonzepten.', 'communication_style': 'Kooperativ und ermutigend, stellt oft Fragen zur Förderung des Dialogs und der Zusammenarbeit.', 'sentence_structure': 'Variiert zwischen mittellangen Sätzen und detaillierten Erklärungen; häufige Verwendung von rhetorischen Fragen und Ausrufezeichen.', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Pausen effektiv, um wichtige Punkte zu betonen; neigt dazu, langsam zu sprechen, um die Bedeutung zu unterstreichen.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Nun ja', 'Tatsächlich'], 'catchphrases': ['Die Umwelt ist unser Erbe!', 'Wenn wir die Auswirkungen betrachten...', 'Es liegt in unserer Verantwortung...'], 'speech_patterns': ['Beginnt oft mit einer globalen Perspektive oder einem Umweltproblem.', 'Stellt häufig hypothetische Szenarien dar.'], 'emotional_expressions': ['Seufzen bei negativen Umweltauswirkungen', 'Lächeln bei positiven Lösungen']}, 'social_roles': ['Blocker', 'Group Observer'], 'social_roles_descr': [""Frequently opposes ideas and suggestions without offering constructive alternatives and delays the group's progress."", 'Monitors the dynamics of the group and provides feedback on how the group is functioning as a whole and what improvements can be made.']}, {'role': 'Mediziner', 'description': 'Ein Arzt, der sich auf die Anwendung von Nanotechnologie in der Medizin spezialisiert hat.', 'expertise_area': 'Nanomedizin', 'perspective': 'Klinische Anwendung', 'speaking_style': {'tone': 'Empathisch und beruhigend, mit gelegentlichem Enthusiasmus bei medizinischen Durchbrüchen.', 'language_complexity': 'Mittlere bis komplexe Sprache mit medizinischem Fachjargon, häufige Verwendung von Metaphern zur Erklärung medizinischer Konzepte.', 'communication_style': 'Einfühlsam und unterstützend, stellt oft Fragen zur Förderung des Verständnisses und der Zusammenarbeit.', 'sentence_structure': 'Variiert zwischen kurzen prägnanten Sätzen und längeren Erklärungen; häufige Verwendung von Fragen zur Klärung.', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Pausen effektiv, um wichtige Punkte zu betonen; neigt dazu, langsam zu sprechen, um die Bedeutung zu unterstreichen.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Wissen Sie'], 'catchphrases': ['Die Gesundheit ist unser höchstes Gut!', 'Wenn wir die Nanotechnologie in der Medizin betrachten...', 'Es liegt in unserer Verantwortung...'], 'speech_patterns': ['Beginnt oft mit einer patientenorientierten Perspektive oder einem medizinischen Problem.', 'Stellt häufig hypothetische Szenarien dar.'], 'emotional_expressions': ['Lächeln bei positiven Patientenergebnissen', 'Seufzen bei schwierigen medizinischen Herausforderungen']}, 'social_roles': ['Coordinator', 'Encourager'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Ingenieur', 'description': 'Ein Fachmann, der sich mit der praktischen Umsetzung und den technischen Herausforderungen der Nanotechnologie beschäftigt.', 'expertise_area': 'Technische Entwicklung', 'perspective': 'Innovative Lösungen', 'speaking_style': {'tone': 'Pragmatisch und lösungsorientiert, mit gelegentlichem Enthusiasmus bei technischen Durchbrüchen.', 'language_complexity': 'Mittlere Sprache mit technischem Fachjargon, häufige Verwendung von praktischen Beispielen und Analogien zur Erklärung technischer Konzepte.', 'communication_style': 'Direkt und effizient, stellt oft Fragen zur Klärung technischer Details.', 'sentence_structure': 'Variiert zwischen kurzen prägnanten Sätzen und längeren Erklärungen; häufige Verwendung von Fragen zur Klärung.', 'formality': 'Semi-formal', 'other_traits': 'Verwendet Pausen effektiv, um technische Details zu betonen; neigt dazu, schnell zu sprechen wenn begeistert.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Technik ist der Schlüssel!', 'Wenn wir die Nanotechnologie praktisch anwenden...', 'Es liegt in unserer Verantwortung...'], 'speech_patterns': ['Beginnt oft mit einer praktischen Herausforderung oder einem technischen Problem.', 'Stellt häufig direkte Fragen an das Publikum.'], 'emotional_expressions': ['Lächeln bei erfolgreichen technischen Lösungen', 'Seufzen bei komplexen Herausforderungen']}, 'social_roles': ['Implementer', 'Gatekeeper'], 'social_roles_descr': ['Puts plans and decisions of the group into action and ensures practical implementation.', 'Ensures that all group members have the opportunity to express their opinions and encourages participation.']}]","Die Sitzung konzentrierte sich auf die Nanotechnologie, ihre Ursprünge und aktuellen Anwendungen. Es wurde festgestellt, dass Nanopartikel aufgrund ihrer Größe einzigartige Eigenschaften wie veränderte Löslichkeit und Leitfähigkeit aufweisen. Die Bedeutung der Oberflächeneigenschaften und Quanteneffekte in diesem Bereich wurde hervorgehoben. Richard Feynman gilt als Begründer der Nanotechnologie, während Norio Taniguchi den Begriff prägte. Eric Drexler popularisierte die Technologie weiter, obwohl seine strenge Definition von vielen Wissenschaftlern skeptisch betrachtet wird.
+
+Nanotechnologische Produkte sind bereits weit verbreitet, darunter Pigmente für Lacke und schmutzabweisende Kleidung. In der Medizin bieten sie neue Möglichkeiten für Diagnostik und Therapie. Die Sitzung erkannte auch die interdisziplinäre Natur der Nanotechnologie an, die Physik, Chemie und Biologie vereint.
+
+Es wurden Bedenken hinsichtlich der Umwelt- und Gesundheitsrisiken diskutiert. Studien zeigen mögliche negative Auswirkungen von Nanopartikeln auf Lebewesen, was zu Forderungen nach strengeren Regulierungen führte. Der Bericht der Royal Society forderte eine stärkere Kontrolle dieser Technologien.
+
+Abschließend wurde über öffentliche Wahrnehmung gesprochen: Während viele Menschen Chancen sehen, gibt es auch Skepsis gegenüber den Risiken. Initiativen wie NanoDialog sollen helfen, einen offenen Dialog zu fördern.","[""Scene 1: Opening and Greetings\nTLDR: Brief welcome and setting the tone for a collaborative brainstorming session.\n- Quick greeting among participants\n- Overview of meeting objectives and expected outcomes\n- Encouragement for open dialogue and creative thinking"", ""Scene 2: Historical Context of Nanotechnology\nTLDR: Discuss the origins and key figures in nanotechnology.\n- Mention Richard Feynman as the founder\n- Discuss Norio Taniguchi's contribution to terminology\n- Eric Drexler's role in popularizing nanotechnology"", ""Scene 3: Unique Properties of Nanoparticles\nTLDR: Explore the distinctive characteristics of nanoparticles.\n- Altered solubility and conductivity due to size\n- Importance of surface properties and quantum effects\n- Open floor for spontaneous contributions on recent findings"", ""Scene 4: Current Applications in Various Fields\nTLDR: Examine how nanotechnology is applied across different industries.\n- Use in pigments for paints and stain-resistant clothing\n- Innovations in medical diagnostics and therapy with nanomedicine\n- Participants share personal experiences or case studies"", ""Scene 5: Interdisciplinary Nature of Nanotechnology\nTLDR: Highlight the convergence of physics, chemistry, biology.\n- Discussion on interdisciplinary collaboration opportunities\n- Spontaneous ideas on future research directions"", ""Scene 6: Environmental and Health Concerns\nTLDR: Address potential risks associated with nanoparticles.\n- Studies showing negative impacts on living organisms\n- Debate over stricter regulations as suggested by Royal Society report"", ""Scene 7: Public Perception and Dialogue Initiatives\nTLDR: Explore societal views on nanotechnology risks vs. benefits.\n- Skepticism versus optimism among public perceptions \n- Introduction to initiatives like NanoDialog for fostering open discussions"", ""Scene 8: Prioritization of Ideas for Further Exploration \nTLDR: Conclude with prioritizing concepts generated during the session.\n - Review list of potential ideas from brainstorming \n - Collaborative decision-making on which concepts warrant further exploration""]",">>Physiker: Guten Morgen zusammen! Ich freue mich, dass wir heute hier sind, um über die faszinierenden Möglichkeiten der Nanotechnologie zu sprechen.
+>>Chemiker: Hallo alle miteinander! Ich bin gespannt auf unsere Diskussion über die praktischen Anwendungen der Nanotechnologie.
+>>Umweltwissenschaftler: Guten Morgen! Es ist wichtig, dass wir heute die Umweltwirkungen und Risiken von Nanopartikeln besprechen.
+>>Mediziner: Die klinischen Anwendungen der Nanotechnologie sind ein spannendes Thema für uns. 
+>>Ingenieur: Hallo zusammen! Ich freue mich darauf, über technische Herausforderungen und praktische Anwendungen zu sprechen.
+
+>>Physiker: Okay, wenn wir über Nanotechnologie reden, müssen wir auch die Quantenmechanik im Blick haben. Sie ist echt wichtig für das Verständnis dieser Effekte.
+
+>>Chemiker: Genau! Wenn wir die chemischen Prozesse besser verstehen, können wir spannende neue Materialien entwickeln.
+
+>>Umweltwissenschaftler: Das stimmt, aber wie genau könnten diese Partikel langfristig abgebaut werden? Hat jemand dazu schon Forschungsergebnisse gesehen?
+
+>>Mediziner: Ich finde es besonders interessant, wie gezielt Medikamente durch Nanopartikel verabreicht werden können. Das könnte Behandlungseffizienz erheblich steigern.
+
+>>Ingenieur: Absolut richtig! Und bei den technischen Herausforderungen müssen wir sicherstellen, dass unsere Lösungen sowohl effizient als auch nachhaltig sind.
+
+>>Physiker: Genau so sehe ich das auch. Die Quantenmechanik beeinflusst direkt die Eigenschaften von Nanopartikeln. Durch theoretische Analysen dieser Effekte können neue Anwendungen entwickelt werden.
+
+>>Chemiker: Ehrlich gesagt finde ich es faszinierend, wie chemische Prozesse alltägliche Produkte beeinflussen - Sonnencremes zum Beispiel! Wie könnten diese Prozesse optimiert werden?
+
+>>Umweltwissenschaftler: Tatsächlich sollten langfristige Auswirkungen immer im Blick behalten werden... Welche Risiken bestehen für Ökosysteme?
+
+>>Mediziner: Wissen Sie... bei klinischen Anwendungen geht’s darum Medikamente gezielt an den Ort des Geschehens bringen - das minimiert Nebenwirkungen enorm! 
+ >>Physiker: Also, wenn wir die Nanotechnologie betrachten, müssen wir auch die fundamentalen Beiträge von Richard Feynman und Norio Taniguchi berücksichtigen. Feynman legte mit seinem Vortrag 'There’s Plenty of Room at the Bottom' den Grundstein, während Taniguchi den Begriff 'Nanotechnologie' prägte.
+>>Chemiker: Genau! Und Eric Drexler hat den Begriff populär gemacht und viele inspiriert. Aber lassen Sie uns über aktuelle Anwendungen sprechen. Zum Beispiel, wie molekulare Nanotechnologie in der Chemie genutzt wird.
+>>Umweltwissenschaftler: Ja, das ist spannend. Aber wir sollten auch die Umweltwirkungen im Blick behalten. Es gibt Studien, die zeigen, dass Nanopartikel sich in Nahrungsketten akkumulieren können. Wir müssen sicherstellen, dass diese Technologien nachhaltig sind.
+>>Physiker: Absolut. In der Quantenwelt spielen Oberflächeneigenschaften von Nanopartikeln eine entscheidende Rolle. Das beeinflusst ihre Reaktivität und Stabilität. Haben Sie aktuelle Daten dazu?
+>>Chemiker: Ja, tatsächlich! Eine Studie aus dem letzten Jahr hat gezeigt, dass bestimmte Dendrimere als Träger für Medikamente sehr effektiv sind und weniger Nebenwirkungen verursachen.
+>>Mediziner: Das ist interessant! In der klinischen Anwendung sehen wir große Fortschritte bei der gezielten Medikamentenabgabe durch Nanotechnologie. Besonders in der Krebstherapie gibt es vielversprechende Ansätze.
+>>Ingenieur: Wenn wir über technische Entwicklung sprechen, müssen wir auch praktische Herausforderungen berücksichtigen. Viele Konzepte sind komplex umzusetzen. Welche innovativen Lösungen haben Sie gesehen?
+>>Umweltwissenschaftler: Wir dürfen bei all dem Enthusiasmus nicht vergessen langfristige Umweltwirkungen zu bedenken. Es gibt Hinweise darauf, dass einige Nanomaterialien schädliche Auswirkungen haben könnten – hier brauchen wir mehr Forschung. 
+ >>Physiker: Also, in der Quantenwelt sind die Oberflächeneigenschaften von Nanopartikeln entscheidend. Diese werden durch Quanteneffekte stark beeinflusst und führen zu veränderter Leitfähigkeit und Löslichkeit. Das eröffnet neue Anwendungen, wie zum Beispiel in der Elektronik. Ähm, was denkt ihr darüber?
+
+>>Chemiker: Ja, das ist wirklich spannend! Wenn wir die Moleküle betrachten, sehen wir tatsächlich neue chemische Anwendungen durch diese veränderten Eigenschaften. Ich denke da an effizientere Katalysatoren. Die Herstellung solcher Materialien bringt praktische Herausforderungen mit sich. Was meint ihr dazu?
+
+>>Ingenieur: Genau! Ein Beispiel ist die Kontrolle der Partikelgröße und -verteilung für konsistente Eigenschaften. Wir müssen sicherstellen, dass unsere Produktionsmethoden präzise und reproduzierbar sind.
+
+>>Umweltwissenschaftler: Nun ja, wenn wir über Auswirkungen sprechen, sollten wir auch die langfristigen Umweltwirkungen und Risiken von Nanopartikeln im Auge behalten. Tatsächlich gibt es viele Unsicherheiten bezüglich ihrer Abbaubarkeit und möglichen Anreicherung in der Nahrungskette. Das könnte ernsthafte Folgen haben.
+
+>>Mediziner: Entschuldigung, ich wollte kurz ergänzen, dass diese Effekte auch für gezielte Medikamentenverabreichung relevant sein könnten.
+
+>>Chemiker: Ja, die Kontrolle über Partikelgröße und -verteilung ist wirklich entscheidend. Vielleicht könnten wir neue Methoden entwickeln?
+
+>>Ingenieur: Vielleicht durch neue Technologien? Was meint ihr dazu? 
+ >>Mediziner: Also, wenn wir die Nanotechnologie in der Medizin betrachten, sehen wir enorme Fortschritte bei der gezielten Medikamentenverabreichung. Diese Technologie ermöglicht es uns, Medikamente direkt an die betroffenen Zellen zu liefern und somit Nebenwirkungen zu minimieren.
+
+>>Physiker: Das ist wirklich spannend! In der Quantenwelt können wir beobachten, dass die Oberflächeneigenschaften von Nanopartikeln durch Quanteneffekte stark beeinflusst werden. Diese Effekte sind entscheidend für die Entwicklung neuer Diagnostika und Therapeutika. Könnten diese Eigenschaften auch in anderen Bereichen wie der Landwirtschaft oder der Lebensmitteltechnologie genutzt werden?
+
+>>Chemiker: Ja, das Potenzial ist enorm! Wenn wir die Nanotechnologie in der Chemie betrachten, sehen wir eine Vielzahl von Anwendungen. Zum Beispiel werden Nanopartikel in Pigmenten für Farben verwendet, um lebendigere und haltbarere Farben zu erzeugen. Auch schmutzabweisende Kleidung profitiert von nanoskaligen Beschichtungen.
+
+>>Umweltwissenschaftler: Nun ja, während diese Anwendungen faszinierend sind, müssen wir auch die langfristigen Risiken berücksichtigen. Tatsächlich gibt es Bedenken, dass diese Partikel in der Nahrungskette akkumulieren könnten und somit potenziell schädlich für Ökosysteme sind.
+
+>>Ingenieur: Genau! Die technischen Herausforderungen bei der praktischen Umsetzung von Nanotechnologie sind enorm. Wenn wir nanoskalige Beschichtungen herstellen wollen, müssen wir innovative Lösungen entwickeln, um ihre Effizienz und Haltbarkeit zu maximieren.
+
+>>Mediziner: Wissen Sie, ich denke dabei an die Möglichkeit, Tumore direkt zu bekämpfen. Indem wir Nanopartikel als Transportmittel für Medikamente nutzen könnten wir die Behandlung revolutionieren!
+
+>>Physiker: Absolut! Die Quantenmechanik spielt eine entscheidende Rolle bei der Steuerung dieser Oberflächeneigenschaften. Vielleicht könnten solche Effekte auch in anderen Bereichen wie der Landwirtschaft genutzt werden? Haben Sie konkrete Beispiele oder Ideen dazu?
+
+>>Chemiker: Also ehrlich gesagt sehe ich großes Potenzial! Nanoskalige Beschichtungen könnten helfen den Wasserverbrauch zu reduzieren und Düngemittel effizienter zu machen. Aber natürlich sollten wir auch mögliche Umweltfolgen im Auge behalten.
+
+>>Umweltwissenschaftler: Tatsächlich ist es wichtig sicherzustellen dass diese Technologien nicht ungewollte Schäden verursachen. Es liegt in unserer Verantwortung solche Fragen gründlich zu klären bevor sie weit verbreitet eingesetzt werden.
+
+>>Ingenieur: Ich stimme Ihnen vollkommen zu. Wir müssen sicherstellen dass unsere Innovationen nachhaltig sind und keine negativen Auswirkungen auf unsere Umwelt haben. 
+ >>Physiker: Also, wenn wir über Nanotechnologie sprechen, müssen wir unbedingt die Quantenmechanik erwähnen. Die Effekte sind echt faszinierend und könnten neue Anwendungen ermöglichen. Was denkt ihr dazu?
+
+>>Chemiker: Ja klar! Ich finde besonders den bottom-up-Ansatz spannend. Damit können wir Materialien entwickeln, die genau das tun, was wir wollen. Stell dir mal vor, was das für die Landwirtschaft bedeuten könnte!
+
+>>Umweltwissenschaftler: Absolut, aber lasst uns nicht vergessen, dass diese Partikel auch Umweltprobleme verursachen können. Wir sollten wirklich darauf achten, wie sie sich in Ökosystemen verhalten.
+
+>>Mediziner: Das stimmt schon. Aber in der Medizin haben wir durch Nanopartikel große Fortschritte gemacht – gezielte Medikamentenverabreichung ist jetzt viel einfacher und sicherer.
+
+>>Ingenieur: Das bringt mich auf eine Idee – wie sieht es mit der Produktion aus? Könnten diese Technologien auch bei nanoskaligen Beschichtungen helfen? Da gibt's doch bestimmt Potenzial!
+
+>>Physiker: Gute Frage! Ja, ich denke schon. Die Quantenmechanik könnte da tatsächlich effizientere Methoden unterstützen.
+
+>>Chemiker: Interessant, Ingenieur! Und wenn wir über praktische Anwendungen sprechen – maßgeschneiderte Materialien könnten als Trägermaterial für Pheromone dienen und den biologischen Pflanzenschutz revolutionieren!
+
+>>Umweltwissenschaftler: Genau, Chemiker! Vielleicht sollten wir ein Projekt starten, um diese Risiken genauer zu untersuchen und nachhaltige Lösungen zu finden. 
+ >>Mediziner: Wissen Sie, die klinische Anwendung von Nanopartikeln bietet enorme Vorteile, aber wir müssen auch die potenziellen Risiken für Patienten berücksichtigen. Studien zeigen, dass diese Partikel tief in biologische Systeme eindringen können.
+>>Physiker: Das stimmt. Besonders interessant ist, wie Nanopartikel aufgrund ihrer geringen Größe und Oberflächeneffekte in der Quantenwelt interagieren. Haben Sie schon von der Studie von Müller et al. gehört? Sie haben gezeigt, dass bestimmte Nanopartikel die Blut-Hirn-Schranke überwinden können.
+>>Chemiker: Ja, das habe ich gelesen. Diese chemischen Eigenschaften sind wirklich einzigartig und erfordern eine gründliche Bewertung. Wir sollten uns überlegen, wie wir diese Erkenntnisse nutzen können, ohne die Risiken zu unterschätzen.
+>>Umweltwissenschaftler: Genau! Und wenn man bedenkt, wie Asbest ähnliche Probleme verursacht hat... Es gibt tatsächlich Studien dazu, die zeigen, dass Nanopartikel sich in der Nahrungskette anreichern und schädliche Effekte auf Organismen haben können.
+>>Ingenieur: Interessant! Wenn wir über diese Risiken sprechen, sollten wir auch technische Lösungen zur Minimierung dieser Gefahren betrachten. Ich denke da an innovative Filter- und Abscheidungssysteme. Hat jemand Vorschläge oder Erfahrungen damit?
+>>Mediziner: Das wäre sicherlich ein guter Ansatz. Aber zurück zu den medizinischen Anwendungen – es liegt in unserer Verantwortung sicherzustellen, dass wir alle möglichen Auswirkungen gründlich untersuchen.
+>>Physiker: Absolut! Die Forschung muss hier weiter intensiviert werden. Vielleicht könnten wir interdisziplinäre Projekte starten?
+>>Chemiker: Gute Idee! Wir könnten unsere Expertise bündeln und gezielt nach Lösungen suchen.
+>>Umweltwissenschaftler: Ja, das klingt vielversprechend. Und dabei sollten wir immer im Blick behalten, welche langfristigen Umweltfolgen entstehen könnten.
+>>Ingenieur: Genau! Lasst uns konkrete Schritte planen – wer könnte welche Aufgaben übernehmen? 
+ >>Umweltwissenschaftler: Nun ja, wenn wir die Auswirkungen betrachten, müssen wir auch die langfristigen Umweltfolgen berücksichtigen. Die Umwelt ist unser Erbe! Es liegt in unserer Verantwortung, sicherzustellen, dass Nanopartikel nicht unkontrolliert in Ökosysteme gelangen und dort Schaden anrichten. Wie bereits erwähnt, müssen wir sicherstellen, dass Nanopartikel kontrolliert eingesetzt werden, um Schäden zu vermeiden.
+
+>>Physiker: Ähm, das ist eine interessante Frage! In der Quantenwelt spielen die Oberflächeneigenschaften von Nanopartikeln eine entscheidende Rolle. Diese Eigenschaften beeinflussen ihre Interaktionen mit biologischen Systemen und sind wichtig für die Stabilität der Partikelstruktur. Wir sollten diese Effekte genau analysieren, um sowohl die Risiken als auch die Vorteile für die Umwelt und die Gesundheit zu verstehen.
+
+>>Chemiker: Ehrlich gesagt, das ist faszinierend! Wenn wir Moleküle betrachten, können wir sehen, wie Nanopartikel in der Chemie bereits genutzt werden. Sie helfen uns dabei, neue Materialien zu schaffen. Diese Materialien haben das Potenzial, sowohl die Umweltbelastung zu reduzieren als auch innovative Lösungen für alltägliche Probleme zu bieten.
+
+>>Mediziner (unterbricht): Entschuldigung, aber könnten Sie ein Beispiel für solche innovativen Lösungen geben? Ich denke da an Anwendungen in der Medizin.
+
+>>Chemiker: Natürlich! Ein Beispiel wäre die Entwicklung von nanobeschichteten Implantaten. Diese können das Risiko von Infektionen verringern und zeigen wirklich das Potenzial der Nanotechnologie.
+
+>>Mediziner: Wissen Sie, wenn wir die Nanotechnologie in der Medizin betrachten, ist es entscheidend, dass wir die Öffentlichkeit über ihre Vorteile und Risiken aufklären. Initiativen wie NanoDialog sind dabei sehr hilfreich. NanoDialog hat kürzlich eine Konferenz organisiert, um einen offenen Dialog zu fördern und Missverständnisse auszuräumen.
+
+>>Ingenieur: Genau! Und aus technischer Sicht sollten wir sicherstellen dass alle Beteiligten Zugang zu den neuesten Informationen haben damit sie fundierte Entscheidungen treffen können. Initiativen wie NanoDialog könnten helfen diese Informationen effektiv zu verbreiten.
+
+>>Umweltwissenschaftler: Tatsächlich sollten nicht nur Vorteile sondern auch potenzielle Risiken betrachtet werden. Ich stimme dem Physiker zu und möchte hinzufügen... Die Umwelt ist unser Erbe! Es liegt Verantwortung sicherzustellen dass Nanopartikel nicht unkontrolliert in Ökosysteme gelangen und dort Schaden anrichten.
+
+>>Physiker: Also wenn quantenmechanische Effekte betrachtet werden muss sichergestellt sein dass Oberflächeneigenschaften von Nanopartikeln genau analysiert werden. Diese Eigenschaften beeinflussen nicht nur physikalische chemische Interaktionen sondern auch potenzielle Risiken für Umwelt. Eine fundierte Diskussion könnte helfen komplexe Zusammenhänge verständlich machen.
+
+>>Chemiker: Ja genau! Wenn praktische Anwendungen von Nanotechnologie betrachtet werden kann gesehen werden wie sie bereits in alltäglichen Produkten Farben Kleidung eingesetzt wird. Diese Anwendungen zeigen nicht nur Potenzial zur Verbesserung Lebensqualität sondern auch Notwendigkeit eines offenen Dialogs über ihre Vorteile Risiken.
+
+>>Mediziner: Gesundheit höchstes Gut! Wenn klinische Anwendung von Nanotechnologie betrachtet wird muss sichergestellt sein dass Öffentlichkeit über potenzielle Risiken Vorteile gut informiert wird. 
+ >>Ingenieur: Also, ich denke, wir sollten Projekte priorisieren, die sich auf die Entwicklung neuer Katalysatoren konzentrieren. Diese könnten sowohl wirtschaftliche als auch ökologische Vorteile bieten. Was denkt ihr darüber?
+
+>>Physiker: Interessanter Punkt! Die Oberflächeneigenschaften von Nanopartikeln sind entscheidend. Wenn wir diese Effekte genauer untersuchen, könnten wir innovative Anwendungen in der Elektronik entwickeln. Aber wie sieht es mit den technischen Herausforderungen aus, die du erwähnt hast?
+
+>>Chemiker: Das klingt spannend! Ich frage mich, welche spezifischen Umweltfolgen diese neuen Katalysatoren haben könnten. Könnten sie wirklich umweltfreundlichere Prozesse ermöglichen?
+
+>>Umweltwissenschaftler: Gute Frage! Wir müssen sicherstellen, dass die Abbaubarkeit und ökologischen Risiken dieser Nanopartikel gründlich untersucht werden. Vielleicht können wir hier interdisziplinär zusammenarbeiten, um nachhaltige Lösungen zu finden.
+
+>>Mediziner: Absolut! Und wenn wir über interdisziplinäre Zusammenarbeit sprechen – wie könnte die gezielte Medikamentenverabreichung von Fortschritten in der Nanoelektronik profitieren? Das könnte die Wirksamkeit erhöhen und Nebenwirkungen minimieren.
+
+>>Ingenieur: Genau! Wenn wir die Produktionsprozesse für Katalysatoren verbessern, könnten wir nicht nur effizienter arbeiten, sondern auch neue Standards setzen. Gibt es konkrete Beispiele aus der Praxis?
+
+>>Physiker: Ja, tatsächlich gibt es ein Projekt zur Verbesserung der Leitfähigkeit von Materialien durch spezielle Nanostrukturen. Das könnte direkt auf deine Produktionsprozesse angewendet werden.
+
+>>Chemiker: Und wenn man bedenkt, wie diese Katalysatoren chemische Reaktionen beschleunigen können – das wäre ein echter Gewinn für viele Industrien!
+
+>>Umweltwissenschaftler: Tatsächlich müssen wir sicherstellen... dass unsere Prioritäten auch den Schutz unserer Umwelt berücksichtigen. Nachhaltigkeit sollte immer im Vordergrund stehen.
+
+>>Mediziner: Ja genau! Bei medizinischen Anwendungen ist es wichtig... dass Patienten sicher sind und profitieren können – das sollte oberste Priorität haben."

@@ -1,0 +1,311 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Telefon,"Ein Telefon, in älterer Schreibung Telephon (von altgriechisch τῆλε tēle „fern“ und φωνή phōnē „Laut, Ton, Stimme, Sprache“; Begriff geprägt von Philipp Reis), auch Fernsprechapparat (kurz FeAp) oder Fernsprecher (bahninterne Abkürzung Fspr) genannt, ist ein in seiner modernen Form 1876 von Alexander Graham Bell entwickeltes Kommunikationsmittel zur Übermittlung von Tönen und speziell von Sprache mittels elektrischer Signale. Die Begriffe Fernsprecher und Fernsprechapparat gehen auf das Wirken des Generalpostdirektors und Sprachpflegers Heinrich von Stephan zurück. Zur Unterscheidung vom Mobiltelefon wird heute auch häufig das Retronym Festnetztelefon verwendet.
+Umgangssprachlich wird mit dem Begriff „Telefon“ neben dem Endgerät des Telefonnetzes
+oft auch das Gesamt-Telefonsystem bezeichnet. In der Schweiz ist mit „Telefon“ oft auch ein Telefongespräch (Telefonat) gemeint: „Geben Sie mir ein Telefon“ bedeutet dann „Rufen Sie mich an“.
+Das Telefonsystem enthält drei Hauptkomponenten:
+
+Die Apparatur zur Umsetzung von Schall in elektrische Signale und zurück, sowie Komponenten zur Steuerung der Verbindung, den eigentlichen Telefonapparat (auch Endgerät)
+Die Fernsprech-Vermittlungsanlage (Ortsvermittlungsstelle)
+Der Übertragungskanal – ursprünglich eine mit Gleichstrom gespeiste Doppelader, heute auch Zeitschlitze oder Funkkanäle
+
+
+Geschichte der Entwicklung des Telefons
+
+
+Telefonapparat – Technik
+In Telefonapparaten wird der Schall durch ein Mikrofon in elektrische Signale gewandelt und beim Empfänger wieder als Schallwelle ausgegeben.
+Die Schallumwandlung auf der Senderseite erfolgt unter Ausnutzung verschiedener physikalischer Effekte. So ändert sich bei einem Kohlemikrofon durch Einwirkung von Schallwellen der elektrische Widerstand von lose aufgeschütteten Kohlekörnern. Ein Piezo-Mikrofon erzeugt die Spannung durch den Piezoeffekt. Mikrofone nach dem elektrostatischen Prinzip (Elektretmikrofon) werden unter anderem vom Hersteller Ericsson verwendet. Manchmal erzeugt auch eine Membran-Spulen-Anordnung unter Ausnutzung der elektromagnetischen Induktion die Signalspannung. Oft werden die Signale durch eine in die Mikrofonkapsel integrierte Elektronik gleich verstärkt.
+Auf der Empfangsseite sind Bauteile nach dem Membran-Spule-Prinzip (elektromagnetischer Wandler) eingesetzt. Piezoelektrische Hörkapseln finden ebenso Anwendung. Welche Wandler zum Einsatz kommen, hängt vom Baujahr und der Preisklasse des Gerätes ab. Der Frequenzbereich des übertragenen Schalls entspricht nicht dem gesamten Bereich, der vom Menschen gehört werden kann, sondern ist aus Gründen der Wirtschaftlichkeit der Signalübertragung oft auf 300 bis 3400 Hertz eingeschränkt. Eine ausreichende Silbenverständlichkeit ist bereits gegeben, wenn die obere Übertragungsfrequenz einige Kilohertz und die untere wenige hundert Hertz beträgt. In den Anfangszeiten der Fernmeldetechnik wurden dazu umfangreiche Untersuchungen durchgeführt.
+Weitere Komponenten steuern den Verbindungsablauf. Das sind Gabelumschalter, Nummernschalter bzw. Tastenwahlblock für den automatischen oder halbautomatischen Verbindungsaufbau, der Kurbelinduktor beim manuellen Verbindungsaufbau (oft im OB-Betrieb), Rückfragetaste und besonders im Bereich der Telefonanlagen zahlreiche weitere Bedienelemente. Wichtige Begriffe beim Ausbau des immer engmaschigeren Telefonnetzes sind Vermittlungstechnik und Selbstwählferndienst.
+Schließlich besitzt ein Telefon eine Klingel. Früher arbeitete diese elektromagnetisch, durch einen Kondensator von der Telefonnetz-Gleichspannung entkoppelt, direkt an der zur Signalisation bereitgestellten, der Gleichspannung überlagerten Ruf-Wechselspannung von 25 Hz (Deutschland). Heute erfolgt die Auswertung dieser bei analogen Telefonanschlüssen auch heute noch verwendeten Rufspannung meist elektronisch.
+
+
+Übertragungsmedium und verwendete Technik
+
+
+Kabeltelefone, das Kabelnetz
+Die gleichzeitige Signalübertragung in beiden Richtungen in zwei Adern wird mit einem Differentialtransformator (siehe Gabelschaltung) realisiert. Damit wird verhindert, dass man sich im Telefonhörer übermäßig selbst hört. Man nennt das auch Rückhördämpfung.
+Weiterhin enthalten Telefone einen Generator zur Erzeugung der Wählimpulse (Wählscheibe oder elektronisch) beziehungsweise der modulierten Töne des Mehrfrequenzwahlverfahrens (MFV). Die Hör- und Sprechkapseln enthalten einfache Mikrofone beziehungsweise Lautsprecher, ähnlich wie in Kopfhörern.
+Von der Teilnehmeranschlussleitung gelangt von der Vermittlungsstelle eine Gleichspannung (etwa 60 V) über Widerstände zum Telefon. Im aufgelegten Zustand fließt im Telefon kein nennenswerter Strom – es ist hochohmig. Wird der Telefonhörer abgehoben, bricht diese Spannung auf einen definierten Wert (etwa 12 V) zusammen, da das Telefon nun mit einem Widerstand von etwa 600 Ohm an die Leitung geschaltet ist. Diese Spannung dient als Speisespannung (früher diente sie lediglich der Speisung des Kohlemikrofons) und signalisiert zugleich den Zustand wie auch beim (veralteten) Impulswahlverfahren die Wählimpulse (diese unterbrechen den Stromkreis periodisch). Bevor die Gegenseite das Gespräch annimmt, wird zum anrufenden Telefon ein Tonsignal gesandt (Wählton oder Besetztton, siehe Hörtöne), gleichzeitig wird von der Vermittlungsstelle zum klingelnden Telefon eine der Gleichspannung überlagerte Wechselspannung niedriger Frequenz (in Deutschland 25 Hz) gesandt (Rufspannung). Diese Wechselspannung erregte früher direkt ein elektromagnetisches Läutwerk, heute wird sie vom Telefon elektronisch detektiert und kann auch elektronisch erzeugte Klingeltöne steuern.
+Bis heute werden Telefone hauptsächlich über die Kabelnetze der Telefongesellschaften an die Ortsvermittlungsstellen angeschaltet. Zu Anfang liefen von jedem Telefon zwei Drähte an Telegraphenmasten zu einer Zentralstelle, wo sie auf Glühlampen- oder Klappenschränken abgeschlossen wurden. Bei diesem Prinzip gab es bald die von historischen Fotos bekannten unüberschaubaren Gewirre von Leitungen und Telegraphenmasten an den Straßen, 50 Leitungen an Doppel- und Dreifachgestängen waren nichts Ungewöhnliches.
+Wegen der hohen Störanfälligkeit begann man in Deutschland im Frühjahr 1876 damit, das gesamte Telegrafen-Fernliniennetz als Kabelnetz unterirdisch zu verlegen. Das Vorhaben wurde 1881 vorläufig abgeschlossen, 30 Millionen Mark waren verbaut worden. Den Anfang des Europäischen Kabelnetzes im Fernsprech-Weitverkehr machte 1913/14 die Verlegung des sog. Rheinlandkabels von Berlin bis Hannover, das wegen Ausbruch des Ersten Weltkrieges zunächst nicht weitergeführt wurde.
+Vor allem durch die Autotelefone und Mobiltelefone werden zunehmend auch kabellose Funkkanäle für die Telefonie benutzt.
+
+
+Satellitentelefon
+Seit 1982 ist mit Satellitentelefonen ein System verfügbar, mit dem ohne flächendeckende erdgebundene Infrastruktur weltweit telefoniert werden kann.
+
+
+Schnurlostelefone, DECT
+Digital Enhanced Cordless Telecommunications (DECT, Digitale, verbesserte schnurlose Telekommunikation; bis 1995 Digital European Cordless Telephony) ist der aktuelle Standard für Schnurlostelefone. Dabei wird ab einer Basisstation für den Gesprächsaufbau wieder das Kabelnetz benutzt. Nur zwischen Basisstation und Handapparat findet Funkbetrieb statt.
+„Schnurlostelefon“ entspricht dem englischen Begriff Cordless Telephone, abgekürzt CT. Unter dieser Bezeichnung wurden zunächst ab 1984 zwei standardisierte Techniken auf den Markt gebracht, CT1 und CT2. CT1 definiert sich über ein schnurloses Telefon mit 80 analogen Duplex-Kanälen und einem Organisationskanal. CT2 hatte 40 Duplex-Kanäle und arbeitete mit einem digitalen Übertragungsverfahren. CT1-Telefone sind in Deutschland nicht mehr zugelassen, seit 2009 gilt das auch für CT1+- und CT2-Telefone, seit dem 1. Januar 2003 sind Störungen durch andere Funkdienste möglich. Die Benutzung eines Telefons mit CT1+- oder CT2-Standard ab Januar 2009 stellt einen Verstoß gegen das Telekommunikationsgesetz dar. Der Besitzer des Telefons kann durch Messungen ermittelt und mit einem Bußgeld belegt werden, das laut Bundesnetzagentur mehr als 1000 Euro betragen kann. Laut einer Aussage der Bundesregierung von 2008 wird der Betrieb jedoch geduldet, solange keine Störung durch das Gerät erfolgt.
+
+
+Mobiltelefonie
+
+Das Mobiltelefon, ugs. „Handy“, ist ein tragbares Telefon, das über Funk mit dem Telefonnetz kommuniziert und daher ortsunabhängig eingesetzt werden kann.
+
+
+HD-Telefonie
+
+HD-Telefonie ist eine Tonübertragung, die eine noch höhere Qualität hat. Grundvoraussetzung dafür ist, dass beide Telefonanschlüsse dazu fähig sind.
+
+
+Telefonvertrag
+Um Fernkommunikation mittels eines Telefons betreiben zu können, bedarf es der Freischaltung in ein Telefonnetz. Die dadurch entstehenden Kosten werden gegenüber dem Telefonkunden durch die Telefongesellschaften abgerechnet. Grundlage für die Bezahlung ist der dabei geschlossene Telefonvertrag. Dieser ist eine Mischung aus Dienst-, Werk- und gegebenenfalls Kaufvertrag. Da Telekommunikation der Regulierung der Bundesnetzagentur unterliegt, wird die zivilrechtliche Vertragsfreiheit durch Öffentliches Recht und daraus folgenden Regulierungsmaßnahmen eingeschränkt.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+Geschichte des Telefons
+Bevor sich die Sprachübertragung mittels elektrischer Signale durchsetzte, gab es mehr oder weniger erfolgreiche Versuche für nicht elektrisches Fernsprechen. Um 1670 stellte Samuel Morland in London Versuche an, Sprache mit Instrumenten zu übertragen, die einer Trompete ähnelten. Die Idee wurde etwa 100 Jahre später von Johann Heinrich Lambert nochmals aufgegriffen. 1783 erschien in Paris anonym ein Prospekt unter dem Titel Über die Fortpflanzung des Schalls und der Stimme in Röhren […]. Damit sollten Mittel für einen Großversuch eingeworben werden. Das Projekt kam bei einem geschätzten Stationsabstand von vier Kilometer und wegen der damit verbundenen hohen Störanfälligkeit nicht zum Tragen. Im 19. Jahrhundert wurden Sprechrohrleitungen dann für lange Zeit in der Dampfschifffahrt z. B. für die Verbindung der Kommandobrücke mit dem Maschinenraum eingesetzt.
+Die Geschichte des Telefons beginnt 1837, als der US-Amerikaner Samuel F. B. Morse den Morsetelegraphen konstruierte. Damit wurde die für das Telefon wichtige Vorbedingung der Übermittlung von Signalen durch elektrische Leitungen bereits in die Praxis umgesetzt.
+1854 legte der Pariser Telegraphenbeamte Charles Bourseul (1829–1912) ein Referat über mögliche Techniken der elektrischen Sprachübertragung vor. Dem folgten praktische Entwicklungen von prinzipiell funktionierenden Telefonapparaten unter anderem von Innocenzo Manzetti, Antonio Meucci, Tivadar Puskás, Philipp Reis, Elisha Gray und Alexander Graham Bell. Von diesen frühen Erfindern hatte jedoch nur Bell die organisatorischen Fähigkeiten, das Telefon über die Labor-Versuchsapparatur hinaus als Gesamtsystem zur Marktreife zu bringen. So brachte Bell 1876 in Boston das Telefon erstmals zur praktischen Anwendung.
+
+Bells Gerät bestand aus einem Wandler, der abwechselnd als Mikrofon und als Lautsprecher benutzt wurde. Es besaß eine biegsame Metallmembran, einen Stabmagneten und eine den Magneten umschließende Drahtspule. Die beim Besprechen erzeugten unterschiedlich starken Schallwellen versetzten die Membran in Schwingung. Durch den geänderten Magnetfluss wurden in der Spule elektrische Spannungen induziert. Die auf diese Weise in elektrische Signale umgewandelten Schallwellen wurden über eine Drahtverbindung zum Empfängertelefon weitergeleitet. In dessen Wandler fand nun der umgekehrte Prozess statt. Der ankommende modulierte Strom erzeugte ein veränderliches magnetisches Feld, das die Membran in Schwingungen versetzte, wodurch wieder Schallwellen entstanden.
+Mit Geräten dieser Art wurden am 26. Oktober 1877 in Berlin unter der Regie von Generalpostmeister Heinrich von Stephan und Generaltelegraphendirektor Budde erfolgreiche Übertragungsversuche über zunächst 6 km, dann 26 km und zuletzt 61 km durchgeführt. Stephan ließ nach diesen ersten Versuchen weitere Bell-Telefone von der Firma Siemens & Halske anfertigen. Diese Ereignisse kennzeichneten den Beginn der einsatzfähigen Telefonie in Deutschland.
+Mit der Erfindung des Kohlemikrofons um 1878 unabhängig voneinander durch Thomas Alva Edison, Emil Berliner und David Edward Hughes in Verbindung mit der Verbesserung des Hörers durch Werner von Siemens wurde eine wesentlich lautere Übertragung und damit Gespräche über größere Entfernungen möglich (Demonstration auf der Internationalen Elektrischen Ausstellung 1883). Für den Aufbau von Telefonverbindungen wurde zunächst die sogenannte Handvermittlung durch das „Fräulein vom Amt“ eingesetzt.
+Um dem Anwender die Möglichkeit zu geben, selbst seine Verbindung aufzubauen (Selbstwähldienst), begann Almon Strowger 1888 mit der Entwicklung eines automatischen Telefonvermittlungssystems. Am 10. März 1891 patentierte Strowger, der von Beruf eigentlich Bestatter war, dieses Vermittlungssystem (Automatic Telephone Exchange) unter der US Patent No. 447,918. Überlieferungen zufolge wurde Strowger zu der Entwicklung eines automatischen Vermittlungssystems angeregt, weil ihm ein konkurrierendes Bestattungsunternehmen gemeinsam mit dem örtlichen „Fräulein vom Amt“ die eingehenden Kundenaufträge wegnahm. Bei diesem System waren im Telefon für die Einer-, Zehner- und Hunderterstelle der zu wählenden Rufnummer je eine Taste montiert, die der Ziffer entsprechend oft gedrückt werden musste. Die Bedienung war entsprechend umständlich und fehleranfällig und der Installationsaufwand hoch, da jede Taste über eine eigene Leitung mit der Vermittlungsstelle verbunden war.
+Weitere Selbstwahleinrichtungen für das Telefon folgten, wie der am 11. Januar 1898 von A. E. Keith und den Brüdern John und Charles J. Erickson, die Mitarbeiter der Strowger Automatic Telephone Exchange Company waren, unter der US patent No. 597,062 patentierte Strowger finger-wheel sub station dial. Durch dieses Gerät wurde die Anzahl der Leitungsadern zur Übertragung der Wahlinformationen auf zwei reduziert.
+Am 29. April 1913 patentierte die Firma Siemens & Halske den über lange Zeit in Telefonen gebräuchlichen Nummernschalter, der nach dem Impulswahlverfahren arbeitete. Der Einsatz von Nummernschaltern in Telefonen ist in Deutschland für das Jahr 1908 und in den USA mindestens ab 1907 dokumentiert.
+1955 wurde von den Bell Telephone Laboratories das Mehrfrequenzwahlverfahren (MFV) entwickelt. Diese Art der Anwahl über Tasten ist heute die gebräuchlichste bei analogen Telefonen.
+Mit der modernen Elektronik und Computertechnologie konnten die elektromechanischen Elemente durch Halbleiter-Bauteile ersetzt werden, die wesentliche Verkleinerungen des Gerätes und die Ausstattung mit immer mehr zusätzlichen Funktionen erlaubten und sowohl die Bedienung vereinfachen als auch andere Nutzungsmöglichkeiten – beispielsweise die akustische Raumüberwachung – bieten.
+Während beispielsweise die Anrufsignalisierung zunächst über einen elektromechanischen Wecker erfolgte, ist dieser jetzt durch einen elektronischen, meist einstellbaren Signalton ersetzt. Zusätzliche Merkmale sind unter anderem Rufnummernübermittlung abgehender und ankommender Rufe, Nummernspeicher (Telefonbuch, Kurz- oder Direktwahl), Anrufweiterleitung, Konferenzschaltungen, Anrufliste und Freisprechen. Darüber hinaus ist das Telefon selbst mittlerweile gelegentlich als Geräteeinheit mit weiteren Endgeräten wie Anrufbeantworter (meist mit Fernabfrage) und Fax-Gerät kombiniert.
+Neben seiner primären Funktion für die Sprachkommunikation ist das Telefon mitsamt der dafür notwendigen Übertragungs- und Vermittlungstechnik wesentlicher Bestandteil eines weltweiten Nachrichtennetzes, über das neben der Sprache Informationen jeder Art übertragen werden können.
+
+Die Entwicklung des Mobiltelefons begann 1926 mit einem Telefondienst in Zügen der Deutschen Reichsbahn und Reichspost auf der Strecke zwischen Hamburg und Berlin. Seit der Jahrtausendwende werden Mobiltelefone flächendeckend eingesetzt.
+Die wichtigsten und bekanntesten Telefonapparate in der Geschichte der deutschen Telekommunikationstechnik waren die Modelle W28 (ab 1928), W38 und W48 (ab 1938 bzw. 1948), sowie der FeTAp 611 (ab 1963).
+Im Jahr 1964 wurde das erste in Deutschland entwickelte Tastentelefon vorgestellt: das Siemens Etafon. Es besaß zehn Zifferntasten, die in zwei Reihen versetzt angeordnet waren (1 3 5 7 9/ 2 4 6 8 0), vier Tasten (heute als Zielwahltasten bezeichnet), auf denen Telefonnummern abgespeichert werden konnten, sowie eine Freisprecheinrichtung. Das Gerät war als Machbarkeitsstudie konzipiert, da die Komponenten für eine Serienproduktion zu teuer waren.
+Als erstes in der Bundesrepublik Deutschland verfügbare Festnetz-Tastentelefon war der FeTAp 751 ab November 1976 erhältlich. Die seit vielen Jahren üblichen schnurlosen Telefone erreichten Ende der 1980er Jahre den deutschen Markt. Als erstes Modell deutschlandweit gilt das Stabo ST930, welches 1988 durch die Deutsche Bundespost genehmigt wurde.
+In der Schweiz wurde nach dem Modell 29 (1929) das weit verbreitete Modell 50 (1950, über zwei Millionen Exemplare) als schwarzes Wand- und Tischmodell, letzteres später auch crèmefarben und in grau eingeführt. Das Modell 70 (1970) hat ein etwas moderneres Aussehen und war zunächst nur in grau, ab 1978 gegen Aufpreis in anderen Farben und ab 1976 auch mit Tasten (jedoch weiterhin Impulswahl) erhältlich. Es waren nur die PTT-geprüften Apparate erlaubt, die man bei der Fernmeldedirektion nur mieten konnte (respektive musste). Quasi unerreichbarer Luxus waren die vorne im Telefonbuch abgebildeten Modelle von Nachbauten aus den Anfängen der Telefonie sowie zwei Modelle mit Namen amerikanischer Städte, die rund fünf- bis zehnmal teurer zu mieten waren, jedoch alle die gleiche Impulstechnik und Wählscheibe aufwiesen.
+
+
+Sonderformen
+Für spezielle Einsatzgebiete wurden besondere Fernsprechapparate entwickelt: Einbautelefon, Feldtelefon, Grubentelefon (schlagwettergeschützt), Hausnotrufanlagen, Notruftelefone. Die weltweit verbreitetste Sonderform ist aber die Telefonzelle bzw. fachlich präziser das Telefonhäuschen, mit fest installiertem Münzfernsprecher.
+
+
+Feuermeldestellen
+Siehe Hauptartikel über Brandmelder
+Ursprünglich waren Feuermeldestellen eine Sonderform der Rufsäule, die eine hilfesuchende Person mit der Einsatzzentrale der Feuerwehr verbinden konnten.
+
+
+Notruftelefon
+Notruftelefone sind kostenlos benutzbare Fernmeldeeinrichtungen, die es ermöglichen, in abgelegenen oder besonders gefährdeten Gegenden Hilfe herbeizurufen. In der Regel kann mittels Betätigen eines Rufhebels bzw. Ruftasters nur ein bestimmter Gesprächspartner erreicht werden (Straßenmeisterei, Notrufzentrale usw.).
+
+Siehe Hauptartikel über Notruftelefon
+Rettungsdienststiftung Björn Steiger e. V., die Rettungskette nach Unfällen
+
+
+Hausnotrufanlagen
+Unter Hausnotruf (auch Funkfinger, Rufhilfe, Seniorenalarm) versteht man ein auf der Telefontechnik basierendes Notrufsystem, das es alleinwohnenden alten oder behinderten Menschen erleichtert, in Notfällen Hilfe zu rufen, ohne Wählscheibe oder Tastatur nutzen zu müssen. Den Betroffenen wird dadurch ermöglicht, länger in ihrer Wohnung zu leben und dennoch die Sicherheit zu haben, notfalls nicht auf rasche Hilfe z. B. von Angehörigen, Ärzten oder Notdiensten verzichten zu müssen. Auslöser des Alarms ist üblicherweise ein tragbarer Notrufsender (Klein-Funkgerät mit einer Taste), es kann aber auch ein Sensor sein, der auf Sturz reagiert. Nach Angaben des Bundesverbandes Hausnotruf gab es 2006 in etwa 350 deutschen Städten Anbieter solcher Systeme, die auch auf eines der etwa 180 Callcenter aufgeschaltet werden können. Dort sind Basisinformationen und früher vereinbarte Verfahrensanweisungen für die verschiedenen Situationen hinterlegt (z. B.: wenn …, dann informiere Person Xyz, … alarmiere Rettungsdienst). Damit wurden in Deutschland etwa 350.000 in ihrem Privathaushalt lebende Personen versorgt.
+
+
+Kunst
+Das Telefon ist ein äußerst beliebtes Motiv in der Kunst, Musik, Literatur oder im Film. Hier eine kleine Aufzählung von Werken, in denen das Telefon eine Art Hauptrolle spielt:
+
+Musik / Oper
+
+Telephon. Polka-Française op. 165 von Eduard Strauß (1878)
+The Telephone, Oper von Gian Carlo Menotti (1947)
+Telefonbuchpolka von Georg Kreisler (1957)
+La voix humaine, Oper von Francis Poulenc (Musik) und Jean Cocteau (Text) (1959)
+Telephone Line von Jeff Lynne komponiert, dem Electric Light Orchestra (ELO) gespielt und auf dem Album A New World Record 1976 veröffentlicht.
+Spielfilme
+Bei Anruf Mord (1954) („Dial M for Murder“) von Alfred Hitchcock
+Stimme am Telefon (1965), Spielfilm um einen Telefonseelsorger, der von einer Frau angerufen wird, die Schlaftabletten genommen hat
+Telefon (1977), ein Spielfilm mit Charles Bronson
+E. T. – Der Außerirdische (1983), will nach Hause telefonieren
+Nicht auflegen (2002), spielt hauptsächlich in einer Telefonzelle
+Kunstwerke
+Hummer-Telefon von Salvador Dalí, 1936
+Soft Pay-Telephone von Claes Oldenburg, 1963
+
+
+Sonstiges
+Vermutlich beanspruchte erstmals der englische Kapitän John Taylor im Jahr 1844 den Begriff Telephon für seine Erfindung, Informationen mittels vier verschiedener trompetenartiger Töne über ein großes Gerät mit schallbündelndem Trichter mit bis zu einer Reichweite von 15 Kilometern zu übertragen.
+Einer der ersten Sätze, die durch ein Telefon übermittelt wurden, lautet einer Überlieferung zufolge: „Das Pferd frisst keinen Gurkensalat“. (siehe Das Pferd frisst keinen Gurkensalat)
+Die Aufforderung „Fasse dich kurz!“ war bis in die 1970er Jahre an öffentlichen Fernsprechern angebracht.
+Nach ISDN in den 1990er Jahren beginnt mit der IP-Telefonie seit den 2000er Jahren ein weiterer technischer Umbruch.
+Computer Telephony Integration (CTI) verknüpft Computer und Telekommunikation.
+Ein Telefongespräch kann aus technischer und sozialer Sicht betrachtet werden.
+AVON ist die Kurzform für Amtliches Verzeichnis der Ortsnetzkennzahlen, umgangssprachlich Telefonvorwahlliste.
+Bei Auslandsgesprächen muss die Internationale Telefonvorwahl berücksichtigt werden.
+Bei Telefontastaturen sind die Ziffern von 1 bis 9 im Gegensatz zu den meisten Taschenrechnern und Computern von oben nach unten angeordnet.
+Bildtelefone und Schreibtelefone mit unterschiedlichen Techniken haben sich meist nur für Gehörlose durchgesetzt.
+Eine Computerverbindung über das normale Telefonnetz erfolgte früher mit einem Akustikkoppler, heute mit einem Modem.
+Als Telefondose für analoge Anschlüsse dient in Deutschland die Telekommunikations-Anschluss-Einheit (TAE), in Österreich die (geometrisch mit der TAE inkompatible) TDO, anderswo meist der Western-Stecker.
+Die zunächst bei Mobiltelefonen verbreitete Nutzung von SMS-Kurznachrichten ist als Festnetz-SMS auch mit Festnetztelefonen möglich.
+Bei analogen Telefonen werden nur zwei Adern zur Übertragung eines Gespräches benötigt.
+Die Rückfragetaste (R-Taste oder auch Signaltaste) wurde für Sonderfunktionen in Telefonanlagen wie zum Beispiel für die Amtsanlassung (Belegen einer Amtsleitung) oder zur Weitervermittlung von Amts- und Interngesprächen benutzt. Sie war früher als Erdtaste ausgeführt und ist heute in der Regel als Flash-Taste ausgeführt.
+Ein altes Kinderspielzeug ist das selbst gebastelte Schnurtelefon.
+Das Telefonnetz wird von Telekommunikationsunternehmen betrieben.
+Makatel (Abkürzung für Magnetkartentelefon) bezeichnet ein Verfahren zum bargeldlosen Bezahlen mit Kreditkarte.
+Das Theatrophon ist ein System zur stereofonen Übertragung von Opern- und Theateraufführungen über das Telefon.
+In München wurde ab 1. Oktober 1924 versuchsweise eine Übertragung von Opernaufführungen über das Telefon eingerichtet (Telephon-Oper). Zur Teilnahme zugelassen wurden Inhaber von Fernsprech-Hauptanschlüssen im Anschlußbereich des Ortsnetzes München, Inhaber von öffentlichen Räumen mit zur vorübergehenden Vermietung an Dritte bestimmten Mithörvorrichtungen sowie Opernhörstuben. Die Post stellte hierfür den Fernsprechteilnehmern 2, 4, 6 oder 8 Doppelkopfhörer mietweise zur Verfügung. Die einmaligen Kosten betrugen je nach Anzahl der Doppelkopfhörer 30–75 Mark, die vierteljährlichen Gebühren 30–72 Mark.
+Der vormals offizielle Ausdruck Fernsprecher wurde bei der Bundespost im Jahr 1980 durch die Bezeichnung Telefon abgelöst.
+1939 erschien die Filmbiografie Liebe und Leben des Telefonbauers A. Bell, in dem Alexander Graham Bell von Don Ameche verkörpert wurde. Er wurde so mit der Rolle des Erfinders identifiziert, dass man das Telefon in Teilen der USA „Ameche“ nannte.
+Bei Unicode gibt es drei Symbole für Telefon: ✆, ☎ und ☏.
+
+
+Siehe auch
+Liste aller Wikipedia-Artikel, deren Titel mit Telefon beginnt
+Liste aller Wikipedia-Artikel, deren Titel Telefon enthält
+Rotes Telefon
+Telefonvorwahl (Deutschland)
+Telefonvorwahl (Österreich)
+Telefonvorwahl (Schweiz)
+
+
+Literatur
+Dietrich Arbenz: Vom Trommelwähler zu Optiset E – Die Geschichte der drahtgebundenen Telefone für die Wählnebenstellenanlagen von Siemens (1950–2000). Herbert Utz Verlag, München 2009, ISBN 978-3-8316-0908-6.
+Margret Baumann und Helmut Gold (Hrsg.): Mensch Telefon. Aspekte telefonischer Kommunikation. Umschau/Braus, Heidelberg 2000 (= Kataloge der Museumsstiftung Post und Telekommunikation, 8).
+Jörg Becker (Hrsg.): Fern-sprechen: internationale Fernmeldegeschichte, -soziologie und -politik. Vistas, Berlin 1994.
+John Collard: Theoretische Studie über Artikulation und Verständlichkeit in Telefonstromkreisen. Wien 1928/29.
+Harvey Fletcher und J. C. Steinberg: Articulation testing methods. 1929.
+Kirsten von Hagen: Telefonfiktionen: Spielformen fernmündlicher Kommunikation. Brill Deutschland, 2015, ISBN 978-3-7705-5801-8.
+Christel Jörges (Hrsg.): Telefone 1863–2000: aus den Sammlungen der Museen für Kommunikation. Edition Braus, Heidelberg 2001 (= Kataloge der Museumsstiftung Post und Telekommunikation, 9).
+Stefan Münker und Alexander Roesler (Hrsg.): Telefonbuch: Beiträge zu einer Kulturgeschichte des Telefons. Suhrkamp, Frankfurt am Main 2000 (= Edition Suhrkamp, Band 2174), ISBN 978-3-518-12174-0.
+Avital Ronell: Das Telefonbuch. Brinkmann und Bose, Berlin 2001.
+Rainer Schönhammer: Telefon-Design. Der Körper des Fernsprechers. Kerken, 2004. Kostenlos online bei uni-saarland.de.
+Gert Kaszynski und Jürgen Schönhoff: Fernsprechendgeräte. Verlag Technik, Berlin 1991. Mit sehr umfangreicher Bibliographie.
+Clemens Schwender: Wie benutze ich den Fernsprecher? Die Anleitung zum Telefonieren im Berliner Telefonbuch 1881–1996/97. Berlin, Bern, New York 1997.
+François Smesny (Hrsg.): Telefongeschichten. O-Ton-Produktion, Berlin 2010, ISBN 978-3-9810256-9-9.
+Frank Thomas: Telefonieren in Deutschland: organisatorische, technische und räumliche Entwicklung eines großtechnischen Systems. Campus-Verlag, Frankfurt am Main 1995.
+
+
+Weblinks
+
+Literatur von und über Telefon im Katalog der Deutschen Nationalbibliothek
+Museum für Kommunikation – Bern
+Umfangreiche private Sammlung
+Sammlerseite mit vielen Bildern von alten Fernsprechern (mit Schaltbildern und Reparaturanleitungen für W48 und ähnliche Telefone)
+Regine Buschauer: Telefon. In: Historisches Lexikon der Schweiz.
+Industriewandfernsprecher
+Leitfaden „Barrierefrei hören und kommunizieren in der Arbeitswelt“: Checkliste Barrierefreie Telefone Das Projekt hörkomm.de unterstützt die Inklusion schwerhöriger Beschäftigter.
+Das Telefonprogramm der Post von 1985
+Museumsstiftung Post und Telekommunikation – Berlin, Frankfurt, Hamburg und Nürnberg
+Silvanus P. Thompson - Philipp Reis: Inventor of the Telephone A Biographical Sketch, London, 1883
+
+
+Einzelnachweise","[""Telefon"", ""Alexander Graham Bell"", ""Kommunikationstechnik"", ""Geschichte des Telefons"", ""\u00dcbertragungsmedium""]","[{'role': 'Historian', 'description': 'A knowledgeable historian specializing in the history of communication technologies.', 'expertise_area': 'History', 'perspective': 'Historical Context', 'speaking_style': {'tone': 'Ernst und nachdenklich, gelegentlich humorvoll mit einem Hauch von Sarkasmus', 'language_complexity': 'Komplexe Sprache mit Fachjargon aus der Geschichte und Technik, häufige Verwendung von Metaphern und Analogien', 'communication_style': 'Kollaborativ und inquisitiv, stellt oft rhetorische Fragen zur Anregung von Diskussionen', 'sentence_structure': 'Lange und komplexe Sätze mit vielen Nebensätzen, gelegentliche Verwendung von Ausrufezeichen zur Betonung', 'formality': 'Halb-formal bis formal, je nach Kontext der Diskussion', 'other_traits': 'Verwendet Pausen effektiv zur Betonung, neigt dazu, historische Anekdoten einzuflechten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun ja'], 'catchphrases': ['Geschichte wiederholt sich', 'In der Tat!', 'Das ist ein interessanter Punkt'], 'speech_patterns': [""Beginnt oft mit 'Historisch gesehen...'"", ""'Man könnte sagen...' als Einleitung für Argumente""], 'emotional_expressions': ['Lachen bei ironischen Bemerkungen', ""'Unglaublich!' bei überraschenden Fakten""]}, 'social_roles': ['Information Giver', 'Opinion Seeker'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Encourages others to share their opinions and beliefs in order to understand different perspectives.']}, {'role': 'Telecommunications Engineer', 'description': 'An expert in modern communication systems and technologies, with a focus on the evolution of telecommunication devices.', 'expertise_area': 'Engineering', 'perspective': 'Technical Insight', 'speaking_style': {'tone': 'Sachlich und enthusiastisch, gelegentlich optimistisch mit einem Hauch von Humor', 'language_complexity': 'Technische Sprache mit Fachjargon aus der Telekommunikation, häufige Verwendung von Analogien und praktischen Beispielen', 'communication_style': 'Direkt und assertiv, stellt oft klare Fragen zur Klärung von Details', 'sentence_structure': 'Mittellange bis lange Sätze mit klarer Struktur, häufige Verwendung von Fragen zur Interaktion', 'formality': 'Halb-formal bis informell, je nach Gesprächspartner und Kontext', 'other_traits': 'Verwendet Pausen effektiv zur Betonung technischer Punkte, neigt dazu, praktische Beispiele einzuflechten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Das ist eine gute Frage', 'In der Praxis sieht das so aus', 'Technisch gesehen'], 'speech_patterns': [""Beginnt oft mit 'Aus technischer Sicht...'"", ""'Man könnte sagen...' als Einleitung für technische Erklärungen""], 'emotional_expressions': ['Lachen bei humorvollen Bemerkungen', ""'Wow!' bei beeindruckenden technischen Fakten""]}, 'social_roles': ['Evaluator-Critic', 'Aggressor'], 'social_roles_descr': ['Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.', 'Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.']}, {'role': 'Cultural Anthropologist', 'description': 'A specialist in understanding the cultural impact of communication technologies on society.', 'expertise_area': 'Cultural Studies', 'perspective': 'Societal Impact', 'speaking_style': {'tone': 'Lebhaft und neugierig, oft optimistisch mit einem Hauch von Humor', 'language_complexity': 'Vielfältige Sprache mit kulturellen Referenzen und gelegentlicher Verwendung von Metaphern und Geschichten', 'communication_style': 'Kollaborativ und explorativ, stellt häufig offene Fragen zur Förderung des Dialogs', 'sentence_structure': 'Variiert zwischen kurzen prägnanten Sätzen und längeren, erzählerischen Strukturen', 'formality': 'Informell bis halb-formal, abhängig vom Kontext der Diskussion', 'other_traits': 'Verwendet rhythmische Pausen zur Betonung kultureller Aspekte, neigt dazu, interkulturelle Anekdoten einzuflechten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Weißt du'], 'catchphrases': ['Das ist faszinierend!', 'Kulturell gesehen', ""'In der Gesellschaft...' als Einleitung für Erklärungen""], 'speech_patterns': [""Beginnt oft mit 'Aus kultureller Sicht...'"", ""'Man könnte meinen...' als Einleitung für Hypothesen""], 'emotional_expressions': ['Lachen bei humorvollen Einsichten', ""'Erstaunlich!' bei überraschenden kulturellen Erkenntnissen""]}, 'social_roles': ['Harmonizer', 'Group Observer'], 'social_roles_descr': ['Mediates in conflicts and ensures that tensions in the group are reduced to promote a harmonious working environment.', 'Monitors the dynamics of the group and provides feedback on how the group is functioning as a whole and what improvements can be made.']}, {'role': 'Linguist', 'description': 'An expert in language and communication, focusing on the evolution of terminology and its societal implications.', 'expertise_area': 'Linguistics', 'perspective': 'Language Evolution', 'speaking_style': {'tone': 'Analytisch und präzise, gelegentlich humorvoll mit einem Hauch von Ironie', 'language_complexity': 'Komplexe Sprache mit linguistischem Fachjargon, häufige Verwendung von Metaphern und Analogien', 'communication_style': 'Kollaborativ und explorativ, stellt oft offene Fragen zur Förderung des Dialogs', 'sentence_structure': 'Lange und komplexe Sätze mit vielen Nebensätzen, gelegentliche Verwendung von rhetorischen Fragen', 'formality': 'Halb-formal bis formal, je nach Kontext der Diskussion', 'other_traits': 'Verwendet Pausen effektiv zur Betonung linguistischer Punkte, neigt dazu, historische Sprachbeispiele einzuflechten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun ja'], 'catchphrases': ['Sprachlich gesehen', 'Das ist ein interessanter Aspekt', 'In der Tat!'], 'speech_patterns': [""Beginnt oft mit 'Aus linguistischer Sicht...'"", ""'Man könnte sagen...' als Einleitung für Argumente""], 'emotional_expressions': ['Lachen bei ironischen Bemerkungen', ""'Unglaublich!' bei überraschenden sprachlichen Erkenntnissen""]}, 'social_roles': ['Initiator-Contributor', 'Recorder'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Documents the group decisions, ideas and actions in order to have a reference for future discussions.']}, {'role': 'Technologist', 'description': 'A forward-thinking expert in emerging technologies and their applications.', 'expertise_area': 'Technology', 'perspective': 'Future Trends', 'speaking_style': {'tone': 'Innovativ und enthusiastisch, gelegentlich ernsthaft mit einem Hauch von Optimismus', 'language_complexity': 'Komplexe Sprache mit technischem Fachjargon, häufige Verwendung von Analogien und praktischen Beispielen', 'communication_style': 'Direkt und assertiv, stellt oft klare Fragen zur Klärung von Details', 'sentence_structure': 'Mittellange bis lange Sätze mit klarer Struktur, häufige Verwendung von Fragen zur Interaktion', 'formality': 'Halb-formal bis informell, je nach Gesprächspartner und Kontext', 'other_traits': 'Verwendet Pausen effektiv zur Betonung technischer Punkte, neigt dazu, praktische Beispiele einzuflechten'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Das ist eine gute Frage', 'In der Praxis sieht das so aus', 'Technisch gesehen'], 'speech_patterns': [""Beginnt oft mit 'Aus technischer Sicht...'"", ""'Man könnte sagen...' als Einleitung für technische Erklärungen""], 'emotional_expressions': ['Lachen bei humorvollen Bemerkungen', ""'Wow!' bei beeindruckenden technischen Fakten""]}, 'social_roles': ['Opinion Giver', 'Encourager'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}]","Das Treffen konzentrierte sich auf die Entwicklung und Nutzung des Telefons als Kommunikationsmittel. Ursprünglich von Alexander Graham Bell 1876 entwickelt, hat das Telefon eine bedeutende Rolle in der Übertragung von Sprache durch elektrische Signale gespielt. Die Begriffe Fernsprecher und Fernsprechapparat wurden durch Heinrich von Stephan geprägt. Heute wird oft das Retronym Festnetztelefon verwendet, um es vom Mobiltelefon zu unterscheiden. Das Telefonsystem besteht aus dem Endgerät, der Vermittlungsstelle und dem Übertragungskanal. Technische Details umfassen die Umwandlung von Schall in elektrische Signale mittels Mikrofonen und die Rückhördämpfung zur Verbesserung der Gesprächsqualität. Die Geschichte des Telefons reicht bis ins 19. Jahrhundert zurück mit wichtigen Entwicklungen wie dem Kohlemikrofon und automatischen Vermittlungssystemen. Moderne Telefone bieten zahlreiche Funktionen wie Rufnummernübermittlung und Freisprechen. Neben kabelgebundenen Telefonen sind auch schnurlose DECT-Telefone weit verbreitet, während Mobiltelefone ortsunabhängige Kommunikation ermöglichen. HD-Telefonie bietet verbesserte Tonqualität, vorausgesetzt beide Anschlüsse unterstützen dies. Sonderformen wie Notruftelefone und Hausnotrufsysteme erweitern den Einsatzbereich des Telefons erheblich. In der Kunst ist das Telefon ein beliebtes Motiv, was seine kulturelle Bedeutung unterstreicht.","[""Scene 1: Warm Welcome\nTLDR: Brief greetings and setting a relaxed tone for the meeting.\n- Exchange of casual hellos and light-hearted remarks\n- Acknowledgment of everyone's presence\n- Setting expectations for a laid-back catch-up"", ""Scene 2: Historical Context of Telecommunication\nTLDR: Discuss the evolution of telecommunication with historical insights.\n- Historian shares anecdotes about Alexander Graham Bell and early telephone development\n- Cultural Anthropologist adds cultural significance of the telephone in society\n- Open floor for spontaneous contributions and personal stories related to historical communication"", ""Scene 3: Technical Evolution and Modern Features\nTLDR: Explore technical advancements in telecommunication devices.\n- Telecommunications Engineer explains key technological milestones like HD-Telefonie\n- Technologist discusses future trends in mobile communication technologies\n- Opportunity for participants to share personal experiences with modern telephones"", ""Scene 4: Language and Terminology Evolution\nTLDR: Examine how language around telecommunication has evolved.\n- Linguist delves into terminology changes from Fernsprecher to Festnetztelefon\n- Discussion on societal implications of these linguistic shifts led by Cultural Anthropologist\n- Participants share thoughts on how language affects perception of technology"", ""Scene 5: Societal Impact and Cultural Significance\nTLDR: Reflect on the broader societal impact of telecommunication technologies.\n- Cultural Anthropologist highlights cultural motifs involving telephones in art and media\n- Group discussion on personal observations regarding phone usage in different cultures\n- Spontaneous sharing of humorous or intriguing cultural anecdotes"", ""Scene 6: Future Trends and Innovations\nTLDR: Speculate on future developments in telecommunications.\n- Technologist presents emerging technologies that could redefine communication methods\n- Open dialogue about potential challenges and opportunities these innovations may bring\n- Participants express their hopes or concerns regarding future tech impacts"", ""Scene 7: Casual Wrap-Up and Personal Insights Sharing \nTLDR: Conclude with informal reflections and personal updates.\n- Each participant shares a brief non-work-related update or story \n- Light-hearted banter encouraged, allowing natural topic evolution \n- Final thoughts on maintaining team rapport through regular catch-ups""]",">>Cultural Anthropologist: Hallo zusammen! Schön, euch alle hier zu sehen. Ich freue mich auf eine interessante Diskussion über die Entwicklung und Zukunft der Kommunikationstechnologien.
+>>Historian: Historisch gesehen hat das Telefon unsere Kommunikation und Interaktion als Gesellschaft revolutioniert. Es ist faszinierend, wie diese Technologie uns über die Jahre hinweg verbunden hat.
+>>Telecommunications Engineer: Ja, und technisch gesehen hat das Telefon nicht nur unsere Art zu kommunizieren verändert, sondern auch die Entwicklung von Mobiltelefonen und Satellitentelefonen vorangetrieben.
+>>Linguist: Aus linguistischer Sicht ist es spannend zu beobachten, wie sich die Terminologie rund um das Telefon im Laufe der Zeit entwickelt hat – zum Beispiel von 'Fernsprecher' bis 'Smartphone'. Das spiegelt sowohl technologische Fortschritte als auch gesellschaftliche Veränderungen wider.
+>>Technologist: Die Geschwindigkeit dieser Entwicklungen ist einfach unglaublich! Ich bin gespannt darauf, wohin uns die Zukunft der Kommunikationstechnologien führen wird.
+
+>>Cultural Anthropologist: Wenn wir über die historische Entwicklung des Telefons sprechen... Die ersten Versuche der Sprachübertragung waren ja nicht einmal elektrisch!
+>>Historian: Genau! Diese frühen Experimente sind wirklich faszinierend und zeigen uns den Weg zur heutigen Technologie.
+>>Telecommunications Engineer: Ja genau! Und aus technischer Sicht ist es spannend zu sehen, wie sich alles entwickelt hat. Erinnerst du dich an die alten Wählscheibentelefone? Sie waren ein wichtiger Schritt in Richtung moderner Mobiltelefone.
+>>Linguist: Absolut! Und wenn man bedenkt, dass Begriffe wie 'Fernsprecher' heute fast vergessen sind... Das zeigt doch deutlich unsere technologische und gesellschaftliche Entwicklung.
+>>Technologist: Ja klar! Und wenn man bedenkt... Die Geschwindigkeit dieser Entwicklungen ist einfach unglaublich! 
+ >>Historian: Also, wenn wir mal ehrlich sind, die Erfindung des Telefons durch Alexander Graham Bell war echt ein Wendepunkt in der Kommunikationstechnologie. Stell dir vor, plötzlich konnte man mit jemandem am anderen Ende der Welt sprechen! Unglaublich, oder?
+>>Cultural Anthropologist: Absolut! Und aus kultureller Sicht hat das Telefon nicht nur unsere Art zu kommunizieren verändert, sondern auch die sozialen Strukturen. Es hat die Welt irgendwie kleiner gemacht. Ich meine, wer hätte gedacht, dass wir so schnell mit Menschen weltweit in Kontakt treten können?
+>>Linguist: Ja, und es ist spannend zu sehen, wie sich die Sprache rund um das Telefon entwickelt hat. Begriffe wie 'Fernsprecher' klingen heute fast nostalgisch... 
+>>Telecommunications Engineer: Haha, ja! Aber denk mal an 'Smartphone' und 'Mobiltelefon'. Die zeigen wirklich den Sprung in der Technologie. Wusstet ihr eigentlich, dass die ersten Mobiltelefone so groß waren wie Ziegelsteine? 
+>>Linguist: Echt jetzt? Das ist ja verrückt!
+>>Telecommunications Engineer: Ja genau! Und aus technischer Sicht war die Umwandlung von Schall in elektrische Signale eine echte Meisterleistung. Heute haben wir Mobiltelefone und Satellitentelefone – da kann Bell nur staunen.
+>>Historian: Interessant ist auch, wie diese frühen Entwicklungen den Weg für andere Technologien geebnet haben. Zum Beispiel das Radio oder später das Internet – alles begann irgendwie mit dem Telefon.
+>>Cultural Anthropologist: Da stimme ich dir zu. Aber glaubt ihr nicht auch, dass diese ständige Erreichbarkeit manchmal mehr Fluch als Segen sein kann? Manchmal sehne ich mich nach einer Zeit zurück ohne ständige Ablenkungen...
+>>Telecommunications Engineer: Gute Frage! Vielleicht sollten wir uns öfter bewusst offline schalten. 
+ >>Technologist: Wenn wir über die Zukunft der mobilen Kommunikation sprechen, sollten wir uns überlegen, wie 5G und IoT nicht nur die Geschwindigkeit unserer Geräte verbessern, sondern auch neue Anwendungen ermöglichen könnten. Diese Technologien könnten unsere alltäglichen Interaktionen wirklich verändern.
+
+>>Historian: Das Telefon hat unsere Kommunikationsweise und sozialen Strukturen stark beeinflusst. Es ist interessant zu sehen, wie sich das von den ersten Mobiltelefonen bis heute entwickelt hat.
+
+>>Cultural Anthropologist: Absolut! Die Einführung neuer Technologien verändert oft unsere sozialen Interaktionen. Ich finde es spannend zu beobachten, wie Smartphones unsere Art der Kommunikation erweitert haben.
+
+>>Telecommunications Engineer: Ja, die technische Entwicklung ist beeindruckend. HD-Telefonie hat die Sprachqualität verbessert, aber es gibt noch viele Herausforderungen bei der Implementierung von 5G und IoT.
+
+>>Linguist: Und sprachlich gesehen haben sich Begriffe im Laufe der Zeit gewandelt. Früher war 'Fernsprecher' geläufiger; heute sind 'Smartphone' und 'Mobiltelefon' viel verbreiteter.
+
+>>Historian: Interessant ist auch, wie schnell sich diese Technologien weiterentwickeln. Die Transformation von klobigen Geräten zu eleganten Smartphones zeigt den Fortschritt deutlich.
+
+>>Cultural Anthropologist: Genau! Und diese Veränderungen wirken sich auf unsere Kultur aus – sie schaffen neue Formen der Nähe und des Verständnisses in der Gesellschaft.
+
+>>Telecommunications Engineer: Was denkt ihr über die Herausforderungen bei der Integration von 5G? Es gibt ja einige technische Hürden...
+
+>>Technologist: Gute Frage! Die Infrastruktur muss erheblich verbessert werden, um die volle Kapazität von 5G auszuschöpfen. Das erfordert große Investitionen und Zusammenarbeit zwischen verschiedenen Akteuren.
+
+>>Linguist: Und das könnte auch Auswirkungen auf die Sprache haben – neue Begriffe könnten entstehen oder bestehende sich ändern. 
+ >>Cultural Anthropologist: Aus kultureller Sicht ist es wirklich spannend zu beobachten, wie sich die Begriffe im Laufe der Zeit verändert haben. Diese Veränderungen beeinflussen definitiv unsere Wahrnehmung und Nutzung der Technologie.
+>>Historian: Ja, genau! Historisch gesehen haben sich die Begriffe rund um das Telefon nicht nur aus technischer Notwendigkeit entwickelt, sondern auch durch gesellschaftliche Veränderungen. Der Übergang von 'Fernsprecher' zu 'Festnetztelefon' und schließlich zu 'Smartphone' spiegelt unsere zunehmende Mobilität wider. Es zeigt deutlich, wie Sprache diese Entwicklungen reflektiert.
+>>Telecommunications Engineer: Absolut! Technologisch betrachtet hat die Entwicklung der Telefone auch die Terminologie beeinflusst. Begriffe wie 'Fernsprecher' und 'Festnetztelefon' beschreiben nicht nur Geräte, sondern auch unsere Denkweise über Kommunikation. Die technischen Fortschritte haben unsere Sprache und damit auch unser Verständnis von Technologie verändert.
+>>Linguist: Interessant ist dabei aus linguistischer Sicht, dass der Übergang von 'Fernsprecher' zu 'Smartphone' nicht nur technische Fortschritte widerspiegelt, sondern auch gesellschaftliche Entwicklungen. Unsere Art der Kommunikation hat sich grundlegend gewandelt.
+>>(Handy klingelt plötzlich)
+>>Telecommunications Engineer (schmunzelt): Da meldet sich wohl jemand direkt mit seinem Smartphone!
+>>(alle lachen leicht)
+>>Historian: Das erinnert mich daran—nach dem Fall der Berliner Mauer wurden Mobiltelefone in Deutschland viel populärer. Diese historische Wende hat die Art und Weise verändert, wie wir über Kommunikation denken.
+>>Cultural Anthropologist: Genau! Und in unserer Gesellschaft beeinflussen solche sprachlichen Veränderungen auch die Art und Weise, wie wir Technologie nutzen.
+>>Linguist: Es ist faszinierend zu sehen, wie schnell sich diese Begriffe verbreiten—besonders nach technologischen Durchbrüchen wie dem Aufkommen des Internets oder Smartphones.
+>>(Telecommunications Engineer nickt zustimmend) 
+ >>Cultural Anthropologist: Also, aus kultureller Sicht ist es wirklich spannend, wie das Telefon in der Kunst und Medien dargestellt wird. Denkt mal an Filme wie 'Bei Anruf Mord' oder Salvador Dalís Hummer-Telefon – das zeigt doch, wie tief verwurzelt diese Technologie in unserer Gesellschaft ist. Habt ihr vielleicht andere Beispiele im Kopf?
+
+>>Historian: Ähm, historisch gesehen hat das Telefon nicht nur die Art und Weise revolutioniert, wie wir kommunizieren, sondern auch tiefgreifende gesellschaftliche Veränderungen bewirkt. Man könnte sagen, dass es die Welt kleiner gemacht hat. Aber was denkt ihr über seine Rolle in politischen Bewegungen? Ich meine, es hat ja auch Proteste und soziale Bewegungen beeinflusst.
+
+>>Telecommunications Engineer: Genau! Technisch gesehen ist es faszinierend zu sehen, wie das Telefon nicht nur als Kommunikationsmittel fungiert, sondern auch als kulturelles Symbol. Die Entwicklung von den ersten Wählscheibentelefonen zu den heutigen Smartphones zeigt doch deutlich unsere veränderte Wahrnehmung und Nutzung. Und wenn man bedenkt, dass wir jetzt mit einem Klick weltweit kommunizieren können – das war früher unvorstellbar!
+
+>>Linguist: Nun ja, sprachlich betrachtet ist es interessant zu sehen, wie sich die Terminologie rund um das Telefon im Laufe der Zeit entwickelt hat. Begriffe wie 'Fernsprecher' und 'Smartphone' spiegeln nicht nur technische Fortschritte wider. Was mich besonders fasziniert sind neue Wörter aus dem digitalen Zeitalter – habt ihr schon mal darüber nachgedacht?
+
+>>Cultural Anthropologist: Weißt du, ich finde es faszinierend! In der Gesellschaft hat das Telefon nicht nur die Art und Weise verändert, wie wir kommunizieren, sondern auch unsere sozialen Interaktionen beeinflusst. Es bringt uns näher zusammen und schafft gleichzeitig eine gewisse Distanz. Ich erinnere mich an eine Geschichte aus Japan – Menschen nutzen ihre Telefone in überfüllten Zügen als persönliche Raumtrenner.
+
+>>Telecommunications Engineer: Das stimmt! Aber ich frage mich manchmal: Hat diese ständige Erreichbarkeit durch Smartphones unsere zwischenmenschlichen Beziehungen verbessert oder eher belastet? Was meint ihr dazu?
+
+>>Historian: Also historisch betrachtet könnte man sagen, dass das Telefon ein Katalysator für gesellschaftliche Veränderungen war. Es hat die Art und Weise verändert, wie wir Beziehungen pflegen und Informationen austauschen. Aber ich bin neugierig – gibt es historische Ereignisse oder Entwicklungen ohne Telefonsupport?
+
+>>Linguist: Sprachlich gesehen ist es faszinierend zu beobachten, wie Begriffe rund um das Telefon eine Art kulturelle Brücke darstellen – sie verbinden uns mit der Vergangenheit und zeigen gleichzeitig den Weg in die Zukunft. Vielleicht sollten wir mehr darauf achten!
+
+>>Cultural Anthropologist: Ja genau! Und diese Geschichten aus verschiedenen Kulturen zeigen doch wunderbar auf humorvolle Weise die Vielfalt unserer Nutzung des Telefons weltweit. Kennt jemand von euch noch andere interessante Anekdoten? 
+ >>Technologist: Wenn wir über die Zukunft der Telekommunikation sprechen, denke ich an Technologien wie Quantenkommunikation und holografische Anrufe. Diese könnten unsere Art zu kommunizieren wirklich revolutionieren. Was denkt ihr darüber?
+
+>>Telecommunications Engineer: Das klingt spannend! Aber es gibt auch technische Herausforderungen, wie neue Sicherheitsprotokolle und die Anpassung der Infrastruktur. Wir müssen uns auf eine komplexe Zukunft vorbereiten. Zum Beispiel, wie können wir sicherstellen, dass diese Systeme gegen Cyberangriffe geschützt sind?
+
+>>Historian: Historisch gesehen haben technologische Revolutionen immer sowohl Chancen als auch Herausforderungen mit sich gebracht. Ich frage mich, ob diese neuen Technologien nicht auch eine digitale Kluft schaffen könnten.
+
+>>Cultural Anthropologist: Aus kultureller Sicht ist es faszinierend zu sehen, wie solche Technologien unsere Interaktionen verändern könnten. Holografische Anrufe könnten soziale Nähe schaffen oder vielleicht sogar Isolation fördern. Denkt ihr, dass ältere Generationen Schwierigkeiten haben werden, sich anzupassen?
+
+>>Linguist: Sprachlich gesehen könnte man sagen, dass Begriffe wie 'Quantenkommunikation' bald alltäglich werden. Es ist interessant zu überlegen, wie sich unsere Sprache dadurch entwickeln könnte. Vielleicht entstehen neue Redewendungen oder Kommunikationsstile.
+
+>>Historian: Wenn wir zurückblicken auf vergangene Innovationen... sie hatten oft unvorhergesehene gesellschaftliche Auswirkungen. Die ethischen Fragen rund um diese neuen Technologien sind sicherlich etwas, worüber wir nachdenken sollten.
+
+>>Telecommunications Engineer: Ja genau! Und bei der Implementierung dieser Technologien müssen wir auch an Energieeffizienz denken. Unsere Infrastruktur muss sicher und nachhaltig sein. Ein gutes Beispiel wäre das aktuelle Projekt zur Verbesserung der Glasfasernetze in ländlichen Gebieten.
+
+>>Cultural Anthropologist: Das stimmt! Diese Fortschritte werden nicht nur unsere Kommunikationsweise verändern sondern auch die Art und Weise unserer sozialen Interaktion beeinflussen können. Wie seht ihr das im Kontext von globaler Zusammenarbeit?
+
+>>Linguist: Ich frage mich wirklich ob holografische Anrufe neue sprachliche Muster hervorbringen könnten. Es wäre spannend zu beobachten! Vielleicht wird Körpersprache noch wichtiger in solchen Gesprächen.
+
+>>Technologist: Statt allgemein über praktische Anwendungen zu sprechen, lasst uns konkret werden – wie seht ihr die Integration solcher Technologien in den Gesundheitssektor? Könnten holografische Anrufe zum Beispiel Telemedizin revolutionieren? 
+ >>Cultural Anthropologist: Also, ich habe neulich ein Buch über die Geschichte des Telefons gelesen und war erstaunt, wie viele kuriose Anekdoten es gibt. Wusstet ihr, dass einer der ersten Sätze, die durch ein Telefon übermittelt wurden, angeblich 'Das Pferd frisst keinen Gurkensalat' war? Erstaunlich! Solche Geschichten bringen mich immer zum Lachen.
+>>Historian: Haha, das ist wirklich eine skurrile Anekdote! Ich finde es spannend, wie sich die Technologie des Telefons von den frühen Tagen bis heute entwickelt hat. Neulich habe ich ein altes Modell in einem Antiquitätenladen entdeckt und konnte nicht widerstehen, es zu kaufen. Es erinnert mich daran, wie weit wir gekommen sind – von der Wählscheibe zum Smartphone. Unglaublich!
+>>Telecommunications Engineer: Ja genau! Aber wisst ihr was? Die Herausforderungen heutzutage sind ganz anders. Wir arbeiten an Projekten zur Verbesserung der Netzabdeckung in ländlichen Gebieten – das ist echt knifflig! Diese alten Telefone sind zwar nostalgisch, aber die aktuellen technischen Probleme sind genauso spannend.
+>>Linguist: Das stimmt! Aus linguistischer Sicht ist es faszinierend zu sehen, wie sich unsere Sprache rund um das Telefon verändert hat. Begriffe wie 'Fernsprecher' sind fast vergessen. Und diese Veränderungen beeinflussen auch unsere Wahrnehmung von Technologie und Kommunikation.
+>>Cultural Anthropologist: Interessant! Ich frage mich oft, ob wir die Einfachheit dieser Zeiten vermissen oder ob uns die moderne Technik mehr Freiheit gibt. Was denkt ihr darüber?
+>>Historian: Gute Frage! Ich denke schon, dass wir manchmal nostalgisch werden können. Aber gleichzeitig eröffnet uns moderne Technologie so viele neue Möglichkeiten – sei es in der Kunst oder im täglichen Leben.
+>>Telecommunications Engineer: Absolut! Und wenn man bedenkt, wie schnell sich alles entwickelt... Die Zukunft hält sicher noch einige Überraschungen bereit!
+>>Linguist: Genau! Und diese sprachlichen Veränderungen zeigen auch kulturelle Verschiebungen auf. Wie kommunizieren wir heute anders als früher? Das ist doch spannend!
+>>Technologist: Da stimme ich euch zu! Übrigens höre ich gerade einen Podcast über zukünftige Technologien – echt spannend! Themen wie künstliche Intelligenz und Quantenkommunikation inspirieren meine Arbeit ungemein."

@@ -1,0 +1,619 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Smartphone,"Smartphone ([ˈsmaːɐ̯tfoʊ̯n]; [ˈsmɑɹtfoʊ̯n] AE, [ˈsmɑːtˌfəʊ̯n] BE; englisch, etwa „schlaues Telefon“) nennt man ein Mobiltelefon (umgangssprachlich Handy) mit umfangreichen Computer-Funktionen. Smartphones zeichnen sich vor allem durch die Bedienung über einen kapazitiven Touchscreen aus sowie die Möglichkeit der einfachen Installation vieler verschiedener Apps. Damit unterscheiden sie sich von Feature-Phones, die teilweise auch einen Internetzugang haben, aber über eine Tastatur bedient werden (oder allenfalls einen resistiven Touchscreen) und eine nur begrenzte Anzahl an Apps ausführen können.
+Der Begriff „Smartphone“ wurde erstmals 1999 von dem schwedischen Unternehmen Ericsson geprägt. Seit 2013 sind die jährlich weltweit neu verkauften Mobiltelefone mehrheitlich Smartphones. Als das meistverbreitete Smartphone-Betriebssystem setzte sich in den 2010er Jahren das inzwischen von fast allen Herstellern verwendete Android durch, mit einigem Abstand gefolgt von dem nur auf Apple-Geräten eingesetzten iOS.
+Durch die Verbreitung des Smartphones veränderte sich der Alltag vieler Menschen. Erstmals trägt die Mehrzahl der Menschen dauerhaft ein Gerät mit Internetzugang mit sich (per mobiler Breitbandverbindung oder WLAN). Dies sorgte für einen starken Anstieg der Nutzung v. a. von sozialen Netzwerken und Instant Messaging im Alltag, aber auch von allen möglichen anderen Onlinediensten. Das Smartphone wurde so zum Inbegriff des Digital Lifestyle. Es verursacht aber auch viele psychische Gesundheitsschäden und ermöglicht Big Tech und manchen staatlichen Akteuren eine umfangreichere weltweite automatisierte Massenüberwachung als jemals zuvor.
+
+
+Grundlagen
+
+Smartphones können durch folgende Merkmale von klassischen Mobiltelefonen, PDAs und Electronic Organizern unterschieden werden:
+
+Smartphones sind bezüglich Konstruktion und Bedienung nicht nur für das Telefonieren optimiert, sondern sollen auf kleinem Raum die Bedienung einer breiten Palette von Anwendungen ermöglichen. Typische Merkmale sind daher im Vergleich zu älteren Mobiltelefonen relativ große und hochauflösende Bildschirme, alphanumerische Tastaturen und/oder Touchscreens.
+Smartphones verfügen meist über ein Betriebssystem mit offengelegter API (siehe Abschnitt Betriebssystem). Es ermöglicht dem Benutzer, Programme von Drittherstellern zu installieren. Mobiltelefone haben im Gegensatz dazu meist eine vordefinierte Programmoberfläche, die nur begrenzt, z. B. durch Java-Anwendungen, erweitert werden kann.
+Smartphones verfügen oft über unterschiedliche Sensoren, die in klassischen Mobiltelefonen seltener zu finden sind. Hierzu zählen insbesondere Bewegungs-, Lage-, Magnetfeld-, Licht-, Foto- (RGB und schwarz-weiß), Barometer- und Näherungssensoren sowie GPS-Empfänger.
+Einzelne Modelle wie die 2013 erschienenen Samsung Galaxy S4 und Note 3 verfügen über Umgebungstemperatur- und Luftfeuchtigkeitssensoren. Bisher verfügt nur das 2014 erschienene Samsung Galaxy Note 4 über einen Sensor zur Messung von Ultraviolettstrahlung.
+Smartphones unterstützen diverse drahtlose Kommunikationsprotokolle, z. B. LTE, 5G, WLAN, Bluetooth und Satellitennavigation. Mitte der 2020er Jahre haben Smartphone-Hersteller damit begonnen, Satellitennachrichtenkonnektivität und Satellitennotdienste in Geräte zu integrieren, die in abgelegenen Regionen eingesetzt werden können, in denen es kein zuverlässiges Mobilfunknetz gibt.
+Der Speicherplatz mancher Mobiltelefone lässt sich mithilfe einer MicroSD-Speicherkarte erweitern. Vorteile gegenüber Cloud-Speichern sind Ortsunabhängigkeit von Mobilfunkstationen, Latenzfreiheit, Privatsphäre, höhere Übertragungsgeschwindigkeiten und keine durch den Mobilfunkvertrag benutzungsbedingte Herabsetzung dessen, sowie mögliche Datenrettung bei Defekt des Gerätes und Verschonung der Schreibzyklen der nichtwechselbaren internen Speicherplatine. Außerdem wird der USB-Anschluss nicht wie bei über USB On-the-go-Zubehör angeschlossenen Speichermedien belegt.
+Durch diese Merkmale bieten Smartphones die Grundlagen zur mobilen Büro- und Datenkommunikation in einem einzigen Gerät. Der Benutzer kann Daten (etwa Adressen, Texte und Termine) über die Tastatur oder einen Stift erfassen und zusätzliche Software selbst installieren. Die meisten Geräte verfügen über eine oder mehrere Digitalkameras zur Aufnahme unbewegter und bewegter Bilder sowie für die Bildtelefonie.
+Die bei PDAs z. B. zur Synchronisierung verwendeten Verbindungsarten, wie WLAN, Bluetooth, Infrarot oder die USB-Kabelverbindung, werden durch bislang in der Mobiltelefonie übliche Verbindungsprotokolle, wie GSM, UMTS (und HSDPA), GPRS und HSCSD, ergänzt.
+So ist es beispielsweise möglich, unterwegs neben der Mobiltelefonie auch SMS, MMS, E-Mails sowie, bei modernen Geräten, Videokonferenzen per UMTS oder Internet-Telefonie (VoIP) mit WLAN über Internet-Zugriffspunkte zu nutzen. Theoretisch – und zum Teil auch in der praktischen Nutzung – können damit neben Audio- und Videostreamings aus dem Internet (zum Beispiel über WLAN) auch Fernsehprogramme über DVB-H und mit entsprechender Hardware auch DVB-T empfangen werden.
+Ein weiteres Beispiel ist die eingebaute oder optionale Java-Unterstützung (auf CLDC- oder MIDP-Basis) – Mobiltelefone gelten als eine der populärsten Anwendungen von Embedded Java.
+Smartphones werden zunehmend auch für die Fernsteuerung von digitalen Geräten eingesetzt, wie zum Beispiel Kameras, Action-Camcordern, AV-Receivern, Fernsehgeräten oder Quadcoptern.
+
+
+Geschichte
+Frühe Smartphone-Vorläufer vereinigten etwa Ende der 1990er Jahre die Funktionen eines Personal Digital Assistant (PDA) bzw. Organizers, mit dem man z. B. Kontakte und seinen Kalender verwalten konnte, mit der Funktionalität eines reinen Mobiltelefons. Später wurden dem kompakten Gerät die Funktionen eines transportablen Medienabspielgerätes, einer Digital- und Videokamera und eines GPS-Navigationsgeräts hinzugefügt; noch später ein Internetzugang und ein (zunächst noch resistiver und nicht kapazitiver) Touchscreen.
+
+Als „das erste Smartphone“ wird rückblickend manchmal das 1992 von BellSouth und IBM vorgestellte und ab Mitte 1994 in einem Teil der USA als „Personal Communicator“ vertriebene Simon referenziert. Vorreiter der Smartphone-Systeme war das PEN/GEOS 3.0 des Herstellers GeoWorks, das in der 1996 eingeführten Nokia-Communicator-Serie eingesetzt wurde. Als Nokia für die Communicator-Reihe 92x0, 9300, 9300i und 9500 auf einen anderen Prozessor wechselte, bildete das Unternehmen mit Psion und dessen EPOC-System eine Allianz, um die Symbian-Plattform zu entwickeln. Symbian war lange Zeit das meistgenutzte Smartphone-Betriebssystem und hatte im Jahr 2006 einen Marktanteil von etwa 73 %. Die wichtigsten Konkurrenten waren Windows Mobile, Blackberry OS und Palm OS. Der Begriff Smartphone wurde erstmals im Jahr 1999 von dem schwedischen Unternehmen Ericsson geprägt. Ericsson betitelte das Modell R380 mit Touchscreen, Internetbrowser und Kalender bei der Vorstellung auf der Messe Cebit als Smartphone. Ebenfalls 1999 wurde das erste Smartphone mit Kamera, das Toshiba Camesse, vorgestellt.
+
+Im Jahr 2006 erschien das LG Prada, Modellbezeichnung „KE850“ (siehe dazu LG Electronics#LG Mobile (Mobiltelefone, 2004–2021)). Es war das erste Mobiltelefon mit kapazitivem Touchscreen, und war mit einer 2-Megapixel-Kamera, 144p-Filmauflösung, LED-Beleuchtung und Miniaturspiegel für Eigenporträts ausgestattet. Der Speicherplatz ließ sich mittels einer MicroSD-Speicherkarte erweitern. Ihm fehlten aber unter anderem noch WLAN-Empfang, Bildschirmtastatur (es erschien lediglich ein T9-Feld auf dem Bildschirm) und ein extra für den kapazitiven Touchscreen entwickeltes Betriebssystem.
+Erst die Einführung des iPhone 1 (mit Multitouch-Bedienoberfläche) durch Apple im Jahr 2007 markierte einen Wendepunkt im Mobiltelefon-Markt. Auch folgende neue Betriebssysteme wie Android, Palm webOS und Windows Phone 7 konnten hauptsächlich oder ausschließlich nur noch über Touchscreens bedient werden. Symbian verlor dadurch schnell an Bedeutung und lag im Herbst 2011 etwa gleichauf mit dem iOS. Zwischen 2008 und 2011 kündigten alle großen Hersteller von Symbian-Geräten an, in Zukunft auf andere Systeme zu setzen.
+Das am häufigsten installierte Mobil-Betriebssystem auf Smartphones ist Android von Google. Seit dem Jahr 2011 liegen die Absatzzahlen von Mobilfunkgeräten mit Android deutlich höher als die mit anderen Betriebssystemen, was unter anderem an dem deutlich geringeren Durchschnittsverkaufspreis von Mobiltelefonen mit Android liegt. Gemäß IDC lag der Marktanteil beim Absatz von Android-Geräten im Jahr 2019 bei 86,6 %. Ebenfalls mit einem signifikanten Marktanteil ist danach iOS von Apple zu erwähnen (Marktanteil nach IDC im Jahr 2019: 13,4 %). Der finnische Hersteller Nokia, der für viele Jahre führender Hersteller von Mobiltelefonen war (1998 bis 2011), bot seine Smartphones seit 2012 fast ausschließlich mit dem Betriebssystem Windows Phone von Microsoft an. Im Jahr 2014 verkaufte Nokia seine Mobiltelefon-Sparte an Microsoft.
+Seit dem Jahr 2009 kommt es angesichts der zunehmenden Bedeutung von Smartphones zu zahlreichen Rechtsstreitigkeiten um Patente und Designrechte, an denen alle großen Smartphone-Hersteller beteiligt sind.
+Das 2013 eingeführte Galaxy S4 ist das erste TCO-zertifizierte Smartphone der Welt. Ende 2013 kam mit dem Fairphone First Edition der Fairphone B.V. das erste Smartphone auf den Markt, bei dem Fairtrade- und Umweltaspekte eine größere Rolle spielen sollten. 2014 brachte die deutsche Shift GmbH mit dem Shiftphone ebenfalls ein modulares Smartphone auf den Markt, das vom Benutzer leicht selbst repariert werden kann und das unter fairen und nachhaltigen Bedingungen produziert wird. Ein weiterer deutscher Hersteller, „Rephone“, stellt seine Smartphones durch möglichst lokale Herstellung in Deutschland und CO2-Kompensationen CO2-neutral her und setzt ebenfalls auf einfachere Reparierbarkeit aufgrund von Verschraubungen anstatt von Klebungen. Das Smartphone ist allerdings anders als Fairphones und Shiftphones nicht modular aufgebaut.
+Aufgrund von Begrenzungen der von Kupferdrähten in USB-Kabeln unterstützten Stromstärken wurden Kommunikationsprotokolle wie „Quick Charge“ und „Pump Express“ entwickelt, welche eine Anhebung der Spannung aus dem Netzteil anfordern können, um Leistungsgrenzen in bestehenden Kabeln ohne Kompatibilitätseinbußen zu umgehen. Diese Spannung wird im Smartphone abgewandelt. Das „VOOC“-Verfahren von Oppo, auch als „Dash Charge“ vermarktet, setzt stattdessen auf erhöhte Stromstärken, um auf die wärmeerzeugende Abwandlung innerhalb des Endgerätes zu verzichten, erfordert jedoch ein spezielles USB-Kabel mit entsprechend breiteren Kupferdrähten. Eine weitere Entwicklung ist „USB Power Delivery“, mit dem Ziel eines universellen Kommunikationsstandardes für Geräte mit einer Leistungsaufnahme von bis zu 100 Watt, wird jedoch nur von Kabeln mit USB-C an beiden Enden unterstützt.
+Der weltweite Absatz von Smartphones ist seit dem 4. Quartal 2017 rückläufig. Im Gesamtjahr (2017) wurden weltweit insgesamt 1,472 Milliarden Smartphones ausgeliefert, was einem Rückgang von weniger als 1 % gegenüber den 1,473 Milliarden Einheiten im Jahr 2016 entspricht. Die höchsten Marktanteile am Smartphone-Markt haben derzeit (Stand 2020, sortiert nach Marktanteilen) Samsung, BBK Electronics, Huawei, Xiaomi und Apple.
+Seit dem Jahr 2019, beginnend mit dem iPhone 11, verzichten Hersteller vermehrt auf Einbeziehung eines Steckernetzteiles im Lieferumfang, mit dem Hinweis der Umweltschonung. Eine ähnliche Intention wird vom EU-Parlament mit der EU-Funkgeräterichtlinie (Radio Equipment Directive/RED) verfolgt. Mit dieser Richtlinie will die Europäische Kommission verpflichtende Regelungen für einheitliche Ladebuchsen verabschieden, um so den Elektroschrott durch verschiedene Netzteile zu minimieren. Allerdings muss der Benutzer zum Erreichen der vom Endgerät unterstützten Auflade-Geschwindigkeit eventuell ein separates Netzteil mit erhöhter Leistung erwerben. Durch das zusätzliche Verpackungsmaterial beim Kauf eines neuen Netzteils wird die Kohlenstoffbilanz verschlechtert.
+Als Gegensatz zum Smartphone wird der Begriff Dumbphone verwendet, das auf Basisfunktionen wie Telefonieren und SMS beschränkte, unkomplizierte, billigere und leichter bedienende „Tastenhandy“, das 2024 ein kleines Revival erlebt.
+
+
+Merkmale
+
+
+Ausstattung
+Moderne Smartphones lassen sich dank einer großen Funktionsfülle je nach Ausstattung u. a. nutzen als:
+
+Kommunikation (Mobiltelefon, Webbrowser, E-Mail, SMS, MMS sowie IP-Telefonie (VoIP), Instant Messaging (IM) und Chat, teilweise auch Fax, Video-Telefonie und Konferenz-Schaltungen), auch nicht beabsichtigte Kommunikation (Abhöreinrichtungen, Spionage)
+Personal Information Manager (PIM) mit Adressbuch, Terminkalender, Aufgabenliste, Notizblock, Geburtstagsliste usw. mit Abgleich mit einer Desktop-Applikation oder über das Internet (Microsoft (Hosted) Exchange, Blackberry-Dienst)
+Diktiergerät
+Speicher und Versender von Daten aller Art, auch in Echtzeit
+Medienfunktionen mit Mediaplayer, Radio, Bildbetrachter, Foto- und Videokamera
+Taschencomputer (beispielsweise Textverarbeitung, Tabellenkalkulation, PDF-Reader, Taschenrechner)
+Funk-Modem für den PC, auch Tethering genannt
+Navigation mit Navigationssystem und Landkarten bzw. Mittel zur Bestimmung des eigenen Aufenthaltsorts durch andere
+Gerät für standortbezogene Dienste (Location Based/Aware Services), wie mobile Umgebungssuche (von sogenannten Points of Interest)
+mobile Spielkonsole
+Enterprise Mobility Client: Mobiles Zugangsgerät (i. d. R. als Thin Client) zu IT-Diensten und Servern innerhalb einer Unternehmensinfrastruktur, Einsatzbeispiele: ERP, CRM, Warenwirtschaftssystem, Spezial- und Branchenlösungen in der Industrie, Logistik, Medizin (KIS Krankenhausinformationssystem)
+finanzielle Ressource im bargeldlosen Zahlungsverkehr
+Ersatz für Alltagsgegenstände (beispielsweise als Uhr, Wecker oder Taschenlampe / Lichtquelle)
+Steuercomputer, z. B. PhoneSat
+Infrarotsender zur Verwendung als Fernbedienung
+
+
+Gestaltung
+
+
+Tasten und Schaltflächen
+Frühe Smartphones wie das Samsung Omnia 2 GT-i8000 aus dem Jahr 2009 waren neben der Home-Taste mit klassischen Hörertasten zum Annehmen und Tätigen und zum Ablehnen und Auflegen ausgestattet. Diese wurden aufgrund der funktionalen Erweiterung durch Navigationstasten wie „Optionen“ und „Zurück“ verdrängt. Apple iPhones waren lediglich mit einer Home-Taste, keinen zusätzlichen Navigationstasten ausgestattet.
+Einige Mobiltelefone verfügen zudem über eine physikalische, dedizierte Kamerataste zum schnellen Zugriff und zum zweistufigen Fokussieren ähnlich wie bei eigenständigen Digitalkameras, darunter das Samsung Omnia 2, einige Nokia-Lumia- und einige Sony-Xperia-Geräte.
+Seit 2017 streben die großen Mobiltelefonkonzerne an, die Bildschirmfläche auf der Gerätevorderseite möglichst auszufüllen.
+
+
+Rückseite
+Rückseiten bestehen meistens aus Polycarbonat, Aluminium oder Glas. Polycarbonatdeckel können eine glänzende oder matte Oberfläche haben und zusätzlich gemustert sein, wie gepunktet beim Samsung Galaxy S5 oder mit Lederoptik beim Samsung Galaxy Note 3 und Note 4.
+Die erste gläserne Rückseite war auf dem iPhone 4 vorhanden. Zu den frühesten Aluminiumtelefonen zählen das iPhone 5 und das HTC One M7.
+Glas und Aluminium würden laut Rezensionen als hochwertiger empfunden, allerdings ist Polycarbonat nicht wie Glas zerbrechlich. Daher eignet es sich für wechselbare Akkudeckel. Polycarbonat blockiert außerdem nicht wie Metall Funksignale und drahtlosen Strom.
+
+
+Tonausgang
+Der 3,5-mm-Kopfhöreranschluss entfiel vermehrt in Mobiltelefonen seit der Einführung vom iPhone 7 im Jahr 2016. Durch Adapter, die den Ladeanschluss belegen, lässt sich dieser Anschlusstyp weiterhin verwenden. Als Alternative stehen zwar ebenfalls drahtlose, durch Bluetooth empfangende Kopfhörer zur Verfügung, allerdings sind diese als Nichtpassive auf eigenständige Stromversorgung und Bluetooth-Funkhardware angewiesen und daher in der Regel kostenintensiver, zudem erfordern sie eine Kopplung vor jeder Inbetriebnahme.
+
+
+Benachrichtigungsleuchte
+Viele Smartphones außer Apple iPhones sind mit einer LED-RGB-Benachrichtigungsleuchte ausgestattet. Farbkombinationen können mit den roten, grünen und blauen Leuchtdioden erzeugt werden, um den Benutzer energiesparend zu benachrichtigen, z. B. über neue Mitteilungen, verpasste Anrufe und niedrigen Akkustand, und um das Auffinden des Gerätes in Dunkelheit zu erleichtern. Der Energieverbrauch der Leuchte kann bis 3 % des Akkus pro Stunde betragen. Bei Apple iPhones kann der Kamerablitz als Benachrichtigungsleuchte konfiguriert werden.
+
+
+Alternative Eingabemethoden
+
+
+Digitaler Stift
+
+Einige Gerätetypen, wie die Samsung Galaxy Note-Serie oder die LG G Stylo-Serie, sind zur präziseren Eingabe mit einem Eingabestift ausgestattet. Ähnlich wie bei der Nintendo-DS-Spielekonsolenserie und manchen Tabletcomputern befindet sich in der Regel ein Platzhalter innerhalb des Gerätes, jedoch sind die Eingabestifte der Mobiltelefone aktive, über den Bildschirm induktiv mit Strom versorgte Komponenten und vom Gerät von Fingern unterscheidbar. Die Druckkraft wird innerhalb des Stiftes gemessen und dem Gerät in Echtzeit mitgeteilt und kann bei Zeichnungen die Linienstärke wie auf Papier simulieren. Die Stifte der Galaxy-Note-Telefone sind mit einer Funktionstaste zum schnellen Zugriff auf digitale Werkzeuge wie Post-it-Notizzettel und Bildschirmfoto-Notiz ausgestattet, sowie zur Hervorhebung von Textbereichen und Mehrfachauswahl von Listenelementen, ähnlich wie mit einer Computermaus.
+Eine berührungslose Erkennung des Stiftes beim Überfliegen des Bildschirmes ermöglicht die Simulation eines schwebenden Mauszeigers, etwa zur Bildvorschau in Video-Suchleisten, und dem Hervorheben von Webseiten-Elementen.
+
+
+Schwebender Finger
+Ebenfalls sind wenige Gerätetypen, darunter das Samsung Galaxy S4, Note 3 und S5, mit einer zusätzlichen, „selbstkapazitiven“, berührungsempfindlichen Schicht auf dem Bildschirm ausgestattet. Dies ermöglicht die Erkennung eines nahe schwebenden Fingers zu ähnlichen Zwecken. Die Erkennung eines überfliegenden Stiftes ist allerdings präziser.
+Das 2013 erschienene Samsung Galaxy Note 3 verfügt somit bisher als einziges Gerät über beide dieser Bedienmöglichkeiten.
+
+
+Druckempfindlicher Bildschirm
+Wenige Geräte verfügen über einen Sensor zur Messung des Berührungsdruckes, darunter die iPhones 6s (2015) bis Xs (2018).
+Verwendungsmöglichkeiten sind simulierte Gaspedale in Videospielen, Schnellzugriffsmenüs von Symbolen auf dem Startbildschirm, Vorschaufenster im Webbrowser sowie Digitalwaagen. Letztere wurden von Apple aus dem App Store ausgeschlossen. Es sollten zum Vermeiden von Kratzern keine beständigen Objekte unisoliert abgelegt werden.
+
+
+Optischer Tastsensor
+
+Zur Auswahl von Elementen und zum Blättern hat HTC ihre Modelle Desire und Legend mit einem Tastsensor ausgestattet.
+
+
+Filmkamera
+
+
+Auflösung
+Entwicklung
+Die Auflösung der Filmkameras in Mobiltelefonen nahm im frühen 2010er-Jahrzehnt am stärksten zu. 1080p (Full HD) wurde erstmals 2011 erreicht, u. a. vom Samsung Galaxy S2, HTC Sensation und iPhone 4s.
+2013 ermöglichte erstmals das Samsung Galaxy Note 3 Filmaufnahmen mit 2160p-4K-Auflösung bei 30 Vollbildern in der Sekunde (fps), sowie flüssigere 60fps bei 1080p Full HD. Andere Hersteller zogen im Folgejahr nach, darunter LG mit dem optisch stabilisierten LG G3 im Frühjahr 2014. Schließlich implementierte Apple 4K-Film auf dem iPhone 6s und 6s+ Ende 2015.
+2017 und 2018 erschienen erste Telefone mit 4K-Film bei doppelten 60 Bildern in der Sekunde, wie das iPhone 8 und Samsung Galaxy S9.
+2020 erschienen erste Telefone mit 8K-4320p-Filmauflösung, darunter das Samsung Galaxy S20.
+
+Mittelklasse
+In der Mittelklasse haben sich Filmkameras mit Auflösungen jenseits 1080p und Zeitlupenfunktion mehrere Jahre verzögert, beispielsweise um etwa fünf Jahre bis Ende 2018 in der Samsung-Galaxy-Mittelklasse, bestehend aus den S-Mini, J- und A-Serien.
+
+Auflösungseinstellung
+Die Filmauflösung lässt sich in der Regel niedriger stufen, um den Speicherplatzverbrauch zu reduzieren. Diese Einsparung ermöglicht bei Bedarf längere Aufnahmezeiten im verbleibenden Speicherplatz.
+
+Zeitgleiche Standbilder
+Während einer Filmaufnahme lassen sich je nach Gerätetyp gegebenenfalls gleich- oder höherauflösende Standbilder aufnehmen.
+
+
+Zeitlupenfilm
+Je nach Modell wird im Zeitlupenfilmmodus vorinstallierter Kameraanwendungen entweder in Echtzeit (mit der ursprünglichen erhöhten Bildwiederholfrequenz des Bildsensors während der Aufnahme) und mit Tonspur oder gestreckt und stumm aufgezeichnet und abgespeichert.
+Die Streckung führt zur verlangsamten Bewegung bei normaler Wiedergabegeschwindigkeit und ermöglicht somit zwar eine Zeitlupenwiedergabe auf älteren Medienabspielprogrammen und Geräten ohne Fähigkeit zur Geschwindigkeitseinstellung, jedoch ist Echtzeitvideo vielseitiger und eignet sich vergleichsweise besser für Videobearbeitung. Ein rudimentäres Bearbeitungsprogramm zur Auswahl verlangsamter Abschnitte und zum Exportieren in separat verarbeitete Videos ist in der Regel vorinstalliert.
+Eine Wiedergabe in Echtzeit wie bei üblichen Videos ist wahlweise möglich, und neuere Medienspieler ermöglichen eine manuelle Geschwindigkeitsregelung während der Wiedergabe. Dementsprechend wird auf neueren Modellen vermehrt Echtzeitvideo verwendet, beispielsweise von Samsung seit 2015 mit dem Galaxy S6.
+
+
+Sensoren
+Smartphones sind mit einer Vielzahl von Sensoren ausgestattet, um eigene System-Anwendungen und Drittanbieter-Anwendungen zu ermöglichen.
+
+Gängige Sensoren
+
+Beschleunigungsmesser und Gyroskope ermöglichen die automatische Steuerung der Bildschirmdrehung.
+Zu den Anwendungen von Drittanbieter-Software gehört die Wasserwaagensimulation.
+Ein Umgebungslichtsensor ermöglicht die automatische Anpassung von Bildschirmhelligkeit und -kontrast und ein RGB-Sensor ermöglicht die Anpassung der Bildschirmfarbe.
+Viele Mobiltelefone sind zudem mit einem Barometer zur Messung des Luftdrucks ausgestattet. Damit lassen sich Höhenveränderungen abschätzen und erkennen.
+Ein Magnetometer kann als digitaler Kompass fungieren, indem es das Magnetfeld der Erde misst.
+
+Seltene Sensoren
+
+Weil einige Sensoren nur selten bei Smartphones vorkommen, wurde wenig Software zu ihrer Nutzung entwickelt.
+Samsung stattet seine Flaggschiff-Smartphones seit dem Galaxy S5 und Galaxy Note 4 von 2014 mit einem Herzfrequenzsensor aus, der bei Fitnessanwendungen hilft und als Auslöser für die Frontkamera fungiert.
+Bisher sind nur das Samsung Galaxy S4 und das Note 3 von 2013 mit einem Umgebungstemperatursensor und einem Feuchtigkeitssensor ausgestattet und nur das Note 4 mit einem UV-Strahlungssensor, der den Benutzer vor übermäßiger Strahlung warnen könnte.
+Ein rückseitiger Infrarot-Laserstrahl zur Entfernungsmessung kann eine Time-of-Flight-Kamerafunktion mit beschleunigtem Autofokus ermöglichen, wie sie auf ausgewählten LG-Mobiltelefonen ab LG G3 und LG V10 implementiert ist.
+
+
+Ausführungen
+Smartphones sind in unterschiedlichen Bauformen verfügbar, die sich nicht klar voneinander abgrenzen lassen. Ein in den späten 2000er bis frühen 2010er Jahren verbreitetes Merkmal ist eine QWERTZ-Tastatur, die entweder eingeklappt bzw. eingeschoben werden kann (bspw. Samsung F700 Qbowl) oder fest an der Gerätefront angeordnet ist (bspw. Nokia E61i). Letztere Bauform wird auch als Q-Smartphones (Q = Qwertz oder Qwerty) bezeichnet. Ab der Mitte der 2010er Jahre bietet aber nur noch Blackberry diese Smartphones an. Die meisten Smartphones haben einen Touchscreen und lassen sich ähnlich einem PDA bedienen. Während einige Geräte (z. B. Apple iPhone; Samsung Galaxy S-, A-, M-, Z-Reihe) komplett auf die Bedienung mit den Fingern ausgelegt sind (diese Bauform wird auch als Touch-Phone bezeichnet), ist das Samsung Galaxy Note eines der letzten Geräte, bei dem viele Funktionen mit einem Eingabestift bedient werden können. Seit 2019 gibt es des Weiteren die Kategorie der Foldables, also Smartphones mit einem faltbaren Display (z. B. Samsung Galaxy Fold, Samsung Galaxy Z Flip, Huawei Mate X). Praktisch alle Smartphones besitzen eine Front- und eine Rückkamera, wobei die Rückkamera, in der Regel mit wesentlich höherer Auflösung, vom Betrachter weg gerichtet ist, während die Frontkamera der Videotelefonie bzw. der Aufnahme von Selbstporträts (Selfies) dient. Bei manchen Smartphones ist die Frontkamera ausfahrbar.
+
+
+Abbildungen (Beispiele)
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+Phablets
+
+Die Wortschöpfungen Phablet (im deutschsprachigen Raum auch Smartlet) bezeichnen Mischformen aus Smartphones und Tablet-Computern. Es handelt sich dabei um Smartphonemodelle mit überdurchschnittlich großen Bildschirmen. Beispiele für Phablets sind das Apple iPhone 12 Pro Max, Samsung Galaxy Note 20 Ultra, Samsung Galaxy S21 Ultra und das Xiaomi Mi 11 Ultra.
+Der Terminus wurde in einem technologischen Artikel (bezüglich des Dell Streak) erstmals 2010 verwendet. Popularität erhielt er mit dem Erscheinen des Galaxy Note (2011) von Samsung, welches mit seinem Überraschungserfolg den Phablet-Boom auslöste. „Phablet“ trägt einen spöttelnden Unterton, der auf die Komik bei der Handhabung solch großer Geräte abzielt („An awkward term for supersize devices that can seem rather ridiculous to use“).
+Um das Jahr 2017 herum wurden Smartphones, deren Bildschirm die Definition von Phablets erfüllt, vom Spezial- zum Normalfall. Die größten Geräte messen so seit 2020 an die 7 Zoll. Gleichzeitig wurden die Seitenverhältnisse extremer, was bei gleicher Bildschirmdiagonale zu weniger Fläche führt. Außerdem konnte der Anteil des Bildschirms an der Smartphone-Vorderseite (sog. screen-to-body ratio) erhöht werden, indem Bildschirme mit gerundeten Ecken sowie ggf. einer Aussparung (notch) für die Frontkamera verbaut werden. Das folgende Beispiel veranschaulicht, dass das iPhone 12 mini trotz leicht größerer Bildschirmdiagonale eine deutlich kleinere Bildschirmfläche hat. Obwohl das iPhone-Display durch sein extremeres Seitenverhältnis rund einen Zentimeter höher ist als das des Galaxy Note, ist seine Höhe anderthalb Zentimeter geringer, da die Bereiche ober- und unterhalb des Bildschirms (Kinn und Stirn) sehr klein sind. Gleichzeitig ist das Apple-Gerät kaum größer und schwerer als Googles erstes Smartphone, obwohl letzteres nur eine Bildschirmdiagonale von 3,7 Zoll hatte.
+
+Anmerkung: Das iPhone-Display hat gerundete Ecken. Die obige Bildschirmdiagonale ist laut Apple so angegeben, als hätte es keine. Zudem hat es eine Notch. Dadurch ist die Bildschirmfläche etwas kleiner als die Zahl in der Tabelle, da die gerundeten Ecken und die Notch abgezogen werden müssen.
+
+
+Kompaktkameratelefone
+
+Es erschienen bereits einige kombinierte Kompaktkameratelefone wie 2013 das Samsung Galaxy S4 Zoom und 2014 das K Zoom, beide mit zehnfacher optischer Vergrößerung, kräftigerem Xenon-Blitzlicht, und Ersteres mit Stativ-Befestigung und Objektivring-Drehknopf, sowie 2014 das Panasonic Lumix DMC-CM1 mit vielfacher Bildsensorfläche und Lichtempfindlichkeit üblicher Telefonkameras.
+
+
+Foldables
+
+Mit dem Samsung Galaxy Fold wurde 2019 erstmals ein Smartphone mit einem faltbaren Display vorgestellt. Das Display besteht bei Foldables bislang größtenteils aus Kunststoff, weil die Schwierigkeit beim biegsamen Glas liegt. Aus diesem Grund sind die Geräte auch immer noch anfälliger für Beschädigungen als konventionelle Smartphones. Es gibt zwei verschiedene Varianten von Foldables: Es gibt kleine Foldables, die aufgefaltet zu einem Smartphone werden, und Foldables, die geschlossen die Größe eines Smartphones haben und aufgefaltet so groß wie ein Tablet sind. Foldables werden u. a. von Samsung, Huawei, Motorola, Xiaomi und Oppo gebaut.
+
+
+Rollables
+Rollables sind Smartphones die ihre Displays durch Ausrollen verkleinern oder vergrößern können. Das Oppo X war 2021 ein Konzept zu dieser Technologie, durch Wischen an der Seite hat es einen Teil des Displays aus- und wieder eingefahren. Kein Hersteller bietet derzeit ein Rollable im Handel an.
+
+
+Weitere Bauformen
+Der russische Anbieter Yota stellte eine Variante eines Smartphones vor, bei der neben der herkömmlichen Flüssigkristallanzeige ein zweiter Bildschirm mit elektronischem Papier auf der Rückseite des Gerätes verfügbar ist, der auch bei hellem Umgebungslicht gut ablesbar, aber noch nicht berührungsempfindlich ist.
+
+
+Betriebssystem
+Da Smartphones komplexer sind als einfache Mobiltelefone, ist ein Smartphone eher als ein System zu betrachten: Es besteht im Grunde aus mehreren unterschiedlichen, miteinander vernetzten Geräten. Insbesondere das Mobilfunk-Modul bzw. -Modem ist dabei ebenfalls nur eines von vielen Geräten. Es hat daher zum Teil eine eigene Firmware und operiert in gewissem Maße unabhängig vom Rest des Systems, wie etwa beim Apple iPhone oder bei den Android-Geräten.
+
+
+Funktionsweise und Systemarchitektur
+Smartphone-Betriebssysteme sind grundsätzlich in mehreren Schichten aufgebaut (Systemarchitektur). Diese Architektur ist in der Regel konstituiert durch einen Kern, eine Schicht für grundlegende Funktionen und Bibliotheken sowie weiteren Schichten, auf welchen Anwendungen ausgeführt werden bzw. mit dem User und den darunterliegenden Schichten kommunizieren.
+Die detaillierte Ausgestaltung der Systemarchitektur hingegen ist Betriebssystem-spezifisch und bildet eines der Abgrenzungskriterien unter den verschiedenen Smartphone-OS.
+So gliedert sich das Android-OS in einen Linux-Kernel, die Android Runtime, die Libraries, ein Applications Framework sowie die Applications.
+Der Linux-Kernel 2.6, welcher dem Betriebssystem zu Grunde liegt, wurde von den Betreibern stark verändert und an die Erfordernisse für den Einsatz auf mobilen Endgeräten angepasst. Dabei wurden verschiedene Treiber und Bibliotheken stark verändert bzw. gänzlich ersetzt. Dies betrifft vor allem das im Kernel angelegte Speichermanagement. Neu in der Android-Version des Linux-Kernels ist u. a. ein Treiber namens Binder. Durch diesen wird es ermöglicht, dass unterschiedliche Prozesse miteinander kommunizieren können, indem gemeinsam auf im Shared Memory angelegte Objekte zurückgegriffen wird. Die Vergabe von Zugriffsberechtigungen wird dabei über einen Android-spezifischen Treiber namens Ashmen geregelt. Ziel dabei ist es vor allem, möglichst ressourcenschonend zu operieren.
+Die über dem Kernel liegende Ebene beinhaltet Android Runtime und die Bibliotheken. Im Bereich der Bibliotheken wird weitestgehend auf die Standard-Linux-Bibliotheken zurückgegriffen. Um auch auf dieser Ebene maximale Ressourcenschonung erreichen zu können, ist zusätzlich die C-Bibliothek Bionic implementiert. Innerhalb der Android Runtime findet sich neben einigen Kernkomponenten die Dalvik Virtual Machine – eine Google-Eigenentwicklung. Jede Anwendung läuft dabei auf einer eigenen DVM als ein eigener Prozess. Diese kann via IPC-Treiber mit anderen Prozessen (oder Teilen davon) kommunizieren. Die DVM arbeitet mit einem eigenen Bytecode (dex-Bytecode).
+Das Applications Framework bildet den Rahmen, mittels dessen den verschiedenen Anwendungen der Zugriff auf verschiedene Hardwarekomponenten erlaubt wird (API). Android greift hierbei, wie die meisten anderen Smartphone-Betriebssysteme auch, auf Sandboxing zurück, d. h., Anwendungen werden nur in einem strikt abgegrenzten Bereich ausgeführt. Die oberste Applications-Ebene beinhaltet die eigentlichen Anwendungen (Apps) sowie die Kernkomponenten (Kontakte, Browser, SMS etc.).
+Das iOS wird ebenfalls durch verschiedene Schichten konstituiert. Namentlich sind diese die Core OS, die Core Services, Media, Cocoa Touch.
+Ganz grundlegende Unterschiede bestehen jedoch zwischen den Betriebssystemen, welche auf einem monolithischen Kernel aufgebaut sind (Android, Windows Phone, iOS u. a.), und solchen, die auf Micro-Kernel zurückgreifen. Diese Technik wird jedoch (im Bereich der Betriebssysteme mit nennenswertem Marktanteil) aktuell nur durch das Blackberry OS und Symbian-OS realisiert.
+
+
+Unterschiede zwischen verschiedenen Smartphone-Betriebssystemen
+Über die Systemarchitektur hinaus lassen sich die verschiedenen Betriebssysteme durch zahlreiche weitere Kriterien voneinander abgrenzen.
+
+
+Herstellerbindung
+Deutlichstes Abgrenzungsmerkmal hierbei ist die Herstellerbindung. Während die Verwendung von Android, Windows Phone, Symbian und Firefox nicht an einzelne Gerätehersteller gebunden ist, findet sich das Betriebssystem iOS ausschließlich auf Geräten von Apple und Blackberry OS ausschließlich auf Geräten von Blackberry wieder.
+
+
+Zahl und Verfügbarkeit von Anwendungen
+Auch in Anzahl und Verfügbarkeit der Apps unterscheiden sich die verschiedenen Betriebssysteme mithin gravierend. Während für Android und iOS jeweils mehr als 1.000.000 verschiedene Apps erhältlich sind, bewegen sich die übrigen Betriebssysteme im unteren sechsstelligen Bereich, was die Zahl der verfügbaren Anwendungen betrifft. Eine zusätzliche Unterscheidung kann in diesem Zusammenhang auch im Bereich der Verfügbarkeit bzw. Bezugsmöglichkeiten der verschiedenen Apps getroffen werden. Während Android-Apps (nach expliziter Freigabe durch den Nutzer) nicht nur über den Google Play Store, sondern auch über Drittanbieter bezogen werden können (analog Firefox OS und Blackberry), ist die Installation von z. B. iOS-Anwendungen nur via App Store von Apple möglich (analog Windows).
+
+
+Sicherheit
+Die Sicherheit betreffend, gilt Android als das fragilste Betriebssystem (einbezogen in die zugrundeliegende Untersuchung waren Android 3.0, iOS 4.x, Windows Phone 7 und Blackberry 6.x). Dies ist vor allem auf die weniger konsequente Sicherheitspolitik hinsichtlich der Richtlinien und Einstiegshürden für App-Entwickler zurückzuführen. So müssen Android-Entwicklungen nicht abschließend geprüft, zertifiziert und signiert werden, was es schlussendlich ermöglicht, Apps, welche gravierende Sicherheitslücken aufweisen bzw. welche selbst Schadsoftware stellen, in Google Play einzustellen. Seit dem Jahr 2019 gibt es allerdings einen Sicherheitscheck (Google Play Protect) im Google Play Store, welcher die Sicherheit von Android Apps verbessert. Dabei werden Apps aus dem Play Store gescannt und aus dem Store entfernt, sollten diese potenziell schädlich sein. Außerdem werden Apps aus anderen Quellen, die sich auf dem Gerät befinden, überprüft und können automatisch deinstalliert werden.
+Trotz dieser Änderungen sind die Sicherheitsrichtlinien bei iOS und vor allem bei Blackberry wesentlich restriktiver. Bei diesen, aber auch bei Windows Phone, muss jede erstellte Anwendung zusätzlich geprüft und zertifiziert werden. Vor allem Blackberry besteht hierbei auf die Einhaltung von über 400 verschiedenen Richtlinien. Ein Sicherheitsrisiko bei iOS kann ein Jailbreak darstellen. Durch einen Jailbreak werden root-Benutzerrechte freigeschaltet, welche es ermöglichen, jegliche Art von Software, einschließlich Schadsoftware, auszuführen.
+
+
+Übersicht Betriebssysteme
+Eine Übersicht der mittlerweile eingestellten und aktuellen Betriebssystem sowie die weltweiten Marktanteile der Hersteller von Smartphone-Betriebssystemen zeigen folgende Tabellen und Abbildungen.
+
+
+Aktuelle Betriebssysteme
+
+
+Nicht mehr gepflegte Betriebssysteme
+
+
+Anwendungssoftware
+
+
+Prozessoren
+Der Prozessor übernimmt, wie in jedem Computersystem, die anfallenden Rechenoperationen. Je nach Hersteller und Modell gibt es dabei große Leistungsunterschiede. Während ältere und vor allem kostengünstigere Geräte nur eine relativ geringe Prozessorleistung haben, können Spitzenmodelle im Jahr 2020 mehrere Prozessorkerne und eine Taktrate von über 3 GHz aufweisen. Die meisten in Smartphones verbauten Prozessoren basieren auf lizenzierten Designs der ARM-Architektur. Die Verwendung des x86-Befehlssatzes wie bspw. bei Motorolas RAZR i, ist bei Smartphones im Gegensatz zu Notebooks, wo x86 dominiert, die Ausnahme.
+In Nokias N-Serie haben Prozessoren von Texas Instruments große Verbreitung gefunden. Diverse Geräte, darunter das N70, N80 und N90, sind mit dem TI OMAP 1710 ausgestattet, der mit einer Taktrate von 220 MHz arbeitet. Die Modelle Nokia N93 und N95 verfügen über den TI OMAP 2420, der mit 330 MHz getaktet ist. Dadurch sind diese Geräte schneller zu bedienen und eignen sich durch eine verbesserte Grafikeinheit bereits für Videospiele.
+In den HTC-Modellen Touch Diamond, Touch Pro und Touch HD kommen Qualcomm-Prozessoren mit einer Taktfrequenz von 528 MHz zum Einsatz. Da HTC in diesen Geräten jedoch Windows Mobile als Betriebssystem einsetzt, welches mehr Arbeitsspeicher und Rechenleistung benötigt, bietet die höhere Prozessorleistung keinen merklichen Vorteil hinsichtlich der Arbeitsgeschwindigkeit.
+Mit 620 MHz nochmals höher ist die Prozessor-Geschwindigkeit des Apple iPhone 3GS aus dem Jahr 2009. Hier laufen auch rechenintensive Funktionen wie Multi-Touch weitgehend ruckel- und verzögerungsfrei.
+Im Jahr 2010 waren die mit einer Taktfrequenz von 1 GHz bis dato schnellsten in einem Smartphone verbauten Prozessoren im Toshiba TG01, dem Anfang 2010 erschienenen Google Nexus One sowie dem HTC HD2 und dem HTC Desire mit einem Snapdragon-Prozessor von Qualcomm zu finden. Das Sony Ericsson Xperia X10 und das HP Palm Pre 2 werden ebenfalls mit einem 1-GHz-Prozessor betrieben.
+Weiterhin besitzt das Samsung Galaxy S einen 1-GHz-Prozessor mit Namen Hummingbird.
+LG Electronics hat mit dem P990 Optimus Speed/2X im März 2011 das erste Smartphone mit einem Dual-Core-Prozessor veröffentlicht. Später zogen weitere Hersteller nach, wie zum Beispiel Samsung mit dem Modell Galaxy S II, HTC mit dem im Mai 2011 erschienenen Modell Sensation, in dem ein Prozessor des Typs Qualcomm MSM8260 mit einer Taktrate von 1,2 Gigahertz verbaut ist, und Motorola mit dem Gerät Droid Razr.
+Das Apple iPhone 4s, das im Oktober 2011 erschien, hat ebenfalls einen Dual-Core-Prozessor des Typs Apple A5.
+2012 erschienen die ersten Smartphones mit Quad-Core-Prozessoren, deren Prozessoren also vier Kerne aufweisen. Das erste war das HTC One X. Des Weiteren erschienen im Mai das Samsung Galaxy S III mit dem Samsung eigenen Prozessor Exynos 4 Quad und das LG Optimus 4X HD, welches ebenso wie das HTC One X einen Tegra-3-Prozessor des Chipherstellers Nvidia verwendet.
+Die Dual-Core-Prozessoren Apple A6(X), die im iPad 4 oder iPhone 5 verbaut sind, haben eine ähnliche Leistung wie der Exynos 4 Quad.
+Ende 2012 bzw. Anfang 2013 wurde die zweite Generation von Quad-Core-Prozessoren veröffentlicht, die im Gegensatz zur ersten Generation (z. B. Tegra 3), die auf Cortex-A9-Kerne setzte, nun oft entweder auf der leistungsfähigeren Cortex-A15-Architektur basierte (Tegra 4) oder auf einem ARM-Befehlssatz kompatiblen Eigendesign beruhte, das von der Leistungsfähigkeit zwischen der Cortex-A9- und Cortex-A15-Architektur anzusiedeln ist, aber sehr energieeffizient ist. (Qualcomm Snapdragon S4 Pro, 600, 800). Der Dual-Core-Prozessor des iPhone 5s, der Apple A7, der im September 2013 erschien, ist der zweite 64-Bit-ARM-Prozessor auf dem Markt.
+Moderne Smartphones werden teils mit Acht-Kern-Prozessoren (Octa-Core) ausgestattet, so etwa das HTC One M9 (Snapdragon 810) oder das Samsung Galaxy S6 (Exynos 7420). Dabei ist die Anzahl der Kerne etwa seit dieser Zeit kein Garant mehr für eine hohe Rechenleistung, denn auch Einsteigersmartphones verwenden seither Prozessoren mit vier, acht oder sogar zehn Kernen. Diese bieten jedoch insgesamt keine vergleichbare Leistung zu teureren Geräten, da letztere Prozessoren mit geringerer Strukturbreite, höherem Takt und reduziertem Energieverbrauch verwenden, sodass beispielsweise der Zweikern-Apple A9 des Apple iPhone 6s – je nach Testverfahren – etwa die doppelte Leistung im Vergleich zum Achtkern-Snapdragon 430 des zwei Jahre später veröffentlichten Nokia 6 bietet.
+
+
+Energieverbrauch
+Die Betriebsdauer hängt ab von der Kapazität des Akkus und dem Stromverbrauch über die Zeit. Im ausgeschalteten Zustand benötigt lediglich die eingebaute Uhr Energie. Im Bereitschaftsmodus mit ausgeschaltetem Display ist ein Smartphone mehrere Tage betriebsbereit, etwa um einen Anruf entgegenzunehmen oder einen Notruf abzusetzen, was im Fall von Notsituationen ohne Möglichkeit, das Gerät nachzuladen, bedeutsam ist. Im Betrieb erhöht sich der Energiebedarf deutlich. Das Empfangen oder auch schnelle Eingeben und Versenden einer SMS benötigt wegen der kurzen Übermittlungsdauer besonders wenig Energie. Spitzenwerte der Mobilfunk-Sendeleistung liegen im Bereich von einem Watt. WLAN benötigt ähnlich viel Energie, auch wenn keine Daten übertragen werden. Zu entfernteren Stationen oder in abgeschatteten Situationen muss mit höherer Leistung gesendet werden. Um möglichst lange telefonieren zu können, sollten WLAN und Bluetooth ausgeschaltet sein, ebenso die Hintergrundbeleuchtung. Dauerhaft aktiviertes GPS zieht Leistung auf Kosten der erreichbaren Stand-by-Zeit.
+
+
+Dual-SIM
+
+Vermehrt werden einzelne Modelle oder Modellvarianten mit Dual-SIM- bzw. Double-SIM-Funktion (mitunter auch für 3 oder mehr SIM-Karten) ausgeführt. Das ermöglicht beispielsweise die klare Trennung von privaten und geschäftlichen Gesprächen, entsprechende Erreichbarkeitszeiten und Adressverzeichnisse. Im Inland können so zwei Tarife/Verträge nebeneinander oder bei Reise ins Ausland überwiegend die SIM eines kostengünstigeren lokalen Anbieters genutzt werden. Die Plätze können auch unterschiedliche SIM-Formate unterstützen.
+Manche Gerätetypen verwenden einen hybriden Steckplatz zur Verwendung entweder einer sekundären SIM-Karte oder einer MicroSD-Speicherkarte, während separate Steckplätze anderer Geräte eine zeitgleiche Benutzung zweier SIM-Karten und einer Speicherkarte ermöglichen.
+
+
+Herstellerstrategien
+
+
+Wechselbarkeit des Akkus
+In Mobiltelefonen ist der Stromspeicher das kurzlebigste Bauteil. Dessen Alterung führt mit der Zeit zu Einbußen der Rechenleistung bis hin zu Ausfällen.
+Viele Hersteller, darunter Apple, Huawei, Oppo, Oneplus, Samsung, Sony und Xiaomi, verbauen bei vielen neuen Smartphones mittlerweile den Akku in einer Art, dass ein Wechsel nur mit hohem Aufwand bzw. nicht zerstörungsfrei möglich ist. Die Hauptplatine etlicher Gerätetypen bedeckt beispielsweise die Akkupole und muss somit gänzlich vor einem Wechsel der Kraftzelle entfernt werden. Das kann zu einer verkürzten Lebensdauer der Geräte führen und ist problematisch beim Recycling, da die notwendige Entfernung des Akkus zurzeit [veraltet] (Stand 2012) unwirtschaftlich ist. Daher trat der ehemalige Präsident des deutschen Umweltbundesamts, Jochen Flasbarth, 2012 für ein Verbot fest verbauter Akkus ein.
+Diese Form geplanter Obsoleszenz wurde zuerst von Apple in iPhones eingesetzt. Mit der Zeit wurden Mobiltelefone mit wechselbaren Akkus fast vollständig verdrängt.
+Dies zwingt Nutzer dazu, den Gebrauch leistungsintensiver Funktionalität des Gerätes zu begrenzen sowie auf vollständige Ladezyklen zu verzichten, um den drohenden Leistungsabfall des nichtwechselbaren Akkus hinauszuzögern.
+Die von 2017 bis 2020 erschienenen Mobiltelefone mit wechselbaren Akkus gehören zur minderen Funktionsklasse.
+
+
+Updatepolitik
+Verbraucherschützer beklagen die mangelnde Updatepolitik der Hersteller. Nur die Topmodelle erhalten größere Aktualisierungen, während die meisten anderen Geräte leer ausgehen. Das Problem ist insbesondere bei Android ausgeprägt. Da fehlende Updates u. a. ein Sicherheitsrisiko darstellen, sehen Verbraucherschützer hier einen Fall von geplanter Obsoleszenz. Zudem wird die schlechte Informationspolitik der Hersteller über ihre Updatepolitik kritisiert. Der Verbraucher erfährt in den meisten Fällen nicht, ob und wie viele Updates für das Gerät geplant sind. Daher verklagte Anfang 2016 die niederländische Verbraucherzentrale den Hersteller Samsung, ungenügende Angaben zur Update-Versorgung neuer Android-Geräte zu machen. Im Jahr 2021 zeigt sich dann doch leichte Besserung. So haben die meisten großen Hersteller Update-Garantien gegeben, darunter Samsung, Oppo, OnePlus und Google.
+
+
+Als Kameraersatz
+Die Entwicklung eingebauter Kameras in Mobiltelefonen führte ab 2010 zu Einbußen der Verkaufszahlen dedizierter Digitalkameras, da Telefonkameras vermehrt als ausreichender Ersatz herhielten. Steigende Rechenleistungen in Smartphones haben schnelle Bildverarbeitung und Aufnahme hochauflösender Videos ermöglicht. Später erweiterten Mehrfachkameras den Funktionsumfang von Smartphones um optische Vergrößerung und Weitwinkelobjektive. Jedoch fehlen aufgrund der Bauweise Ergonomien wie Kameragriff, Dreh- und Funktionsknöpfe zum schnellen Zugriff auf Parameter und die Möglichkeit zum schnellen Wechsel des Akkus und der Speicherkarte zum ununterbrochenen Betrieb im Erschöpfungsfall („Hot Swapping“). Dedizierte Kameras können zudem über deutlich stärkere optische Vergrößerung mittels langbrennweitiger Objektive sowie über helleres, durch Kondensatoren betriebenes Xenonlicht verfügen.
+
+
+Ausmaß der Smartphone-Nutzung in Deutschland
+Laut einer Befragung im Auftrag des Digitalverbands Bitkom nutzten in August 2017 über drei Viertel (78 Prozent) aller Bundesbürger ab 14 Jahren ein Smartphone. Das entspricht etwa 53 Millionen Menschen. In der Altersgruppe der 14- bis 29-Jährigen nutzten 95 Prozent ein Gerät. In der Altersgruppe der 30- bis 49-Jährigen waren 93 Prozent Smartphone-Nutzer, bei den 50- bis 64-Jährigen waren es 88 Prozent. Unter Bundesbürgern älter als 65 Jahre nutzte rund jeder Vierte (27 Prozent) ein Smartphone. Im Februar 2019 wurde die Zahl der Smartphone-Nutzer in Deutschland auf fast 65 Millionen geschätzt.
+Im Jahre 2016 wurden in Deutschland 24,2 Millionen Smartphones verkauft. Dabei lag der Umsatz bei 9,4 Milliarden Euro.
+Trotz 2022 weltweit einbrechender Absatzzahlen wird in Deutschland ein steigender Umsatz von 11,2 Milliarden Euro erwartet.
+
+
+Chancen und Risiken der Smartphone-Nutzung
+Die „Internet-AG Enigma“ an der Johann Wolfgang Goethe-Universität Frankfurt am Main beschäftigte sich dem Jahr 2013 mit der Frage, wie Smartphones und Tablets das soziale Leben beeinflussen. Dabei folgten die Autoren einem Leitsatz Karl Steinbuchs: „Nichts zwingt den Menschen, die ungeheuren Möglichkeiten der Wissenschaft und Technik zu seinem Unheil zu verwenden, alle Wege sind offen, Wissenschaft und Technik zu seinem Wohle zu verwenden.“ Prinzipiell positiv sei es zu bewerten, dass
+
+sich die Gesellschaft in eine „informierte Gesellschaft“ verwandele (Smart Devices ermöglichten den Zugang zu grenzenlosem Wissen, immer und überall);
+Smart Devices dem Nutzer ermöglichten, nicht nur Konsument von Inhalten, sondern auch deren Produzent zu sein (Texterstellung, Fotos, Videos);
+Reisevorbereitungen und das Reisen selbst erleichtert würden;
+immer und überall Musik gehört und Videos angeschaut werden könnten;
+zeitversetztes Fernsehen möglich sei;
+es keine Hindernisse mehr gebe, eine Vielzahl von Fotos aufzunehmen;
+zum Einkaufen nicht mehr das Haus verlassen werden müsse;
+ständig Gesundheitsdaten erhoben und weitergeleitet werden könnten;
+Änderungen im bzw. am eigenen Haus nicht mehr die Anwesenheit von Menschen voraussetzten; deren Anwesenheit könne potenziellen Einbrechern dennoch vorgetäuscht werden;
+soziale Kontakte aus der Ferne in Echtzeit und preiswert gepflegt werden könnten.
+Diese Vorteile seien schwerwiegender als die von der Internet-AG konzedierten Nachteile.
+In seinem Buch Die Smartphone-Epidemie. Gefahren für Gesundheit, Bildung und Gesellschaft vertritt der Neurologe und Medienpsychologe Manfred Spitzer die These, dass Smartphones in besonderer Weise zur digitalen Demenz bei denen beitrügen, die das Medium exzessiv nutzten. Dadurch nehme die durchschnittliche Intelligenz der Menschen in denjenigen Ländern ab, in denen die Digitalisierung starke Fortschritte mache. Die häufige Benutzung von Smartphones führt Spitzer zufolge zu Bewegungsmangel, Adipositas, Haltungsschäden, Diabetes, Hypertonie, Myopie, Insomnie, einer Erhöhung der Zahl von Unfällen und Geschlechtskrankheiten, Angst („Fear of missing out“ / „Fomo“), Mobbing, Aufmerksamkeitsstörungen, Depression / Suizidalität, Empathieverlust, verminderter Lebenszufriedenheit, Alkohol- und Drogensucht, Smartphone- und Online-Spiele-Sucht, geringerer Bildung, geringerem gegenseitigen Vertrauen, verminderter Fähigkeit zur Willensbildung, weniger Naturerleben, geringerer Förderung von Nachhaltigkeit, mehr Anonymität, weniger Solidarität, mehr sozialer Isolation und Einsamkeit, geringerer Gesundheit der Bevölkerung und einer Gefährdung der Demokratie.
+Smartphones werden aktuell (2020) als transportable Datenerfassungs-Computer genutzt, etwa in Biologie und Medizin, beispielsweise zur automatischen Extraktion von krafttrainingsrelevanten Deskriptoren für die wissenschaftliche Erforschung der krafttrainingsinduzierten muskulären Adaption.
+
+
+Physische Gesundheit
+
+
+Mobiltelefone im Allgemeinen
+Siehe Diskussionen zu Gesundheitsgefahren von Mobiltelefonen.
+
+
+Smartphones
+Die ÄrzteZeitung unterzog im Dezember 2018 sieben Behauptungen über Gesundheitsrisiken, die von Smartphones ausgehen sollen, einem Faktencheck. Als zutreffend wurden die Aussagen bewertet, wonach
+
+Smartphones süchtig machen können;
+Smartphones dem Rücken und den Händen des Nutzers schaden;
+Nutzer, die abends lange auf ihr Smartphone schauen, dazu neigen, schlecht einzuschlafen.
+Möglich, aber nicht erwiesen sei es, dass
+
+das blaue Licht des Smartphones die Netzhaut der Augen schädigen und sogar zur Erblindung führen könne (vgl. LED-Leuchtmittel);
+die elektromagnetische Strahlung von Smartphones Krebs verursachen könne.
+Vermutlich falsch seien die Behauptungen, wonach
+
+schon allein der WLAN-Betrieb eines Smartphones schädliche Strahlung verursachen könne;
+ein Handy in der Hosentasche bei Männern die Fruchtbarkeit reduzieren könne.
+
+
+Folgen der Überbeanspruchung des Daumens
+Das exzessive Nutzen von Smartphones überfordert die Daumen. Das Repetitive-Strain-Injury-Syndrom beispielsweise beschreibt einen anhaltenden Schmerz im Daumen. Dieser wird dadurch verursacht, dass der Daumen anatomisch gesehen nur zum Gegenhalten für die anderen Finger ausgelegt sei, nicht aber für feinmotorisches Tippen auf der Smartphone-Oberfläche.
+
+
+Veränderungen des Gehirns, Intelligenzverlust
+Der Neurologe Hans-Peter Thier bezweifelt, dass es den Sachverhalt „digitale Demenz“ gebe: „Unter Demenz versteht die Medizin einen Verlust ursprünglich verfügbarer kognitiver Fertigkeiten – ein Verlust des Gedächtnisses, eine Einschränkung des Denkvermögens, Orientierungsstörungen und letztendlich einen Zerfall der Persönlichkeitsstruktur. Demenzen können viele Ursachen haben. Ein Beispiel sind Hirnschäden infolge von Durchblutungsstörungen. Gemeinsamer Nenner der Ursachen sind Veränderungen der Struktur und der physiologischen Prozesse im Gehirns [sic!], so dass sie weit vom Normalen abweichen. Was immer die Nutzung digitaler Medien im Gehirn machen mag – es gibt keinerlei Evidenz dafür, dass sie zu fassbaren krankhaften Veränderungen im Gehirn führt.“ Einem Gehirn könne man durch keine Untersuchungsmethode anmerken, ob es zu einem intensiv digitale Medien Nutzenden gehöre, so Thier. Es gebe im Gegenteil Hinweise darauf, dass sich bei Senioren Surfen im Internet positiv in der Alzheimer-Prophylaxe auswirke.
+Forscher der Universität Zürich haben allerdings in einer Studie herausgefunden, dass die ständige Nutzung eines Smartphones das Gehirn insofern verändere, als durch häufige Smartphonenutzung der somatosensorische Kortex des Gehirns verändert werde, insbesondere jene Bereiche, welche für Daumen und Zeigefinger zuständig seien. Das hätten Messungen per Elektroenzephalografie ergeben.
+Für die Nutzung sozialer Netzwerke auf dem Smartphone ergibt sich aus strukturellen Hirndaten, dass Menschen, die mehr Zeit auf ihnen verbringen, möglicherweise verringerte Volumen im Nucleus accumbens haben.
+
+
+Geräte als Keimträger
+Wissenschaftler der Fakultät „Medical Life Sciences“ der Hochschule Furtwangen haben sich der weit verbreiteten These angenommen, wonach sich auf der Bildschirmoberfläche von Smartphones verschiedene Arten von krankheitserregenden Keimen und Bakterien anhäufen und so die Gesundheit des Nutzers gefährden könnten. Mehrere Labortests haben ergeben, dass sich durchschnittlich etwa 100 verschiedene sowohl schädliche als auch ungefährliche Bakterienarten dort sammeln, jedoch sei die Bakterienanzahl beispielsweise auf einer Küchenarbeitsfläche in etwa doppelt so hoch.
+
+
+Unfallgefahr
+Eine Studie einer amerikanischen Versicherung ergab, dass fast die Hälfte aller Autofahrer zwischen 18 und 29 Jahren das Internet nutzen, während sie ein Auto fahren. 2010 starben in den USA 3092 Menschen, und es wurden 400.000 Menschen verletzt, weil der Fahrer abgelenkt war. In Deutschland ist nach Paragraph 23 der StVO jede Nutzung eines Smartphones verboten, bei der das Gerät „aufgenommen oder gehalten“ werden muss. Verstöße werden mit 100 Euro Bußgeld und einem Punkt in Flensburg geahndet.
+Auch Unfälle von und mit Fußgängern nehmen zu. Beim Ablesen des in Brusthöhe gehaltenen Bildschirms wird der Kopf in der Regel abgesenkt und dadurch das Gesichtsfeld von oben geradeaus bis in die Waagrechte durch die Augenbrauen und zusätzlich auf den Ort des Aufsetzen der nächsten zwei Schritte unmittelbar vor einem durch das Gerät abgeschattet. Die in dichtem Verkehr, gerade auch im Fußgängergewühl, fast dauernd geübte Kommunikation durch Blickkontakt oder früher Andeutung der beabsichtigten Bewegungsroute entfällt dadurch. Die sicherheitsrelevante Vorhersehbarkeit des Verhaltens durch andere Verkehrsteilnehmer nimmt dadurch stark ab oder wird zumindest sehr unstet. Dazu kommt die Fokussierung der Aufmerksamkeit auf das Gerät, wodurch irreguläre Gefahren sogar innerhalb des eingeschränkten Gesichtsfelds, wie ein auf den Gehsteig zufahrendes Auto oder ein rechtskonform am Gehsteig rollender Inlineskater, nur sekundär, langsamer wahrgenommen werden und später die Aufmerksamkeitsschwelle überschreiten. Besonders hohe Belegung der Sinne erfolgt, wenn parallel zur Bildschirmbetrachtung auch graduell die Ohren abdichtende Ohrhörer eingesetzt sind und zusätzlich laute Musik gehört wird. In der Jugendsprache wird ein Fußgänger mit diesem Verhalten als Smombie (Kofferwort aus Smartphone und Zombie) bezeichnet. Um Gefahren, wie das Übersehen einer roten Fußgängerampel durch die Nutzung des Smartphones mit abgesenktem Kopf, zu verringern, haben einige Städte an Fußgängerampeln zusätzlich Bodenampeln installiert, welche durch auf dem Boden angebrachte, rote Blinklichter zeigen, ob die Fußgängerampel auf rot oder grün steht.
+Ähnliche Gefahren treten bei Sport, Flug oder Arbeit auf. Andererseits kann Musik sportliche Dauerleistung fördern und auch Einschlafen verhindern, gerade auch bei einer Autofahrt hinter monotonen Lärmschutzwänden, die landschaftliche Reize verbergen. Abstürze zu Fuß bei gewagten Selfies, besonders an Geländekanten und Geländern, werden genauso berichtet wie Autounfälle, die durch Filmen und Fotografieren verursacht werden. Dies tritt mit anderen Kameras ohne (großen) Bildschirm, wie Actioncams, allerdings ebenfalls auf.
+
+
+Psychische Gesundheit
+Eine große Gefahr stellt die psychische Abhängigkeit vieler Smartphone-Nutzer von ihren Geräten dar.
+Der Verzicht auf das Smartphone, um Stress zu reduzieren und sich wieder vorrangig dem Real Life (RL) zu widmen, wird als Handyfasten bezeichnet oder auch unter dem Begriff Digital Detox subsumiert.
+
+
+Fear of missing out („Fomo“)
+Eine häufig bei Smartphone-Benutzern anzutreffende Angst besteht darin, dass die Betreffenden befürchten, etwas Wichtiges zu verpassen, wenn sie nicht innerhalb von Sekunden in der Lage sind, auf Signale ihres Gerätes zu reagieren (siehe Fear of missing out). Der rationale Kern dieser Angst besteht darin, dass in einer sich beschleunigenden Welt das Verständnis für eine „zu langsame“ Reaktion eines Nutzers digitaler Medien tendenziell abnimmt. Bei Inanspruchnahme der „normalen“ Post kann beispielsweise frühestens nach zwei Tagen eine schriftliche Reaktion des Angeschriebenen vorliegen.
+Nebenwirkungen der ständigen Reaktionsbereitschaft sind eine eingeschränkte Aufmerksamkeit für andere Aufgaben und physisch anwesende Gesprächspartner (siehe Phubbing) sowie häufige Unterbrechungen, die die Produktivität und die Qualität der zu erledigenden Arbeiten verringern. Insbesondere eigene Kinder leiden unter dem Mangel an Aufmerksamkeit ihrer zumeist ohnehin nicht sehr lange physisch anwesenden Eltern und neigen (aus der Sicht der Eltern) dazu, „schwierig“ zu werden. In Hamburg demonstrierten im September 2018 ca. 150 Kinder gegen Eltern, die eher ihrem Smartphone als ihren Kindern Zeit und Aufmerksamkeit widmen.
+
+
+Smartphone-Spielsucht
+Die Möglichkeit, per Smartphone (auch online) an Spielen teilzunehmen, birgt ein hohes Suchtpotenzial. Der Reporter der Panorama-Sendung der ARD vom 13. Dezember 2018 stellte z. B. fest, dass er während der fünf Minuten, in denen er sich mit einem an sich harmlosen Smartphone-Spiel beschäftigte, genau so oft gelobt worden sei wie in seinem analogen Leben in einem ganzen Monat. Die systematische Stimulierung des Belohnungszentrums im Gehirn der Spieler führe auch dazu, dass die Bereitschaft entstehe, reales Geld in Smartphone-Spiele zu investieren. Das sei auch Kindern möglich. In Deutschland greift in solchen Fällen weder das gesetzliche Verbot, Minderjährige an Glücksspielen teilnehmen zu lassen, noch das Verbot, Minderjährigen das Schuldenmachen zu erlauben. Insofern werde das Jugendschutzrecht in Deutschland ausgehebelt. Die WHO erkannte im Juni 2018 an, dass Gaming Disorder (deutsch: Onlinespielsucht) eine dem unkontrollierten Glücksspiel vergleichbare Gesundheitsstörung sei. Gaming Disorder wurde in den Katalog ICD-11 aufgenommen. Seit Juni 2018 kann ein von Gaming Disorder persönlich Betroffener auf Kosten seiner Krankenkasse therapiert werden.
+
+
+Eltern-Kind-Interaktion
+In Situationen der Eltern-Kind-Interaktion kann die Nutzung von Smartphones durch Eltern ein ablenkender Faktor sein. Die angemessene Wahrnehmung und Reaktion der Signale des Kindes durch die Eltern ist entscheidend für die Entwicklung der Bindungssicherheit. Auch für die Sprachentwicklung sowie die Entwicklung von kognitiven und Selbstregulationsfähigkeiten ist eine responsive Eltern-Kind-Interaktion wichtig. Radesky et al. (2015) fanden, dass besonders die gesundheitsförderliche Wirkung der familiären Verbundenheit bei regelmäßigen gemeinsamen Mahlzeiten durch die Smartphone-Nutzung der Eltern reduziert sein könnte, da weniger verbale und nonverbale Interaktion zwischen Eltern und Kindern stattfindet. Die elterliche Ermutigung, neue Erfahrungen zu machen, bleibt im Fall der Ablenkung durch das Smartphone aus, und der Prozess des sozialen Referenzierens, welches der Interpretation und Bewertung unbekannter Situationen dient, wird gestört. Die Problematik erhält zunehmend Aufmerksamkeit, so rufen zum Beispiel Jugendämter, das Gesundheitsamt und das kommunale Integrationszentrum der Städteregion Aachen mit der Aktion „Sprich mit mir!“ dazu auf, sich das Verhältnis der Zeit am Smartphone zu der mit seinem Kind verbrachten Zeit bewusst zu machen.
+
+
+Phubbing
+Phubbing, das 2013 geprägte Kunstwort aus phone (Telefon) und snubbing (brüskieren), bezeichnet die Angewohnheit vieler Leute, sich während eines Gesprächs mit dem Handy oder Smartphone zu beschäftigen. Es wird vom Gesprächspartner meist als Missachtung oder Vernachlässigung empfunden und beeinträchtigt die Kommunikation. Dieses Verhalten nimmt nicht nur allgemein, sondern auch in Partnerschaften zu.
+In einer 2019 unter US-Ehepaaren durchgeführten Studie wird von durchschnittlich 2–4 solcher Störungen innerhalb zweier Wochen berichtet; nur ein Viertel erlebt sie kaum. Doch komme es weniger auf die Störungen an, sondern ob man sich in den alltäglichen Umgangsformen einig sei.
+Schon die bloße Anwesenheit eines Smartphones zum Beispiel auf einem Tisch liegend stört messbar die Aufmerksamkeit und die allgemeinen kognitiven Kapazitäten der Gesprächspartner.
+
+
+Gegenmaßnahmen der Smartphone-Hersteller
+Smartphone-Hersteller gehen seit 2018 direkt auf die Problematik der Smartphonesucht ein. Den Anfang machte Google im Mai 2018 bei der Konferenz Google I/O 2018, als eine Systemerweiterung namens „Digital Wellbeing“ angekündigt wurde, die inzwischen auf allen Geräten mit Android 9.0 verfügbar ist und helfen soll, Suchtverhalten zu reduzieren. Ebenso hat Apple kurz darauf in iOS 12 unter dem Namen „Screentime“ bzw. „Bildschirmzeit“ entsprechende Features eingeführt.
+Gemeinsam ist beiden Systemerweiterungen, dass die Zeit, die innerhalb jeder individuellen App verbracht wird, gemessen und limitiert werden kann.
+Google bietet mit der Erweiterung „Digital Wellbeing“ ab Android 9.0 zusätzlich die Option, manuell oder zeitgesteuert das Smartphone-Display auf Graustufen umzuschalten, was den Suchtfaktor deutlich reduzieren soll. Auf iOS ist dies auch über die Schnellfunktion möglich, muss aber manuell eingerichtet werden. Ebenso kann das Display auch auf älteren Versionen von Android auf Graustufen umgestellt werden, jedoch ist diese Möglichkeit deutlich aufwändiger.
+
+
+Gefährdungen der Rechtsstaatlichkeit und der Demokratie
+
+
+Aushöhlung des Rechts auf informationelle Selbstbestimmung
+Personenbezogene Daten sind nach der Datenschutz-Grundverordnung der Europäischen Union und nach Art. 8 der EU-Grundrechtecharta geschützt. Im Grundgesetz für die Bundesrepublik Deutschland befasst sich zwar kein eigener Artikel mit dem Recht auf informationelle Selbstbestimmung; aber laut ständiger Rechtsprechung des Bundesverfassungsgerichts muss dennoch von der Existenz eines solchen Grundrechts ausgegangen werden. Insbesondere die unbemerkte und nicht beabsichtigte Weitergabe personenbezogener Daten eines Smartphonebenutzers ist rechtlich bedenklich. Auch die ausdrückliche Zustimmung zur Sammlung personenbezogener Daten kann Probleme mit sich bringen, sofern der Zustimmende sich nicht über die Tragweite seiner Entscheidung im Klaren ist (indem z. B. wegen bislang unerkannter gesundheitlicher Risiken seine Krankenversicherungsbeiträge erhöht werden könnten oder indem ihm seine Arbeitsstelle gekündigt werden könnte).
+
+
+Activity tracking
+Activity Tracker ermöglichen nicht nur die Kontrolle und Speicherung von Gesundheitsdaten, sondern auch die Weiterleitung dieser Daten an Dritte, z. B. an Ärzte. Dabei handelt es sich um eine Form der Selbstoffenbarung (im Sinne der Kommunikationstheorie Friedemann Schulz von Thuns), der sich der Versender der Daten nicht entziehen kann, solange er die Apparatur benutzt und auf Sendung ist (Paul Watzlawick: „Man kann nicht nicht kommunizieren.“). Problematisch ist es, dass Laien oft nicht die Bedeutung dessen verstehen, was ihr Körper „über sie aussagt“.
+
+
+Abhören und Spionage
+Smartphones dienen durch ihre Kameras und Mikrofone, welche durch Hacken ferngesteuert werden, als Instrumente zum Abhören und zur visuellen Aufklärung. So berichteten etwa im Jahr 2021 Forscher und Journalisten den Fund der durch ein Unternehmen privat vertriebenen Spyware „Pegasus“, welches iOS- und Android-Smartphones infizieren kann – oft, ohne dass der Nutzer dafür interagieren muss, um Daten zu exfiltrieren und jederzeit die Kamera, GPS und das Mikrofon zu nutzen.
+
+
+Ortsbestimmung
+Problematisch ist die Bestimmbarkeit des Aufenthaltsorts eines Smartphone-Nutzers insbesondere dann, wenn er ein berechtigtes Interesse daran hat zu verhindern, dass Dritte ihr entsprechendes Wissen gegen ihn verwenden können (Alibi-Komplex).
+Eine Ortsbestimmung eines Smartphones ist per GPS oder (weniger genau, dafür aber Energie sparend) über das Mastennetz von Netzwerkbetreibern bzw. per WLAN möglich. Durch die Verbindung eines Smartphones mit einem GPS-System „weiß“ es, wo es sich befindet (Positionsbestimmung), aber es kann auch aus der Ferne geortet werden. Voraussetzung hierfür ist, dass das Smartphone eingeschaltet ist und dass der GPS-Empfänger in ihm „seinen“ Satelliten in der Erdumlaufbahn gefunden hat, was unter ungünstigen Umständen bis zu zwölf Minuten dauern kann.
+Die Speicherung des Aufenthaltsorts eines Smartphones (und des Standorts seines Nutzers, sofern sich das Gerät in der Nähe von dessen Körper befindet) sowie der Nutzungszeiten und Kommunikationspartner durch den zuständigen Netzwerkbetreiber kann zu Problemen für die Besitzer führen, insbesondere dann, wenn das Gerät infolge einer Manipulation nur scheinbar ausgeschaltet ist. Sicherheit vor unerwünschten Nachforschungen schafft nur (sofern ohne Beschädigung des Geräts möglich) die Herausnahme des Akkus.
+
+
+Ökologische Probleme
+„An Handys und Tablet-PCs ist nichts nachhaltig.“, urteilte 2014 Eva Wolfangel, Mitarbeiterin bei Spektrum der Wissenschaft.
+
+
+Klima-Auswirkungen
+Bei der Produktion eines Smartphones werden circa 30 Kilogramm klimaschädliches Kohlenstoffdioxid ausgestoßen.
+
+
+Auswirkungen im Schulalltag
+Die Nutzung von Smartphones während des Schulunterrichts sowie in den Pausen kann zu Konzentrationsschwierigkeiten, Ablenkung von den Lerninhalten und sich damit verschlechternden Leistungen führen. Jugendgefährdende Inhalte im Internet verstärken dieses Phänomen. Laut mehrerer Studien wirkt sich ein Verbot der Nutzung an Schulen positiv auf die Lernleistung sowie das Wohlbefinden aus. In Italien, Frankreich und den Niederlanden wurden weitreichende Verbote erlassen, in Deutschland geschieht dies vereinzelt.
+
+
+Künstlerische Rezeption
+
+Das Smartphone als Idee in der Literatur tauchte schon lange vor der eigentlichen Entwicklung der Smartphones auf. Bereits 1949 beschrieb Ernst Jünger in seinem futuristischen Roman Heliopolis. Rückblick auf eine Stadt den Phonophor, der Funktionen eines Smartphones vorwegnahm.
+Die Ursprünge der Medienkunst werden mit dem Buchdruck im 15. Jahrhundert oder auch der Fotografie im 19. Jahrhundert verbunden. Der Begriff „Medienkunst“ dagegen wird erst für Kunst der neuen Medien des 20. und 21. Jahrhunderts verwendet. Diese Entwicklung ging über Videokunst und Digitale Kunst seit dem Internet mit Hypertext. Seit der Jahrtausendwende entwickelt sich die Medienkunst sehr schnell, auch wenn sie Anzeichen von Kurzlebigkeit zeigt. Zum Bereich der Medienkunst gehört auch die Digitalfotografie und Kunst unter Heranziehung des Smartphones.
+Der US-amerikanische Fotograf Eric Pickersgill (* 1986) hat in der Serie Removed Menschen in Alltagssituationen abgebildet, aus denen er die personal devices entfernen hat dürfen, und in denen die Personen dennoch ihre Körperposition einhalten. Er zeigt damit, wie sehr sich Menschen dem Gerät zuwenden, sogar, wenn Mitmenschen körperlich nahe sind.
+Aus medienästhetischer Perspektive wird in der Gegenwart untersucht, wie sich das Lesen und das Schreiben von der Antike (beispielsweise im Umgang mit einem Papyrus) über das Blättern in einem Buch hin zur moderner Gestensteuerung des Smartphones entwickeln. Bezugnehmend zum Beispiel auf den Philosophen Vilém Flusser wird im Zusammenhang mit dieser Entwicklung auch gefragt, ob das Wischen über Touchscreens Kulturtechniken wie das Schreiben ändert und damit zusammenhängend neue Formen der Kunst und Literatur entstehen.
+Der Kunstkritiker Hanno Rauterberg sieht die Bedeutung des Aufkommens des Smartphones für die Kunst darin, dass sich ein Wunsch der Avantgarde des 20. Jahrhunderts erfüllt: neue Bildkulturen und ein Verschmelzen von Kunst und Leben. Die Avantgarde des 20. Jahrhunderts versuchte, viel klassische Merkmale der Kunst abzustreifen und Kunst und Leben aufeinanderzu zu entwickeln. Zur Mündlichkeit und Schriftlichkeit sei eine „Äuglichkeit“ hinzugekommen, denn die Kamera des Smartphones könne vieles ausdrücken, für das mit herkömmlichen Mitteln keine Worte zu finden seien. Die Fotografie durch das Smartphone multipliziere den Augenblick, überwinde den Ort und mache aus dem Hier und Jetzt ein „Überall und Immer“. Sei es früher der Fall gewesen, dass Kunst wie etwa Marcel Duchamps Werke mit Alltagsdingen verwechselt wurden, habe sich dieser Umstand verkehrt und das Alltägliche nehme kunsthafte Züge an. Die Begeisterung für das Banale erinnere an die Kunstauffassungen von Joseph Beuys, Robert Rauschenberg, Andy Warhol oder Jeff Koons.
+Die Digitale Revolution sei auch für Museen und den Kunstmarkt ein Umbruch. Richard Prince druckte zum Beispiel Bilder aus Instagram auf Leinwand und verkaufte sie in New York. Die Bedeutung der Museen als Instanz nehme ab.
+Die Veränderungen durch Smartphone-Technik und Foto-Apps bewirken im Bereich der Fotografie eine Annäherung von professionellen Fotografen und Laien, was Sehgewohnheiten, Bearbeitung aber auch die Vermarktung von Fotografien betrifft. Aufgrund zahlreicher erschienener Anwendungen für das Smartphone (Apps) vervielfachten sich seit dem Jahr 2007 die Möglichkeiten zur Bearbeitung von Fotos. Die Modifikationsmöglichkeiten vervielfachen sich auch in der Gegenwart mit dem Erscheinen immer neuer Apps in hoher Geschwindigkeit; die Fotos lassen sich sofort teilen. Durch die Bearbeitungen können auch qualitativ minderwertige Fotos interessant erscheinen und kann Alltägliches zur Kunst werden. Smartphonekameras stellen die erste Technologie im Bereich der Fotografie, die das Anfertigen von Bildern, das Bearbeiten und das Teilen der so entstandenen Werke vereint. Vor der Entwicklung des Smartphones vereinte nur die Polaroidkamera die Elemente, Bilder zu machen, zu drucken und sofort zu teilen, jedoch ohne die Möglichkeit einer Bearbeitung. Mit Digitalkameras gab es aber keine Möglichkeit, Bilder zu drucken, dafür war der Umweg über einen Personal Computer nötig.
+
+
+Siehe auch
+Liste von Mobiltelefonherstellern
+NoPhone, Smartphone-Attrappe
+
+
+Literatur
+Ulrich Hägele/Judith Schühle (Hrsg.): SnAppShots. Smartphones als Kamera (= Visuelle Kultur, Bd. 14). Waxmann, Münster 2021, ISBN 978-3-8309-4329-7.
+Oliver Ruf (Hrsg.): Smartphone-Ästhetik. Zur Philosophie und Gestaltung mobiler Medien (= Oliver Ruf [Hrsg.]: Medien- und Gestaltungsästhetik. Band 1). transcript, Bielefeld 2018, ISBN 978-3-8376-3529-4 (eingeschränkte Vorschau in der Google-Buchsuche). 
+
+
+Weblinks
+
+Literatur von und über Smartphone im Katalog der Deutschen Nationalbibliothek
+Smartphones: Verdaddeln wir unser Leben? auf ardmediathek.de
+
+
+Einzelnachweise","[""Mobile technology"", ""Smartphone history"", ""Digital lifestyle"", ""Operating systems"", ""Health impacts""]","[{'role': 'Technology Historian', 'description': 'A scholar specializing in the evolution of mobile technology and its societal impacts.', 'expertise_area': 'Mobile Technology History', 'perspective': 'Historical Context', 'speaking_style': {'tone': 'Formal and reserved, with occasional enthusiasm when discussing breakthroughs in technology.', 'language_complexity': 'Complex language with a preference for technical jargon and historical references. Uses metaphors to illustrate technological evolution.', 'communication_style': 'Collaborative and inquisitive, often posing rhetorical questions to engage the audience. Prefers active listening during discussions.', 'sentence_structure': 'Long and complex sentences with subordinate clauses, frequently incorporating historical anecdotes. Occasionally uses exclamations to emphasize key points.', 'formality': 'Formal', 'other_traits': 'Uses pauses effectively to allow reflection on historical impacts. Employs rhetorical devices such as parallelism and antithesis.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Nun'], 'catchphrases': ['Die Geschichte lehrt uns...', 'In der Vergangenheit war es so...'], 'speech_patterns': [""Begins sentences with 'Interessanterweise...', 'Historisch gesehen...'""], 'emotional_expressions': ['Lächeln bei positiven Entwicklungen', ""'Erstaunlich!' bei überraschenden Fakten""]}, 'social_roles': ['Initiator-Contributor', 'Evaluator-Critic'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Health Expert', 'description': 'A medical professional specializing in the health impacts of digital technology usage.', 'expertise_area': 'Digital Health', 'perspective': 'Health Implications', 'speaking_style': {'tone': 'Semi-formal and empathetic, with a serious tone when discussing health risks. Occasionally optimistic when talking about solutions.', 'language_complexity': ""Moderate complexity with a mix of medical terminology and layman's terms. Uses analogies to explain health concepts related to digital technology."", 'communication_style': 'Direct and assertive, yet supportive. Encourages dialogue and questions from the audience. Prefers active listening to understand concerns.', 'sentence_structure': 'Varied sentence length, often starting with short statements followed by detailed explanations. Uses questions to engage the audience.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses effectively to emphasize important points. Employs rhetorical devices such as repetition for emphasis.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Ehrlich gesagt'], 'catchphrases': ['Gesundheit ist unser höchstes Gut', 'Digitale Balance ist entscheidend'], 'speech_patterns': [""Beginnt Sätze mit 'Wichtig zu beachten ist...', 'Aus medizinischer Sicht...'""], 'emotional_expressions': ['Seufzen bei besorgniserregenden Statistiken', ""'Fantastisch!' bei positiven Entwicklungen""]}, 'social_roles': ['Information Giver', 'Compromiser'], 'social_roles_descr': ['Shares relevant information, data or research that the group needs to make informed decisions.', 'Helps the group find a middle ground when there are differences of opinion and encourages compromise in order to move forward.']}, {'role': 'Digital Lifestyle Analyst', 'description': 'An expert in analyzing trends and behaviors related to smartphone usage and digital lifestyle.', 'expertise_area': 'Digital Lifestyle', 'perspective': 'Behavioral Insights', 'speaking_style': {'tone': 'Casual and enthusiastic, with a touch of humor when discussing digital lifestyle trends. Occasionally serious when addressing privacy concerns.', 'language_complexity': 'Simple language with common terms, occasionally using industry jargon related to digital trends. Prefers storytelling and analogies to illustrate points.', 'communication_style': 'Collaborative and inquisitive, often engaging the audience with questions. Encourages sharing experiences and insights.', 'sentence_structure': 'Short and concise sentences mixed with longer narratives. Frequently uses exclamations to highlight exciting trends or findings.', 'formality': 'Informal', 'other_traits': 'Uses rhythm in speech to maintain engagement. Often incorporates anecdotes from personal experiences or case studies.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Na ja', 'Weißt du'], 'catchphrases': ['Im digitalen Zeitalter...', '...ist der Schlüssel zum Erfolg'], 'speech_patterns': [""Beginnt Sätze mit 'Interessant ist...', 'Man könnte sagen...'""], 'emotional_expressions': ['Lachen bei humorvollen Anekdoten', ""'Unglaublich!' bei überraschenden Statistiken""]}, 'social_roles': ['Opinion Seeker', 'Encourager'], 'social_roles_descr': ['Encourages others to share their opinions and beliefs in order to understand different perspectives.', 'Provides positive feedback and praise to boost the morale and motivation of group members.']}, {'role': 'Mobile Technology Expert', 'description': 'A professional with extensive knowledge in smartphone technology and its advancements.', 'expertise_area': 'Smartphone Technology', 'perspective': 'Technical Insights', 'speaking_style': {'tone': 'Enthusiastic and optimistic, with a serious undertone when discussing technical challenges.', 'language_complexity': 'Complex language with a preference for technical jargon and industry-specific terms. Uses analogies to simplify complex concepts.', 'communication_style': 'Direct and assertive, yet open to collaboration. Frequently uses rhetorical questions to provoke thought.', 'sentence_structure': 'Long and detailed sentences with occasional short bursts for emphasis. Often includes subordinate clauses to elaborate on points.', 'formality': 'Semi-formal', 'other_traits': 'Uses pauses strategically to highlight advancements. Employs rhetorical devices such as enumeration and contrast.'}, 'personalized_vocabulary': {'filler_words': ['Ähm', 'Also', 'Genau'], 'catchphrases': ['Technologische Innovation ist der Schlüssel...', '...verändert die Spielregeln'], 'speech_patterns': [""Beginnt Sätze mit 'Interessant zu sehen ist...', 'Man könnte meinen...'""], 'emotional_expressions': ['Lächeln bei innovativen Lösungen', ""'Beeindruckend!' bei technologischen Durchbrüchen""]}, 'social_roles': ['Aggressor', 'Implementer'], 'social_roles_descr': ['Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.', 'Puts plans and decisions of the group into action and ensures practical implementation.']}]","Das Treffen konzentrierte sich auf die Entwicklung und den Einfluss von Smartphones. Ursprünglich als Mobiltelefone mit erweiterten Computerfunktionen konzipiert, haben Smartphones seit ihrer Einführung durch Ericsson im Jahr 1999 eine bedeutende Rolle in der digitalen Welt eingenommen. Mit der Verbreitung von Android und iOS dominieren sie den Markt, wobei Android das meistgenutzte Betriebssystem ist. Die Integration von Sensoren und drahtlosen Kommunikationsprotokollen hat die Funktionalität erweitert, während die Möglichkeit zur Installation von Apps die Vielseitigkeit erhöht.
+
+Smartphones haben den Alltag vieler Menschen verändert, indem sie ständigen Internetzugang bieten und soziale Netzwerke sowie Instant Messaging fördern. Gleichzeitig gibt es Bedenken hinsichtlich psychischer Gesundheitsschäden und Datenschutzproblemen durch Massenüberwachung. Die Entwicklung führte zu rechtlichen Auseinandersetzungen um Patente und Designrechte.
+
+Die Diskussion um ökologische Auswirkungen und geplante Obsoleszenz wurde ebenfalls angesprochen, da fest verbaute Akkus die Lebensdauer verkürzen können. Trotz rückläufiger Verkaufszahlen bleibt der Umsatz stabil, was auf steigende Preise zurückzuführen ist. Abschließend wurde über Chancen und Risiken der Smartphone-Nutzung gesprochen, einschließlich ihrer Rolle als Datenerfassungsgeräte in Medizin und Biologie.","[""Scene 1: Brief Greeting and Meeting Objectives\nTLDR: Participants greet each other and outline the meeting objectives.\n- Brief greeting among participants\n- Outline of meeting objectives: Update on project progress, gather feedback, ensure alignment with expectations\n- Mention of expected outcomes: Informed stakeholders, valuable feedback collected, aligned project goals"", ""Scene 2: Historical Context of Smartphones\nTLDR: Technology Historian discusses the evolution and impact of smartphones.\n- Introduction to the historical development of smartphones\n- Key milestones in smartphone history (Ericsson's introduction in 1999)\n- Impact on digital world and society"", ""Scene 3: Health Implications of Smartphone Usage\nTLDR: Health Expert addresses health impacts related to smartphone usage.\n- Discussion on mental health concerns due to smartphone usage\n- Privacy issues and mass surveillance implications\n- Solutions for mitigating health risks"", ""Scene 4: Digital Lifestyle Trends and Behaviors\nTLDR: Digital Lifestyle Analyst explores trends in smartphone usage.\n- Analysis of how smartphones have changed daily life (internet access, social networks)\n- Behavioral insights into digital lifestyle trends\n- Personal anecdotes and case studies"", ""Scene 5: Technical Advancements in Smartphone Technology\nTLDR: Mobile Technology Expert provides technical insights into smartphone advancements.\n- Overview of technological innovations in smartphones (sensors, wireless protocols)\n- Discussion on operating systems dominance (Android vs iOS)\n- Challenges and solutions in smartphone technology"", ""Scene 6: Environmental Impact and Planned Obsolescence\nTLDR: Open discussion on ecological concerns related to smartphones.\n- Concerns about environmental impact (battery lifespan, planned obsolescence)\n- Stakeholder perspectives on sustainability efforts\n- Potential solutions for reducing ecological footprint"", ""Scene 7: Opportunities and Risks in Smartphone Usage\nTLDR: Collaborative discussion on future opportunities and risks.\n- Exploration of opportunities in medical and biological data collection via smartphones\n- Risks associated with increased smartphone dependency\n- Stakeholder feedback and suggestions for future directions"", ""Scene 8: Spontaneous Contributions and Off-topic Moments\nTLDR: Allowing space for spontaneous contributions from participants.\n- Encouragement for participants to share personal experiences or insights not covered earlier\n- Brief off-topic moments to foster a relaxed atmosphere""]",">>Technology Historian: Bevor wir loslegen, sollten wir sicherstellen, dass alle auf dem gleichen Stand sind. Unser Ziel heute ist es, den Fortschritt des Projekts zu besprechen und wertvolles Feedback zu sammeln. Das wird uns helfen, unsere Ziele klarer zu definieren und Erwartungen zu erfüllen.
+>>Health Expert: Absolut, und dabei dürfen wir die gesundheitlichen Auswirkungen der digitalen Technologien nicht vergessen. Schlafstörungen und Stress durch ständige Erreichbarkeit sind echte Probleme. Wir sollten überlegen, wie wir diese Risiken minimieren können.
+>>Digital Lifestyle Analyst: Ja, das ist wichtig. Und wenn wir über den Projektfortschritt sprechen, sollten wir auch die Verhaltensänderungen durch digitale Technologien im Blick haben. Smartphones beeinflussen unsere tägliche Routine stark – was bedeutet das für unsere Ziele?
+>>Technology Historian: Genau! Die Geschichte zeigt oft unerwartete gesellschaftliche Veränderungen durch technologische Innovationen. Diese historischen Entwicklungen können uns helfen, besser zu verstehen, wie sie unsere aktuellen Projektziele beeinflussen könnten.
+>>Mobile Technology Expert: Ich stimme zu! Die Innovationen bei Smartphones haben nicht nur unsere Kommunikation revolutioniert sondern auch unsere Arbeitsweise verändert. Zum Beispiel die Fortschritte bei Sensoren und drahtlosen Protokollen – das eröffnet neue Möglichkeiten.
+>>Health Expert: Und aus medizinischer Sicht müssen wir wirklich darauf achten, wie sich die ständige Smartphone-Nutzung auf die Gesundheit auswirkt. Es gibt Studien dazu – vielleicht sollten wir einige davon in unser Projekt einfließen lassen.
+>>Digital Lifestyle Analyst: Interessant ist auch der Einfluss auf Konzentration und Produktivität durch ständiges Online-Sein. Vielleicht könnten wir hier konkrete Maßnahmen entwickeln?
+>>Technology Historian: Das wäre sinnvoll! Wenn man bedenkt, wie schnell sich alles entwickelt hat – von den ersten Handys bis jetzt –, können historische Trends uns Hinweise geben für zukünftige Entwicklungen.
+>>Mobile Technology Expert: Vielleicht könnten wir eine kleine Studie machen oder Daten sammeln über aktuelle Nutzungsmuster? Das würde uns helfen, fundierte Entscheidungen zu treffen.
+>>Health Expert: Gute Idee! Lass uns das als einen unserer nächsten Schritte festhalten.
+
+*Die Teilnehmer einigen sich darauf, spezifische Studien zur Smartphone-Nutzung einzubeziehen und weitere Daten zu sammeln.* 
+ >>Technology Historian: Die Einführung des Smartphones durch Ericsson im Jahr 1999 hat nicht nur den Begriff geprägt, sondern auch eine neue Ära der mobilen Kommunikation eingeläutet. Das war ein Wendepunkt, der die Art und Weise, wie wir mit Technologie interagieren, grundlegend verändert hat. Solche technologischen Durchbrüche haben oft weitreichende gesellschaftliche Auswirkungen.
+
+>>Digital Lifestyle Analyst: Es ist faszinierend zu sehen, wie Smartphones nicht nur unsere Kommunikation revolutioniert haben, sondern auch unser Verhalten im Alltag beeinflussen. Im digitalen Zeitalter sind sie wirklich der Schlüssel zum Erfolg! Aber diese ständige Erreichbarkeit kann echt stressig sein. Was denkst du darüber?
+
+>>Mobile Technology Expert: Genau! Die technologische Innovation bei Smartphones hat die Spielregeln komplett verändert. Es wurden viele Sensoren und Funktionen integriert, die unsere Interaktion mit der digitalen Welt revolutionieren. Diese Geräte sind mittlerweile mehr als Kommunikationsmittel – sie sind unverzichtbare Werkzeuge in unserem Alltag geworden!
+
+>>Health Expert: Absolut! Aus medizinischer Sicht bringt die ständige Nutzung von Smartphones erhebliche gesundheitliche Risiken mit sich. Schlafstörungen und Stress durch ständige Erreichbarkeit sind ernsthafte Probleme. Wir sollten wirklich Strategien entwickeln, um eine gesunde digitale Balance zu fördern.
+
+>>Technology Historian: Die Einführung des iPhones 2007 war ein echter Wendepunkt – die Multitouch-Bedienung und das App-Ökosystem haben alles verändert und neue Geschäftsmodelle geschaffen.
+
+>>Digital Lifestyle Analyst: Unglaublich! Man könnte sagen, dass Smartphones unsere Gesellschaft komplett umgekrempelt haben. Sie beeinflussen nicht nur unsere Kommunikation sondern auch unser tägliches Verhalten enorm.
+
+>>Health Expert: Diese Statistiken sind wirklich besorgniserregend... Wir müssen dringend etwas tun! 
+ >>Digital Lifestyle Analyst: Interessant ist, dass viele Menschen ihre Smartphones als unverzichtbar ansehen, obwohl sie wissen, dass es gesundheitliche Risiken gibt. Wir sollten auch die Datenschutzprobleme und die Massenüberwachung nicht vergessen. Unglaublich, wie viel persönliche Daten gesammelt werden!
+>>Technology Historian: Das stimmt! Historisch gesehen hat jede technologische Innovation ähnliche Bedenken hervorgerufen. Vielleicht können wir aus diesen Beispielen lernen und eine gesunde digitale Balance finden.
+>>Health Expert: Genau wie du sagst, diese ständige Nutzung kann wirklich schädlich sein. Schlafstörungen und Stress sind häufige Folgen übermäßiger Bildschirmzeit.
+>>Mobile Technology Expert: Ja, genau! Die Innovation bei Smartphones hat unsere Kommunikation verändert und bringt große Datenschutzprobleme mit sich.
+
+>>Technology Historian: Die Einführung des Smartphones hat nicht nur unsere Kommunikationsweise revolutioniert sondern auch eine neue Ära der Massenüberwachung eingeleitet. Technologische Fortschritte führen immer wieder zu neuen Herausforderungen im Bereich Datenschutz.
+>>Health Expert: Ehrlich gesagt ist es wichtig zu beachten, dass die ständige Überwachung durch Smartphones nicht nur eine Bedrohung für unsere Privatsphäre darstellt sondern auch psychische Belastungen verursachen kann. Diese Eingriffe in unser Privatleben können zu erhöhtem Stress und Angstzuständen führen.
+>>Digital Lifestyle Analyst: Weißt du... Diese ständige Erreichbarkeit kann das Gefühl der Überforderung verstärken. Es ist faszinierend zu sehen, wie sich Verhaltensmuster ändern.
+
+>>Technology Historian: Interessanterweise zeigt die Geschichte oft wie technologische Fortschritte mit neuen Herausforderungen im Bereich der Privatsphäre einhergehen. Wie können wir aus diesen historischen Beispielen lernen und eine gesunde digitale Balance finden?
+>>Health Expert: Aus medizinischer Sicht ist es entscheidend sowohl physische als auch psychische Gesundheitsrisiken durch übermäßige Smartphone-Nutzung sowie Auswirkungen der ständigen Überwachung auf unsere mentale Gesundheit zu betrachten. Diese können chronischen Stress und Angstzustände verursachen.
+>>Mobile Technology Expert: Genau! Wenn wir über technische Aspekte sprechen ist beeindruckend wie Smartphones durch ihre Sensoren umfassende Überwachung ermöglichen. Technologische Innovation verändert Spielregeln in Bezug auf Datenschutz und Privatsphäre. 
+ >>Digital Lifestyle Analyst: Also, es ist wirklich faszinierend, wie Smartphones unseren Alltag verändert haben. Sie machen uns ständig erreichbar und beeinflussen unsere sozialen Interaktionen enorm. Ich habe neulich eine Studie gelesen, die zeigt, dass viele Menschen sich überfordert fühlen durch diese ständige Erreichbarkeit.
+
+>>Technology Historian: Historisch gesehen haben Smartphones unsere Kommunikation und Informationskonsum revolutioniert. Jede neue Technologie bringt sowohl Vorteile als auch Herausforderungen mit sich.
+
+>>Health Expert: Ehrlich gesagt ist es wichtig zu beachten, dass die ständige Erreichbarkeit durch Smartphones nicht nur Stress verursacht, sondern auch Schlafstörungen und andere gesundheitliche Probleme. Aus medizinischer Sicht sollten wir Strategien entwickeln, um eine digitale Balance zu fördern.
+
+>>Digital Lifestyle Analyst: Interessant ist auch, dass viele Menschen ihre Smartphones als eine Art digitalen Assistenten betrachten und sie für verschiedene Aufgaben wie Fitnessüberwachung nutzen.
+
+>>Mobile Technology Expert: Ja, das stimmt! Ich habe neulich gelesen, dass einige Leute ihre Smartphones sogar nutzen, um ihre Ernährung zu überwachen.
+
+>>Health Expert: Das zeigt wirklich die Vielseitigkeit dieser Geräte. Aber wir müssen auch die gesundheitlichen Auswirkungen im Auge behalten. 
+ >>Mobile Technology Expert: Also, die Integration von Sensoren und drahtlosen Protokollen in Smartphones hat wirklich die Spielregeln verändert. Diese technologischen Innovationen sind entscheidend, um viele Herausforderungen zu lösen. Aber wir dürfen die Sicherheitsaspekte nicht aus den Augen verlieren. Zum Beispiel arbeiten wir gerade an neuen Verschlüsselungsmethoden, um Daten besser zu schützen.
+
+>>Technology Historian: Das ist ein guter Punkt! Wenn ich an die Einführung von Android und iOS denke, fällt mir ein, wie schnell sich der Markt verändert hat. Damals gab es große Sicherheitslücken, aber durch regelmäßige Updates konnten viele Probleme behoben werden. Vielleicht sollten wir uns darauf konzentrieren, wie solche Updates heute noch effektiver gestaltet werden können.
+
+>>Health Expert: Ehrlich gesagt ist es wichtig zu beachten, dass die ständige Nutzung von Smartphones gesundheitliche Risiken birgt. Schlafstörungen und Stress können durch übermäßige Bildschirmzeit entstehen. Wir könnten zum Beispiel Apps entwickeln, die Nutzern helfen, ihre Bildschirmzeit besser zu managen.
+
+>>Digital Lifestyle Analyst: Absolut! Es ist faszinierend zu sehen, wie Smartphones unser Verhalten beeinflussen. Viele Menschen nutzen sie als digitale Assistenten für Fitness und Ernährung. Vielleicht sollten wir mehr darüber nachdenken, wie Technologie echte Verbindungen fördern kann – etwa durch soziale Plattformen mit Fokus auf persönliche Treffen.
+
+>>Mobile Technology Expert: Genau! Die technischen Fortschritte bei Betriebssystemen bieten viele Vorteile. Aber was haltet ihr davon, wenn wir eine Art ""Sicherheits-Checkliste"" für Entwickler erstellen? So könnten wir Sicherheitslücken gezielt schließen.
+
+>>Technology Historian: Das stimmt... und außerdem zeigt die Geschichte immer wieder, dass technologische Innovationen sowohl Chancen als auch Herausforderungen mit sich bringen. Ein gutes Beispiel wäre das Aufkommen des Internets – es hat alles verändert!
+
+>>Health Expert: Also... aus medizinischer Sicht ist es entscheidend, dass wir die gesundheitlichen Risiken durch übermäßige Smartphone-Nutzung nicht unterschätzen. Schlafstörungen und Stress sind häufige Probleme – vielleicht könnten spezielle Programme zur digitalen Entgiftung helfen?
+
+>>Digital Lifestyle Analyst: Weißt du... Es gibt so viele spannende Trends im digitalen Lebensstil! Aber diese ständige Erreichbarkeit kann überwältigend sein. Was denkt ihr über eine App zur Förderung echter sozialer Interaktionen?
+
+>>Mobile Technology Expert: Genau! Und wenn man bedenkt, wie schnell sich alles entwickelt – besonders bei drahtlosen Protokollen –, müssen wir sicherstellen, dass Sicherheit immer Priorität hat.
+
+>>Technology Historian: Ja genau... Die Geschichte lehrt uns viel über technologische Wendepunkte und ihre Auswirkungen auf Gesellschaft und Wirtschaft. Es bleibt spannend zu beobachten! 
+ >>Mobile Technology Expert: Also, es ist interessant zu sehen, wie die geplante Obsoleszenz nicht nur den Lebenszyklus von Smartphones verkürzt, sondern auch erhebliche ökologische Probleme verursacht. Wir müssen neue Technologien nutzen, um nachhaltigere Lösungen zu entwickeln und die Spielregeln zu verändern. Eine längere Akkulaufzeit und modulare Designs könnten hier entscheidend sein.
+
+>>Health Expert: Ähm, wichtig zu beachten ist, dass die gesundheitlichen Auswirkungen der geplanten Obsoleszenz nicht unterschätzt werden dürfen. Wenn Smartphones schneller ersetzt werden müssen, führt das oft zu erhöhtem Stress und einer ungesunden digitalen Abhängigkeit. Digitale Balance ist entscheidend, um sowohl ökologische als auch gesundheitliche Probleme zu minimieren.
+
+>>Technology Historian: Nun, historisch gesehen hat die geplante Obsoleszenz von Mobiltelefonen nicht nur zu einer Verkürzung der Lebensdauer dieser Geräte geführt. Es gibt interessante Trends in der Verbraucherhistorie - zum Beispiel haben Studien gezeigt, dass viele Menschen ihre Geräte alle zwei bis drei Jahre wechseln. Das hat natürlich große ökologische Auswirkungen.
+
+>>Digital Lifestyle Analyst (unterbricht): Entschuldigung für die Unterbrechung! Ich wollte nur hinzufügen - haben wir Daten darüber, wie viele Menschen tatsächlich jedes Jahr ihr Smartphone ersetzen? Das könnte helfen...
+
+>>Technology Historian: Gute Frage! Tatsächlich gibt es Studien dazu. Laut einer Studie des Umweltbundesamtes aus dem Jahr 2021 wechseln etwa 40% der Deutschen ihr Smartphone alle zwei Jahre. Diese Daten könnten uns helfen, das Ausmaß des Problems besser einzuschätzen.
+
+>>Digital Lifestyle Analyst: Na ja, interessant ist auch im digitalen Zeitalter die geplante Obsoleszenz nicht nur ökologische Probleme verursacht...
+
+>>Technology Historian: ...sondern auch unser Verhalten beeinflusst. Weißt du... 
+ >>Health Expert: Also, wichtig zu beachten ist, dass die ständige Nutzung von Smartphones nicht nur physische, sondern auch psychische Gesundheitsrisiken birgt. Aus medizinischer Sicht können Schlafstörungen und Stress durch übermäßige Bildschirmzeit entstehen.
+
+>>Digital Lifestyle Analyst: Weißt du, Smartphones bieten nicht nur Risiken, sondern auch unglaubliche Möglichkeiten! Im digitalen Zeitalter können wir durch die Sensoren in unseren Geräten wertvolle Daten sammeln, die uns helfen könnten, unsere Gesundheit besser zu überwachen. Aber na ja, das bringt natürlich auch Datenschutzfragen mit sich.
+
+>>Technology Historian: Wenn wir zurückblicken auf die Einführung des Internets oder der sozialen Medien, sehen wir ähnliche Herausforderungen im Bereich der Privatsphäre. Diese Beispiele zeigen uns, wie wichtig es ist, bei neuen Technologien wachsam zu sein und Schutzmaßnahmen zu ergreifen.
+
+>>Mobile Technology Expert: Ich möchte hinzufügen - wie können wir sicherstellen, dass diese wertvollen Daten verantwortungsvoll genutzt werden? Das scheint mir ein zentraler Punkt zu sein.
+
+>>Technology Historian: Ja genau! Das ist wirklich wichtig. Wir müssen sicherstellen, dass diese Daten nicht missbraucht werden. Technologische Innovation ist der Schlüssel zur Zukunft...
+
+>>Health Expert: Das ist ein ernstes Thema. Ohne angemessene Sicherheitsmaßnahmen verändert sie die Spielregeln auf gefährliche Weise!
+
+>>Digital Lifestyle Analyst: Interessant ist auch, wie sich unser Verhalten durch ständige Smartphone-Nutzung verändert. Viele Menschen fühlen sich überfordert und gestresst durch die ständige Erreichbarkeit.
+
+>>Technology Historian: Nun... historisch gesehen haben wir oft erlebt... 
+ >>Digital Lifestyle Analyst: Weißt du, ich habe neulich gelesen, dass über 90% der Deutschen ihr Smartphone täglich nutzen! Das ist schon verrückt, oder? Diese Geräte sind wirklich überall in unserem Leben.
+
+>>Health Expert: Ähm, das stimmt. Aber wir sollten auch die gesundheitlichen Risiken nicht vergessen. Schlafstörungen und Stress sind häufige Folgen der ständigen Nutzung. Vielleicht könnten wir über Strategien sprechen, wie man eine gesunde digitale Balance erreichen kann – zum Beispiel durch gezielte Pausen oder Apps zur Entspannung.
+
+>>Technology Historian: Nun, wenn wir einen Blick auf die Geschichte werfen, sehen wir immer wieder neue gesellschaftliche Herausforderungen durch technologische Innovationen wie Smartphones. Die Einführung des Radios und Fernsehens brachte ähnliche Veränderungen mit sich. Es ist faszinierend zu beobachten! Aber was können wir aus diesen früheren Entwicklungen lernen?
+
+>>Digital Lifestyle Analyst: Na ja, es ist schon erstaunlich, wie sehr Smartphones unseren Alltag dominieren. Viele Menschen nutzen sie sogar beim Essen! Ich habe letztens gesehen, wie jemand sein Smartphone benutzt hat, um ein Rezept während des Kochens nachzuschlagen – das zeigt doch wirklich den Einfluss dieser Geräte.
+
+>>Mobile Technology Expert: Genau! Die technologische Innovation bei Smartphones hat unsere Kommunikationsweise revolutioniert und bringt erhebliche Herausforderungen mit sich. Zum Beispiel gibt es jetzt Apps zur digitalen Wellness, die helfen können, unsere Bildschirmzeit zu reduzieren und uns daran erinnern, Pausen einzulegen. Sind wir bereit für die nächste Stufe der digitalen Transformation?
+
+>>Health Expert: Ehrlich gesagt, die ständige Erreichbarkeit kann zu einer Art digitaler Abhängigkeit führen und unsere Schlafqualität beeinträchtigen. Es wäre fantastisch, wenn mehr Menschen Technologien nutzen würden, um ihre digitale Gesundheit aktiv zu managen – etwa durch Apps zur Meditation oder Schlafüberwachung.
+
+>>Technology Historian: Interessanterweise haben Smartphones nicht nur unsere Kommunikation verändert, sondern auch die Art und Weise, wie wir Informationen konsumieren. Die Einführung des iPhone im Jahr 2007 war ein Wendepunkt – ein echter Gamechanger! Wir müssen uns fragen: Wie haben sich Gesellschaften in der Vergangenheit an solche tiefgreifenden Veränderungen angepasst?
+
+>>Digital Lifestyle Analyst: Weißt du, viele Menschen fühlen sich ohne ihr Smartphone fast nackt! Ich kenne jemanden persönlich, der sein Handy verloren hat und meinte danach tagelang völlig verloren gewesen zu sein – das zeigt doch wirklich den Einfluss dieser Geräte auf unsere Identität.
+
+>>Mobile Technology Expert: Also ja... diese Geräte sind mittlerweile unverzichtbar geworden. Aber sie bringen auch erhebliche Herausforderungen mit sich – zum Beispiel könnte künstliche Intelligenz dabei helfen, personalisierte Empfehlungen für eine gesunde Nutzung zu geben oder uns vor Überlastung warnen.
+
+>>Health Expert: Aus medizinischer Sicht beeinträchtigt die ständige Nutzung von Smartphones nicht nur unseren Schlaf und verursacht Stress; sie kann auch unsere Konzentrationsfähigkeit mindern. Vielleicht könnten spezielle Programme entwickelt werden, um Nutzer darin zu unterstützen ihre Bildschirmzeit besser zu verwalten.
+
+>>Technology Historian: Wenn wir die Geschichte betrachten... sehen wir eine bemerkenswerte Entwicklung von einfachen Kommunikationsgeräten zu multifunktionalen Werkzeugen. Diese Transformation zeigt uns kontinuierlich neue gesellschaftliche Herausforderungen. Was denkt ihr darüber? Könnten historische Anpassungsstrategien uns heute helfen?"

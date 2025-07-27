@@ -1,0 +1,47 @@
+{
+  "meetings_schema": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "FAME Meetings Dataset Schema",
+    "description": "Schema for meeting transcript data in FAME dataset (matches CSV columns)",
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "Meeting topic/title",
+        "example": "Utilitarianism"
+      },
+      "article": {
+        "type": "string",
+        "description": "Background article or context for the meeting"
+      },
+      "tags": {
+        "type": "string",
+        "description": "Comma-separated tags for the meeting topic"
+      },
+      "personas": {
+        "type": "string",
+        "description": "Comma-separated list of participant personas"
+      },
+      "summary": {
+        "type": "string",
+        "description": "Human-generated meeting summary"
+      },
+      "meeting_plan": {
+        "type": "string",
+        "description": "Planned agenda or structure for the meeting"
+      },
+      "meeting": {
+        "type": "string",
+        "description": "Full meeting transcript with speaker labels"
+      }
+    },
+    "required": [
+      "title",
+      "article",
+      "tags",
+      "personas",
+      "summary",
+      "meeting"
+    ]
+  }
+}

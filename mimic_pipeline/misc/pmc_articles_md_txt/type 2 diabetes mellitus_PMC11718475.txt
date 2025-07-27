@@ -1,0 +1,156 @@
+# Effect of
+
+## INTRODUCTION
+
+Diabetes is a major global health issue that comes with severe complications, such as diabetic peripheral neuropathy (DPN), and higher mortality rates[ 1 , 2 ]. Type 2 diabetes mellitus (T2D), accounts for 90%-95% of all diabetes, is described as a polygenetic multifactorial and heterogeneous disease[ 2 ], while maturity-onset diabetes of the young (MODY) is caused by single gene mutations[ 2 ]. A growing number of studies indicated T2D overlaps clinically and genetically with MODY[ 2 , 3 ]. For example, both T2D and MODY present strong family history[ 2 , 3 ]. And some patients with T2D harbor single gene mutations that cause MODY, such as  HNF4A  p.T131I[ 2 - 4 ]. However, the potential genetic etiology of T2D with strong family history is not clear yet.
+
+Although numerous single nucleotide polymorphism (SNP) in multiple genes involve in the β-cell dysfunction, single gene defects may also influence risk of T2D[ 2 , 5 - 7 ]. Whole genome sequencing has used to identify mutation in  WFS1, PAX6, APPL1  and  MAFA  gene as novel genetic cause of adult-onset familial diabetes[ 3 ]. Interestingly, among those gene,  PAX6  mutation have been reported to diminish glucose stimulated insulin release in human and to regulate pancreatic islet development[ 3 ]. Additionally, single gene defects were also reported in patients with T2D and some hereditary disease[ 8 , 9 ]. For example, pathogenic mutations in  G6PC , which is associated with postprandial hyperglycemia, was found in patients with T2D and glycogen storage disease type 1a[ 9 ]. Thus, it is necessary to investigate the single gene mutations in T2D with strong family history.
+
+SPTLC1 , the rate-limiting enzyme in sphingolipid biosynthesis, covers serine and palmitoyl-CoA to sphinganine. Pathogenic variants in  SPTLC1  are causative for hereditary sensory and autonomic neuropathy[ 10 , 11 ], juvenile amyotrophic lateral sclerosis[ 12 , 13 ], macular telangiectasia type 2[ 11 ], or Charcot-Marie-Tooth disease[ 14 ]. Mice with adipocyte-specific deletion of  SPTLC1  had impaired glucose tolerances and insulin sensitivity[ 15 ]. Deoxysphingolipids, one of the catalytic products by  SPTLC1 , are cytotoxic for insulin-producing cells and neurons, and contribute to diabetes and DPN[ 16 - 20 ]. Therefore, we performed whole-exome sequencing (WES) combinate with functional study to identify a novel likely pathogenic variant in the  SPTLC1  gene (p.G371R) from adult onset T2D with strong family history.
+
+## MATERIALS AND METHODS
+
+### Subjects
+
+Six participants from a China family with T2D were enrolled and provided written informed consent for genetic analysis according to ethical guidelines of the declaration of Helsinki (1964).
+
+The proband of the family was a 52-year-old man (family member III-1), who presented with a 10-year history of T2D. The initiation symptoms of the index patient were polyuria, excessive drinking and eating, and weight loss. He began to feel fatigue of bilateral lower limb at age 44, and continued to progress to stabbing pain and numbing in a pair of feet. Sensory disturbance of this patients was confirmed through touching by cotton wool, 10-g monofilament, and electromyography. Notably, his pain could be reduced after controlling blood glucose during hospitalization. As shown in Figure  1  and Table  1 , the patients’ fasting and postprandial C-peptide levels at the time of diabetes onset were 1.04 ng/mL (normal range: 0.81-1.89 ng/mL) and 2.39 ng/mL, respectively, with hemoglobin A1c 12.6%. Autoantibodies against glutamic acid decarboxylase, islet-cell, insulin, and insulinoma antigen-2 were negative. During the past ten years, he always gave up on hypoglycemic treatment at home. Nevertheless, he did not present diabetic ketosis. Additionally, the patient’s mother (II-2), sister (III-4), and son (IV-1), who were diagnosed with diabetes, were also included in this study (Figure  2 ). The proband’s father (II-1) and wife (III-2) were healthy and had no family history of diabetes (Figure  2 ).
+
+**Figure:** Dynamics of C-peptide and hemoglobin A1c level of the proband.  A: The fasting and postprandial C-peptide (CP) levels were measured after the type 2 diabetes mellitus (T2D) onset; B: The C-peptide levels (ΔCP = postprandial C-peptide-fasting C-peptide) were calculated after the T2D onset; C: The changes in hemoglobin A1c levels were tested after the T2D onset. DM: Diabetes mellitus; CP: C-peptide; HbA1c: Hemoglobin A1c.
+
+**Figure:** The patients’ family tree.  The family tree of the proband. Black arrow was proband (III-1). Red symbols indicate family members who developed type 2 diabetes mellitus (I-2, II-2, II-4, III-1, III-4, III-11, and IV-1). Green symbols indicate diabetic peripheral neuropathy (I-2, II-2, II-4, III-1). Yellow symbols indicate obesity. DM: Diabetes mellitus; DPN: Diabetic peripheral neuropathy; WES: Whole-exome sequencing.
+
+| Features | Normal range | III-1 (proband) | IV-1 | II-2 |
+| --- | --- | --- | --- | --- |
+| Gender |  | Male | Male | Female |
+| Age at admission, years |  | 44.00 | 19.00 | 68.00 |
+| Age at DM onset, years |  | 42.00 | 17.00 | 53.00 |
+| Weight, kg |  | 50.00 | 70.00 | 51.00 |
+| Height, cm |  | 170.00 | 174.00 | 156.00 |
+| Waist, cm |  | 71.00 | 82.00 | 87.00 |
+| BMI, kg/m 2 |  | 17.30 | 23.12 | 20.96 |
+| SBP, mmHg |  | 118.00 | 130.00 | 129.00 |
+| DBP, mmHg |  | 90.00 | 85.00 | 68.00 |
+| FCP, ng/mL | 0.81-1.89 | 1.04 |  | 1.16 |
+| 2hCP, ng/mL |  | 2.39 |  | 1.30 |
+| FINS, μU/L | 4.00-12.00 |  | 12.65 |  |
+| 2hINS, μU/L |  |  | 83.15 |  |
+| HbA1c, % | 3.60-6.00 | 12.6 | 10.80 | 10.40 |
+| TC, mmol/L | 3.10-5.20 | 3.90 | 3.29 | 4.95 |
+| TG, mmol/L | 0.56-1.70 | 0.95 | 1.01 | 0.93 |
+| HDL, mmol/L | 1.00-1.55 | 1.06 | 0.89 | 1.21 |
+| LDL, mmol/L | 1.90-3.10 | 2.45 | 1.84 | 3.03 |
+| Hs-CRP, mg/L | 0.00-3.00 | 0.37 | 1.57 | 5.16 |
+| GADA | Negative | Negative | Negative |  |
+| IAA | Negative | Negative | Negative |  |
+| IA-2A | Negative | Negative | Negative |  |
+| ICA | Negative | Negative | Negative |  |
+| ACR, mg/g | 0.00-30.00 | 16.85 |  | 25.66 |
+| Ketobodies in urine | Negative | Negative | Negative | Negative |
+| DR | Negative | No | No | No |
+
+### Sequencing
+
+Genomic DNA samples were extracted from peripheral blood leukocytes. WES was analyzed in WeHealth Biomedical Technology Co., Ltd (Shanghai, China) using 150 base pair paired-end sequencing on the Illumina HiSeq platform from the proband and his father, mother, sister. Polymerase chain reaction (PCR) was performed to confirm the identified variant in Tsingke Biotechnology Co., Ltd (Beijing, China) from all 6 participants. Primer sequences are TGGGATACTGAGGTGAGAAGGG (Forward primer) and AGCTGCAATCTGGTCAAACTGA (Reverse primer). Sequences were compared to reference sequence NM006415 of the  SPTLC1  gene by SeqMan Pro software.
+
+### Mutation analysis
+
+The raw reads were aligned by Burrows-Wheler Aligner tools, and duplicates were removed from the sorted alignment using Picard. Variants were classified according to the American college of medical genetics guidelines[ 21 ]. UniProtKB entry O15269 was used to annotate the  STPLC1  protein. The structure of  STPLC1  protein was built by using SWISS-MODEL.
+
+### Bioinformation analysis
+
+The relative expression level of  SPTLC1  in tissue specificity was obtained from ProteomicsDB ( https://www.proteo micsdb.org/ ) entry O15269. Rare variant gene-level associations for  SPTLC1  in T2D were analyzed in Accelerating Medicines Partnership (AMP) T2D knowledge portal ( https://www.type2diabetesgenetics.org ), funding by the National Institutes of Health, the United States Food and Drug Administration, biopharmaceutical companies and non-profit organizations[ 6 ]. This project seeks to promote understanding and treatment of T2D and its complications from 310 datasets.
+
+The gene expression profile data (GSE25724) were obtained from gene expression omnibus. This array data included 6 type 2 diabetic human islets [mean age and body mass index (BMI) were 71years and 26 kg/m 2 , and three males] and seven non-diabetic islet samples (mean age: 58years, mean BMI: 24.8 kg/m 2 , and four males)[ 22 ].
+
+### Cloning
+
+The  SPTLC1  cDNA (NM006415) was amplified and cloned into the vector FV149 with the use of TTGGTACCGAGCTCG (Forward primer) and GATATCTGCAGAATT (Reverse primer). The  SPTLC1  mutation (G371R) was introduced by site-directed mutagenesis with a C-terminally enhanced green fluorescent protein-tagged. All constructs were validated by sequencing. Cell lines expressing wild-type or G371R were created using LipofectamineTM 2000 in human embryonic kidney (HEK) 293T (Invitrogen). The ratio of plasmid and LipofectamineTM 2000 was 5 μL:4 µg.
+
+### Cell culture
+
+HEK 293T cells were cultured in Dulbecco’s modified eagle medium (DMEM) supplemented with 10% fetal calf serum and 1% Penicillin-Streptomycin solution at 37 °C and 5% carbon dioxide. Before transfection, the cells were cultivated in serum-free DMEM for 2 hours. After 48 hours incubation time for the transfection, the cells and cultured supernatants were collected.
+
+### Measurement of tumor necrosis factor-α and interleukin-1β
+
+The concentrations of tumor necrosis factor (TNF)-α and interleukin (IL)-1β in cultured supernatants were measured by commercial enzyme-linked immunosorbent assay kit (Elabscience Biotechnology Co., Ltd, Wuhan, Hubei Province, China).
+
+Real-time quantitative PCR was used to detect the mRNA expression of TNF-α and IL-1β from HEK 293T cells. The forward and reverse primes of TNF-α ( Homo ) were TCAGAGGGCCTGTACCTCAT and GGAAGACCCCTCCCAGATAG, respectively. The forward and reverse primes of IL-1β ( Homo ) were CGAATCTCCGACCACCACTA and AGCCTCGTTATCCCATGTGT, respectively.
+
+This reaction was performed in triplicate with 10 ng cDNA in SYBR Green master mix and run on an Applied Biosystems QuantStudio 6 system. The mRNA expression levels were normalized by  Homo -glyceraldehyde-3-phosphate dehydrogenase.
+
+### Assessment of cell apoptosis
+
+The apoptosis of HEK 293T cells after the transfection of wild-type or G371R was detected by Annexin V-Allophycocyanin (APC)/7-Aminoactinomycin D (7-AAD) apoptosis detection kit (Elab science Biotechnology Co., Ltd, Wuhan, Hubei province, China). Briefly, HEK 293T cells were harvested after 48 hours and pelleted by centrifugation at 1500 rpm for 5 minutes. The resuspended cells (1 × 10 5  cells/mL) were stained with 5 μL 7-AAD and 1 μL Annexin V-APC at room temperature. The percentage of cell apoptosis was determined by cytoFLEX platform (Beckman coulter, United States).
+
+### Statistical analysis
+
+The one-way analysis of variance multiple comparisons was used for statistical analysis by statistical product and service solutions 19.0 software. A two-tailed  P  value < 0.05 was considered statistically significant.
+
+## RESULTS
+
+### Description of the family
+
+III-1 is the proband of the pedigree, who suffered from T2D at the age of 42 years and was diagnosed with DPN one year later. Surprisingly, the patient’s mother (II-2), maternal aunt (II-4), and grandmother (I-2) were also diagnosed with diabetes and DPN (Figure  1 , Table  1  and  Supplementary Table 1 ). Furthermore, the proband’s son (IV-1), sister (III-4), and a younger male cousin (III-11) also have diabetes, whose illness onset ages are 17, 41 and 22 years, respectively. And the III-11 also has obesity (Figure  2 ).
+
+### Identification of the SPTLC1 gene mutation
+
+WES analysis did not reveal the mutation of candidate genes of monogenic diabetes, such as  GCK ,  HNF1A ,  HNF4A ,  HNF1B ,  KCNJ11 ,  INS , and  ABCC8 ,  etc . However, we found a single nucleotide variation in  SPTLC1  (NM-006415: exon12: C.1111G>A: p.G371R) in the proband (Figure  3A ). Proband’s mother, sister, and son were confirmed to carry this mutation by Sanger sequencing. However, his wife and father do not carry this mutation. Unfortunately, we don’t have detailed data yet about II-4 or III-11.
+
+**Figure:** Description of the mutation.  A: The sanger sequence analysis of p.G371R mutation of  SPTLC1  gene; B: Three dimensional (3D) structures of wild-type of human  SPTLC1  gene; C: Structural formulas show that the mutant residue (R) is bigger than the wild-type residue (G); D: Zoomed 3D structure of mutation of human  SPTLC1 .
+
+The frequencies of this mutation in humans are less than 0.05% in dbSNP, ExAC, genom AD, or 1000 genome databases. Although the interpretation of this mutation is likely benign from dbSNP, pathogenic variant effect on  SPTLC1  protein was predicted by functional analysis through hidden Markov models (FATHMM) and mendelian clinically applicable pathogenicity (M-CAP) software. This pathogenicity might be derived from the different amino acid properties (Figures  3B - D ): (1) The mutated residue is located in a domain that is important for the interaction with other molecules or the parts of the other protein, but is not essential for the catalytic site; (2) The new residue was bigger and more hydrophilic than wild-type residue; and (3) The mutation introduces a positive charge, instigating repulsion between the mutant residue and neighboring residues ( https://www3.cmbi.umcn.nl/hope/report/625d75962412fdabe40cc1ce/ ). Thus, this mutation was classified into uncertain significance (PM2 + PP1 + PP3) according to American college of medical genetics and genomics (ACMG) criteria.
+
+### The pro-inflammatory activity of SPTLC1 p.G371R
+
+Because the 371 amino acid residue is not essential for catalytic activation of  SPTLC1  ( https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?showanno=1&mmdbid=199148 ), we tested whether the mutation could give rise to the potential any other functions of  SPTLC1 . As shown in Figure  4 , both mRNA and protein levels of TNF-α were slightly elevated in p.G371R expressing HEK 293T cells ( P  < 0.05). But the mutation of  SPTLC1  did not affect the expression of IL-1β.
+
+**Figure:** Effect of  SPTLC1  p.G371R on inflammatory cytokines in human embryonic kidney 293T cells.  A and C: The relative expression of tumor necrosis factor-α (TNF-α) and interleukin-1β (IL-1β), respectively; B and D: The expression of TNF-α and IL-1β in cell supernatants from human embryonic kidney 293T cells.  a P  < 0.05;  b P  < 0.01. TNF-α: Tumor necrosis factor-α; IL-1β: Interleukin-1β.
+
+### Pro-apoptosis of SPTLC1 p.G371R
+
+Flow cytometric analysis indicated that the percentage of apoptosis in p.G371R expressing cells was nearly three times than that of wild type-expressing cells (Figure  5 ).
+
+**Figure:** Effect of  SPTLC1  p.G371R on apoptosis in human embryonic kidney 293T cells. 
+ b P  < 0.01. APC-A: Annexin V-allophycocyanin; 7-AAD-A: 7-Aminoactinomycin D.
+
+### Association between SPTLC1 gene rare variant and T2D risk
+
+Of some interest, the data of 43125 humans from AMP T2D knowledge also showed a positive correlation between rare variant gene-level associations for  SPTLC1  and the risk of T2M (the overall odds ratio = 2.4968,  P  = 0.0164) (Table  2 ).
+
+| Mask | Methods | Sample size | Combined allele frequency (%) | Passing variants | Singleton variants | SD | Odds ratio | P  value |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LofTee | Predicted loss of function | 43125 | 0.03942 | 14 | 11 | 0.52284 | 2.1014 | 0.13368 |
+| 16/16 | Predicted deleterious by 16 methods | 43125 | 0.04638 | 15 | 11 | 0.47401 | 1.8749 | 0.16848 |
+| 11/11 | Predicted deleterious by 11 methods | 43125 | 0.09507 | 29 | 20 | 0.33683 | 2.0718 | 0.025839 |
+| 5/5 | Predicted deleterious by 5 methods | 43125 | 0.15072 | 31 | 21 | 0.2571 | 1.3852 | 0.20087 |
+| 5/5 + LofTee LC | Predicted deleterious by 5 methods, plus LofTee low confidence | 43125 | 0.16464 | 33 | 21 | 0.24528 | 1.3551 | 0.21151 |
+| 5/5 + 1/5, 1% | Predicted deleterious by 5 methods, plus variants with MAF < 1% that are predicted to be deleterious by 1 of 5 methods | 43125 | 0.85565 | 95 | 59 | 0.10614 | 1.0444 | 0.68172 |
+| 5/5 + 0/5, 1% | Predicted deleterious by 5 methods, plus variants with MAF < 1% that are not predicted to be deleterious by any of 5 methods | 43125 | 0.92058 | 102 | 63 | 0.10226 | 1.0154 | 0.88112 |
+| Total |  | 43125 |  |  |  |  | 2.4968 | 0.0164 |
+
+### Effect of SPTLC1 gene on T2D from GSE25724 data set
+
+SPTLC1  protein, localized to the endoplasmic reticulum, was found in widely cells and tissue. The median  SPTLC1  protein expression in pancreatic islets ranks No. 4 in all 39 human tissues ( https://www.proteomicsdb.org/ ). Importantly, data from GSE25724 showed that the relative expression of  SPTLC1  mRNA [ID (identity): 202278_s_at] was lower in pancreatic islets from 6 T2D humans than 7 non-T2D subjects ( P  = 0.046) (Figure  6 ). The lower expression of  STPLC1  mRNA was associated with a decreased level of insulin (ID: 206598_at) mRNA expression (Spearman  r  = 0.615,  P  = 0.025) (Figure  6 ). The receiver operating characteristic curve indicated that the lower level of  STPLC1  mRNA in islets could be used to diagnose T2D with the area under the curve: 0.833 (95% confidence intervals: 0.593-1.000,  P  = 0.046).
+
+**Figure:** Effect of  SPTLC1  on type 2 diabetes mellitus in human islets from GSE25724.  A: The expression of  SPTLC1  mRNA in human islet with or without type 2 diabetes mellitus; B: The correlation between the mRNA expression levels of  SPTLC1  and insulin; C: The receiver operating characteristic curve analysis of  SPTLC1  mRNA in type 2 diabetes mellitus.  a P  < 0.05. DM: Diabetes mellitus; T2D: Type 2 diabetes mellitus; AUC: Area under curve; CI: Confidence interval; INS: Insulin.
+
+## DISCUSSION
+
+Early genetic analysis based on familial linkage or Genome-wide association studies have revealed that T2D is a disease of polygenic inheritance[ 1 , 5 , 6 , 23 , 24 ]. However, the role of single gene mutations in T2D with strong family history are still unknown. In this study, we classified a novel likely pathogenic mutation in the  SPTLC1  gene from an adult-onset T2D patients with strong family history by WES combinate with functional study.
+
+We initially identified a variant (p.G371R) in the  SPTLC1  gene as uncertain significance according to ACMG criteria in a family with dominant adult-onset diabetes (PM2 + PP1 + PP3). Nonetheless, uncertain genetic variants should not be considered benign because they may also confer a risk of related disease. It has been reported that in 36 diabetic patients carrying candidate variants, 27.9% were uncertain significance variants, which is more than likely pathogenic variants (20.9%)[ 25 ]. A recent study also reported that cardiomyopathy patients with uncertain variants in actionable cardiac genes had comparable left ventricular internal diameter-diastole and -systole than patients without medically actionable genes[ 26 ].
+
+Furthermore, this study supports that p.G371R mutation is harmful to the function of  SPTLC1  by functional study in HEK 293T cells (PS3). The pathogenic effect of p.G371R was predicted by FATHMM and M-CAP software (Figure  3 ). Additionally, some studies found the crucial role of  SPTLC1 , especially p.Y164F mutation, on the survival of bone marrow cells and adipocytes[ 27 , 28 ]. Consistently, this study also found that p.G371R of  SPTLC1  induced the expression of TNF-α and the percent of apoptosis in HEK 293T cells (Figure  5 ). Thus,  SPTLC1  p.G371R may be a likely pathogenic mutation.
+
+Moreover, there are some other evidences to support the potential pathogenic role of SPTLC1 on adult-onset diabetes with strong family. Firstly, AMP T2D knowledge shows the rare variant of the  STPLC1  gene infer the high risk of T2D by seven different masks approaches (Table  2 ), which were developed to reveal the gene-level correlation of rare variants[ 6 ]. Based on this strategy, Flannick  et al [ 6 ] found that the most vital T2D gene-level signals explain nearly 25% of the heritability of the strongest common single-variant signals.
+
+Secondly, this study reported the pro-apoptosis and pro-inflammatory effect of  SPTLC1  p.G371R (Figure  4  and Figure  5 ), which is consistent with the previous studies[ 27 , 28 ]. It has been confirmed that apoptosis of islets β-cells induced by inflammatory cytokines was the key molecular mechanism of diabetes mellitus[ 29 ]. Actually, the study found that lower expression of  SPTLC1  mRNA in pancreatic islets from diabetic patients was negatively associated with insulin levels (Figure  6 ). Interestingly, mice with adipocyte-specific deletion of  SPTLC1  exhibited insulin resistance and impaired glucose tolerance[ 15 ]. Cellular effects of  SPTLC1  deletion appear to involve activation of endoplasmic reticulum stress[ 27 ], which leads to the progressive β-cell failure[ 29 ].
+
+Thirdly, deoxysphingolipids, formed by the pathogenic mutation of  STPLC1 , participated in the development of T2D and DPN[ 18 - 20 ]. It has been confirmed that the plasma concentration of deoxysphingolipids was significantly elevated in patients with metabolic syndrome, T2D, and DPN[ 18 , 19 , 30 , 31 ]. Importantly, deoxysphingolipids were independent risk factors for T2D even after adjusting for glycated hemoglobin, age, and BMI[ 18 , 19 ]. Lowering deoxysphingolipids by L-serine supplementation drastically improved the nerve conduction velocity in streptozotocin induced diabetic rats[ 17 ]. Some authors suggested that deoxysphingolipids caused the disassembly of actin stress fibers in Vero cells, increased the intracellular accumulation of filamentous actin in Ins-1 cells, and promoted dose-dependent apoptosis and impaired glucose-stimulated insulin secretion in insulin-producing cells[ 17 , 20 ]. Thus, deoxysphingolipids activated metabolic stress and the apoptosis of the cells may be a possible bridge between  SPTLC1  and T2D and DPN.
+
+Despite all our efforts to find the association between  SPTLC1  and diabetes, some limitations which may reduce the credibility of the study still exist in this study. Firstly, p.G371R of the  SPTLC1  gene is not pathogenic or likely pathogenic according to the criteria from ACMG, but,  in vitro  experiments showed the pro-apoptosis effect of this mutation. Importantly, several studies demonstrated that uncertain genetic variants also confer a high risk of related disease[ 25 , 26 ]. Secondly, some members of this family did not perform the genetic testing due to a lack of cooperation from these people. Thirdly, because the mutation of 371 amino acid residue is not essential for the catalytic activity site of  SPTLC1 , the profiles of sphingolipids and deoxysphingolipids were not analyzed in this study. Lastly, this study did not verify the pathological effects of the mutation of  SPTLC1  on T2D by animal models. Nevertheless, current literatures suggest that both  SPTLC1  deletion and higher deoxysphingolipids (formed by the pathogenic mutation of  SPTLC1 ) induced the cells apoptosis and impaired insulin secretion.
+
+## CONCLUSION
+
+Taken together, the study classified  SPTLC1  p.G371R mutation as the likely pathogenic mutation from an adult-onset T2D patients with strong family history by family study, bioinformation analysis and functional study. The study also found the inflammatory cytokines, especially TNF-α, and the increased apoptosis was the potential downstream pathway of p.G371R mutation of the  SPTLC1  gene. However, this theory needs more data to support. If so, this will provide a novel perspective to understand the pathology of T2D and associated chronic complications.

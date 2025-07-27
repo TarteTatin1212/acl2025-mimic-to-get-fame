@@ -1,0 +1,568 @@
+Title,Article,Tags,Personas,Summary,Meeting_Plan,Meeting
+Cybersecurity,"
+
+Computer security (also cybersecurity, digital security, or information technology (IT) security) is the protection of computer software, systems and networks from threats that can lead to unauthorized information disclosure, theft or damage to hardware, software, or data, as well as from the disruption or misdirection of the services they provide.[1][2]
+
+The significance of the field stems from the expanded reliance on computer systems, the Internet,[3] and wireless network standards. Its importance is further amplified by the growth of smart devices, including smartphones, televisions, and the various devices that constitute the Internet of things (IoT). Cybersecurity has emerged as one of the most significant new challenges facing the contemporary world, due to both the complexity of information systems and the societies they support. Security is particularly crucial for systems that govern large-scale systems with far-reaching physical effects, such as power distribution, elections, and finance.[4][5]
+
+Although many aspects of computer security involve digital security, such as electronic passwords and encryption, physical security measures such as metal locks are still used to prevent unauthorized tampering. IT security is not a perfect subset of information security, therefore does not  completely align into the security convergence schema.
+
+A vulnerability refers to a flaw in the structure, execution, functioning, or internal oversight of a computer or system that compromises its security. Most of the vulnerabilities that have been discovered are documented in the Common Vulnerabilities and Exposures (CVE) database.[6] An exploitable vulnerability is one for which at least one working attack or exploit exists.[7] Actors maliciously seeking vulnerabilities are known as threats. Vulnerabilities can be researched, reverse-engineered, hunted, or exploited using automated tools or customized scripts.[8][9]
+
+Various people or parties are vulnerable to cyber attacks; however, different groups are likely to experience different types of attacks more than others.[10]
+
+In April 2023, the United Kingdom Department for Science, Innovation & Technology released a report on cyber attacks over the previous 12 months.[11] They surveyed 2,263 UK businesses, 1,174 UK registered charities, and 554 education institutions. The research found that ""32% of businesses and 24% of charities overall recall any breaches or attacks from the last 12 months."" These figures were much higher for ""medium businesses (59%), large businesses (69%), and high-income charities with £500,000 or more in annual income (56%).""[11] Yet, although medium or large businesses are more often the victims, since larger companies have generally improved their security over the last decade, small and midsize businesses (SMBs) have also become increasingly vulnerable as they often ""do not have advanced tools to defend the business.""[10] SMBs are most likely to be affected by malware, ransomware, phishing, man-in-the-middle attacks, and Denial-of Service (DoS) Attacks.[10]
+
+Normal internet users are most likely to be affected by untargeted cyberattacks.[12] These are where attackers indiscriminately target as many devices, services, or users as possible. They do this using techniques that take advantage of the openness of the Internet. These strategies mostly include phishing, ransomware, water holing and scanning.[12]
+
+To secure a computer system, it is important to understand the attacks that can be made against it, and these threats can typically be classified into one of the following categories:
+
+A backdoor in a computer system, a cryptosystem, or an algorithm is any secret method of bypassing normal authentication or security controls. These weaknesses may exist for many reasons, including original design or poor configuration.[13] Due to the nature of backdoors, they are of greater concern to companies and databases as opposed to individuals.
+
+Backdoors may be added by an authorized party to allow some legitimate access or by an attacker for malicious reasons. Criminals often use malware to install backdoors, giving them remote administrative access to a system.[14] Once they have access, cybercriminals can ""modify files, steal personal information, install unwanted software, and even take control of the entire computer.""[14]
+
+Backdoors can be very hard to detect and are usually discovered by someone who has access to the application source code or intimate knowledge of the operating system of the computer.
+
+Denial-of-service attacks (DoS) are designed to make a machine or network resource unavailable to its intended users.[15] Attackers can deny service to individual victims, such as by deliberately entering a wrong password enough consecutive times to cause the victim's account to be locked, or they may overload the capabilities of a machine or network and block all users at once. While a network attack from a single IP address can be blocked by adding a new firewall rule, many forms of distributed denial-of-service (DDoS) attacks are possible, where the attack comes from a large number of points. In this case, defending against these attacks is much more difficult. Such attacks can originate from the zombie computers of a botnet or from a range of other possible techniques, including distributed reflective denial-of-service (DRDoS), where innocent systems are fooled into sending traffic to the victim.[15] With such attacks, the amplification factor makes the attack easier for the attacker because they have to use little bandwidth themselves. To understand why attackers may carry out these attacks, see the 'attacker motivation' section.
+
+A direct-access attack is when an unauthorized user (an attacker) gains physical access to a computer, most likely to directly copy data from it or steal information.[16] Attackers may also compromise security by making operating system modifications, installing software worms, keyloggers, covert listening devices or using wireless microphones. Even when the system is protected by standard security measures, these may be bypassed by booting another operating system or tool from a CD-ROM or other bootable media. Disk encryption and the Trusted Platform Module standard are designed to prevent these attacks.
+
+Direct service attackers are related in concept to direct memory attacks which allow an attacker to gain direct access to a computer's memory.[17] The attacks ""take advantage of a feature of modern computers that allows certain devices, such as external hard drives, graphics cards, or network cards, to access the computer's memory directly.""[17]
+
+Eavesdropping is the act of surreptitiously listening to a private computer conversation (communication), usually between hosts on a network. It typically occurs when a user connects to a network where traffic is not secured or encrypted and sends sensitive business data to a colleague, which, when listened to by an attacker, could be exploited.[18] Data transmitted across an open network allows an attacker to exploit a vulnerability and intercept it via various methods.
+
+Unlike malware, direct-access attacks, or other forms of cyber attacks, eavesdropping attacks are unlikely to negatively affect the performance of networks or devices, making them difficult to notice.[18] In fact, ""the attacker does not need to have any ongoing connection to the software at all. The attacker can insert the software onto a compromised device, perhaps by direct insertion or perhaps by a virus or other malware, and then come back some time later to retrieve any data that is found or trigger the software to send the data at some determined time.""[19]
+
+Using a virtual private network (VPN), which encrypts data between two points, is one of the most common forms of protection against eavesdropping. Using the best form of encryption possible for wireless networks is best practice, as well as using HTTPS instead of an unencrypted HTTP.[20]
+
+Programs such as Carnivore and NarusInSight have been used by the Federal Bureau of Investigation (FBI) and NSA to eavesdrop on the systems of internet service providers. Even machines that operate as a closed system (i.e., with no contact with the outside world) can be eavesdropped upon by monitoring the faint electromagnetic transmissions generated by the hardware. TEMPEST is a specification by the NSA referring to these attacks.
+
+Malicious software (malware) is any software code or computer program ""intentionally written to harm a computer system or its users.""[21] Once present on a computer, it can leak sensitive details such as personal information, business information and passwords, can give control of the system to the attacker, and can corrupt or delete data permanently.[22] Another type of malware is ransomware, which is when ""malware installs itself onto a victim's machine, encrypts their files, and then turns around and demands a ransom (usually in Bitcoin) to return that data to the user.""[23]
+
+Types of malware include some of the following:
+
+Man-in-the-middle attacks (MITM) involve a malicious attacker trying to intercept, surveil or modify communications between two parties by spoofing one or both party's identities and injecting themselves in-between.[24] Types of MITM attacks include:
+
+Surfacing in 2017, a new class of multi-vector,[25] polymorphic[26] cyber threats combine several types of attacks and change form to avoid cybersecurity controls as they spread.
+
+Multi-vector polymorphic attacks, as the name describes, are both multi-vectored and polymorphic.[27] Firstly, they are a singular attack that involves multiple methods of attack. In this sense, they are ""multi-vectored (i.e. the attack can use multiple means of propagation such as via the Web, email and applications."" However,  they are also multi-staged, meaning that ""they can infiltrate networks and move laterally inside the network.""[27] The attacks can be polymorphic, meaning that the cyberattacks used such as viruses, worms or trojans ""constantly change (""morph"") making it nearly impossible to detect them using signature-based defences.""[27]
+
+Phishing is the attempt of acquiring sensitive information such as usernames, passwords, and credit card details directly from users by deceiving the users.[28] Phishing is typically carried out by email spoofing, instant messaging, text message, or on a phone call. They often direct users to enter details at a fake website whose look and feel are almost identical to the legitimate one.[29] The fake website often asks for personal information, such as login details and passwords. This information can then be used to gain access to the individual's real account on the real website.
+
+Preying on a victim's trust, phishing can be classified as a form of social engineering. Attackers can use creative ways to gain access to real accounts. A common scam is for attackers to send fake electronic invoices[30] to individuals showing that they recently purchased music, apps, or others, and instructing them to click on a link if the purchases were not authorized. A more strategic type of phishing is spear-phishing which leverages personal or organization-specific details to make the attacker appear like a trusted source. Spear-phishing attacks target specific individuals, rather than the broad net cast by phishing attempts.[31]
+
+Privilege escalation describes a situation where an attacker with some level of restricted access is able to, without authorization, elevate their privileges or access level.[32] For example, a standard computer user may be able to exploit a vulnerability in the system to gain access to restricted data; or even become root and have full unrestricted access to a system. The severity of attacks can range from attacks simply sending an unsolicited email to a ransomware attack on large amounts of data. Privilege escalation usually starts with social engineering techniques, often phishing.[32]
+
+Privilege escalation can be separated into two strategies, horizontal and vertical privilege escalation:
+
+Any computational system affects its environment in some form. This effect it has on its environment can range from electromagnetic radiation, to residual effect on RAM cells which as a consequence make a Cold boot attack possible, to hardware implementation faults that allow for access or guessing of other values that normally should be inaccessible. In Side-channel attack scenarios, the attacker would gather such information about a system or network to guess its internal state and as a result access the information which is assumed by the victim to be secure. The target information in a side channel can be challenging to detect due to its low amplitude when combined with other signals [33]
+
+Social engineering, in the context of computer security, aims to convince a user to disclose secrets such as passwords, card numbers, etc. or grant physical access by, for example, impersonating a senior executive, bank, a contractor, or a customer.[34] This generally involves exploiting people's trust, and relying on their cognitive biases. A common scam involves emails sent to accounting and finance department personnel, impersonating their CEO and urgently requesting some action. One of the main techniques of social engineering are phishing attacks.
+
+In early 2016, the FBI reported that such business email compromise (BEC) scams had cost US businesses more than $2 billion in about two years.[35]
+
+In May 2016, the Milwaukee Bucks NBA team was the victim of this type of cyber scam with a perpetrator impersonating the team's president Peter Feigin, resulting in the handover of all the team's employees' 2015 W-2 tax forms.[36]
+
+Spoofing is an act of pretending to be a valid entity through the falsification of data (such as an IP address or username), in order to gain access to information or resources that one is otherwise unauthorized to obtain. Spoofing is closely related to phishing.[37][38] There are several types of spoofing, including:
+
+In 2018, the cybersecurity firm Trellix published research on the life-threatening risk of spoofing in the healthcare industry.[40]
+
+Tampering describes a malicious modification or alteration of data. It is an intentional but unauthorized act resulting in the modification of a system, components of systems, its intended behavior, or data. So-called Evil Maid attacks and security services planting of surveillance capability into routers are examples.[41]
+
+HTML smuggling allows an attacker to smuggle a malicious code inside a particular HTML or web page.[42] HTML files can carry payloads concealed as benign, inert data in order to defeat content filters. These payloads can be reconstructed on the other side of the filter.[43]
+
+When a target user opens the HTML, the malicious code is activated; the web browser then decodes the script, which then unleashes the malware onto the target's device.[42]
+
+Employee behavior can have a big impact on information security in organizations. Cultural concepts can help different segments of the organization work effectively or work against effectiveness toward information security within an organization. Information security culture is the ""...totality of patterns of behavior in an organization that contributes to the protection of information of all kinds.""[44]
+
+Andersson and Reimers (2014) found that employees often do not see themselves as part of their organization's information security effort and often take actions that impede organizational changes.[45] Indeed, the Verizon Data Breach Investigations Report 2020, which examined 3,950 security breaches, discovered 30% of cybersecurity incidents involved internal actors within a company.[46] Research shows information security culture needs to be improved continuously. In ""Information Security Culture from Analysis to Change"", authors commented, ""It's a never-ending process, a cycle of evaluation and change or maintenance."" To manage the information security culture, five steps should be taken: pre-evaluation, strategic planning, operative planning, implementation, and post-evaluation.[47]
+
+In computer security, a countermeasure is an action, device, procedure or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken.[48][49][50]
+
+Some common countermeasures are listed in the following sections:
+
+Security by design, or alternately secure by design, means that the software has been designed from the ground up to be secure. In this case, security is considered a main feature.
+
+The UK government's National Cyber Security Centre separates secure cyber design principles into five sections:[51]
+
+These design principles of security by design can include some of the following techniques:
+
+Security architecture can be defined as the ""practice of designing computer systems to achieve security goals.""[52] These goals have overlap with the principles of ""security by design"" explored above, including to ""make initial compromise of the system difficult,"" and to ""limit the impact of any compromise.""[52] In practice, the role of a security architect would be to ensure the structure of a system reinforces the security of the system, and that new changes are safe and meet the security requirements of the organization.[53][54]
+
+Similarly, Techopedia defines security architecture as ""a unified security design that addresses the necessities and potential risks involved in a certain scenario or environment. It also specifies when and where to apply security controls. The design process is generally reproducible."" The key attributes of security architecture are:[55]
+
+Practicing security architecture provides the right foundation to systematically address business, IT and security concerns in an organization.
+
+A state of computer security is the conceptual ideal, attained by the use of three processes: threat prevention, detection, and response. These processes are based on various policies and system components, which include the following:
+
+Today, computer security consists mainly of preventive measures, like firewalls or an exit procedure. A firewall can be defined as a way of filtering network data between a host or a network and another network, such as the Internet. They can be implemented as software running on the machine, hooking into the network stack (or, in the case of most UNIX-based operating systems such as Linux, built into the operating system kernel) to provide real-time filtering and blocking.[56] Another implementation is a so-called physical firewall, which consists of a separate machine filtering network traffic. Firewalls are common amongst machines that are permanently connected to the Internet.
+
+Some organizations are turning to big data platforms, such as Apache Hadoop, to extend data accessibility and machine learning to detect advanced persistent threats.[58]
+
+In order to ensure adequate security, the confidentiality, integrity and availability of a network, better known as the CIA triad, must be protected and is considered the foundation to information security.[59] To achieve those objectives, administrative, physical and technical security measures should be employed. The amount of security afforded to an asset can only be determined when its value is known.[60]
+
+Vulnerability management is the cycle of identifying, fixing or mitigating vulnerabilities,[61] especially in software and firmware. Vulnerability management is integral to computer security and network security.
+
+Vulnerabilities can be discovered with a vulnerability scanner, which analyzes a computer system in search of known vulnerabilities,[62] such as open ports, insecure software configuration, and susceptibility to malware.  In order for these tools to be effective, they must be kept up to date with every new update the vendor release.  Typically, these updates will scan for the new vulnerabilities that were introduced recently.
+
+Beyond vulnerability scanning, many organizations contract outside security auditors to run regular penetration tests against their systems to identify vulnerabilities. In some sectors, this is a contractual requirement.[63]
+
+The act of assessing and reducing vulnerabilities to cyber attacks is commonly referred to as information technology security assessments. They aim to assess systems for risk and to predict and test for their vulnerabilities. While formal verification of the correctness of computer systems is possible,[64][65] it is not yet common. Operating systems formally verified include seL4,[66] and SYSGO's PikeOS[67][68] – but these make up a very small percentage of the market.
+
+It is possible to reduce an attacker's chances by keeping systems up to date with security patches and updates and by hiring people with expertise in security. Large companies with significant threats can hire Security Operations Centre (SOC) Analysts. These are specialists in cyber defences, with their role ranging from ""conducting threat analysis to investigating reports of any new issues and preparing and testing disaster recovery plans.""[69]
+
+Whilst no measures can completely guarantee the prevention of an attack, these measures can help mitigate the damage of possible attacks. The effects of data loss/damage can be also reduced by careful backing up and insurance.
+
+Outside of formal assessments, there are various methods of reducing vulnerabilities. Two factor authentication is a method for mitigating unauthorized access to a system or sensitive information.[70] It requires something you know: a password or PIN, and something you have: a card, dongle, cellphone, or another piece of hardware. This increases security as an unauthorized person needs both of these to gain access.
+
+Protecting against social engineering and direct computer access (physical) attacks can only happen by non-computer means, which can be difficult to enforce, relative to the sensitivity of the information. Training is often involved to help mitigate this risk by improving people's knowledge of how to protect themselves and by increasing people's awareness of threats.[71] However, even in highly disciplined environments (e.g. military organizations), social engineering attacks can still be difficult to foresee and prevent.
+
+Inoculation, derived from inoculation theory, seeks to prevent social engineering and other fraudulent tricks and traps by instilling a resistance to persuasion attempts through exposure to similar or related attempts.[72]
+
+Hardware-based or assisted computer security also offers an alternative to software-only computer security. Using devices and methods such as dongles, trusted platform modules, intrusion-aware cases, drive locks, disabling USB ports, and mobile-enabled access may be considered more secure due to the physical access (or sophisticated backdoor access) required in order to be compromised. Each of these is covered in more detail below.
+
+One use of the term computer security refers to technology that is used to implement secure operating systems. Using secure operating systems is a good way of ensuring computer security. These are systems that have achieved certification from an external security-auditing organization, the most popular evaluations are Common Criteria (CC).[86]
+
+In software engineering, secure coding aims to guard against the accidental introduction of security vulnerabilities. It is also possible to create software designed from the ground up to be secure. Such systems are secure by design. Beyond this, formal verification aims to prove the correctness of the algorithms underlying a system;[87]
+important for cryptographic protocols for example.
+
+Within computer systems, two of the main security models capable of enforcing privilege separation are access control lists (ACLs) and role-based access control (RBAC).
+
+An access-control list (ACL), with respect to a computer file system, is a list of permissions associated with an object. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.
+
+Role-based access control is an approach to restricting system access to authorized users,[88][89][90]  used by the majority of enterprises with more than 500 employees,[91] and can implement mandatory access control (MAC) or discretionary access control (DAC).
+
+A further approach, capability-based security has been mostly restricted to research operating systems. Capabilities can, however, also be implemented at the language level, leading to a style of programming that is essentially a refinement of standard object-oriented design. An open-source project in the area is the E language.
+
+The end-user is widely recognized as the weakest link in the security chain[92] and it is estimated that more than 90% of security incidents and breaches involve some kind of human error.[93][94] Among the most commonly recorded forms of errors and misjudgment are poor password management, sending emails containing sensitive data and attachments to the wrong recipient, the inability to recognize misleading URLs and to identify fake websites and dangerous email attachments.  A common mistake that users make is saving their user id/password in their browsers to make it easier to log in to banking sites.  This is a gift to attackers who have obtained access to a machine by some means.  The risk may be mitigated by the use of two-factor authentication.[95]
+
+As the human component of cyber risk is particularly relevant in determining the global cyber risk[96] an organization is facing, security awareness training, at all levels, not only provides formal compliance with regulatory and industry mandates but is considered essential[97] in reducing cyber risk and protecting individuals and companies from the great majority of cyber threats.
+
+The focus on the end-user represents a profound cultural change for many security practitioners, who have traditionally approached cybersecurity exclusively from a technical perspective, and moves along the lines suggested by major security centers[98] to develop a culture of cyber awareness within the organization, recognizing that a security-aware user provides an important line of defense against cyber attacks.
+
+Related to end-user training, digital hygiene or cyber hygiene is a fundamental principle relating to information security and, as the analogy with personal hygiene shows, is the equivalent of establishing simple routine measures to minimize the risks from cyber threats. The assumption is that good cyber hygiene practices can give networked users another layer of protection, reducing the risk that one vulnerable node will be used to either mount attacks or compromise another node or network, especially from common cyberattacks.[99] Cyber hygiene should also not be mistaken for proactive cyber defence, a military term.[100]
+
+The most common acts of digital hygiene can include updating malware protection, cloud back-ups, passwords, and ensuring restricted admin rights and network firewalls.[101] As opposed to a purely technology-based defense against threats, cyber hygiene mostly regards routine measures that are technically simple to implement and mostly dependent on discipline[102] or education.[103] It can be thought of as an abstract list of tips or measures that have been demonstrated as having a positive effect on personal or collective digital security. As such, these measures can be performed by laypeople, not just security experts.
+
+Cyber hygiene relates to personal hygiene as computer viruses relate to biological viruses (or pathogens). However, while the term computer virus was coined almost simultaneously with the creation of the first working computer viruses,[104] the term cyber hygiene is a much later invention, perhaps as late as 2000[105] by Internet pioneer Vint Cerf. It has since been adopted by the Congress[106] and Senate of the United States,[107] the FBI,[108] EU institutions[99] and heads of state.[100]
+
+Responding to attempted security breaches is often very difficult for a variety of reasons, including:
+
+Where an attack succeeds and a breach occurs, many jurisdictions now have in place mandatory security breach notification laws.
+
+The growth in the number of computer systems and the increasing reliance upon them by individuals, businesses, industries, and governments means that there are an increasing number of systems at risk.
+
+The computer systems of financial regulators and financial institutions like the U.S. Securities and Exchange Commission, SWIFT, investment banks, and commercial banks are prominent hacking targets for cybercriminals interested in manipulating markets and making illicit gains.[109] Websites and apps that accept or store credit card numbers, brokerage accounts, and bank account information are also prominent hacking targets, because of the potential for immediate financial gain from transferring money, making purchases, or selling the information on the black market.[110] In-store payment systems and ATMs have also been tampered with in order to gather customer account data and PINs.
+
+The UCLA Internet Report: Surveying the Digital Future (2000) found that the privacy of personal data created barriers to online sales and that more than nine out of 10 internet users were somewhat or very concerned about credit card security.[111]
+
+The most common web technologies for improving security between browsers and websites are named SSL (Secure Sockets Layer), and its successor TLS (Transport Layer Security), identity management and authentication services, and domain name services allow companies and consumers to engage in secure communications and commerce. Several versions of SSL and TLS are commonly used today in applications such as web browsing, e-mail, internet faxing, instant messaging, and VoIP (voice-over-IP). There are various interoperable implementations of these technologies, including at least one implementation that is open source. Open source allows anyone to view the application's source code, and look for and report vulnerabilities.
+
+The credit card companies Visa and MasterCard cooperated to develop the secure EMV chip which is embedded in credit cards. Further developments include the Chip Authentication Program where banks give customers hand-held card readers to perform online secure transactions. Other developments in this arena include the development of technology such as Instant Issuance which has enabled shopping mall kiosks acting on behalf of banks to issue on-the-spot credit cards to interested customers.
+
+Computers control functions at many utilities, including coordination of telecommunications, the power grid, nuclear power plants, and valve opening and closing in water and gas networks. The Internet is a potential attack vector for such machines if connected, but the Stuxnet worm demonstrated that even equipment controlled by computers not connected to the Internet can be vulnerable. In 2014, the Computer Emergency Readiness Team, a division of the Department of Homeland Security, investigated 79 hacking incidents at energy companies.[112]
+
+The aviation industry is very reliant on a series of complex systems which could be attacked.[113] A simple power outage at one airport can cause repercussions worldwide,[114] much of the system relies on radio transmissions which could be disrupted,[115] and controlling aircraft over oceans is especially dangerous because radar surveillance only extends 175 to 225 miles offshore.[116] There is also potential for attack from within an aircraft.[117]
+
+Implementing fixes in aerospace systems poses a unique challenge because efficient air transportation is heavily affected by weight and volume. Improving security by adding physical devices to airplanes could increase their unloaded weight, and could potentially reduce cargo or passenger capacity.[118]
+
+In Europe, with the (Pan-European Network Service)[119] and NewPENS,[120] and in the US with the NextGen program,[121] air navigation service providers are moving to create their own dedicated networks.
+
+Many modern passports are now biometric passports, containing an embedded microchip that stores a digitized photograph and personal information such as name, gender, and date of birth. In addition, more countries[which?] are introducing facial recognition technology to reduce identity-related fraud. The introduction of the ePassport has assisted border officials in verifying the identity of the passport holder, thus allowing for quick passenger processing.[122] Plans are under way in the US, the UK, and Australia to introduce SmartGate kiosks with both retina and fingerprint recognition technology.[123] The airline industry is moving from the use of traditional paper tickets towards the use of electronic tickets (e-tickets). These have been made possible by advances in online credit card transactions in partnership with the airlines. Long-distance bus companies[which?] are also switching over to e-ticketing transactions today.
+
+The consequences of a successful attack range from loss of confidentiality to loss of system integrity, air traffic control outages, loss of aircraft, and even loss of life.
+
+Desktop computers and laptops are commonly targeted to gather passwords or financial account information or to construct a botnet to attack another target. Smartphones, tablet computers, smart watches, and other mobile devices such as quantified self devices like activity trackers have sensors such as cameras, microphones, GPS receivers, compasses, and accelerometers which could be exploited, and may collect personal information, including sensitive health information. WiFi, Bluetooth, and cell phone networks on any of these devices could be used as attack vectors, and sensors might be remotely activated after a successful breach.[124]
+
+The increasing number of home automation devices such as the Nest thermostat are also potential targets.[124]
+
+Today many healthcare providers and health insurance companies use the internet to provide enhanced products and services. Examples are the use of tele-health to potentially offer better quality and access to healthcare, or fitness trackers to lower insurance premiums.[citation needed] Patient records are increasingly being placed on secure in-house networks, alleviating the need for extra storage space.[125]
+
+Large corporations are common targets. In many cases attacks are aimed at financial gain through identity theft and involve data breaches. Examples include the loss of millions of clients' credit card and financial details by Home Depot,[126] Staples,[127] Target Corporation,[128] and Equifax.[129]
+
+Medical records have been targeted in general identify theft, health insurance fraud, and impersonating patients to obtain prescription drugs for recreational purposes or resale.[130] Although cyber threats continue to increase, 62% of all organizations did not increase security training for their business in 2015.[131]
+
+Not all attacks are financially motivated, however: security firm HBGary Federal had a serious series of attacks in 2011 from hacktivist group Anonymous in retaliation for the firm's CEO claiming to have infiltrated their group,[132][133] and Sony Pictures was hacked in 2014 with the apparent dual motive of embarrassing the company through data leaks and crippling the company by wiping workstations and servers.[134][135]
+
+Vehicles are increasingly computerized, with engine timing, cruise control, anti-lock brakes, seat belt tensioners, door locks, airbags and advanced driver-assistance systems on many models. Additionally, connected cars may use WiFi and Bluetooth to communicate with onboard consumer devices and the cell phone network.[136] Self-driving cars are expected to be even more complex. All of these systems carry some security risks, and such issues have gained wide attention.[137][138][139]
+
+Simple examples of risk include a malicious compact disc being used as an attack vector,[140] and the car's onboard microphones being used for eavesdropping. However, if access is gained to a car's internal controller area network, the danger is much greater[136] – and in a widely publicized 2015 test, hackers remotely carjacked a vehicle from 10 miles away and drove it into a ditch.[141][142]
+
+Manufacturers are reacting in numerous ways, with Tesla in 2016 pushing out some security fixes over the air into its cars' computer systems.[143] In the area of autonomous vehicles, in September 2016 the United States Department of Transportation announced some initial safety standards, and called for states to come up with uniform policies.[144][145][146]
+
+Additionally, e-Drivers' licenses are being developed using the same technology. For example, Mexico's licensing authority (ICV) has used a smart card platform to issue the first e-Drivers' licenses to the city of Monterrey, in the state of Nuevo León.[147]
+
+Shipping companies[148] have adopted RFID (Radio Frequency Identification) technology as an efficient, digitally secure, tracking device. Unlike a barcode, RFID can be read up to 20 feet away. RFID is used by FedEx[149] and UPS.[150]
+
+Government and military computer systems are commonly attacked by activists[151][152][153] and foreign powers.[154][155][156][157] Local and regional government infrastructure such as traffic light controls, police and intelligence agency communications, personnel records, as well as student records.[158]
+
+The FBI, CIA, and Pentagon, all utilize secure controlled access technology for any of their buildings. However, the use of this form of technology is spreading into the entrepreneurial world. More and more companies are taking advantage of the development of digitally secure controlled access technology. GE's ACUVision, for example, offers a single panel platform for access control, alarm monitoring and digital recording.[159]
+
+The Internet of things (IoT) is the network of physical objects such as devices, vehicles, and buildings that are embedded with electronics, software, sensors, and network connectivity that enables them to collect and exchange data.[160] Concerns have been raised that this is being developed without appropriate consideration of the security challenges involved.[161][162]
+
+While the IoT creates opportunities for more direct integration of the physical world into computer-based systems,[163][164]
+it also provides opportunities for misuse. In particular, as the Internet of Things spreads widely, cyberattacks are likely to become an increasingly physical (rather than simply virtual) threat.[165] If a front door's lock is connected to the Internet, and can be locked/unlocked from a phone, then a criminal could enter the home at the press of a button from a stolen or hacked phone. People could stand to lose much more than their credit card numbers in a world controlled by IoT-enabled devices. Thieves have also used electronic means to circumvent non-Internet-connected hotel door locks.[166]
+
+An attack aimed at physical infrastructure or human lives is often called a cyber-kinetic attack. As IoT devices and appliances become more widespread, the prevalence and potential damage of cyber-kinetic attacks can increase substantially.
+
+Medical devices have either been successfully attacked or had potentially deadly vulnerabilities demonstrated, including both in-hospital diagnostic equipment[167] and implanted devices including pacemakers[168] and insulin pumps.[169] There are many reports of hospitals and hospital organizations getting hacked, including ransomware attacks,[170][171][172][173] Windows XP exploits,[174][175] viruses,[176][177] and data breaches of sensitive data stored on hospital servers.[178][171][179][180] On 28 December 2016 the US Food and Drug Administration released its recommendations for how medical device manufacturers should maintain the security of Internet-connected devices – but no structure for enforcement.[181][182]
+
+In distributed generation systems, the risk of a cyber attack is real, according to Daily Energy Insider. An attack could cause a loss of power in a large area for a long period of time, and such an attack could have just as severe consequences as a natural disaster. The District of Columbia is considering creating a Distributed Energy Resources (DER) Authority within the city, with the goal being for customers to have more insight into their own energy use and giving the local electric utility, Pepco, the chance to better estimate energy demand. The D.C. proposal, however, would ""allow third-party vendors to create numerous points of energy distribution, which could potentially create more opportunities for cyber attackers to threaten the electric grid.""[183]
+
+Perhaps the most widely known digitally secure telecommunication device is the SIM (Subscriber Identity Module) card, a device that is embedded in most of the world's cellular devices before any service can be obtained. The SIM card is just the beginning of this digitally secure environment.
+
+The Smart Card Web Servers draft standard (SCWS) defines the interfaces to an HTTP server in a smart card.[184] Tests are being conducted to secure OTA (""over-the-air"") payment and credit card information from and to a mobile phone. 
+Combination SIM/DVD devices are being developed through Smart Video Card technology which embeds a DVD-compliant optical disc into the card body of a regular SIM card.
+
+Other telecommunication developments involving digital security include mobile signatures, which use the embedded SIM card to generate a legally binding electronic signature.
+
+Serious financial damage has been caused by security breaches, but because there is no standard model for estimating the cost of an incident, the only data available is that which is made public by the organizations involved. ""Several computer security consulting firms produce estimates of total worldwide losses attributable to virus and worm attacks and to hostile digital acts in general. The 2003 loss estimates by these firms range from $13 billion (worms and viruses only) to $226 billion (for all forms of covert attacks). The reliability of these estimates is often challenged; the underlying methodology is basically anecdotal.""[185]
+
+However, reasonable estimates of the financial cost of security breaches can actually help organizations make rational investment decisions. According to the classic Gordon-Loeb Model analyzing the optimal investment level in information security, one can conclude that the amount a firm spends to protect information should generally be only a small fraction of the expected loss (i.e., the expected value of the loss resulting from a cyber/information security breach).[186]
+
+As with physical security, the motivations for breaches of computer security vary between attackers. Some are thrill-seekers or vandals, some are activists, others are criminals looking for financial gain. State-sponsored attackers are now common and well resourced but started with amateurs such as Markus Hess who hacked for the KGB, as recounted by Clifford Stoll in The Cuckoo's Egg.
+
+Attackers motivations can vary for all types of attacks from pleasure to political goals.[15] For example, hacktivists may target a company or organization that carries out activities they do not agree with. This would be to create bad publicity for the company by having its website crash.
+
+High capability hackers, often with larger backing or state sponsorship, may attack based on the demands of their financial backers. These attacks are more likely to attempt more serious attack. An example of a more serious attack was the 2015 Ukraine power grid hack, which reportedly utilised the spear-phising, destruction of files, and denial-of-service attacks to carry out the full attack.[187][188]
+
+Additionally, recent attacker motivations can be traced back to extremist organizations seeking to gain political advantage or disrupt social agendas.[189] The growth of the internet, mobile technologies, and inexpensive computing devices have led to a rise in capabilities but also to the risk to environments that are deemed as vital to operations. All critical targeted environments are susceptible to compromise and this has led to a series of proactive studies on how to migrate the risk by taking into consideration motivations by these types of actors. Several stark differences exist between the hacker motivation and that of nation state actors seeking to attack based on an ideological preference.[190]
+
+A key aspect of threat modeling for any system is identifying the motivations behind potential attacks and the individuals or groups likely to carry them out. The level and detail of security measures will differ based on the specific system being protected. For instance, a home personal computer, a bank, and a classified military network each face distinct threats, despite using similar underlying technologies.[191]
+
+Computer security incident management is an organized approach to addressing and managing the aftermath of a computer security incident or compromise with the goal of preventing a breach or thwarting a cyberattack. An incident that is not identified and managed at the time of intrusion typically escalates to a more damaging event such as a data breach or system failure. The intended outcome of a computer security incident response plan is to contain the incident, limit damage and assist recovery to business as usual. Responding to compromises quickly can mitigate exploited vulnerabilities, restore services and processes and minimize losses.[192]
+Incident response planning allows an organization to establish a series of best practices to stop an intrusion before it causes damage. Typical incident response plans contain a set of written instructions that outline the organization's response to a cyberattack. Without a documented plan in place, an organization may not successfully detect an intrusion or compromise and stakeholders may not understand their roles, processes and procedures during an escalation, slowing the organization's response and resolution.
+
+There are four key components of a computer security incident response plan:
+
+Some illustrative examples of different types of computer security breaches are given below.
+
+In 1988, 60,000 computers were connected to the Internet, and most were mainframes, minicomputers and professional workstations. On 2 November 1988, many started to slow down, because they were running a malicious code that demanded processor time and that spread itself to other computers – the first internet computer worm.[194] The software was traced back to 23-year-old Cornell University graduate student Robert Tappan Morris who said ""he wanted to count how many machines were connected to the Internet"".[194]
+
+In 1994, over a hundred intrusions were made by unidentified crackers into the Rome Laboratory, the US Air Force's main command and research facility. Using trojan horses, hackers were able to obtain unrestricted access to Rome's networking systems and remove traces of their activities. The intruders were able to obtain classified files, such as air tasking order systems data and furthermore able to penetrate connected networks of National Aeronautics and Space Administration's Goddard Space Flight Center, Wright-Patterson Air Force Base, some Defense contractors, and other private sector organizations, by posing as a trusted Rome center user.[195]
+
+In early 2007, American apparel and home goods company TJX announced that it was the victim of an unauthorized computer systems intrusion[196] and that the hackers had accessed a system that stored data on credit card, debit card, check, and merchandise return transactions.[197]
+
+In 2010, the computer worm known as Stuxnet reportedly ruined almost one-fifth of Iran's nuclear centrifuges.[198] It did so by disrupting industrial programmable logic controllers (PLCs) in a targeted attack. This is generally believed to have been launched by Israel and the United States to disrupt Iran's nuclear program[199][200][201][202] – although neither has publicly admitted this.
+
+In early 2013, documents provided by Edward Snowden were published by The Washington Post and The Guardian[203][204] exposing the massive scale of NSA global surveillance. There were also indications that the NSA may have inserted a backdoor in a NIST standard for encryption.[205] This standard was later withdrawn due to widespread criticism.[206] The NSA additionally were revealed to have tapped the links between Google's data centers.[207]
+
+A Ukrainian hacker known as Rescator broke into Target Corporation computers in 2013, stealing roughly 40 million credit cards,[208] and then Home Depot computers in 2014, stealing between 53 and 56 million credit card numbers.[209] Warnings were delivered at both corporations, but ignored; physical security breaches using self checkout machines are believed to have played a large role. ""The malware utilized is absolutely unsophisticated and uninteresting,"" says Jim Walter, director of threat intelligence operations at security technology company McAfee – meaning that the heists could have easily been stopped by existing antivirus software had administrators responded to the warnings. The size of the thefts has resulted in major attention from state and Federal United States authorities and the investigation is ongoing.
+
+In April 2015, the Office of Personnel Management discovered it had been hacked more than a year earlier in a data breach, resulting in the theft of approximately 21.5 million personnel records handled by the office.[210] The Office of Personnel Management hack has been described by federal officials as among the largest breaches of government data in the history of the United States.[211] Data targeted in the breach included personally identifiable information such as Social Security numbers, names, dates and places of birth, addresses, and fingerprints of current and former government employees as well as anyone who had undergone a government background check.[212][213] It is believed the hack was perpetrated by Chinese hackers.[214]
+
+In July 2015, a hacker group is known as The Impact Team successfully breached the extramarital relationship website Ashley Madison, created by Avid Life Media. The group claimed that they had taken not only company data but user data as well. After the breach, The Impact Team dumped emails from the company's CEO, to prove their point, and threatened to dump customer data unless the website was taken down permanently.[215] When Avid Life Media did not take the site offline the group released two more compressed files, one 9.7GB and the second 20GB. After the second data dump, Avid Life Media CEO Noel Biderman resigned; but the website remained to function.
+
+In June 2021, the cyber attack took down the largest fuel pipeline in the U.S. and led to shortages across the East Coast.[216]
+
+International legal issues of cyber attacks are complicated in nature. There is no global base of common rules to judge, and eventually punish, cybercrimes and cybercriminals - and where security firms or agencies do locate the cybercriminal behind the creation of a particular piece of malware or form of cyber attack, often the local authorities cannot take action due to lack of laws under which to prosecute.[217][218] Proving attribution for cybercrimes and cyberattacks is also a major problem for all law enforcement agencies. ""Computer viruses switch from one country to another, from one jurisdiction to another – moving around the world, using the fact that we don't have the capability to globally police operations like this. So the Internet is as if someone [had] given free plane tickets to all the online criminals of the world.""[217] The use of techniques such as dynamic DNS, fast flux and bullet proof servers add to the difficulty of investigation and enforcement.
+
+The role of the government is to make regulations to force companies and organizations to protect their systems, infrastructure and information from any cyberattacks, but also to protect its own national infrastructure such as the national power-grid.[219]
+
+The government's regulatory role in cyberspace is complicated. For some, cyberspace was seen as a virtual space that was to remain free of government intervention, as can be seen in many of today's libertarian blockchain and bitcoin discussions.[220]
+
+Many government officials and experts think that the government should do more and that there is a crucial need for improved regulation, mainly due to the failure of the private sector to solve efficiently the cybersecurity problem. R. Clarke said during a panel discussion at the RSA Security Conference in San Francisco, he believes that the ""industry only responds when you threaten regulation. If the industry doesn't respond (to the threat), you have to follow through.""[221] On the other hand, executives from the private sector agree that improvements are necessary, but think that government intervention would affect their ability to innovate efficiently. Daniel R. McCarthy analyzed this public-private partnership in cybersecurity and reflected on the role of cybersecurity in the broader constitution of political order.[222]
+
+On 22 May 2020, the UN Security Council held its second ever informal meeting on cybersecurity to focus on cyber challenges to international peace. According to UN Secretary-General António Guterres, new technologies are too often used to violate rights.[223]
+
+Many different teams and organizations exist, including:
+
+On 14 April 2016, the European Parliament and the Council of the European Union adopted the General Data Protection Regulation (GDPR). The GDPR, which came into force on 25 May 2018, grants individuals within the European Union (EU) and the European Economic Area (EEA) the right to the protection of personal data. The regulation requires that any entity that processes personal data incorporate data protection by design and by default. It also requires that certain organizations appoint a Data Protection Officer (DPO).
+
+Most countries have their own computer emergency response team to protect network security.
+
+Since 2010, Canada has had a cybersecurity strategy.[229][230] This functions as a counterpart document to the National Strategy and Action Plan for Critical Infrastructure.[231] The strategy has three main pillars: securing government systems, securing vital private cyber systems, and helping Canadians to be secure online.[230][231] There is also a Cyber Incident Management Framework to provide a coordinated response in the event of a cyber incident.[232][233]
+
+The Canadian Cyber Incident Response Centre (CCIRC) is responsible for mitigating and responding to threats to Canada's critical infrastructure and cyber systems. It provides support to mitigate cyber threats, technical support to respond & recover from targeted cyber attacks, and provides online tools for members of Canada's critical infrastructure sectors.[234] It posts regular cybersecurity bulletins[235] & operates an online reporting tool where individuals and organizations can report a cyber incident.[236]
+
+To inform the general public on how to protect themselves online, Public Safety Canada has partnered with STOP.THINK.CONNECT, a coalition of non-profit, private sector, and government organizations,[237] and launched the Cyber Security Cooperation Program.[238][239] They also run the GetCyberSafe portal for Canadian citizens, and Cyber Security Awareness Month during October.[240]
+
+Public Safety Canada aims to begin an evaluation of Canada's cybersecurity strategy in early 2015.[231]
+
+Australian federal government announced an $18.2 million investment to fortify the cybersecurity resilience of small and medium enterprises (SMEs) and enhance their capabilities in responding to cyber threats. This financial backing is an integral component of the soon-to-be-unveiled 2023-2030 Australian Cyber Security Strategy, slated for release within the current week. A substantial allocation of $7.2 million is earmarked for the establishment of a voluntary cyber health check program, facilitating businesses in conducting a comprehensive and tailored self-assessment of their cybersecurity upskill.
+
+This avant-garde health assessment serves as a diagnostic tool, enabling enterprises to ascertain the robustness of Australia's cyber security regulations. Furthermore, it affords them access to a repository of educational resources and materials, fostering the acquisition of skills necessary for an elevated cybersecurity posture. This groundbreaking initiative was jointly disclosed by Minister for Cyber Security Clare O'Neil and Minister for Small Business Julie Collins.[241]
+
+Some provisions for cybersecurity have been incorporated into rules framed under the Information Technology Act 2000.[242]
+
+The National Cyber Security Policy 2013 is a policy framework by the Ministry of Electronics and Information Technology (MeitY) which aims to protect the public and private infrastructure from cyberattacks, and safeguard ""information, such as personal information (of web users), financial and banking information and sovereign data"". CERT- In is the nodal agency which monitors the cyber threats in the country. The post of National Cyber Security Coordinator has also been created in the Prime Minister's Office (PMO).
+
+The Indian Companies Act 2013 has also introduced cyber law and cybersecurity obligations on the part of Indian directors. Some provisions for cybersecurity have been incorporated into rules framed under the Information Technology Act 2000 Update in 2013.[243]
+
+Following cyberattacks in the first half of 2013, when the government, news media, television stations, and bank websites were compromised, the national government committed to the training of 5,000 new cybersecurity experts by 2017. The South Korean government blamed its northern counterpart for these attacks, as well as incidents that occurred in 2009, 2011,[244] and 2012, but Pyongyang denies the accusations.[245]
+
+The United States has its first fully formed cyber plan in 15 years, as a result of the release of this National Cyber plan.[246] In this policy, the US says it will: Protect the country by keeping networks, systems, functions, and data safe; Promote American wealth by building a strong digital economy and encouraging strong domestic innovation; Peace and safety should be kept by making it easier for the US to stop people from using computer tools for bad things, working with friends and partners to do this; and increase the United States' impact around the world to support the main ideas behind an open, safe, reliable, and compatible Internet.[247]
+
+The new U.S. cyber strategy[248] seeks to allay some of those concerns by promoting responsible behavior in cyberspace, urging nations to adhere to a set of norms, both through international law and voluntary standards. It also calls for specific measures to harden U.S. government networks from attacks, like the June 2015 intrusion into the U.S. Office of Personnel Management (OPM), which compromised the records of about 4.2 million current and former government employees. And the strategy calls for the U.S. to continue to name and shame bad cyber actors, calling them out publicly for attacks when possible, along with the use of economic sanctions and diplomatic pressure.[249]
+
+The 1986 18 U.S.C. § 1030, the Computer Fraud and Abuse Act is the key legislation. It prohibits unauthorized access or damage of protected computers as defined in 18 U.S.C. § 1030(e)(2). Although various other measures have been proposed[250][251] – none have succeeded.
+
+In 2013, executive order 13636 Improving Critical Infrastructure Cybersecurity was signed, which prompted the creation of the NIST Cybersecurity Framework.
+
+In response to the Colonial Pipeline ransomware attack[252] President Joe Biden signed Executive Order 14028[253] on May 12, 2021, to increase software security standards for sales to the government, tighten detection and security on existing systems, improve information sharing and training, establish a Cyber Safety Review Board, and improve incident response.
+
+The General Services Administration (GSA) has[when?] standardized the penetration test service as a pre-vetted support service, to rapidly address potential vulnerabilities, and stop adversaries before they impact US federal, state and local governments. These services are commonly referred to as Highly Adaptive Cybersecurity Services (HACS).
+
+The Department of Homeland Security has a dedicated division responsible for the response system, risk management program and requirements for cybersecurity in the United States called the National Cyber Security Division.[254][255] The division is home to US-CERT operations and the National Cyber Alert System.[255] The National Cybersecurity and Communications Integration Center brings together government organizations responsible for protecting computer networks and networked infrastructure.[256]
+
+The third priority of the FBI is to: ""Protect the United States against cyber-based attacks and high-technology crimes"",[257] and they, along with the National White Collar Crime Center (NW3C), and the Bureau of Justice Assistance (BJA) are part of the multi-agency task force, The Internet Crime Complaint Center, also known as IC3.[258]
+
+In addition to its own specific duties, the FBI participates alongside non-profit organizations such as InfraGard.[259][260]
+
+The Computer Crime and Intellectual Property Section (CCIPS) operates in the United States Department of Justice Criminal Division. The CCIPS is in charge of investigating computer crime and intellectual property crime and is specialized in the search and seizure of digital evidence in computers and networks.[261] In 2017, CCIPS published A Framework for a Vulnerability Disclosure Program for Online Systems to help organizations ""clearly describe authorized vulnerability disclosure and discovery conduct, thereby substantially reducing the likelihood that such described activities will result in a civil or criminal violation of law under the Computer Fraud and Abuse Act (18 U.S.C. § 1030).""[262]
+
+The United States Cyber Command, also known as USCYBERCOM, ""has the mission to direct, synchronize, and coordinate cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.""[263] It has no role in the protection of civilian networks.[264][265]
+
+The U.S. Federal Communications Commission's role in cybersecurity is to strengthen the protection of critical communications infrastructure, to assist in maintaining the reliability of networks during disasters, to aid in swift recovery after, and to ensure that first responders have access to effective communications services.[266]
+
+The Food and Drug Administration has issued guidance for medical devices,[267] and the National Highway Traffic Safety Administration[268] is concerned with automotive cybersecurity. After being criticized by the Government Accountability Office,[269] and following successful attacks on airports and claimed attacks on airplanes, the Federal Aviation Administration has devoted funding to securing systems on board the planes of private manufacturers, and the Aircraft Communications Addressing and Reporting System.[270] Concerns have also been raised about the future Next Generation Air Transportation System.[271]
+
+The US Department of Defense (DoD) issued DoD Directive 8570 in 2004, supplemented by DoD Directive 8140, requiring all DoD employees and all DoD contract personnel involved in information assurance roles and activities to earn and maintain various industry Information Technology (IT) certifications in an effort to ensure that all DoD personnel involved in network infrastructure defense have minimum levels of IT industry recognized knowledge, skills and abilities (KSA). Andersson and Reimers (2019) report these certifications range from CompTIA's A+ and Security+ through the ICS2.org's CISSP, etc.[272]
+
+Computer emergency response team is a name given to expert groups that handle computer security incidents. In the US, two distinct organizations exist, although they do work closely together.
+
+In the context of U.S. nuclear power plants, the U.S. Nuclear Regulatory Commission (NRC) outlines cybersecurity requirements under 10 CFR Part 73, specifically in §73.54.[274]
+
+The Nuclear Energy Institute's NEI 08-09 document, Cyber Security Plan for Nuclear Power Reactors,[275]  outlines a comprehensive framework for cybersecurity in the nuclear power industry. Drafted with input from the U.S. NRC, this guideline is instrumental in aiding licensees to comply with the Code of Federal Regulations (CFR), which mandates robust protection of digital computers and equipment and communications systems at nuclear power plants against cyber threats.[276]
+
+There is growing concern that cyberspace will become the next theater of warfare. As Mark Clayton from The Christian Science Monitor wrote in a 2015 article titled ""The New Cyber Arms Race"":
+
+In the future, wars will not just be fought by soldiers with guns or with planes that drop bombs. They will also be fought with the click of a mouse a half a world away that unleashes carefully weaponized computer programs that disrupt or destroy critical industries like utilities, transportation, communications, and energy. Such attacks could also disable military networks that control the movement of troops, the path of jet fighters, the command and control of warships.[277]
+This has led to new terms such as cyberwarfare and cyberterrorism. The United States Cyber Command was created in 2009[278] and many other countries have similar forces.
+
+There are a few critical voices that question whether cybersecurity is as significant a threat as it is made out to be.[279][280][281]
+
+Cybersecurity is a fast-growing field of IT concerned with reducing organizations' risk of hack or data breaches.[282] According to research from the Enterprise Strategy Group, 46% of organizations say that they have a ""problematic shortage"" of cybersecurity skills in 2016, up from 28% in 2015.[283] Commercial, government and non-governmental organizations all employ cybersecurity professionals. The fastest increases in demand for cybersecurity workers are in industries managing increasing volumes of consumer data such as finance, health care, and retail.[284] However, the use of the term cybersecurity is more prevalent in government job descriptions.[285]
+
+Typical cybersecurity job titles and descriptions include:[286]
+
+Student programs are also available for people interested in beginning a career in cybersecurity.[290][291] Meanwhile, a flexible and effective option for information security professionals of all experience levels to keep studying is online security training, including webcasts.[292][293] A wide range of certified courses are also available.[294]
+
+In the United Kingdom, a nationwide set of cybersecurity forums, known as the U.K Cyber Security Forum, were established supported by the Government's cybersecurity strategy[295] in order to encourage start-ups and innovation and to address the skills gap[296] identified by the U.K Government.
+
+In Singapore, the Cyber Security Agency has issued a Singapore Operational Technology (OT) Cybersecurity Competency Framework (OTCCF). The framework defines emerging cybersecurity roles in Operational Technology. The OTCCF was endorsed by the Infocomm Media Development Authority (IMDA). It outlines the different OT cybersecurity job positions as well as the technical skills and core competencies necessary. It also depicts the many career paths available, including vertical and lateral advancement opportunities.[297]
+
+The following terms used with regards to computer security are explained below:
+
+Since the Internet's arrival and with the digital transformation initiated in recent years, the notion of cybersecurity has become a familiar subject in both our professional and personal lives. Cybersecurity and cyber threats have been consistently present for the last 60 years of technological change. In the 1970s and 1980s, computer security was mainly limited to academia until the conception of the Internet, where, with increased connectivity, computer viruses and network intrusions began to take off. After the spread of viruses in the 1990s, the 2000s marked the institutionalization of organized attacks such as distributed denial of service.[301] This led to the formalization of cybersecurity as a professional discipline.[302]
+
+The April 1967 session organized by Willis Ware at the Spring Joint Computer Conference, and the later publication of the Ware Report, were foundational moments in the history of the field of computer security.[303] Ware's work straddled the intersection of material, cultural, political, and social concerns.[303]
+
+A 1977 NIST publication[304] introduced the CIA triad of confidentiality, integrity, and availability as a clear and simple way to describe key security goals.[305] While still relevant, many more elaborate frameworks have since been proposed.[306][307]
+
+However, in the 1970s and 1980s, there were no grave computer threats because computers and the internet were still developing, and security threats were easily identifiable. More often, threats came from malicious insiders who gained unauthorized access to sensitive documents and files. Although malware and network breaches existed during the early years, they did not use them for financial gain. By the second half of the 1970s, established computer firms like IBM started offering commercial access control systems and computer security software products.[308]
+
+One of the earliest examples of an attack on a computer network was the computer worm Creeper written by Bob Thomas at BBN, which propagated through the ARPANET in 1971.[309] The program was purely experimental in nature and carried no malicious payload. A later program, Reaper, was created by Ray Tomlinson in 1972 and used to destroy Creeper.[citation needed]
+
+Between September 1986 and June 1987, a group of German hackers performed the first documented case of cyber espionage.[310] The group hacked into American defense contractors, universities, and military base networks and sold gathered information to the Soviet KGB. The group was led by Markus Hess, who was arrested on 29 June 1987. He was convicted of espionage (along with two co-conspirators) on 15 Feb 1990.
+
+In 1988, one of the first computer worms, called the Morris worm, was distributed via the Internet. It gained significant mainstream media attention.[311]
+
+Netscape started developing the protocol SSL, shortly after the National Center for Supercomputing Applications (NCSA) launched Mosaic 1.0, the first web browser, in 1993.[312][313] Netscape had SSL version 1.0 ready in 1994, but it was never released to the public due to many serious security vulnerabilities.[312] However, in 1995, Netscape launched Version 2.0.[314]
+
+The National Security Agency (NSA) is responsible for the protection of U.S. information systems and also for collecting foreign intelligence.[315] The agency analyzes commonly used software and system configurations to find security flaws, which it can use for offensive purposes against competitors of the United States.[316]
+
+NSA contractors created and sold click-and-shoot attack tools to US agencies and close allies, but eventually, the tools made their way to foreign adversaries.[317] In 2016, NSAs own hacking tools were hacked, and they have been used by Russia and North Korea.[citation needed] NSA's employees and contractors have been recruited at high salaries by adversaries, anxious to compete in cyberwarfare.[citation needed] In 2007, the United States and Israel began exploiting security flaws in the Microsoft Windows operating system to attack and damage equipment used in Iran to refine nuclear materials. Iran responded by heavily investing in their own cyberwarfare capability, which it began using against the United States.[316]
+","[""Cybersecurity"", ""Computer security threats"", ""Vulnerabilities and exploits"", ""Malware and attacks"", ""Security measures and countermeasures""]","[{'role': 'Cybersecurity Expert', 'description': 'A professional with extensive knowledge in protecting computer systems and networks from cyber threats.', 'expertise_area': 'Cybersecurity', 'perspective': 'Technical Insight', 'speaking_style': {'tone': 'formal and serious, with occasional hints of urgency', 'language_complexity': 'technical language with industry jargon, prefers precise terminology', 'communication_style': 'direct and assertive, often uses rhetorical questions to emphasize points', 'sentence_structure': 'long and complex sentences with subordinate clauses, frequent use of exclamations for emphasis', 'formality': 'formal', 'other_traits': 'uses pauses effectively to allow information to sink in, occasionally interrupts to correct misinformation'}, 'personalized_vocabulary': {'filler_words': ['um', 'you know', 'like'], 'catchphrases': [""cybersecurity is everyone's responsibility"", 'stay vigilant', 'the weakest link in the chain'], 'speech_patterns': [""frequently starts sentences with 'In cybersecurity...' or 'From a security perspective...'"", ""poses questions like 'What if your data was compromised?'""], 'emotional_expressions': ['sighs when discussing common security breaches', ""exclaims 'Exactly!' when agreeing strongly""]}, 'social_roles': ['Initiator-Contributor', 'Information Giver'], 'social_roles_descr': ['Contributes new ideas and approaches and helps to start the conversation or steer it in a productive direction.', 'Shares relevant information, data or research that the group needs to make informed decisions.']}, {'role': 'IT Manager', 'description': 'An experienced manager responsible for overseeing the IT infrastructure and ensuring its security within an organization.', 'expertise_area': 'Information Technology Management', 'perspective': 'Operational Efficiency', 'speaking_style': {'tone': 'professional and composed, with occasional enthusiasm', 'language_complexity': ""moderate complexity with a mix of technical terms and layman's language"", 'communication_style': 'collaborative and inquisitive, often seeks input from others', 'sentence_structure': 'varied sentence lengths, generally clear and structured, uses questions to engage audience', 'formality': 'semi-formal', 'other_traits': 'uses analogies to explain complex concepts, occasionally uses humor to lighten the mood'}, 'personalized_vocabulary': {'filler_words': ['well', 'you know', 'I mean'], 'catchphrases': [""let's circle back to that"", 'at the end of the day', 'we need to ensure'], 'speech_patterns': [""often starts with 'From an IT perspective...' or 'In our infrastructure...'"", ""poses questions like 'How can we improve this?'""], 'emotional_expressions': ['laughs lightly when making a joke', ""exclaims 'Fantastic!' when pleased""]}, 'social_roles': ['Coordinator', 'Evaluator-Critic'], 'social_roles_descr': ['Connects the different ideas and suggestions of the group to ensure that all relevant aspects are integrated.', 'Analyzes and critically evaluates proposals or solutions to ensure their quality and feasibility.']}, {'role': 'Legal Advisor', 'description': 'A legal professional specializing in cybersecurity laws and regulations, ensuring compliance and addressing legal implications of cyber incidents.', 'expertise_area': 'Cybersecurity Law', 'perspective': 'Regulatory Compliance', 'speaking_style': {'tone': 'formal and authoritative, with a calm demeanor', 'language_complexity': 'complex legal language with precise terminology, occasional use of Latin phrases', 'communication_style': 'analytical and methodical, often provides detailed explanations and context', 'sentence_structure': 'long and well-structured sentences, frequent use of clauses to provide clarity', 'formality': 'formal', 'other_traits': 'uses rhetorical devices such as repetition for emphasis, rarely interrupts but uses pauses to allow for questions'}, 'personalized_vocabulary': {'filler_words': ['um', ""let's see"", 'you know'], 'catchphrases': ['in accordance with the law', 'from a legal standpoint', 'compliance is key'], 'speech_patterns': [""frequently starts with 'Legally speaking...' or 'From a regulatory perspective...'"", ""poses questions like 'What are the legal implications?'""], 'emotional_expressions': ['nods in agreement when others speak correctly about laws', ""exclaims 'Precisely!' when making a strong point""]}, 'social_roles': ['Standard Setter', 'Gatekeeper'], 'social_roles_descr': ['Emphasizes the importance of adhering to certain norms and standards within the group to ensure quality and efficiency.', 'Ensures that all group members have the opportunity to express their opinions and encourages participation.']}, {'role': 'Ethical Hacker', 'description': 'A cybersecurity professional who uses hacking skills to identify and fix security vulnerabilities in systems.', 'expertise_area': 'Penetration Testing', 'perspective': 'Proactive Defense', 'speaking_style': {'tone': 'casual and enthusiastic, with a hint of mischief', 'language_complexity': 'moderate complexity with a mix of technical jargon and relatable analogies', 'communication_style': 'direct and assertive, often uses humor to make points', 'sentence_structure': 'short and punchy sentences, frequent use of questions for engagement', 'formality': 'informal', 'other_traits': 'uses storytelling to illustrate points, occasionally interrupts to add insights'}, 'personalized_vocabulary': {'filler_words': ['um', 'you know', 'like'], 'catchphrases': ['think like a hacker; act like a defender', 'security through obscurity is not security at all', 'patch it or lose it'], 'speech_patterns': [""often starts with 'In the world of hacking...' or 'From an ethical hacker's perspective...'"", ""poses questions like 'What if this vulnerability was exploited?'""], 'emotional_expressions': [""laughs when discussing common vulnerabilities; exclaims 'Gotcha!' when identifying flaws""]}, 'social_roles': ['Opinion Giver', 'Aggressor'], 'social_roles_descr': ['Shares his or her views and beliefs on topics under discussion.', 'Exhibits hostile behavior, criticizes others, or attempts to undermine the contributions of others.']}]","The meeting focused on the critical importance of cybersecurity in protecting computer systems, networks, and data from unauthorized access and attacks. The discussion highlighted the growing reliance on digital systems and the Internet, emphasizing the increased risks posed by smart devices and IoT. Key points included the necessity of both digital and physical security measures, such as encryption and metal locks. Vulnerabilities were identified as flaws that can be exploited by threats, with many documented in the CVE database. Various types of cyberattacks were examined, including backdoors, DoS attacks, direct-access attacks, eavesdropping, malware, phishing, privilege escalation, side-channel attacks, social engineering, spoofing, tampering, HTML smuggling, and multi-vector polymorphic attacks. The significance of understanding attacker motivations was underscored to better defend against these threats. The meeting also reviewed recent statistics from a UK report showing high rates of cyber breaches among businesses and charities. Emphasis was placed on improving security culture within organizations through continuous evaluation and training. Countermeasures discussed included secure design principles like security by design and architecture practices aimed at achieving security goals. The importance of vulnerability management through regular scanning and penetration testing was noted. Finally, it was agreed that while no system can be completely secure, implementing robust preventive measures can significantly mitigate risks.","[""Scene 1: Opening and Greetings\nTLDR: Brief greeting among participants, setting the tone for the meeting.\n- Welcome everyone\n- Quick acknowledgment of familiarity\n- Outline meeting objectives and expected outcomes"", ""Scene 2: Importance of Cybersecurity\nTLDR: Discuss the critical importance of cybersecurity in today's digital age.\n- Emphasize reliance on digital systems and Internet\n- Highlight increased risks from smart devices and IoT\n- Mention necessity of both digital and physical security measures"", ""Scene 3: Types of Cyberattacks\nTLDR: Explore various types of cyberattacks and their implications.\n- Discuss backdoors, DoS attacks, direct-access attacks, eavesdropping, malware, phishing, privilege escalation, side-channel attacks, social engineering, spoofing, tampering, HTML smuggling, multi-vector polymorphic attacks\n- Share personal experiences with different attack types"", ""Scene 4: Understanding Attacker Motivations\nTLDR: Delve into why attackers target systems to better defend against threats.\n- Analyze motivations behind cyberattacks\n- Discuss recent statistics from UK report on cyber breaches among businesses and charities"", ""Scene 5: Improving Security Culture within Organizations\nTLDR: Focus on enhancing security culture through continuous evaluation and training.\n- Importance of regular training sessions for employees\n- Share best practices for fostering a culture of vigilance"", ""Scene 6: Countermeasures and Secure Design Principles\nTLDR: Review effective countermeasures and secure design principles to mitigate risks.\n- Discuss security by design principles\n- Talk about architecture practices aimed at achieving security goals"", ""Scene 7: Vulnerability Management Strategies\nTLDR: Examine strategies for managing vulnerabilities through regular scanning and penetration testing.\n- Importance of vulnerability management programs\n- Share insights on effective scanning techniques and penetration testing methods"", ""Scene 8: Open Discussion & Spontaneous Contributions\nTLDR: Allow participants to bring up unplanned topics or share additional thoughts.\n- Encourage spontaneous contributions from all participants\n- Facilitate natural flow of conversation around emerging topics"", ""Scene 9: Personal Experiences & Anecdotes\nTLDR: Participants share relevant personal experiences related to cybersecurity challenges or successes.\n- Invite stories that illustrate key points discussed earlier in the meeting"", ""Scene 10: Addressing Disagreements & Resolutions\nTLDR: Provide space for natural disagreements to surface and be resolved constructively.\n- Acknowledge differing viewpoints respectfully \n - Work towards consensus or understanding where possible"", ""Scene 11: Recap & Next Steps \n TLDR : Summarize key takeaways from the discussion; outline next steps. \\ n - Recap main points covered during the forum \\ n - Identify actionable items moving forward \\ n - Thank everyone for their participation""]",">>IT Manager: Morning, everyone! Great to see familiar faces here. Let's start by outlining our objectives for today.
+
+>>Cybersecurity Expert: From a security standpoint, we need to spot potential vulnerabilities in our systems and talk about how to handle them effectively.
+
+>>Legal Advisor: Absolutely, and we need to make sure all these strategies comply with legal standards.
+
+>>Ethical Hacker: Morning! Let's ensure our defenses are solid and leave no stone unturned in identifying vulnerabilities.
+
+>>IT Manager: Right, so we've got our main goals set. Let's dive into the specifics and make sure we're all on the same page. 
+ >>Cybersecurity Expert: You know, our reliance on digital systems and the Internet has skyrocketed, which means the risks have too. With all these smart devices and IoT gadgets around, every connected device is a potential entry point for attackers. Imagine if your data got compromised through your smart fridge or thermostat! We need to stay vigilant and implement both digital and physical security measures to protect our assets.
+
+>>Ethical Hacker: Absolutely, and we should also conduct regular vulnerability assessments to identify potential entry points before attackers do. It's not just about digital security; physical measures are crucial too.
+
+>>IT Manager: In addition to that, we could develop a comprehensive training program for employees to ensure they understand their role in cybersecurity. It's not just about securing our networks but also educating our employees on best practices.
+
+>>Legal Advisor: Cybersecurity is crucial from a legal perspective too. We need to comply with laws to avoid any legal issues and protect our data. What are the legal implications if an IoT device in your network gets compromised?
+
+>>Cybersecurity Expert: Exactly! The weakest link often lies within our own organizations. Employee behavior and lack of awareness can undermine even the most robust security measures. What if an employee unknowingly clicks on a phishing email? Comprehensive training programs are essential so everyone understands their role in maintaining cybersecurity.
+
+>>Ethical Hacker: And let's not forget anticipating attackers' next moves. We need to think ahead and stay one step ahead of the bad guys by regularly updating our defenses based on new threats.
+
+>>IT Manager: Right, so how do we ensure that our security measures are up to par? It's not just about technology but also about people understanding their roles in keeping everything secure. For instance, implementing multi-factor authentication across all devices could be a good start.
+
+>>Legal Advisor: Ensuring compliance with cybersecurity laws involves regular audits and updates to policies based on new threats. How do we integrate these practices into daily operations without overwhelming staff?
+
+>>Cybersecurity Expert: Good point. We must ensure that employees are well-trained and aware of potential threats through ongoing education programs.
+
+>>Ethical Hacker: And you know what? It's also about being proactive rather than reactive. Anticipating vulnerabilities before they become issues is key.
+
+>>IT Manager: Absolutely! So how do we balance technical solutions with employee education? Both aspects are critical for robust cybersecurity.
+
+>>Legal Advisor: Let's see... Regular audits can help us stay compliant without overwhelming staff if we integrate them into routine operations smoothly. Maybe monthly check-ins or drills could work? 
+ >>Cybersecurity Expert: It's crucial to understand the various types of cyberattacks we face. For instance, I once dealt with a phishing attack where an employee clicked on a malicious link, leading to a significant data breach. This really highlights why cybersecurity is everyone's responsibility.
+
+>>Ethical Hacker: Yeah, I've seen some wild stuff in hacking. Like this one time, I found a backdoor in a client's system that was so well-hidden, it took days to uncover. Imagine if an attacker had found it first. Patch it or lose it, folks!
+
+>>IT Manager: One of the most challenging attacks I've dealt with was a multi-vector polymorphic attack. It was like playing whack-a-mole; every time we thought we had it contained, it would morph and hit us from another angle. It was really frustrating! How can we improve our defenses against such adaptive threats?
+
+>>Legal Advisor: The implications of a data breach due to phishing can be severe. Organizations must ensure they have robust incident response protocols in place to meet legal requirements and avoid hefty fines. Compliance is key here.
+
+>>Cybersecurity Expert: One of the most alarming incidents I encountered was a side-channel attack on our encryption keys. The attacker exploited electromagnetic emissions to extract sensitive data without leaving any trace. This shows why constant vigilance is crucial.
+
+>>Legal Advisor: Failing to address vulnerabilities like backdoors or eavesdropping can lead to severe legal repercussions. For example, I recently worked on a case where a company faced millions in fines because they didn't document their patch management process properly.
+
+>>Ethical Hacker: Social engineering is one of the most fascinating yet frustrating attacks I've seen. I once saw a CEO fall for a fake email from 'IT support' and hand over his credentials. Even the best tech can't fix human error.
+
+>>Cybersecurity Expert: Speaking of sophisticated attacks, let's not forget about tampering incidents where attackers modify software updates to include malware. What if your system updates were compromised? This is why staying alert at all times is essential.
+
+>>IT Manager: A particularly nasty phishing attack comes to mind where an employee received an email that looked exactly like it came from our CEO, asking for sensitive information. It was so convincing that even our seasoned staff fell for it. How can we better train our employees to recognize these sophisticated phishing attempts?
+
+>>Ethical Hacker: That's a great point about training. We could implement more frequent phishing simulations to keep everyone sharp.
+
+>>IT Manager: Absolutely! And what about privilege escalation attacks? They're also quite challenging when an attacker exploits minor vulnerabilities and gains root access—it requires significant effort to clean up! How can we better prevent these kinds of escalations?
+
+>>Cybersecurity Expert: We should review our current access controls and update them regularly as part of our strategy.
+
+>>IT Manager: And let's not forget about HTML smuggling attacks—they're becoming increasingly common and difficult to detect because they bypass traditional security measures by hiding malicious code within seemingly harmless files.
+
+>>Legal Advisor: From my perspective, it's essential that organizations not only address these technical vulnerabilities but also ensure they're compliant with all relevant regulations through regular audits and documentation. 
+ >>Cybersecurity Expert: Understanding the motivations behind attacks is crucial in cybersecurity. The recent UK report highlights that medium and large businesses are frequently targeted due to their valuable data and resources. This underscores the need for robust defenses and constant vigilance.
+
+>>Ethical Hacker: Absolutely! And what if this vulnerability was exploited by a hacktivist group? They could crash your website just to make a statement! It's not just about state-sponsored actors; even small-time hackers can cause big headaches.
+
+>>IT Manager: Good point. From an IT perspective, we need to ensure our defenses are not just robust but also efficient. If hacktivists are a concern, focusing on website resilience and monitoring for unusual traffic spikes could be key.
+
+>>Legal Advisor: Right, it's important to understand who’s behind an attack for legal reasons. Whether it's state-sponsored or hacktivists, it affects how we respond legally and what documentation we need.
+
+>>Cybersecurity Expert: Attackers are often motivated by financial gain, political agendas, or simply the challenge of breaching a system. These statistics show why tailored defenses are necessary.
+
+>>Ethical Hacker: Exactly! And from my experience as an ethical hacker, it's not just about understanding motivations but also anticipating their next move. For instance, regularly updating software patches can prevent financially motivated breaches.
+
+>>IT Manager: Yes, improving our defenses means being proactive about these threats. If we know what drives them, we can better prepare ourselves. Implementing DDoS protection can help against hacktivist attacks too.
+
+>>Legal Advisor: And documenting the motivations behind cyberattacks meticulously aids in compliance with legal standards and helps tailor our responses more effectively. Compliance is key to mitigating potential legal repercussions and maintaining organizational trust.
+
+>>Cybersecurity Expert: Financially motivated cybercriminals might target your data for ransom or resale on the dark web. Medium and large businesses are prime targets due to their valuable assets. This highlights the necessity for tailored defenses and continuous monitoring!
+
+>>Ethical Hacker: And let's not forget that even small-time hackers can cause big problems if we're not careful. We need to stay one step ahead of them at all times. 
+ >>Cybersecurity Expert: In cybersecurity, continuous evaluation and training are paramount. Regular training sessions can significantly reduce risks by keeping everyone informed about the latest threats and best practices.
+
+>>IT Manager: I agree that continuous training is important, but how do we ensure it's not too time-consuming? We need to integrate regular, engaging sessions that keep everyone up-to-date without overwhelming them.
+
+>>Ethical Hacker: Good point. Creating a culture where everyone is vigilant is key. What if we made these sessions more interactive? Like using phishing simulation software to test employees regularly and reward those who perform well?
+
+>>Legal Advisor: It's also important that our training programs meet legal requirements. Regular checks and keeping good records will help us stay compliant. What are the legal implications if we fail to maintain such documentation?
+
+>>Cybersecurity Expert: Absolutely, leveraging data analytics to tailor training sessions can be very effective. If we could identify which employees are most at risk and focus our efforts there, it would make our approach more targeted.
+
+>>IT Manager: Right! And how do we make sure these tailored sessions remain effective over time? Using data analytics sounds great, but how do we keep it dynamic enough so it adapts as new threats emerge?
+
+>>Ethical Hacker: Exactly! It's all about staying ahead of the game. If we're constantly updating our methods based on real-time data and feedback from employees' performance during these trainings, we'll have a solid defense mechanism.
+
+>>Legal Advisor: Indeed! And don't forget—meticulous documentation serves as evidence of our proactive measures and compliance with legal standards. Failure here could lead us into serious legal ramifications down the line. 
+ >>Cybersecurity Expert: It's crucial to integrate security by design principles from the very beginning of the development process. If your system's architecture inherently prevents common vulnerabilities, it minimizes risks and ensures that security measures are deeply embedded and harder to bypass.
+>>Ethical Hacker: Absolutely! And it's not just about building secure systems but also thinking like a hacker to anticipate potential exploits. We need to patch vulnerabilities quickly to stay ahead of potential threats.
+>>IT Manager: I agree. By embedding these measures early on, we can avoid costly retrofits and ensure smoother operations. How can we improve this process to make it more seamless?
+>>Legal Advisor: Legally speaking, integrating security by design is not just a best practice but a regulatory requirement in many jurisdictions. Ensuring these principles are embedded from the outset helps organizations avoid significant legal repercussions and demonstrates due diligence.
+>>Cybersecurity Expert: Right, and we must ensure our architecture practices are robust enough to withstand sophisticated attacks. For example, if our system's design inherently mitigates risks like privilege escalation—where attackers gain higher access levels—or side-channel attacks that exploit hardware vulnerabilities, we create a resilient infrastructure that's both secure and efficient.
+>>IT Manager: Leveraging automation can significantly streamline integrating these principles. Automating repetitive tasks and using AI-driven tools for continuous monitoring ensures our systems remain secure without compromising operational efficiency.
+>>Ethical Hacker: You know, proactive defense is key here. What if we used automated penetration testing tools to continuously scan for vulnerabilities? This way, we could catch flaws before they become exploits.
+>>Legal Advisor: From a regulatory perspective, incorporating regular audits and continuous monitoring verifies adherence to compliance standards and provides robust defense against potential legal repercussions.
+>>Cybersecurity Expert: Also consider the principle of least privilege. By ensuring users and systems have only the minimum access necessary to perform their functions, we significantly reduce the risk of privilege escalation attacks.
+>>IT Manager: That's a good point. How do you suggest we implement this effectively across all departments?
+>>Ethical Hacker: We need to adopt a hacker's mindset while defending our systems. Continuous penetration testing as part of our architecture practices would be awesome because it helps us stay one step ahead of potential attackers. 
+ >>Cybersecurity Expert: Vulnerability management isn't just about identifying weaknesses but also prioritizing them based on risk. We need to ensure critical vulnerabilities are addressed promptly. Regular scanning and penetration testing are vital, but our remediation efforts must be timely and effective.
+
+>>IT Manager: Absolutely, we need to make our vulnerability management process proactive, not just reactive. Integrating automated tools for continuous monitoring with regular manual penetration tests can help us catch vulnerabilities early and address them before they become critical issues.
+
+>>Ethical Hacker: Automated tools are essential for initial scans, but they can't think like a human. Manual penetration testing is crucial for deeper analysis—like when we found that zero-day exploit last quarter. It’s all about thinking outside the box to stay ahead of attackers.
+
+>>Legal Advisor: From a regulatory perspective, it's imperative to maintain meticulous records of all vulnerability management activities. This includes documenting every scan, test, and remediation effort accurately. Recently, there have been stricter regulations on this front, so we need to be thorough.
+
+>>Cybersecurity Expert: Understanding the potential impact of vulnerabilities is crucial. For instance, in our last assessment, we found a vulnerability that could have allowed an attacker access to sensitive data if it hadn't been patched quickly. Prioritizing based on risk is key.
+
+>>IT Manager: Exactly! And by integrating these methods into our routine processes, we can be more proactive rather than waiting for issues to arise. Continuous monitoring helps us stay ahead of potential threats.
+
+>>Ethical Hacker: You know, continuous penetration testing keeps us one step ahead of attackers who might exploit overlooked vulnerabilities. Automated tools help with the heavy lifting initially, but manual tests uncover what machines miss.
+
+>>Legal Advisor: And don't forget the importance of thorough documentation for compliance purposes—every scan and test needs proper recording to avoid legal pitfalls later on. With recent changes in regulations, any discrepancies could lead to severe penalties and loss of trust. 
+ >>Ethical Hacker: You know, in the world of hacking, it's not just about finding vulnerabilities but anticipating how they might be exploited. What if we focused more on proactive defense? Think like a hacker; act like a defender.
+
+>>IT Manager: Well, from an IT perspective, how can we improve our proactive defense strategies? Integrating automated tools with manual penetration testing is great, but what about leveraging AI for continuous monitoring?
+
+>>Cybersecurity Expert: In cybersecurity, it's crucial to remember that AI can significantly enhance our proactive defense strategies. What if we used machine learning algorithms like anomaly detection models to predict potential threats based on historical data from past breaches? This could help us stay one step ahead of attackers!
+
+>>Legal Advisor: Legally speaking, it's imperative that we ensure our proactive defense strategies are in accordance with the law. Compliance is key, especially when leveraging AI and machine learning for continuous monitoring. What are the legal implications of using these technologies?
+
+>>Cybersecurity Expert: It's essential to consider the human element too. What if we implemented regular phishing simulations to test and improve employee awareness? This could significantly reduce the risk of social engineering attacks!
+
+>>IT Manager: From an IT perspective, we need to ensure our proactive defense strategies are not only robust but also efficient. How can we leverage AI tools such as Splunk or Darktrace to streamline our monitoring processes without overwhelming our resources?
+
+>>Legal Advisor: From a regulatory perspective, it's crucial to ensure that any AI and machine learning tools used for continuous monitoring are compliant with data protection laws. This includes adhering to GDPR standards if operating within the EU.
+
+>>Ethical Hacker: You know what would be interesting? If we could simulate real-world attack scenarios regularly. It'd keep everyone on their toes and ready for anything.
+
+>>Cybersecurity Expert: That's a good point! Regular drills could definitely help in preparing for actual incidents. And it would also highlight any gaps in our current defenses.
+
+>>IT Manager: Absolutely! And it would give us valuable insights into where we need to focus our training efforts.
+
+>>Legal Advisor: Just make sure all these activities are well-documented and compliant with relevant regulations. We don't want any legal issues cropping up later. 
+ >>Ethical Hacker: You know, in the world of hacking, I've seen some wild things. Once, during a penetration test, I found an entire server farm that had been compromised for years. The attackers were using it to mine cryptocurrency! We had to shut everything down and rebuild from scratch. It's scary to think your systems could be used without you even knowing.
+
+>>Cybersecurity Expert: That's a good point. I remember an incident where we discovered a sophisticated phishing campaign targeting our employees. The attackers had crafted emails that mimicked internal communications perfectly! We had to conduct an emergency training session to educate everyone on identifying such threats.
+
+>>IT Manager: Yeah, those phishing attacks can be really sneaky. We once dealt with a ransomware attack that encrypted our entire database. It was all hands on deck to restore from backups and ensure no data was lost.
+
+>>Legal Advisor: And it's not just about fixing the immediate problem. I recall a case where a company faced severe penalties due to non-compliance with data protection regulations after a breach. Compliance is key for maintaining trust with clients and stakeholders.
+
+>>Ethical Hacker: Absolutely! Another time during a penetration test, I found out that an organization's entire network was exposed because of one outdated software version. They didn't even realize how vulnerable they were until we showed them the risks.
+
+>>Cybersecurity Expert: Exactly! Human error is often the weakest link in cybersecurity. A simple phishing email led to a major data breach because an employee clicked on a malicious link.
+
+>>IT Manager: Speaking of human error, our network got compromised once due to misconfigured firewall settings. We had to quickly isolate the affected systems and rebuild our defenses from scratch.
+
+>>Legal Advisor: From my experience, it's crucial to ensure all cybersecurity measures comply with the law. I worked on a case where a company faced significant fines because they failed to report a data breach within the legally mandated timeframe.
+
+>>Ethical Hacker: Oh man! And then there was this other time when we found out someone had set up rogue access points within their office network—totally undetected by their security team!
+
+>>Cybersecurity Expert: Insider threats are another big issue too—I've seen cases where employees were compromised through social engineering tactics leading directly into significant breaches.
+
+>>IT Manager: Right! How do we make sure our teams stay vigilant? Regular training sessions help but what else can be done?
+
+>>Legal Advisor: Continuous monitoring combined with strict access controls should form part of any robust defense strategy while ensuring compliance remains at its core. 
+ >>IT Manager: We need to ensure our systems are not only compliant but also operationally efficient. How can we improve this by integrating continuous monitoring with automated tools while balancing the workload on our team?
+
+>>Ethical Hacker: Continuous monitoring is great, but what if an attacker finds a way around your automated tools? That's why manual penetration testing is essential to catch those sneaky vulnerabilities. It's crucial to patch vulnerabilities promptly.
+
+>>Cybersecurity Expert: Relying solely on automated tools is risky. We need to integrate manual penetration testing alongside automation to catch those elusive threats.
+
+>>Legal Advisor: While continuous monitoring and automated tools are essential, we must also ensure that our manual penetration testing is documented meticulously for regulatory compliance and as evidence of due diligence in the event of a breach.
+
+>>IT Manager: I agree that manual penetration testing is crucial, but we also need to consider the operational efficiency of our team. How can we balance these tasks without overwhelming our resources?
+
+>>Cybersecurity Expert: We should consider integrating threat intelligence feeds into our automated tools. This would enhance our detection capabilities and ensure we're proactively defending against new vulnerabilities.
+
+>>Ethical Hacker: Exactly! And don't forget about training your team to recognize potential threats—both automated and manual approaches have their place.
+
+>>Legal Advisor: It's important to have clear protocols in place for documenting these processes so that we're always prepared for audits or breaches.
+
+>>IT Manager: So, how do we practically implement this without overloading our team?
+
+>>Cybersecurity Expert: We could schedule regular intervals for manual tests and use real-time threat intelligence to prioritize which areas need immediate attention.
+
+>>Ethical Hacker: And make sure your team stays updated on emerging threats and continuously improves their skills.
+
+>>IT Manager: Alright, let's focus on creating a balanced approach that incorporates both continuous monitoring and periodic manual tests while ensuring compliance documentation is thorough. Any final thoughts?
+
+>>Cybersecurity Expert: Just remember, proactive defense is key. Combining automation with human expertise will give us the best chance at staying ahead of threats.
+
+>>Ethical Hacker: Agreed! Ensure your team stays updated on emerging threats and continuously improves their skills.
+
+>>IT Manager: Great discussion everyone. Let's assign roles for integrating threat intelligence feeds, scheduling manual tests, and updating our compliance documentation. 
+ >>Cybersecurity Expert: From a security perspective, integrating threat intelligence and conducting regular tests are crucial for our defenses. We also need to keep our compliance docs up-to-date with regulatory standards.
+
+>>Legal Advisor: Agreed. Keeping those documents thorough will help us avoid legal issues and show we're committed to cybersecurity standards.
+
+>>IT Manager: Absolutely. Let's make sure we integrate threat intelligence into our tools as well. Who's going to handle updating the compliance docs?
+
+>>Ethical Hacker: I'll take care of scheduling the tests. Can someone else update the documentation?
+
+>>Cybersecurity Expert: Thanks for volunteering! I'll update the docs then.
+
+>>IT Manager: Great teamwork everyone! Let's stay proactive with these measures moving forward."
